@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "Can we schedule a meeting?",
+    "fra": "Pouvons-nous planifier une réunion?",
+    "deu": "Können wir ein Treffen vereinbaren?",
+    "spa": "¿Podemos programar una reunión?",
+    "ita": "Possiamo fissare un incontro?",
+    "rus": "Можем ли мы назначить встречу?",
+    "tur": "Bir toplantı planlayabilir miyiz?"
+  },
+  {
+    "eng": "When are you available for a meeting?",
+    "fra": "Quand êtes-vous disponible pour une réunion?",
+    "deu": "Wann sind Sie für ein Treffen verfügbar?",
+    "spa": "¿Cuándo está disponible para una reunión?",
+    "ita": "Quando sei disponibile per un incontro?",
+    "rus": "Когда вы можете встретиться?",
+    "tur": "Bir toplantı için ne zaman müsaitsiniz?"
+  },
+  {
+    "eng": "Can we meet tomorrow?",
+    "fra": "Pouvons-nous nous rencontrer demain?",
+    "deu": "Können wir uns morgen treffen?",
+    "spa": "¿Podemos reunirnos mañana?",
+    "ita": "Possiamo incontrarci domani?",
+    "rus": "Можем встретиться завтра?",
+    "tur": "Yarın buluşabilir miyiz?"
+  },
+  {
+    "eng": "Can we meet next week?",
+    "fra": "Pouvons-nous nous rencontrer la semaine prochaine?",
+    "deu": "Können wir uns nächste Woche treffen?",
+    "spa": "¿Podemos reunirnos la próxima semana?",
+    "ita": "Possiamo incontrarci la prossima settimana?",
+    "rus": "Можем встретиться на следующей неделе?",
+    "tur": "Gelecek hafta buluşabilir miyiz?"
+  },
+  {
+    "eng": "What time is best for you?",
+    "fra": "Quelle heure vous convient le mieux?",
+    "deu": "Welche Uhrzeit passt Ihnen am besten?",
+    "spa": "¿Qué hora es mejor para usted?",
+    "ita": "Quale orario è meglio per te?",
+    "rus": "В какое время вам удобно?",
+    "tur": "Sizin için en uygun saat nedir?"
+  },
+  {
+    "eng": "Can we meet in the morning?",
+    "fra": "Pouvons-nous nous rencontrer le matin?",
+    "deu": "Können wir uns am Morgen treffen?",
+    "spa": "¿Podemos reunirnos por la mañana?",
+    "ita": "Possiamo incontrarci la mattina?",
+    "rus": "Можем встретиться утром?",
+    "tur": "Sabah buluşabilir miyiz?"
+  },
+  {
+    "eng": "Can we meet in the afternoon?",
+    "fra": "Pouvons-nous nous rencontrer l'après-midi?",
+    "deu": "Können wir uns am Nachmittag treffen?",
+    "spa": "¿Podemos reunirnos por la tarde?",
+    "ita": "Possiamo incontrarci nel pomeriggio?",
+    "rus": "Можем встретиться днем?",
+    "tur": "Öğleden sonra buluşabilir miyiz?"
+  },
+  {
+    "eng": "Can we meet in the evening?",
+    "fra": "Pouvons-nous nous rencontrer le soir?",
+    "deu": "Können wir uns am Abend treffen?",
+    "spa": "¿Podemos reunirnos por la noche?",
+    "ita": "Possiamo incontrarci la sera?",
+    "rus": "Можем встретиться вечером?",
+    "tur": "Akşam buluşabilir miyiz?"
+  },
+  {
+    "eng": "Can we set up a video call?",
+    "fra": "Pouvons-nous organiser un appel vidéo?",
+    "deu": "Können wir einen Videoanruf einrichten?",
+    "spa": "¿Podemos hacer una videollamada?",
+    "ita": "Possiamo organizzare una videochiamata?",
+    "rus": "Можем ли мы устроить видеозвонок?",
+    "tur": "Bir video görüşmesi ayarlayabilir miyiz?"
+  },
+  {
+    "eng": "Can we set up a conference call?",
+    "fra": "Pouvons-nous organiser une conférence téléphonique?",
+    "deu": "Können wir eine Telefonkonferenz einrichten?",
+    "spa": "¿Podemos organizar una teleconferencia?",
+    "ita": "Possiamo organizzare una teleconferenza?",
+    "rus": "Можем ли мы устроить конференц-связь?",
+    "tur": "Bir konferans görüşmesi ayarlayabilir miyiz?"
+  },
+  {
+    "eng": "Where should we meet?",
+    "fra": "Où devons-nous nous rencontrer?",
+    "deu": "Wo sollen wir uns treffen?",
+    "spa": "¿Dónde debemos reunirnos?",
+    "ita": "Dove dovremmo incontrarci?",
+    "rus": "Где мы встретимся?",
+    "tur": "Nerede buluşmalıyız?"
+  },
+  {
+    "eng": "Can we meet at your office?",
+    "fra": "Pouvons-nous nous rencontrer à votre bureau?",
+    "deu": "Können wir uns in Ihrem Büro treffen?",
+    "spa": "¿Podemos reunirnos en su oficina?",
+    "ita": "Possiamo incontrarci nel tuo ufficio?",
+    "rus": "Можем встретиться в вашем офисе?",
+    "tur": "Ofisinizde buluşabilir miyiz?"
+  },
+  {
+    "eng": "Can we meet at my office?",
+    "fra": "Pouvons-nous nous rencontrer à mon bureau?",
+    "deu": "Können wir uns in meinem Büro treffen?",
+    "spa": "¿Podemos reunirnos en mi oficina?",
+    "ita": "Possiamo incontrarci nel mio ufficio?",
+    "rus": "Можем встретиться в моем офисе?",
+    "tur": "Benim ofisimde buluşabilir miyiz?"
+  },
+  {
+    "eng": "Can we meet at a coffee shop?",
+    "fra": "Pouvons-nous nous rencontrer dans un café?",
+    "deu": "Können wir uns in einem Café treffen?",
+    "spa": "¿Podemos reunirnos en una cafetería?",
+    "ita": "Possiamo incontrarci in un bar?",
+    "rus": "Можем встретиться в кафе?",
+    "tur": "Bir kafede buluşabilir miyiz?"
+  },
+  {
+    "eng": "Can we meet at a restaurant?",
+    "fra": "Pouvons-nous nous rencontrer dans un restaurant?",
+    "deu": "Können wir uns in einem Restaurant treffen?",
+    "spa": "¿Podemos reunirnos en un restaurante?",
+    "ita": "Possiamo incontrarci in un ristorante?",
+    "rus": "Можем встретиться в ресторане?",
+    "tur": "Bir restoranda buluşabilir miyiz?"
+  },
+  {
+    "eng": "Can we meet in the lobby?",
+    "fra": "Pouvons-nous nous rencontrer dans le hall?",
+    "deu": "Können wir uns in der Lobby treffen?",
+    "spa": "¿Podemos reunirnos en el vestíbulo?",
+    "ita": "Possiamo incontrarci nella hall?",
+    "rus": "Можем встретиться в вестибюле?",
+    "tur": "Lobide buluşabilir miyiz?"
+  },
+  {
+    "eng": "Can we meet online?",
+    "fra": "Pouvons-nous nous rencontrer en ligne?",
+    "deu": "Können wir uns online treffen?",
+    "spa": "¿Podemos reunirnos en línea?",
+    "ita": "Possiamo incontrarci online?",
+    "rus": "Можем встретиться онлайн?",
+    "tur": "Çevrimiçi buluşabilir miyiz?"
+  },
+  {
+    "eng": "Can we change the meeting time?",
+    "fra": "Pouvons-nous changer l'heure de la réunion?",
+    "deu": "Können wir die Uhrzeit des Treffens ändern?",
+    "spa": "¿Podemos cambiar la hora de la reunión?",
+    "ita": "Possiamo cambiare l'orario dell'incontro?",
+    "rus": "Можем ли мы изменить время встречи?",
+    "tur": "Toplantı saatini değiştirebilir miyiz?"
+  },
+  {
+    "eng": "Can we change the meeting date?",
+    "fra": "Pouvons-nous changer la date de la réunion?",
+    "deu": "Können wir das Datum des Treffens ändern?",
+    "spa": "¿Podemos cambiar la fecha de la reunión?",
+    "ita": "Possiamo cambiare la data dell'incontro?",
+    "rus": "Можем ли мы изменить дату встречи?",
+    "tur": "Toplantı tarihini değiştirebilir miyiz?"
+  },
+  {
+    "eng": "Can you send me a meeting invitation?",
+    "fra": "Pouvez-vous m'envoyer une invitation à une réunion?",
+    "deu": "Können Sie mir eine Einladung zum Treffen schicken?",
+    "spa": "¿Puede enviarme una invitación a la reunión?",
+    "ita": "Puoi inviarmi un invito alla riunione?",
+    "rus": "Можете прислать мне приглашение на встречу?",
+    "tur": "Bana bir toplantı daveti gönderebilir misiniz?"
+  }
+]

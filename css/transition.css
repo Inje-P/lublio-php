@@ -1,0 +1,158 @@
+.animated {
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+
+/* FADE */
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.fade_1 {
+  animation-name: fade;
+}
+
+.fade_2 {
+  animation-name: fade;
+  animation-delay: 0.2s;
+}
+
+.fade_3 {
+  animation-name: fade;
+  animation-delay: 0.4s;
+}
+
+.fade_4 {
+  animation-name: fade;
+  animation-delay: 0.6s;
+}
+
+.fade_5 {
+  animation-name: fade;
+  animation-delay: 0.8s;
+}
+
+.fade_6 {
+  animation-name: fade;
+  animation-delay: 1s;
+}
+
+.fade_7 {
+  animation-name: fade;
+  animation-delay: 1.2s;
+}
+
+.fade_8 {
+  animation-name: fade;
+  animation-delay: 1.4s;
+}
+
+.fade_9 {
+  animation-name: fade;
+  animation-delay: 1.6s;
+}
+
+.fade_10 {
+  animation-name: fade;
+  animation-delay: 1.8s;
+}
+
+.fade_11 {
+  animation-name: fade;
+  animation-delay: 2s;
+}
+
+.fade_12 {
+  animation-name: fade;
+  animation-delay: 2.2s;
+}
+
+.fade_13 {
+  animation-name: fade;
+  animation-delay: 2.4s;
+}
+
+/* RISE UP */
+
+@keyframes riseUp {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+.riseUp_1 {
+  animation-name: riseUp;
+}
+
+.riseUp_2 {
+  animation-name: riseUp;
+  animation-delay: 0.2s;
+}
+
+.riseUp_3 {
+  animation-name: riseUp;
+  animation-delay: 0.4s;
+}
+
+.riseUp_4 {
+  animation-name: riseUp;
+  animation-delay: 0.6s;
+}
+
+.riseUp_5 {
+  animation-name: riseUp;
+  animation-delay: 0.8s;
+}
+
+.riseUp_6 {
+  animation-name: riseUp;
+  animation-delay: 1s;
+}
+
+.riseUp_7 {
+  animation-name: riseUp;
+  animation-delay: 1.2s;
+}
+
+.riseUp_8 {
+  animation-name: riseUp;
+  animation-delay: 1.4s;
+}
+
+.riseUp_9 {
+  animation-name: riseUp;
+  animation-delay: 1.6s;
+}
+
+.riseUp_10 {
+  animation-name: riseUp;
+  animation-delay: 1.8s;
+}
+
+.riseUp_11 {
+  animation-name: riseUp;
+  animation-delay: 2s;
+}
+
+.riseUp_12 {
+  animation-name: riseUp;
+  animation-delay: 2.2s;
+}
+
+.riseUp_13 {
+  animation-name: riseUp;
+  animation-delay: 2.4s;
+}

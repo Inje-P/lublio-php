@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "There is no hot water.",
+    "fra": "Il n'y a pas d'eau chaude.",
+    "deu": "Es gibt kein heißes Wasser.",
+    "spa": "No hay agua caliente.",
+    "ita": "Non c'è acqua calda.",
+    "rus": "Нет горячей воды.",
+    "tur": "Sıcak su yok."
+  },
+  {
+    "eng": "The heater is not working.",
+    "fra": "Le chauffage ne fonctionne pas.",
+    "deu": "Die Heizung funktioniert nicht.",
+    "spa": "La calefacción no funciona.",
+    "ita": "Il riscaldamento non funziona.",
+    "rus": "Отопление не работает.",
+    "tur": "Isıtıcı çalışmıyor."
+  },
+  {
+    "eng": "The air conditioning is not working.",
+    "fra": "La climatisation ne fonctionne pas.",
+    "deu": "Die Klimaanlage funktioniert nicht.",
+    "spa": "El aire acondicionado no funciona.",
+    "ita": "L'aria condizionata non funziona.",
+    "rus": "Кондиционер не работает.",
+    "tur": "Klima çalışmıyor."
+  },
+  {
+    "eng": "The room is too cold.",
+    "fra": "La chambre est trop froide.",
+    "deu": "Das Zimmer ist zu kalt.",
+    "spa": "La habitación está demasiado fría.",
+    "ita": "La stanza è troppo fredda.",
+    "rus": "Комната слишком холодная.",
+    "tur": "Oda çok soğuk."
+  },
+  {
+    "eng": "The room is too hot.",
+    "fra": "La chambre est trop chaude.",
+    "deu": "Das Zimmer ist zu heiß.",
+    "spa": "La habitación está demasiado caliente.",
+    "ita": "La stanza è troppo calda.",
+    "rus": "Комната слишком жаркая.",
+    "tur": "Oda çok sıcak."
+  },
+  {
+    "eng": "The toilet is not working.",
+    "fra": "Les toilettes ne fonctionnent pas.",
+    "deu": "Die Toilette funktioniert nicht.",
+    "spa": "El inodoro no funciona.",
+    "ita": "Il gabinetto non funziona.",
+    "rus": "Туалет не работает.",
+    "tur": "Tuvalet çalışmıyor."
+  },
+  {
+    "eng": "There is no electricity.",
+    "fra": "Il n'y a pas d'électricité.",
+    "deu": "Es gibt keinen Strom.",
+    "spa": "No hay electricidad.",
+    "ita": "Non c'è elettricità.",
+    "rus": "Нет электричества.",
+    "tur": "Elektrik yok."
+  },
+  {
+    "eng": "The lights are not working.",
+    "fra": "Les lumières ne fonctionnent pas.",
+    "deu": "Die Lichter funktionieren nicht.",
+    "spa": "Las luces no funcionan.",
+    "ita": "Le luci non funzionano.",
+    "rus": "Свет не работает.",
+    "tur": "Işıklar çalışmıyor."
+  },
+  {
+    "eng": "The TV is not working.",
+    "fra": "La télévision ne fonctionne pas.",
+    "deu": "Der Fernseher funktioniert nicht.",
+    "spa": "La televisión no funciona.",
+    "ita": "La TV non funziona.",
+    "rus": "Телевизор не работает.",
+    "tur": "Televizyon çalışmıyor."
+  },
+  {
+    "eng": "The Wi-Fi is not working.",
+    "fra": "Le Wi-Fi ne fonctionne pas.",
+    "deu": "Das WLAN funktioniert nicht.",
+    "spa": "El Wi-Fi no funciona.",
+    "ita": "Il Wi-Fi non funziona.",
+    "rus": "Wi-Fi не работает.",
+    "tur": "Wi-Fi çalışmıyor."
+  },
+  {
+    "eng": "I lost my key.",
+    "fra": "J'ai perdu ma clé.",
+    "deu": "Ich habe meinen Schlüssel verloren.",
+    "spa": "Perdí mi llave.",
+    "ita": "Ho perso la mia chiave.",
+    "rus": "Я потерял свой ключ.",
+    "tur": "Anahtarımı kaybettim."
+  },
+  {
+    "eng": "I am locked out of my room.",
+    "fra": "Je suis enfermé hors de ma chambre.",
+    "deu": "Ich bin aus meinem Zimmer ausgesperrt.",
+    "spa": "Estoy encerrado fuera de mi habitación.",
+    "ita": "Sono chiuso fuori dalla mia stanza.",
+    "rus": "Я заперт снаружи своей комнаты.",
+    "tur": "Odamın dışında kilitli kaldım."
+  },
+  {
+    "eng": "The room is not clean.",
+    "fra": "La chambre n'est pas propre.",
+    "deu": "Das Zimmer ist nicht sauber.",
+    "spa": "La habitación no está limpia.",
+    "ita": "La stanza non è pulita.",
+    "rus": "Комната не чистая.",
+    "tur": "Oda temiz değil."
+  },
+  {
+    "eng": "There are bugs in the room.",
+    "fra": "Il y a des insectes dans la chambre.",
+    "deu": "Es gibt Ungeziefer im Zimmer.",
+    "spa": "Hay bichos en la habitación.",
+    "ita": "Ci sono insetti nella stanza.",
+    "rus": "В комнате есть насекомые.",
+    "tur": "Odada böcekler var."
+  },
+  {
+    "eng": "There is a strange smell in the room.",
+    "fra": "Il y a une odeur étrange dans la chambre.",
+    "deu": "Es gibt einen seltsamen Geruch im Zimmer.",
+    "spa": "Hay un olor extraño en la habitación.",
+    "ita": "C'è un odore strano nella stanza.",
+    "rus": "В комнате странный запах.",
+    "tur": "Odada garip bir koku var."
+  },
+  {
+    "eng": "The window is stuck and won't open.",
+    "fra": "La fenêtre est coincée et ne s'ouvre pas.",
+    "deu": "Das Fenster ist fest und lässt sich nicht öffnen.",
+    "spa": "La ventana está atascada y no se abre.",
+    "ita": "La finestra è bloccata e non si apre.",
+    "rus": "Окно застряло и не открывается.",
+    "tur": "Pencere sıkışmış ve açılmıyor."
+  },
+  {
+    "eng": "The door lock is broken.",
+    "fra": "La serrure de la porte est cassée.",
+    "deu": "Das Türschloss ist kaputt.",
+    "spa": "La cerradura de la puerta está rota.",
+    "ita": "La serratura della porta è rotta.",
+    "rus": "Замок на двери сломан.",
+    "tur": "Kapı kilidi bozuk."
+  },
+  {
+    "eng": "The sink is clogged.",
+    "fra": "Le lavabo est bouché.",
+    "deu": "Das Waschbecken ist verstopft.",
+    "spa": "El fregadero está atascado.",
+    "ita": "Il lavandino è intasato.",
+    "rus": "Раковина забита.",
+    "tur": "Lavabo tıkalı."
+  },
+  {
+    "eng": "There is no toilet paper.",
+    "fra": "Il n'y a pas de papier toilette.",
+    "deu": "Es gibt kein Toilettenpapier.",
+    "spa": "No hay papel higiénico.",
+    "ita": "Non c'è carta igienica.",
+    "rus": "Нет туалетной бумаги.",
+    "tur": "Tuvalet kağıdı yok."
+  },
+  {
+    "eng": "The phone is not working.",
+    "fra": "Le téléphone ne fonctionne pas.",
+    "deu": "Das Telefon funktioniert nicht.",
+    "spa": "El teléfono no funciona.",
+    "ita": "Il telefono non funziona.",
+    "rus": "Телефон не работает.",
+    "tur": "Telefon çalışmıyor."
+  }
+]

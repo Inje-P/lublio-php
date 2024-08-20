@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "I would like to buy a ticket.",
+    "fra": "Je voudrais acheter un billet.",
+    "deu": "Ich möchte ein Ticket kaufen.",
+    "spa": "Me gustaría comprar un boleto.",
+    "ita": "Vorrei comprare un biglietto.",
+    "rus": "Я хотел бы купить билет.",
+    "tur": "Bir bilet almak istiyorum."
+  },
+  {
+    "eng": "Where can I buy a ticket?",
+    "fra": "Où puis-je acheter un billet?",
+    "deu": "Wo kann ich ein Ticket kaufen?",
+    "spa": "¿Dónde puedo comprar un boleto?",
+    "ita": "Dove posso comprare un biglietto?",
+    "rus": "Где я могу купить билет?",
+    "tur": "Bilet nereden alabilirim?"
+  },
+  {
+    "eng": "How much does a ticket cost?",
+    "fra": "Combien coûte un billet?",
+    "deu": "Wie viel kostet ein Ticket?",
+    "spa": "¿Cuánto cuesta un boleto?",
+    "ita": "Quanto costa un biglietto?",
+    "rus": "Сколько стоит билет?",
+    "tur": "Bilet ne kadar?"
+  },
+  {
+    "eng": "Is there a discount for children?",
+    "fra": "Y a-t-il une réduction pour les enfants?",
+    "deu": "Gibt es einen Rabatt für Kinder?",
+    "spa": "¿Hay descuento para niños?",
+    "ita": "C'è uno sconto per i bambini?",
+    "rus": "Есть ли скидка для детей?",
+    "tur": "Çocuklar için indirim var mı?"
+  },
+  {
+    "eng": "I need a one-way ticket.",
+    "fra": "J'ai besoin d'un billet simple.",
+    "deu": "Ich brauche ein einfaches Ticket.",
+    "spa": "Necesito un boleto de ida.",
+    "ita": "Ho bisogno di un biglietto di sola andata.",
+    "rus": "Мне нужен билет в один конец.",
+    "tur": "Tek yön biletine ihtiyacım var."
+  },
+  {
+    "eng": "I need a round-trip ticket.",
+    "fra": "J'ai besoin d'un billet aller-retour.",
+    "deu": "Ich brauche ein Hin- und Rückfahrtticket.",
+    "spa": "Necesito un boleto de ida y vuelta.",
+    "ita": "Ho bisogno di un biglietto di andata e ritorno.",
+    "rus": "Мне нужен билет туда и обратно.",
+    "tur": "Gidiş-dönüş biletine ihtiyacım var."
+  },
+  {
+    "eng": "What time is the next train?",
+    "fra": "À quelle heure est le prochain train?",
+    "deu": "Wann fährt der nächste Zug?",
+    "spa": "¿A qué hora es el próximo tren?",
+    "ita": "A che ora è il prossimo treno?",
+    "rus": "В котором часу следующий поезд?",
+    "tur": "Bir sonraki tren saat kaçta?"
+  },
+  {
+    "eng": "What time is the last bus?",
+    "fra": "À quelle heure est le dernier bus?",
+    "deu": "Wann fährt der letzte Bus?",
+    "spa": "¿A qué hora es el último autobús?",
+    "ita": "A che ora è l'ultimo autobus?",
+    "rus": "В котором часу последний автобус?",
+    "tur": "Son otobüs saat kaçta?"
+  },
+  {
+    "eng": "I would like a window seat.",
+    "fra": "Je voudrais un siège près de la fenêtre.",
+    "deu": "Ich hätte gerne einen Fensterplatz.",
+    "spa": "Quisiera un asiento junto a la ventana.",
+    "ita": "Vorrei un posto vicino al finestrino.",
+    "rus": "Я хотел бы место у окна.",
+    "tur": "Cam kenarı koltuğu istiyorum."
+  },
+  {
+    "eng": "I would like an aisle seat.",
+    "fra": "Je voudrais un siège côté couloir.",
+    "deu": "Ich hätte gerne einen Gangplatz.",
+    "spa": "Quisiera un asiento en el pasillo.",
+    "ita": "Vorrei un posto nel corridoio.",
+    "rus": "Я хотел бы место у прохода.",
+    "tur": "Koridor koltuğu istiyorum."
+  },
+  {
+    "eng": "Can I change my seat?",
+    "fra": "Puis-je changer de siège?",
+    "deu": "Kann ich meinen Sitzplatz wechseln?",
+    "spa": "¿Puedo cambiar de asiento?",
+    "ita": "Posso cambiare il mio posto?",
+    "rus": "Могу ли я поменять место?",
+    "tur": "Yerimi değiştirebilir miyim?"
+  },
+  {
+    "eng": "When is the next flight to Paris?",
+    "fra": "Quand est le prochain vol pour Paris?",
+    "deu": "Wann ist der nächste Flug nach Paris?",
+    "spa": "¿Cuándo es el próximo vuelo a París?",
+    "ita": "Quando è il prossimo volo per Parigi?",
+    "rus": "Когда следующий рейс до Парижа?",
+    "tur": "Paris'e bir sonraki uçuş ne zaman?"
+  },
+  {
+    "eng": "Is this ticket refundable?",
+    "fra": "Ce billet est-il remboursable?",
+    "deu": "Ist dieses Ticket erstattungsfähig?",
+    "spa": "¿Este boleto es reembolsable?",
+    "ita": "Questo biglietto è rimborsabile?",
+    "rus": "Этот билет можно вернуть?",
+    "tur": "Bu bilet iade edilebilir mi?"
+  },
+  {
+    "eng": "Is there a baggage fee?",
+    "fra": "Y a-t-il des frais de bagages?",
+    "deu": "Gibt es eine Gepäckgebühr?",
+    "spa": "¿Hay una tarifa por equipaje?",
+    "ita": "C'è una tassa per i bagagli?",
+    "rus": "Есть ли плата за багаж?",
+    "tur": "Bagaj ücreti var mı?"
+  },
+  {
+    "eng": "Can I choose my seat?",
+    "fra": "Puis-je choisir mon siège?",
+    "deu": "Kann ich meinen Sitzplatz wählen?",
+    "spa": "¿Puedo elegir mi asiento?",
+    "ita": "Posso scegliere il mio posto?",
+    "rus": "Могу ли я выбрать место?",
+    "tur": "Yerimi seçebilir miyim?"
+  },
+  {
+    "eng": "Do I need to reserve a seat?",
+    "fra": "Dois-je réserver un siège?",
+    "deu": "Muss ich einen Sitzplatz reservieren?",
+    "spa": "¿Necesito reservar un asiento?",
+    "ita": "Devo riservare un posto?",
+    "rus": "Мне нужно бронировать место?",
+    "tur": "Yer ayırtmam gerekiyor mu?"
+  },
+  {
+    "eng": "How early should I arrive at the airport?",
+    "fra": "À quelle heure dois-je arriver à l'aéroport?",
+    "deu": "Wie früh sollte ich am Flughafen sein?",
+    "spa": "¿Con cuánta anticipación debo llegar al aeropuerto?",
+    "ita": "Quanto tempo prima devo arrivare in aeroporto?",
+    "rus": "За сколько времени до вылета я должен приехать в аэропорт?",
+    "tur": "Havaalanına ne kadar erken gelmeliyim?"
+  },
+  {
+    "eng": "What platform does the train leave from?",
+    "fra": "De quel quai part le train?",
+    "deu": "Von welchem Gleis fährt der Zug ab?",
+    "spa": "¿De qué andén sale el tren?",
+    "ita": "Da quale binario parte il treno?",
+    "rus": "С какой платформы отправляется поезд?",
+    "tur": "Tren hangi perondan kalkıyor?"
+  },
+  {
+    "eng": "Can I buy a ticket online?",
+    "fra": "Puis-je acheter un billet en ligne?",
+    "deu": "Kann ich ein Ticket online kaufen?",
+    "spa": "¿Puedo comprar un boleto en línea?",
+    "ita": "Posso comprare un biglietto online?",
+    "rus": "Могу ли я купить билет онлайн?",
+    "tur": "Bileti internetten satın alabilir miyim?"
+  },
+  {
+    "eng": "Is there a student discount?",
+    "fra": "Y a-t-il une réduction pour les étudiants?",
+    "deu": "Gibt es einen Studentenrabatt?",
+    "spa": "¿Hay descuento para estudiantes?",
+    "ita": "C'è uno sconto per studenti?",
+    "rus": "Есть ли студенческая скидка?",
+    "tur": "Öğrenci indirimi var mı?"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "Can I see the menu, please?",
+    "fra": "Puis-je voir le menu, s'il vous plaît?",
+    "deu": "Kann ich bitte die Speisekarte sehen?",
+    "spa": "¿Puedo ver el menú, por favor?",
+    "ita": "Posso vedere il menu, per favore?",
+    "rus": "Можно посмотреть меню, пожалуйста?",
+    "tur": "Menüyü görebilir miyim, lütfen?"
+  },
+  {
+    "eng": "What do you recommend?",
+    "fra": "Que recommandez-vous?",
+    "deu": "Was empfehlen Sie?",
+    "spa": "¿Qué recomienda?",
+    "ita": "Cosa consiglia?",
+    "rus": "Что вы порекомендуете?",
+    "tur": "Ne tavsiye edersiniz?"
+  },
+  {
+    "eng": "I would like to order.",
+    "fra": "Je voudrais commander.",
+    "deu": "Ich möchte bestellen.",
+    "spa": "Me gustaría pedir.",
+    "ita": "Vorrei ordinare.",
+    "rus": "Я бы хотел сделать заказ.",
+    "tur": "Sipariş vermek istiyorum."
+  },
+  {
+    "eng": "Can I have the special of the day?",
+    "fra": "Puis-je avoir le plat du jour?",
+    "deu": "Kann ich das Tagesgericht haben?",
+    "spa": "¿Puedo tener el plato del día?",
+    "ita": "Posso avere il piatto del giorno?",
+    "rus": "Можно мне блюдо дня?",
+    "tur": "Günün özel yemeğini alabilir miyim?"
+  },
+  {
+    "eng": "I will have the steak, please.",
+    "fra": "Je prendrai le steak, s'il vous plaît.",
+    "deu": "Ich nehme das Steak, bitte.",
+    "spa": "Tomaré el bistec, por favor.",
+    "ita": "Prenderò la bistecca, per favore.",
+    "rus": "Я буду стейк, пожалуйста.",
+    "tur": "Bifteği alayım, lütfen."
+  },
+  {
+    "eng": "Can I have this without onions?",
+    "fra": "Puis-je avoir cela sans oignons?",
+    "deu": "Kann ich das ohne Zwiebeln haben?",
+    "spa": "¿Puedo tener esto sin cebollas?",
+    "ita": "Posso averlo senza cipolle?",
+    "rus": "Можно мне это без лука?",
+    "tur": "Bunu soğansız alabilir miyim?"
+  },
+  {
+    "eng": "I am allergic to nuts.",
+    "fra": "Je suis allergique aux noix.",
+    "deu": "Ich bin allergisch gegen Nüsse.",
+    "spa": "Soy alérgico a los frutos secos.",
+    "ita": "Sono allergico alle noci.",
+    "rus": "У меня аллергия на орехи.",
+    "tur": "Fındıklara alerjim var."
+  },
+  {
+    "eng": "Can I have a glass of water?",
+    "fra": "Puis-je avoir un verre d'eau?",
+    "deu": "Kann ich ein Glas Wasser haben?",
+    "spa": "¿Puedo tener un vaso de agua?",
+    "ita": "Posso avere un bicchiere d'acqua?",
+    "rus": "Можно мне стакан воды?",
+    "tur": "Bir bardak su alabilir miyim?"
+  },
+  {
+    "eng": "Can I have the bill, please?",
+    "fra": "Puis-je avoir l'addition, s'il vous plaît?",
+    "deu": "Kann ich bitte die Rechnung haben?",
+    "spa": "¿Puedo tener la cuenta, por favor?",
+    "ita": "Posso avere il conto, per favore?",
+    "rus": "Можно мне счет, пожалуйста?",
+    "tur": "Hesabı alabilir miyim, lütfen?"
+  },
+  {
+    "eng": "Do you have vegetarian options?",
+    "fra": "Avez-vous des options végétariennes?",
+    "deu": "Haben Sie vegetarische Optionen?",
+    "spa": "¿Tiene opciones vegetarianas?",
+    "ita": "Avete opzioni vegetariane?",
+    "rus": "У вас есть вегетарианские блюда?",
+    "tur": "Vejetaryen seçenekleriniz var mı?"
+  },
+  {
+    "eng": "Can I get this to go?",
+    "fra": "Puis-je avoir cela à emporter?",
+    "deu": "Kann ich das zum Mitnehmen haben?",
+    "spa": "¿Puedo llevar esto para llevar?",
+    "ita": "Posso avere questo da portare via?",
+    "rus": "Можно мне это с собой?",
+    "tur": "Bunu paket yaptırabilir miyim?"
+  },
+  {
+    "eng": "Can I have some extra napkins?",
+    "fra": "Puis-je avoir des serviettes supplémentaires?",
+    "deu": "Kann ich extra Servietten haben?",
+    "spa": "¿Puedo tener servilletas adicionales?",
+    "ita": "Posso avere dei tovaglioli extra?",
+    "rus": "Можно мне дополнительные салфетки?",
+    "tur": "Ekstra peçete alabilir miyim?"
+  },
+  {
+    "eng": "What desserts do you have?",
+    "fra": "Quels desserts avez-vous?",
+    "deu": "Welche Desserts haben Sie?",
+    "spa": "¿Qué postres tienes?",
+    "ita": "Quali dessert avete?",
+    "rus": "Какие у вас десерты?",
+    "tur": "Ne tatlınız var?"
+  },
+  {
+    "eng": "Can I have a cup of coffee?",
+    "fra": "Puis-je avoir une tasse de café?",
+    "deu": "Kann ich eine Tasse Kaffee haben?",
+    "spa": "¿Puedo tener una taza de café?",
+    "ita": "Posso avere una tazza di caffè?",
+    "rus": "Можно мне чашку кофе?",
+    "tur": "Bir fincan kahve alabilir miyim?"
+  },
+  {
+    "eng": "I would like a glass of wine.",
+    "fra": "Je voudrais un verre de vin.",
+    "deu": "Ich hätte gerne ein Glas Wein.",
+    "spa": "Me gustaría una copa de vino.",
+    "ita": "Vorrei un bicchiere di vino.",
+    "rus": "Я бы хотел бокал вина.",
+    "tur": "Bir kadeh şarap istiyorum."
+  },
+  {
+    "eng": "Can I have a refill, please?",
+    "fra": "Puis-je avoir un refill, s'il vous plaît?",
+    "deu": "Kann ich bitte eine Nachfüllung haben?",
+    "spa": "¿Puedo tener un relleno, por favor?",
+    "ita": "Posso avere un rifornimento, per favore?",
+    "rus": "Можно мне пополнить, пожалуйста?",
+    "tur": "Yeniden doldurabilir misiniz lütfen?"
+  },
+  {
+    "eng": "What kind of soups do you have?",
+    "fra": "Quel genre de soupes avez-vous?",
+    "deu": "Welche Suppen haben Sie?",
+    "spa": "¿Qué tipo de sopas tienes?",
+    "ita": "Che tipo di zuppe avete?",
+    "rus": "Какие у вас есть супы?",
+    "tur": "Ne tür çorbalarınız var?"
+  },
+  {
+    "eng": "I would like to start with a salad.",
+    "fra": "Je voudrais commencer par une salade.",
+    "deu": "Ich möchte mit einem Salat beginnen.",
+    "spa": "Me gustaría empezar con una ensalada.",
+    "ita": "Vorrei iniziare con un'insalata.",
+    "rus": "Я бы хотел начать с салата.",
+    "tur": "Önce bir salata almak istiyorum."
+  },
+  {
+    "eng": "Do you have any appetizers?",
+    "fra": "Avez-vous des entrées?",
+    "deu": "Haben Sie Vorspeisen?",
+    "spa": "¿Tienes aperitivos?",
+    "ita": "Avete degli antipasti?",
+    "rus": "У вас есть закуски?",
+    "tur": "Aperatifiniz var mı?"
+  },
+  {
+    "eng": "Can I get the check, please?",
+    "fra": "Puis-je avoir l'addition, s'il vous plaît?",
+    "deu": "Kann ich bitte die Rechnung bekommen?",
+    "spa": "¿Puedo obtener la cuenta, por favor?",
+    "ita": "Posso avere il conto, per favore?",
+    "rus": "Можно мне счет, пожалуйста?",
+    "tur": "Hesabı alabilir miyim, lütfen?"
+  }
+]

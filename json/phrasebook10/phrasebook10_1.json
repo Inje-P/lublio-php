@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "Where can I exchange currency?",
+    "fra": "Où puis-je échanger de la monnaie?",
+    "deu": "Wo kann ich Währung umtauschen?",
+    "spa": "¿Dónde puedo cambiar divisas?",
+    "ita": "Dove posso cambiare valuta?",
+    "rus": "Где я могу обменять валюту?",
+    "tur": "Nerede döviz bozdurabilirim?"
+  },
+  {
+    "eng": "What is the exchange rate?",
+    "fra": "Quel est le taux de change?",
+    "deu": "Wie ist der Wechselkurs?",
+    "spa": "¿Cuál es la tasa de cambio?",
+    "ita": "Qual è il tasso di cambio?",
+    "rus": "Какой обменный курс?",
+    "tur": "Döviz kuru nedir?"
+  },
+  {
+    "eng": "Do you charge a commission?",
+    "fra": "Prenez-vous une commission?",
+    "deu": "Erheben Sie eine Provision?",
+    "spa": "¿Cobra una comisión?",
+    "ita": "Addebitate una commissione?",
+    "rus": "Вы берете комиссию?",
+    "tur": "Komisyon alıyor musunuz?"
+  },
+  {
+    "eng": "Can I exchange money at the hotel?",
+    "fra": "Puis-je échanger de l'argent à l'hôtel?",
+    "deu": "Kann ich im Hotel Geld wechseln?",
+    "spa": "¿Puedo cambiar dinero en el hotel?",
+    "ita": "Posso cambiare denaro in hotel?",
+    "rus": "Могу ли я обменять деньги в отеле?",
+    "tur": "Otelde para bozdurabilir miyim?"
+  },
+  {
+    "eng": "What currencies do you accept?",
+    "fra": "Quelles devises acceptez-vous?",
+    "deu": "Welche Währungen akzeptieren Sie?",
+    "spa": "¿Qué monedas aceptan?",
+    "ita": "Quali valute accettate?",
+    "rus": "Какие валюты вы принимаете?",
+    "tur": "Hangi para birimlerini kabul ediyorsunuz?"
+  },
+  {
+    "eng": "Can I get a receipt?",
+    "fra": "Puis-je obtenir un reçu?",
+    "deu": "Kann ich eine Quittung bekommen?",
+    "spa": "¿Puedo obtener un recibo?",
+    "ita": "Posso avere una ricevuta?",
+    "rus": "Могу ли я получить квитанцию?",
+    "tur": "Fiş alabilir miyim?"
+  },
+  {
+    "eng": "What is the best place to exchange money?",
+    "fra": "Quel est le meilleur endroit pour échanger de l'argent?",
+    "deu": "Wo ist der beste Ort, um Geld zu wechseln?",
+    "spa": "¿Cuál es el mejor lugar para cambiar dinero?",
+    "ita": "Qual è il posto migliore per cambiare denaro?",
+    "rus": "Где лучше всего обменять деньги?",
+    "tur": "Para bozdurmak için en iyi yer neresi?"
+  },
+  {
+    "eng": "Is there an ATM nearby?",
+    "fra": "Y a-t-il un distributeur automatique à proximité?",
+    "deu": "Gibt es einen Geldautomaten in der Nähe?",
+    "spa": "¿Hay un cajero automático cerca?",
+    "ita": "C'è un bancomat nelle vicinanze?",
+    "rus": "Есть ли банкомат поблизости?",
+    "tur": "Yakınlarda bir ATM var mı?"
+  },
+  {
+    "eng": "Can I use my credit card to exchange money?",
+    "fra": "Puis-je utiliser ma carte de crédit pour échanger de l'argent?",
+    "deu": "Kann ich meine Kreditkarte zum Geldwechseln verwenden?",
+    "spa": "¿Puedo usar mi tarjeta de crédito para cambiar dinero?",
+    "ita": "Posso usare la mia carta di credito per cambiare denaro?",
+    "rus": "Могу ли я использовать свою кредитную карту для обмена денег?",
+    "tur": "Para bozdurmak için kredi kartımı kullanabilir miyim?"
+  },
+  {
+    "eng": "How much money can I exchange at once?",
+    "fra": "Combien d'argent puis-je échanger à la fois?",
+    "deu": "Wie viel Geld kann ich auf einmal wechseln?",
+    "spa": "¿Cuánto dinero puedo cambiar a la vez?",
+    "ita": "Quanti soldi posso cambiare in una volta?",
+    "rus": "Сколько денег я могу обменять за один раз?",
+    "tur": "Bir kerede ne kadar para bozdurabilirim?"
+  },
+  {
+    "eng": "Do you need my ID for the transaction?",
+    "fra": "Avez-vous besoin de mon identité pour la transaction?",
+    "deu": "Brauchen Sie meinen Ausweis für die Transaktion?",
+    "spa": "¿Necesita mi identificación para la transacción?",
+    "ita": "Hai bisogno del mio documento per la transazione?",
+    "rus": "Вам нужен мой документ для транзакции?",
+    "tur": "İşlem için kimliğime ihtiyacınız var mı?"
+  },
+  {
+    "eng": "Is there a limit to how much I can exchange?",
+    "fra": "Y a-t-il une limite au montant que je peux échanger?",
+    "deu": "Gibt es ein Limit, wie viel ich wechseln kann?",
+    "spa": "¿Hay un límite de cuánto puedo cambiar?",
+    "ita": "C'è un limite a quanto posso cambiare?",
+    "rus": "Есть ли ограничение на сумму обмена?",
+    "tur": "Ne kadar para bozdurabileceğim konusunda bir sınır var mı?"
+  },
+  {
+    "eng": "Can I exchange money at the airport?",
+    "fra": "Puis-je échanger de l'argent à l'aéroport?",
+    "deu": "Kann ich am Flughafen Geld wechseln?",
+    "spa": "¿Puedo cambiar dinero en el aeropuerto?",
+    "ita": "Posso cambiare denaro all'aeroporto?",
+    "rus": "Могу ли я обменять деньги в аэропорту?",
+    "tur": "Havaalanında para bozdurabilir miyim?"
+  },
+  {
+    "eng": "Is it better to exchange money here or at my destination?",
+    "fra": "Est-il préférable d'échanger de l'argent ici ou à ma destination?",
+    "deu": "Ist es besser, hier oder an meinem Zielort Geld zu wechseln?",
+    "spa": "¿Es mejor cambiar dinero aquí o en mi destino?",
+    "ita": "È meglio cambiare denaro qui o alla mia destinazione?",
+    "rus": "Лучше обменять деньги здесь или на месте назначения?",
+    "tur": "Burada mı yoksa varış yerimde mi para bozdurmak daha iyi?"
+  },
+  {
+    "eng": "Do you offer foreign exchange services?",
+    "fra": "Proposez-vous des services de change?",
+    "deu": "Bieten Sie Devisenwechsel an?",
+    "spa": "¿Ofrecen servicios de cambio de divisas?",
+    "ita": "Offrite servizi di cambio valuta?",
+    "rus": "Вы предлагаете услуги обмена валют?",
+    "tur": "Döviz hizmetleri sunuyor musunuz?"
+  },
+  {
+    "eng": "Can I exchange traveler's checks here?",
+    "fra": "Puis-je échanger des chèques de voyage ici?",
+    "deu": "Kann ich hier Reiseschecks einlösen?",
+    "spa": "¿Puedo cambiar cheques de viajero aquí?",
+    "ita": "Posso cambiare traveler's check qui?",
+    "rus": "Могу ли я обменять здесь дорожные чеки?",
+    "tur": "Burada seyahat çeki bozdurabilir miyim?"
+  },
+  {
+    "eng": "How do I know if the exchange rate is good?",
+    "fra": "Comment savoir si le taux de change est bon?",
+    "deu": "Woher weiß ich, ob der Wechselkurs gut ist?",
+    "spa": "¿Cómo sé si la tasa de cambio es buena?",
+    "ita": "Come faccio a sapere se il tasso di cambio è buono?",
+    "rus": "Как мне узнать, выгодный ли обменный курс?",
+    "tur": "Döviz kurunun iyi olduğunu nasıl anlarım?"
+  },
+  {
+    "eng": "Can you break a large bill for me?",
+    "fra": "Pouvez-vous me changer un gros billet?",
+    "deu": "Können Sie mir einen großen Schein wechseln?",
+    "spa": "¿Puede cambiarme un billete grande?",
+    "ita": "Puoi cambiarmi una banconota di grosso taglio?",
+    "rus": "Можете разменять мне крупную купюру?",
+    "tur": "Büyük bir banknotu bozar mısınız?"
+  },
+  {
+    "eng": "Can I exchange coins?",
+    "fra": "Puis-je échanger des pièces?",
+    "deu": "Kann ich Münzen umtauschen?",
+    "spa": "¿Puedo cambiar monedas?",
+    "ita": "Posso cambiare le monete?",
+    "rus": "Могу ли я обменять монеты?",
+    "tur": "Bozuk para değiştirebilir miyim?"
+  },
+  {
+    "eng": "Do you have smaller bills?",
+    "fra": "Avez-vous des billets plus petits?",
+    "deu": "Haben Sie kleinere Scheine?",
+    "spa": "¿Tienes billetes más pequeños?",
+    "ita": "Hai banconote più piccole?",
+    "rus": "У вас есть банкноты поменьше?",
+    "tur": "Daha küçük banknotlarınız var mı?"
+  }
+]

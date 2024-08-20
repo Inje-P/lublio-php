@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "What are the fees for maintaining this account?",
+    "fra": "Quels sont les frais pour maintenir ce compte?",
+    "deu": "Welche Gebühren fallen für die Führung dieses Kontos an?",
+    "spa": "¿Cuáles son las tarifas por mantener esta cuenta?",
+    "ita": "Quali sono le spese per mantenere questo conto?",
+    "rus": "Какие сборы за ведение этого счета?",
+    "tur": "Bu hesabı sürdürmek için ücretler nelerdir?"
+  },
+  {
+    "eng": "Are there any monthly maintenance fees?",
+    "fra": "Y a-t-il des frais de maintenance mensuels?",
+    "deu": "Gibt es monatliche Wartungsgebühren?",
+    "spa": "¿Hay tarifas de mantenimiento mensual?",
+    "ita": "Ci sono commissioni di manutenzione mensili?",
+    "rus": "Есть ли ежемесячная плата за обслуживание?",
+    "tur": "Aylık bakım ücreti var mı?"
+  },
+  {
+    "eng": "What are the fees for ATM withdrawals?",
+    "fra": "Quels sont les frais pour les retraits au distributeur automatique?",
+    "deu": "Wie hoch sind die Gebühren für Geldautomatenabhebungen?",
+    "spa": "¿Cuáles son las tarifas por retiros en cajeros automáticos?",
+    "ita": "Quali sono le spese per i prelievi agli sportelli automatici?",
+    "rus": "Какова комиссия за снятие средств в банкомате?",
+    "tur": "ATM para çekme ücretleri nelerdir?"
+  },
+  {
+    "eng": "Are there any fees for online banking services?",
+    "fra": "Y a-t-il des frais pour les services bancaires en ligne?",
+    "deu": "Gibt es Gebühren für Online-Banking-Dienste?",
+    "spa": "¿Hay tarifas para los servicios de banca en línea?",
+    "ita": "Ci sono commissioni per i servizi bancari online?",
+    "rus": "Есть ли сборы за услуги онлайн-банкинга?",
+    "tur": "Çevrimiçi bankacılık hizmetleri için herhangi bir ücret var mı?"
+  },
+  {
+    "eng": "What is the fee for international money transfers?",
+    "fra": "Quel est le frais pour les transferts d'argent internationaux?",
+    "deu": "Wie hoch ist die Gebühr für internationale Geldtransfers?",
+    "spa": "¿Cuál es la tarifa por transferencias de dinero internacionales?",
+    "ita": "Qual è la commissione per i trasferimenti di denaro internazionali?",
+    "rus": "Какова комиссия за международные денежные переводы?",
+    "tur": "Uluslararası para transferleri için ücret nedir?"
+  },
+  {
+    "eng": "Are there any overdraft fees?",
+    "fra": "Y a-t-il des frais de découvert?",
+    "deu": "Gibt es Überziehungsgebühren?",
+    "spa": "¿Hay tarifas por sobregiro?",
+    "ita": "Ci sono commissioni di scoperto?",
+    "rus": "Есть ли комиссии за овердрафт?",
+    "tur": "Ekstra para çekme ücreti var mı?"
+  },
+  {
+    "eng": "What are the fees for wire transfers?",
+    "fra": "Quels sont les frais pour les virements bancaires?",
+    "deu": "Wie hoch sind die Gebühren für Überweisungen?",
+    "spa": "¿Cuáles son las tarifas por transferencias bancarias?",
+    "ita": "Quali sono le commissioni per i bonifici?",
+    "rus": "Какова комиссия за банковские переводы?",
+    "tur": "Banka havalesi ücretleri nelerdir?"
+  },
+  {
+    "eng": "Are there any fees for receiving money from abroad?",
+    "fra": "Y a-t-il des frais pour recevoir de l'argent de l'étranger?",
+    "deu": "Gibt es Gebühren für den Empfang von Geld aus dem Ausland?",
+    "spa": "¿Hay tarifas por recibir dinero del extranjero?",
+    "ita": "Ci sono commissioni per ricevere denaro dall'estero?",
+    "rus": "Есть ли комиссия за получение денег из-за границы?",
+    "tur": "Yurtdışından para almak için ücret var mı?"
+  },
+  {
+    "eng": "What is the fee for a lost or stolen card replacement?",
+    "fra": "Quel est le frais pour le remplacement d'une carte perdue ou volée?",
+    "deu": "Wie hoch ist die Gebühr für den Ersatz einer verlorenen oder gestohlenen Karte?",
+    "spa": "¿Cuál es la tarifa por reemplazo de tarjeta perdida o robada?",
+    "ita": "Qual è la commissione per la sostituzione di una carta persa o rubata?",
+    "rus": "Какова комиссия за замену утерянной или украденной карты?",
+    "tur": "Kaybolan veya çalınan kartın yenilenmesi için ücret nedir?"
+  },
+  {
+    "eng": "Are there fees for paper statements?",
+    "fra": "Y a-t-il des frais pour les relevés papier?",
+    "deu": "Gibt es Gebühren für Papierauszüge?",
+    "spa": "¿Hay tarifas para los estados de cuenta en papel?",
+    "ita": "Ci sono commissioni per gli estratti conto cartacei?",
+    "rus": "Есть ли комиссия за бумажные выписки?",
+    "tur": "Kağıt bildirimler için ücret var mı?"
+  },
+  {
+    "eng": "What are the fees for using out-of-network ATMs?",
+    "fra": "Quels sont les frais pour l'utilisation de distributeurs automatiques hors réseau?",
+    "deu": "Wie hoch sind die Gebühren für die Nutzung von Geldautomaten außerhalb des Netzwerks?",
+    "spa": "¿Cuáles son las tarifas por usar cajeros automáticos fuera de la red?",
+    "ita": "Quali sono le commissioni per l'utilizzo di bancomat fuori rete?",
+    "rus": "Какова комиссия за использование банкоматов вне сети?",
+    "tur": "Ağ dışı ATM'leri kullanma ücretleri nelerdir?"
+  },
+  {
+    "eng": "Are there fees for making mobile check deposits?",
+    "fra": "Y a-t-il des frais pour les dépôts de chèques mobiles?",
+    "deu": "Gibt es Gebühren für mobile Scheckeinzahlungen?",
+    "spa": "¿Hay tarifas por hacer depósitos de cheques móviles?",
+    "ita": "Ci sono commissioni per i depositi di assegni mobili?",
+    "rus": "Есть ли комиссия за мобильные депозиты чеков?",
+    "tur": "Mobil çek mevduat için ücretler var mı?"
+  },
+  {
+    "eng": "What services are included with this account?",
+    "fra": "Quels services sont inclus avec ce compte?",
+    "deu": "Welche Dienstleistungen sind mit diesem Konto verbunden?",
+    "spa": "¿Qué servicios están incluidos con esta cuenta?",
+    "ita": "Quali servizi sono inclusi con questo conto?",
+    "rus": "Какие услуги включены в этот счет?",
+    "tur": "Bu hesapla birlikte hangi hizmetler var?"
+  },
+  {
+    "eng": "Are there any fees for account inactivity?",
+    "fra": "Y a-t-il des frais pour l'inactivité du compte?",
+    "deu": "Gibt es Gebühren für die Kontoaktivität?",
+    "spa": "¿Hay tarifas por inactividad de la cuenta?",
+    "ita": "Ci sono commissioni per l'inattività del conto?",
+    "rus": "Есть ли комиссия за неактивность счета?",
+    "tur": "Hesap hareketsizliği için ücret var mı?"
+  },
+  {
+    "eng": "What are the fees for overdraft protection?",
+    "fra": "Quels sont les frais pour la protection contre les découverts?",
+    "deu": "Wie hoch sind die Gebühren für den Überziehungsschutz?",
+    "spa": "¿Cuáles son las tarifas para la protección contra sobregiros?",
+    "ita": "Quali sono le spese per la protezione dal scoperto?",
+    "rus": "Какова комиссия за защиту от овердрафта?",
+    "tur": "Ekstra para çekme koruması için ücretler nelerdir?"
+  },
+  {
+    "eng": "Are there any annual fees for this account?",
+    "fra": "Y a-t-il des frais annuels pour ce compte?",
+    "deu": "Gibt es jährliche Gebühren für dieses Konto?",
+    "spa": "¿Hay tarifas anuales para esta cuenta?",
+    "ita": "Ci sono commissioni annuali per questo conto?",
+    "rus": "Есть ли ежегодные комиссии за этот счет?",
+    "tur": "Bu hesap için yıllık ücretler var mı?"
+  },
+  {
+    "eng": "Can I get a breakdown of all the fees associated with this account?",
+    "fra": "Puis-je obtenir un détail de tous les frais associés à ce compte?",
+    "deu": "Kann ich eine Aufschlüsselung aller mit diesem Konto verbundenen Gebühren erhalten?",
+    "spa": "¿Puedo obtener un desglose de todas las tarifas asociadas con esta cuenta?",
+    "ita": "Posso ottenere una ripartizione di tutte le spese associate a questo conto?",
+    "rus": "Могу ли я получить разбивку всех сборов, связанных с этим счетом?",
+    "tur": "Bu hesapla ilgili tüm ücretlerin bir dökümünü alabilir miyim?"
+  },
+  {
+    "eng": "Are there any fees for closing the account?",
+    "fra": "Y a-t-il des frais pour clôturer le compte?",
+    "deu": "Gibt es Gebühren für die Schließung des Kontos?",
+    "spa": "¿Hay tarifas por cerrar la cuenta?",
+    "ita": "Ci sono commissioni per la chiusura del conto?",
+    "rus": "Есть ли комиссия за закрытие счета?",
+    "tur": "Hesabı kapatma için ücret var mı?"
+  },
+  {
+    "eng": "What additional services does this bank offer?",
+    "fra": "Quels services supplémentaires cette banque propose-t-elle?",
+    "deu": "Welche zusätzlichen Dienstleistungen bietet diese Bank an?",
+    "spa": "¿Qué servicios adicionales ofrece este banco?",
+    "ita": "Quali servizi aggiuntivi offre questa banca?",
+    "rus": "Какие дополнительные услуги предлагает этот банк?",
+    "tur": "Bu banka hangi ek hizmetleri sunuyor?"
+  },
+  {
+    "eng": "Are there any discounts on fees for students or seniors?",
+    "fra": "Y a-t-il des réductions sur les frais pour les étudiants ou les seniors?",
+    "deu": "Gibt es Rabatte auf Gebühren für Studenten oder Senioren?",
+    "spa": "¿Hay descuentos en tarifas para estudiantes o personas mayores?",
+    "ita": "Ci sono sconti sulle commissioni per studenti o anziani?",
+    "rus": "Есть ли скидки на комиссии для студентов или пожилых людей?",
+    "tur": "Öğrenciler veya yaşlılar için ücretlerde indirim var mı?"
+  }
+]

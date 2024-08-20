@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "What size is this?",
+    "fra": "Quelle taille est-ce?",
+    "deu": "Welche Größe ist das?",
+    "spa": "¿Qué tamaño es este?",
+    "ita": "Che taglia è questa?",
+    "rus": "Какого это размера?",
+    "tur": "Bu ne boyut?"
+  },
+  {
+    "eng": "Do you have this in a larger size?",
+    "fra": "Avez-vous cela en plus grande taille?",
+    "deu": "Haben Sie das in einer größeren Größe?",
+    "spa": "¿Tiene esto en un tamaño más grande?",
+    "ita": "Hai questo in una taglia più grande?",
+    "rus": "У вас есть это в большем размере?",
+    "tur": "Bunun daha büyük boyutu var mı?"
+  },
+  {
+    "eng": "Do you have this in a smaller size?",
+    "fra": "Avez-vous cela en plus petite taille?",
+    "deu": "Haben Sie das in einer kleineren Größe?",
+    "spa": "¿Tiene esto en un tamaño más pequeño?",
+    "ita": "Hai questo in una taglia più piccola?",
+    "rus": "У вас есть это в меньшем размере?",
+    "tur": "Bunun daha küçük boyutu var mı?"
+  },
+  {
+    "eng": "What colors does this come in?",
+    "fra": "Dans quelles couleurs cela est-il disponible?",
+    "deu": "In welchen Farben gibt es das?",
+    "spa": "¿En qué colores viene esto?",
+    "ita": "In quali colori è disponibile?",
+    "rus": "В каких цветах это бывает?",
+    "tur": "Bu hangi renklerde var?"
+  },
+  {
+    "eng": "Do you have this in blue?",
+    "fra": "Avez-vous cela en bleu?",
+    "deu": "Haben Sie das in Blau?",
+    "spa": "¿Tiene esto en azul?",
+    "ita": "Hai questo in blu?",
+    "rus": "У вас есть это в синем цвете?",
+    "tur": "Bunun mavi rengi var mı?"
+  },
+  {
+    "eng": "I am looking for something in red.",
+    "fra": "Je cherche quelque chose en rouge.",
+    "deu": "Ich suche etwas in Rot.",
+    "spa": "Estoy buscando algo en rojo.",
+    "ita": "Sto cercando qualcosa di rosso.",
+    "rus": "Я ищу что-нибудь в красном цвете.",
+    "tur": "Kırmızı bir şey arıyorum."
+  },
+  {
+    "eng": "Is this made of cotton?",
+    "fra": "Est-ce que c'est en coton?",
+    "deu": "Ist das aus Baumwolle?",
+    "spa": "¿Esto está hecho de algodón?",
+    "ita": "Questo è fatto di cotone?",
+    "rus": "Это сделано из хлопка?",
+    "tur": "Bu pamuktan mı yapılmış?"
+  },
+  {
+    "eng": "What material is this?",
+    "fra": "Quel est le matériau de cela?",
+    "deu": "Aus welchem Material ist das?",
+    "spa": "¿De qué material es esto?",
+    "ita": "Di che materiale è fatto questo?",
+    "rus": "Из какого это материала?",
+    "tur": "Bu hangi malzemeden yapılmış?"
+  },
+  {
+    "eng": "Is this leather?",
+    "fra": "Est-ce du cuir?",
+    "deu": "Ist das Leder?",
+    "spa": "¿Esto es cuero?",
+    "ita": "È pelle?",
+    "rus": "Это кожа?",
+    "tur": "Bu deri mi?"
+  },
+  {
+    "eng": "Is this machine washable?",
+    "fra": "Cela est-il lavable en machine?",
+    "deu": "Ist das maschinenwaschbar?",
+    "spa": "¿Esto se puede lavar a máquina?",
+    "ita": "È lavabile in lavatrice?",
+    "rus": "Можно ли это стирать в машине?",
+    "tur": "Bu makinede yıkanabilir mi?"
+  },
+  {
+    "eng": "How do you clean this?",
+    "fra": "Comment nettoyez-vous cela?",
+    "deu": "Wie reinigt man das?",
+    "spa": "¿Cómo se limpia esto?",
+    "ita": "Come si pulisce questo?",
+    "rus": "Как это чистить?",
+    "tur": "Bunu nasıl temizlersiniz?"
+  },
+  {
+    "eng": "Is this water-resistant?",
+    "fra": "Cela est-il résistant à l'eau?",
+    "deu": "Ist das wasserabweisend?",
+    "spa": "¿Esto es resistente al agua?",
+    "ita": "È resistente all'acqua?",
+    "rus": "Это водостойкое?",
+    "tur": "Bu suya dayanıklı mı?"
+  },
+  {
+    "eng": "Is this available in other colors?",
+    "fra": "Cela est-il disponible en d'autres couleurs?",
+    "deu": "Gibt es das in anderen Farben?",
+    "spa": "¿Está esto disponible en otros colores?",
+    "ita": "È disponibile in altri colori?",
+    "rus": "Это доступно в других цветах?",
+    "tur": "Bu başka renklerde mevcut mu?"
+  },
+  {
+    "eng": "Do you have this in stock?",
+    "fra": "Avez-vous cela en stock?",
+    "deu": "Haben Sie das auf Lager?",
+    "spa": "¿Tiene esto en stock?",
+    "ita": "Hai questo in magazzino?",
+    "rus": "У вас есть это в наличии?",
+    "tur": "Bu stokta var mı?"
+  },
+  {
+    "eng": "Can you order this for me?",
+    "fra": "Pouvez-vous commander cela pour moi?",
+    "deu": "Können Sie das für mich bestellen?",
+    "spa": "¿Puede ordenar esto para mí?",
+    "ita": "Puoi ordinare questo per me?",
+    "rus": "Можете заказать это для меня?",
+    "tur": "Bunu benim için sipariş edebilir misiniz?"
+  },
+  {
+    "eng": "Is this hand-made?",
+    "fra": "Cela est-il fait à la main?",
+    "deu": "Ist das handgemacht?",
+    "spa": "¿Esto está hecho a mano?",
+    "ita": "È fatto a mano?",
+    "rus": "Это ручная работа?",
+    "tur": "Bu el yapımı mı?"
+  },
+  {
+    "eng": "Is there a warranty on this item?",
+    "fra": "Y a-t-il une garantie sur cet article?",
+    "deu": "Gibt es eine Garantie auf diesen Artikel?",
+    "spa": "¿Hay una garantía en este artículo?",
+    "ita": "C'è una garanzia su questo articolo?",
+    "rus": "Есть ли гарантия на этот товар?",
+    "tur": "Bu ürünün garantisi var mı?"
+  },
+  {
+    "eng": "Can I try this on?",
+    "fra": "Puis-je essayer cela?",
+    "deu": "Kann ich das anprobieren?",
+    "spa": "¿Puedo probar esto?",
+    "ita": "Posso provarlo?",
+    "rus": "Можно это примерить?",
+    "tur": "Bunu deneyebilir miyim?"
+  },
+  {
+    "eng": "Do you have a fitting room?",
+    "fra": "Avez-vous une cabine d'essayage?",
+    "deu": "Haben Sie eine Umkleidekabine?",
+    "spa": "¿Tiene un probador?",
+    "ita": "Hai un camerino?",
+    "rus": "У вас есть примерочная?",
+    "tur": "Soyunma odanız var mı?"
+  },
+  {
+    "eng": "Does this come in different sizes?",
+    "fra": "Cela est-il disponible en différentes tailles?",
+    "deu": "Gibt es das in verschiedenen Größen?",
+    "spa": "¿Esto viene en diferentes tamaños?",
+    "ita": "Questo è disponibile in diverse taglie?",
+    "rus": "Это бывает разных размеров?",
+    "tur": "Bu farklı boyutlarda geliyor mu?"
+  }
+]

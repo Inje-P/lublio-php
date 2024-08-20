@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "I need help immediately.",
+    "fra": "J'ai besoin d'aide immédiatement.",
+    "deu": "Ich brauche sofort Hilfe.",
+    "spa": "Necesito ayuda de inmediato.",
+    "ita": "Ho bisogno di aiuto immediatamente.",
+    "rus": "Мне нужна помощь немедленно.",
+    "tur": "Hemen yardıma ihtiyacım var."
+  },
+  {
+    "eng": "Call an ambulance.",
+    "fra": "Appelez une ambulance.",
+    "deu": "Rufen Sie einen Krankenwagen.",
+    "spa": "Llame a una ambulancia.",
+    "ita": "Chiama un'ambulanza.",
+    "rus": "Вызовите скорую помощь.",
+    "tur": "Bir ambulans çağırın."
+  },
+  {
+    "eng": "I need a doctor.",
+    "fra": "J'ai besoin d'un médecin.",
+    "deu": "Ich brauche einen Arzt.",
+    "spa": "Necesito un doctor.",
+    "ita": "Ho bisogno di un dottore.",
+    "rus": "Мне нужен врач.",
+    "tur": "Bir doktora ihtiyacım var."
+  },
+  {
+    "eng": "Can you help me?",
+    "fra": "Pouvez-vous m'aider?",
+    "deu": "Können Sie mir helfen?",
+    "spa": "¿Puedes ayudarme?",
+    "ita": "Puoi aiutarmi?",
+    "rus": "Вы можете мне помочь?",
+    "tur": "Bana yardım eder misiniz?"
+  },
+  {
+    "eng": "I need to go to the hospital.",
+    "fra": "Je dois aller à l'hôpital.",
+    "deu": "Ich muss ins Krankenhaus.",
+    "spa": "Necesito ir al hospital.",
+    "ita": "Devo andare in ospedale.",
+    "rus": "Мне нужно в больницу.",
+    "tur": "Hastaneye gitmem gerekiyor."
+  },
+  {
+    "eng": "Where is the nearest hospital?",
+    "fra": "Où est l'hôpital le plus proche?",
+    "deu": "Wo ist das nächste Krankenhaus?",
+    "spa": "¿Dónde está el hospital más cercano?",
+    "ita": "Dov'è l'ospedale più vicino?",
+    "rus": "Где находится ближайшая больница?",
+    "tur": "En yakın hastane nerede?"
+  },
+  {
+    "eng": "I need to contact my family.",
+    "fra": "Je dois contacter ma famille.",
+    "deu": "Ich muss meine Familie kontaktieren.",
+    "spa": "Necesito contactar a mi familia.",
+    "ita": "Devo contattare la mia famiglia.",
+    "rus": "Мне нужно связаться с семьей.",
+    "tur": "Ailemle iletişime geçmem gerekiyor."
+  },
+  {
+    "eng": "Can you call my family?",
+    "fra": "Pouvez-vous appeler ma famille?",
+    "deu": "Können Sie meine Familie anrufen?",
+    "spa": "¿Puedes llamar a mi familia?",
+    "ita": "Puoi chiamare la mia famiglia?",
+    "rus": "Можете позвонить моей семье?",
+    "tur": "Ailemi arayabilir misiniz?"
+  },
+  {
+    "eng": "I need to contact my embassy.",
+    "fra": "Je dois contacter mon ambassade.",
+    "deu": "Ich muss meine Botschaft kontaktieren.",
+    "spa": "Necesito contactar a mi embajada.",
+    "ita": "Devo contattare la mia ambasciata.",
+    "rus": "Мне нужно связаться с моим посольством.",
+    "tur": "Büyükelçiliğimle iletişime geçmem gerekiyor."
+  },
+  {
+    "eng": "Can you call the police?",
+    "fra": "Pouvez-vous appeler la police?",
+    "deu": "Können Sie die Polizei rufen?",
+    "spa": "¿Puede llamar a la policía?",
+    "ita": "Puoi chiamare la polizia?",
+    "rus": "Можете вызвать полицию?",
+    "tur": "Polisi arayabilir misiniz?"
+  },
+  {
+    "eng": "I am in danger.",
+    "fra": "Je suis en danger.",
+    "deu": "Ich bin in Gefahr.",
+    "spa": "Estoy en peligro.",
+    "ita": "Sono in pericolo.",
+    "rus": "Я в опасности.",
+    "tur": "Tehlikedeyim."
+  },
+  {
+    "eng": "I need emergency assistance.",
+    "fra": "J'ai besoin d'assistance d'urgence.",
+    "deu": "Ich brauche Notfallhilfe.",
+    "spa": "Necesito asistencia de emergencia.",
+    "ita": "Ho bisogno di assistenza di emergenza.",
+    "rus": "Мне нужна экстренная помощь.",
+    "tur": "Acil yardıma ihtiyacım var."
+  },
+  {
+    "eng": "Can you drive me to the hospital?",
+    "fra": "Pouvez-vous me conduire à l'hôpital?",
+    "deu": "Können Sie mich ins Krankenhaus fahren?",
+    "spa": "¿Puedes llevarme al hospital?",
+    "ita": "Puoi portarmi in ospedale?",
+    "rus": "Можете отвезти меня в больницу?",
+    "tur": "Beni hastaneye götürebilir misiniz?"
+  },
+  {
+    "eng": "I need a translator.",
+    "fra": "J'ai besoin d'un traducteur.",
+    "deu": "Ich brauche einen Übersetzer.",
+    "spa": "Necesito un traductor.",
+    "ita": "Ho bisogno di un traduttore.",
+    "rus": "Мне нужен переводчик.",
+    "tur": "Bir tercümana ihtiyacım var."
+  },
+  {
+    "eng": "Can you provide medical assistance?",
+    "fra": "Pouvez-vous fournir une assistance médicale?",
+    "deu": "Können Sie medizinische Hilfe leisten?",
+    "spa": "¿Puede proporcionar asistencia médica?",
+    "ita": "Puoi fornire assistenza medica?",
+    "rus": "Вы можете оказать медицинскую помощь?",
+    "tur": "Tıbbi yardım sağlayabilir misiniz?"
+  },
+  {
+    "eng": "Is there a pharmacy nearby?",
+    "fra": "Y a-t-il une pharmacie à proximité?",
+    "deu": "Gibt es eine Apotheke in der Nähe?",
+    "spa": "¿Hay una farmacia cerca?",
+    "ita": "C'è una farmacia nelle vicinanze?",
+    "rus": "Есть ли поблизости аптека?",
+    "tur": "Yakınlarda bir eczane var mı?"
+  },
+  {
+    "eng": "I need to see a specialist.",
+    "fra": "Je dois voir un spécialiste.",
+    "deu": "Ich muss einen Spezialisten aufsuchen.",
+    "spa": "Necesito ver a un especialista.",
+    "ita": "Devo vedere uno specialista.",
+    "rus": "Мне нужно к специалисту.",
+    "tur": "Bir uzmana görünmem gerekiyor."
+  },
+  {
+    "eng": "I have an emergency.",
+    "fra": "J'ai une urgence.",
+    "deu": "Ich habe einen Notfall.",
+    "spa": "Tengo una emergencia.",
+    "ita": "Ho un'emergenza.",
+    "rus": "У меня чрезвычайная ситуация.",
+    "tur": "Acil bir durumum var."
+  },
+  {
+    "eng": "Can you stay with me?",
+    "fra": "Pouvez-vous rester avec moi?",
+    "deu": "Können Sie bei mir bleiben?",
+    "spa": "¿Puedes quedarte conmigo?",
+    "ita": "Puoi restare con me?",
+    "rus": "Вы можете остаться со мной?",
+    "tur": "Benimle kalabilir misin?"
+  },
+  {
+    "eng": "I need immediate medical attention.",
+    "fra": "J'ai besoin de soins médicaux immédiats.",
+    "deu": "Ich brauche sofortige medizinische Hilfe.",
+    "spa": "Necesito atención médica inmediata.",
+    "ita": "Ho bisogno di cure mediche immediate.",
+    "rus": "Мне нужна немедленная медицинская помощь.",
+    "tur": "Acil tıbbi yardıma ihtiyacım var."
+  }
+]

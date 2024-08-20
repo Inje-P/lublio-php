@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "Can I have your contact information?",
+    "fra": "Puis-je avoir vos coordonnées?",
+    "deu": "Kann ich Ihre Kontaktdaten haben?",
+    "spa": "¿Puedo tener tu información de contacto?",
+    "ita": "Posso avere i tuoi contatti?",
+    "rus": "Можно ваш контакт?",
+    "tur": "İletişim bilgilerinizi alabilir miyim?"
+  },
+  {
+    "eng": "Can I give you my business card?",
+    "fra": "Puis-je vous donner ma carte de visite?",
+    "deu": "Kann ich Ihnen meine Visitenkarte geben?",
+    "spa": "¿Puedo darte mi tarjeta de presentación?",
+    "ita": "Posso darti il mio biglietto da visita?",
+    "rus": "Могу я дать вам свою визитку?",
+    "tur": "Size kartvizitimi verebilir miyim?"
+  },
+  {
+    "eng": "Do you have a business card?",
+    "fra": "Avez-vous une carte de visite?",
+    "deu": "Haben Sie eine Visitenkarte?",
+    "spa": "¿Tienes una tarjeta de presentación?",
+    "ita": "Hai un biglietto da visita?",
+    "rus": "У вас есть визитная карточка?",
+    "tur": "Kartvizitiniz var mı?"
+  },
+  {
+    "eng": "Can we exchange business cards?",
+    "fra": "Pouvons-nous échanger nos cartes de visite?",
+    "deu": "Können wir Visitenkarten austauschen?",
+    "spa": "¿Podemos intercambiar tarjetas de presentación?",
+    "ita": "Possiamo scambiarci i biglietti da visita?",
+    "rus": "Можем ли мы обменяться визитками?",
+    "tur": "Kartvizit değiştirebilir miyiz?"
+  },
+  {
+    "eng": "Can I have your email address?",
+    "fra": "Puis-je avoir votre adresse e-mail?",
+    "deu": "Kann ich Ihre E-Mail-Adresse haben?",
+    "spa": "¿Puedo tener tu dirección de correo electrónico?",
+    "ita": "Posso avere il tuo indirizzo email?",
+    "rus": "Можно ваш адрес электронной почты?",
+    "tur": "E-posta adresinizi alabilir miyim?"
+  },
+  {
+    "eng": "Can I have your phone number?",
+    "fra": "Puis-je avoir votre numéro de téléphone?",
+    "deu": "Kann ich Ihre Telefonnummer haben?",
+    "spa": "¿Puedo tener tu número de teléfono?",
+    "ita": "Posso avere il tuo numero di telefono?",
+    "rus": "Можно ваш номер телефона?",
+    "tur": "Telefon numaranızı alabilir miyim?"
+  },
+  {
+    "eng": "Can I have your LinkedIn profile?",
+    "fra": "Puis-je avoir votre profil LinkedIn?",
+    "deu": "Kann ich Ihr LinkedIn-Profil haben?",
+    "spa": "¿Puedo tener tu perfil de LinkedIn?",
+    "ita": "Posso avere il tuo profilo LinkedIn?",
+    "rus": "Можно ваш профиль в LinkedIn?",
+    "tur": "LinkedIn profilinizi alabilir miyim?"
+  },
+  {
+    "eng": "Can you write down your contact details?",
+    "fra": "Pouvez-vous écrire vos coordonnées?",
+    "deu": "Können Sie Ihre Kontaktdaten aufschreiben?",
+    "spa": "¿Puedes escribir tus datos de contacto?",
+    "ita": "Puoi scrivere i tuoi contatti?",
+    "rus": "Можете записать свои контактные данные?",
+    "tur": "İletişim bilgilerinizi yazabilir misiniz?"
+  },
+  {
+    "eng": "Do you prefer email or phone?",
+    "fra": "Préférez-vous l'e-mail ou le téléphone?",
+    "deu": "Bevorzugen Sie E-Mail oder Telefon?",
+    "spa": "¿Prefieres correo electrónico o teléfono?",
+    "ita": "Preferisci email o telefono?",
+    "rus": "Вы предпочитаете электронную почту или телефон?",
+    "tur": "E-posta mı yoksa telefon mu tercih edersiniz?"
+  },
+  {
+    "eng": "Can we stay in touch?",
+    "fra": "Pouvons-nous rester en contact?",
+    "deu": "Können wir in Kontakt bleiben?",
+    "spa": "¿Podemos mantenernos en contacto?",
+    "ita": "Possiamo restare in contatto?",
+    "rus": "Можем ли мы остаться на связи?",
+    "tur": "İletişimde kalabilir miyiz?"
+  },
+  {
+    "eng": "I'll send you an email.",
+    "fra": "Je vous enverrai un e-mail.",
+    "deu": "Ich werde Ihnen eine E-Mail schicken.",
+    "spa": "Te enviaré un correo electrónico.",
+    "ita": "Ti manderò un'email.",
+    "rus": "Я пришлю вам письмо.",
+    "tur": "Sana bir e-posta göndereceğim."
+  },
+  {
+    "eng": "Can you add me on LinkedIn?",
+    "fra": "Pouvez-vous m'ajouter sur LinkedIn?",
+    "deu": "Können Sie mich auf LinkedIn hinzufügen?",
+    "spa": "¿Puedes agregarme en LinkedIn?",
+    "ita": "Puoi aggiungermi su LinkedIn?",
+    "rus": "Можете добавить меня в LinkedIn?",
+    "tur": "Beni LinkedIn'e ekleyebilir misiniz?"
+  },
+  {
+    "eng": "Let's exchange phone numbers.",
+    "fra": "Échangeons nos numéros de téléphone.",
+    "deu": "Lassen Sie uns Telefonnummern austauschen.",
+    "spa": "Intercambiemos números de teléfono.",
+    "ita": "Scambiamoci i numeri di telefono.",
+    "rus": "Давайте обменяемся номерами телефонов.",
+    "tur": "Telefon numaralarını değiştirelim."
+  },
+  {
+    "eng": "Here is my business card.",
+    "fra": "Voici ma carte de visite.",
+    "deu": "Hier ist meine Visitenkarte.",
+    "spa": "Aquí está mi tarjeta de presentación.",
+    "ita": "Ecco il mio biglietto da visita.",
+    "rus": "Вот моя визитка.",
+    "tur": "İşte kartvizitim."
+  },
+  {
+    "eng": "Can you text me your contact details?",
+    "fra": "Pouvez-vous m'envoyer vos coordonnées par SMS?",
+    "deu": "Können Sie mir Ihre Kontaktdaten per SMS schicken?",
+    "spa": "¿Puedes enviarme tus datos de contacto por mensaje de texto?",
+    "ita": "Puoi mandarmi i tuoi contatti via SMS?",
+    "rus": "Можете отправить мне свои контакты по СМС?",
+    "tur": "Bana iletişim bilgilerinizi mesaj olarak gönderebilir misiniz?"
+  },
+  {
+    "eng": "How can I contact you?",
+    "fra": "Comment puis-je vous contacter?",
+    "deu": "Wie kann ich Sie kontaktieren?",
+    "spa": "¿Cómo puedo contactarte?",
+    "ita": "Come posso contattarti?",
+    "rus": "Как я могу связаться с вами?",
+    "tur": "Sizinle nasıl iletişime geçebilirim?"
+  },
+  {
+    "eng": "Let's connect on social media.",
+    "fra": "Connectons-nous sur les réseaux sociaux.",
+    "deu": "Lassen Sie uns in den sozialen Medien verbinden.",
+    "spa": "Conectémonos en las redes sociales.",
+    "ita": "Connettiamoci sui social media.",
+    "rus": "Давайте свяжемся в соцсетях.",
+    "tur": "Sosyal medyada bağlantı kuralım."
+  },
+  {
+    "eng": "Can I call you?",
+    "fra": "Puis-je vous appeler?",
+    "deu": "Kann ich Sie anrufen?",
+    "spa": "¿Puedo llamarte?",
+    "ita": "Posso chiamarti?",
+    "rus": "Могу я вам позвонить?",
+    "tur": "Sizi arayabilir miyim?"
+  },
+  {
+    "eng": "Can I follow you on Twitter?",
+    "fra": "Puis-je vous suivre sur Twitter?",
+    "deu": "Kann ich Ihnen auf Twitter folgen?",
+    "spa": "¿Puedo seguirte en Twitter?",
+    "ita": "Posso seguirti su Twitter?",
+    "rus": "Могу я подписаться на вас в Twitter?",
+    "tur": "Sizi Twitter'da takip edebilir miyim?"
+  },
+  {
+    "eng": "I'll connect with you on LinkedIn.",
+    "fra": "Je vais me connecter avec vous sur LinkedIn.",
+    "deu": "Ich werde mich mit Ihnen auf LinkedIn verbinden.",
+    "spa": "Me conectaré contigo en LinkedIn.",
+    "ita": "Mi connetterò con te su LinkedIn.",
+    "rus": "Я свяжусь с вами в LinkedIn.",
+    "tur": "Sizinle LinkedIn'de bağlantı kuracağım."
+  }
+]

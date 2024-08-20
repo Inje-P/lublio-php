@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "Is there free Wi-Fi?",
+    "fra": "Y a-t-il du Wi-Fi gratuit?",
+    "deu": "Gibt es kostenloses WLAN?",
+    "spa": "¿Hay Wi-Fi gratis?",
+    "ita": "C'è il Wi-Fi gratuito?",
+    "rus": "Есть ли бесплатный Wi-Fi?",
+    "tur": "Ücretsiz Wi-Fi var mı?"
+  },
+  {
+    "eng": "Is breakfast included?",
+    "fra": "Le petit-déjeuner est-il inclus?",
+    "deu": "Ist das Frühstück inbegriffen?",
+    "spa": "¿Está incluido el desayuno?",
+    "ita": "La colazione è inclusa?",
+    "rus": "Завтрак включен?",
+    "tur": "Kahvaltı dahil mi?"
+  },
+  {
+    "eng": "Is there a swimming pool?",
+    "fra": "Y a-t-il une piscine?",
+    "deu": "Gibt es einen Pool?",
+    "spa": "¿Hay una piscina?",
+    "ita": "C'è una piscina?",
+    "rus": "Есть ли бассейн?",
+    "tur": "Havuz var mı?"
+  },
+  {
+    "eng": "Do you have a fitness center?",
+    "fra": "Avez-vous un centre de remise en forme?",
+    "deu": "Haben Sie ein Fitnessstudio?",
+    "spa": "¿Tiene un gimnasio?",
+    "ita": "Avete una palestra?",
+    "rus": "У вас есть фитнес-центр?",
+    "tur": "Spor salonunuz var mı?"
+  },
+  {
+    "eng": "Is there a restaurant in the hotel?",
+    "fra": "Y a-t-il un restaurant dans l'hôtel?",
+    "deu": "Gibt es ein Restaurant im Hotel?",
+    "spa": "¿Hay un restaurante en el hotel?",
+    "ita": "C'è un ristorante nell'hotel?",
+    "rus": "В отеле есть ресторан?",
+    "tur": "Otelde restoran var mı?"
+  },
+  {
+    "eng": "Is there room service?",
+    "fra": "Y a-t-il un service en chambre?",
+    "deu": "Gibt es Zimmerservice?",
+    "spa": "¿Hay servicio de habitaciones?",
+    "ita": "C'è il servizio in camera?",
+    "rus": "Есть ли обслуживание номеров?",
+    "tur": "Oda servisi var mı?"
+  },
+  {
+    "eng": "Is there a bar in the hotel?",
+    "fra": "Y a-t-il un bar dans l'hôtel?",
+    "deu": "Gibt es eine Bar im Hotel?",
+    "spa": "¿Hay un bar en el hotel?",
+    "ita": "C'è un bar nell'hotel?",
+    "rus": "В отеле есть бар?",
+    "tur": "Otelde bar var mı?"
+  },
+  {
+    "eng": "Do you offer laundry service?",
+    "fra": "Proposez-vous un service de blanchisserie?",
+    "deu": "Bieten Sie einen Wäscheservice an?",
+    "spa": "¿Ofrecen servicio de lavandería?",
+    "ita": "Offrite il servizio di lavanderia?",
+    "rus": "Вы предлагаете услуги прачечной?",
+    "tur": "Çamaşır yıkama hizmeti sunuyor musunuz?"
+  },
+  {
+    "eng": "Is there a business center?",
+    "fra": "Y a-t-il un centre d'affaires?",
+    "deu": "Gibt es ein Business Center?",
+    "spa": "¿Hay un centro de negocios?",
+    "ita": "C'è un centro business?",
+    "rus": "Есть ли бизнес-центр?",
+    "tur": "İş merkezi var mı?"
+  },
+  {
+    "eng": "Do you have meeting rooms?",
+    "fra": "Avez-vous des salles de réunion?",
+    "deu": "Haben Sie Tagungsräume?",
+    "spa": "¿Tienen salas de reuniones?",
+    "ita": "Avete sale riunioni?",
+    "rus": "У вас есть конференц-залы?",
+    "tur": "Toplantı odalarınız var mı?"
+  },
+  {
+    "eng": "Is there parking available?",
+    "fra": "Y a-t-il un parking disponible?",
+    "deu": "Gibt es Parkplätze?",
+    "spa": "¿Hay estacionamiento disponible?",
+    "ita": "C'è parcheggio disponibile?",
+    "rus": "Есть ли парковка?",
+    "tur": "Park yeri var mı?"
+  },
+  {
+    "eng": "Do you offer airport shuttle service?",
+    "fra": "Proposez-vous un service de navette aéroport?",
+    "deu": "Bieten Sie einen Flughafentransfer an?",
+    "spa": "¿Ofrecen servicio de traslado al aeropuerto?",
+    "ita": "Offrite il servizio navetta per l'aeroporto?",
+    "rus": "Вы предлагаете трансфер до аэропорта?",
+    "tur": "Havaalanı servisi sunuyor musunuz?"
+  },
+  {
+    "eng": "Is there a spa in the hotel?",
+    "fra": "Y a-t-il un spa dans l'hôtel?",
+    "deu": "Gibt es ein Spa im Hotel?",
+    "spa": "¿Hay un spa en el hotel?",
+    "ita": "C'è una spa nell'hotel?",
+    "rus": "В отеле есть спа?",
+    "tur": "Otelde spa var mı?"
+  },
+  {
+    "eng": "Do you have babysitting services?",
+    "fra": "Avez-vous des services de garde d'enfants?",
+    "deu": "Bieten Sie Babysitterdienste an?",
+    "spa": "¿Tienen servicios de niñera?",
+    "ita": "Avete servizi di babysitting?",
+    "rus": "У вас есть услуги няни?",
+    "tur": "Bebek bakıcılığı hizmetiniz var mı?"
+  },
+  {
+    "eng": "Is there a concierge service?",
+    "fra": "Y a-t-il un service de conciergerie?",
+    "deu": "Gibt es einen Concierge-Service?",
+    "spa": "¿Hay servicio de conserjería?",
+    "ita": "C'è un servizio di concierge?",
+    "rus": "Есть ли услуга консьержа?",
+    "tur": "Concierge hizmeti var mı?"
+  },
+  {
+    "eng": "Are pets allowed in the hotel?",
+    "fra": "Les animaux sont-ils autorisés dans l'hôtel?",
+    "deu": "Sind Haustiere im Hotel erlaubt?",
+    "spa": "¿Se permiten mascotas en el hotel?",
+    "ita": "Gli animali domestici sono ammessi in hotel?",
+    "rus": "Разрешены ли в отеле домашние животные?",
+    "tur": "Otelde evcil hayvanlara izin var mı?"
+  },
+  {
+    "eng": "Is there a safe in the room?",
+    "fra": "Y a-t-il un coffre-fort dans la chambre?",
+    "deu": "Gibt es einen Safe im Zimmer?",
+    "spa": "¿Hay una caja fuerte en la habitación?",
+    "ita": "C'è una cassaforte in camera?",
+    "rus": "Есть ли сейф в номере?",
+    "tur": "Odada kasa var mı?"
+  },
+  {
+    "eng": "Do you provide toiletries?",
+    "fra": "Fournissez-vous des articles de toilette?",
+    "deu": "Stellen Sie Toilettenartikel zur Verfügung?",
+    "spa": "¿Proporcionan artículos de tocador?",
+    "ita": "Fornite articoli da toeletta?",
+    "rus": "Вы предоставляете туалетные принадлежности?",
+    "tur": "Banyo malzemeleri sağlıyor musunuz?"
+  },
+  {
+    "eng": "Is there a hairdryer in the room?",
+    "fra": "Y a-t-il un sèche-cheveux dans la chambre?",
+    "deu": "Gibt es einen Haartrockner im Zimmer?",
+    "spa": "¿Hay un secador de pelo en la habitación?",
+    "ita": "C'è un asciugacapelli in camera?",
+    "rus": "Есть ли фен в номере?",
+    "tur": "Odada saç kurutma makinesi var mı?"
+  },
+  {
+    "eng": "Do you have an iron and ironing board?",
+    "fra": "Avez-vous un fer et une planche à repasser?",
+    "deu": "Haben Sie ein Bügeleisen und ein Bügelbrett?",
+    "spa": "¿Tiene una plancha y una tabla de planchar?",
+    "ita": "Avete un ferro e un asse da stiro?",
+    "rus": "У вас есть утюг и гладильная доска?",
+    "tur": "Ütü ve ütü masası var mı?"
+  }
+]

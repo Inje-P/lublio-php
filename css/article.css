@@ -1,0 +1,60 @@
+/* Mobile - Portrait */
+@media (max-width: 575px) {
+  .article-title {
+    display: block;
+    width: 100%;
+    height: auto;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    letter-spacing: 0px;
+    color: var(--text);
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+  }
+
+  .article {
+    position: relative;
+    display: block;
+    width: 100%;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0px;
+    line-height: 1.6;
+    margin: 20px 0px;
+    text-align: left;
+    transition: all 0.2s;
+    color: var(--text);
+  }
+}
+
+/* Mobile - Landscape */
+@media (min-width: 576px) and (max-width: 767px) {
+  body {
+    display: none;
+  }
+}
+
+/* Tablet */
+@media (min-width: 768px) and (max-width: 991px) {
+  body {
+    display: none;
+  }
+}
+
+/* Desktop */
+@media (min-width: 992px) and (max-width: 1199px) {
+  body {
+    display: none;
+  }
+}
+
+/* Desktop - Large */
+@media (min-width: 1200px) {
+  body {
+    display: none;
+  }
+}

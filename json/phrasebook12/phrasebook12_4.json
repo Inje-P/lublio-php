@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "What are my rights as a tenant?",
+    "fra": "Quels sont mes droits en tant que locataire?",
+    "deu": "Was sind meine Rechte als Mieter?",
+    "spa": "¿Cuáles son mis derechos como inquilino?",
+    "ita": "Quali sono i miei diritti come inquilino?",
+    "rus": "Каковы мои права как арендатора?",
+    "tur": "Kiracı olarak haklarım nelerdir?"
+  },
+  {
+    "eng": "What are my responsibilities as a tenant?",
+    "fra": "Quelles sont mes responsabilités en tant que locataire?",
+    "deu": "Was sind meine Pflichten als Mieter?",
+    "spa": "¿Cuáles son mis responsabilidades como inquilino?",
+    "ita": "Quali sono le mie responsabilità come inquilino?",
+    "rus": "Каковы мои обязанности как арендатора?",
+    "tur": "Kiracı olarak sorumluluklarım nelerdir?"
+  },
+  {
+    "eng": "What are the rights of the landlord?",
+    "fra": "Quels sont les droits du propriétaire?",
+    "deu": "Was sind die Rechte des Vermieters?",
+    "spa": "¿Cuáles son los derechos del propietario?",
+    "ita": "Quali sono i diritti del proprietario?",
+    "rus": "Каковы права арендодателя?",
+    "tur": "Ev sahibinin hakları nelerdir?"
+  },
+  {
+    "eng": "What are the responsibilities of the landlord?",
+    "fra": "Quelles sont les responsabilités du propriétaire?",
+    "deu": "Was sind die Pflichten des Vermieters?",
+    "spa": "¿Cuáles son las responsabilidades del propietario?",
+    "ita": "Quali sono le responsabilità del proprietario?",
+    "rus": "Каковы обязанности арендодателя?",
+    "tur": "Ev sahibinin sorumlulukları nelerdir?"
+  },
+  {
+    "eng": "What should I do if I feel my rights are being violated?",
+    "fra": "Que dois-je faire si je pense que mes droits sont violés?",
+    "deu": "Was soll ich tun, wenn ich das Gefühl habe, dass meine Rechte verletzt werden?",
+    "spa": "¿Qué debo hacer si siento que mis derechos están siendo violados?",
+    "ita": "Cosa devo fare se penso che i miei diritti siano violati?",
+    "rus": "Что делать, если я считаю, что мои права нарушаются?",
+    "tur": "Haklarımın ihlal edildiğini düşünüyorsam ne yapmalıyım?"
+  },
+  {
+    "eng": "How can I file a complaint about unfair treatment?",
+    "fra": "Comment puis-je déposer une plainte pour traitement injuste?",
+    "deu": "Wie kann ich eine Beschwerde wegen unfairer Behandlung einreichen?",
+    "spa": "¿Cómo puedo presentar una queja por trato injusto?",
+    "ita": "Come posso presentare un reclamo per trattamento ingiusto?",
+    "rus": "Как я могу подать жалобу на несправедливое обращение?",
+    "tur": "Haksız muamele ile ilgili nasıl şikayette bulunabilirim?"
+  },
+  {
+    "eng": "What are my rights if I am arrested?",
+    "fra": "Quels sont mes droits si je suis arrêté?",
+    "deu": "Was sind meine Rechte, wenn ich verhaftet werde?",
+    "spa": "¿Cuáles son mis derechos si soy arrestado?",
+    "ita": "Quali sono i miei diritti se vengo arrestato?",
+    "rus": "Каковы мои права в случае ареста?",
+    "tur": "Tutuklanırsam haklarım nelerdir?"
+  },
+  {
+    "eng": "Do I have the right to a lawyer if I am detained?",
+    "fra": "Ai-je droit à un avocat si je suis détenu?",
+    "deu": "Habe ich das Recht auf einen Anwalt, wenn ich inhaftiert bin?",
+    "spa": "¿Tengo derecho a un abogado si estoy detenido?",
+    "ita": "Ho diritto a un avvocato se sono detenuto?",
+    "rus": "Имею ли я право на адвоката в случае задержания?",
+    "tur": "Gözaltına alınırsam avukat tutma hakkım var mı?"
+  },
+  {
+    "eng": "What should I do if I witness a crime?",
+    "fra": "Que dois-je faire si je suis témoin d'un crime?",
+    "deu": "Was soll ich tun, wenn ich Zeuge eines Verbrechens werde?",
+    "spa": "¿Qué debo hacer si soy testigo de un crimen?",
+    "ita": "Cosa devo fare se sono testimone di un crimine?",
+    "rus": "Что делать, если я стал свидетелем преступления?",
+    "tur": "Bir suça tanık olursam ne yapmalıyım?"
+  },
+  {
+    "eng": "What are the rights of an employee in the workplace?",
+    "fra": "Quels sont les droits d'un employé sur le lieu de travail?",
+    "deu": "Was sind die Rechte eines Arbeitnehmers am Arbeitsplatz?",
+    "spa": "¿Cuáles son los derechos de un empleado en el lugar de trabajo?",
+    "ita": "Quali sono i diritti di un dipendente sul posto di lavoro?",
+    "rus": "Каковы права работника на рабочем месте?",
+    "tur": "Çalışanların iş yerinde hakları nelerdir?"
+  },
+  {
+    "eng": "What are my responsibilities as an employee?",
+    "fra": "Quelles sont mes responsabilités en tant qu'employé?",
+    "deu": "Was sind meine Pflichten als Arbeitnehmer?",
+    "spa": "¿Cuáles son mis responsabilidades como empleado?",
+    "ita": "Quali sono le mie responsabilità come dipendente?",
+    "rus": "Каковы мои обязанности как работника?",
+    "tur": "Çalışan olarak sorumluluklarım nelerdir?"
+  },
+  {
+    "eng": "How can I report unsafe working conditions?",
+    "fra": "Comment puis-je signaler des conditions de travail dangereuses?",
+    "deu": "Wie kann ich unsichere Arbeitsbedingungen melden?",
+    "spa": "¿Cómo puedo reportar condiciones de trabajo inseguras?",
+    "ita": "Come posso segnalare condizioni di lavoro non sicure?",
+    "rus": "Как сообщить об опасных условиях труда?",
+    "tur": "Güvensiz çalışma koşullarını nasıl bildiririm?"
+  },
+  {
+    "eng": "What are my rights regarding healthcare access?",
+    "fra": "Quels sont mes droits en matière d'accès aux soins de santé?",
+    "deu": "Was sind meine Rechte in Bezug auf den Zugang zur Gesundheitsversorgung?",
+    "spa": "¿Cuáles son mis derechos respecto al acceso a la atención médica?",
+    "ita": "Quali sono i miei diritti riguardo l'accesso all'assistenza sanitaria?",
+    "rus": "Каковы мои права в отношении доступа к медицинскому обслуживанию?",
+    "tur": "Sağlık hizmetlerine erişim konusunda haklarım nelerdir?"
+  },
+  {
+    "eng": "What should I do if I experience discrimination?",
+    "fra": "Que dois-je faire si je subis une discrimination?",
+    "deu": "Was soll ich tun, wenn ich Diskriminierung erlebe?",
+    "spa": "¿Qué debo hacer si experimento discriminación?",
+    "ita": "Cosa devo fare se subisco discriminazioni?",
+    "rus": "Что делать, если я столкнулся с дискриминацией?",
+    "tur": "Ayrımcılığa uğrarsam ne yapmalıyım?"
+  },
+  {
+    "eng": "What are my rights as a consumer?",
+    "fra": "Quels sont mes droits en tant que consommateur?",
+    "deu": "Was sind meine Rechte als Verbraucher?",
+    "spa": "¿Cuáles son mis derechos como consumidor?",
+    "ita": "Quali sono i miei diritti come consumatore?",
+    "rus": "Каковы мои права как потребителя?",
+    "tur": "Tüketici olarak haklarım nelerdir?"
+  },
+  {
+    "eng": "How can I resolve a dispute with a seller?",
+    "fra": "Comment puis-je résoudre un litige avec un vendeur?",
+    "deu": "Wie kann ich einen Streit mit einem Verkäufer beilegen?",
+    "spa": "¿Cómo puedo resolver una disputa con un vendedor?",
+    "ita": "Come posso risolvere una disputa con un venditore?",
+    "rus": "Как разрешить спор с продавцом?",
+    "tur": "Satıcıyla yaşanan bir anlaşmazlığı nasıl çözebilirim?"
+  },
+  {
+    "eng": "What are my rights regarding data privacy?",
+    "fra": "Quels sont mes droits en matière de confidentialité des données?",
+    "deu": "Was sind meine Rechte in Bezug auf den Datenschutz?",
+    "spa": "¿Cuáles son mis derechos respecto a la privacidad de los datos?",
+    "ita": "Quali sono i miei diritti riguardo la privacy dei dati?",
+    "rus": "Каковы мои права в отношении конфиденциальности данных?",
+    "tur": "Veri gizliliği konusunda haklarım nelerdir?"
+  },
+  {
+    "eng": "How can I access my personal data held by companies?",
+    "fra": "Comment puis-je accéder à mes données personnelles détenues par des entreprises?",
+    "deu": "Wie kann ich auf meine persönlichen Daten zugreifen, die von Unternehmen gehalten werden?",
+    "spa": "¿Cómo puedo acceder a mis datos personales en poder de las empresas?",
+    "ita": "Come posso accedere ai miei dati personali detenuti dalle aziende?",
+    "rus": "Как я могу получить доступ к моим личным данным, хранящимся в компаниях?",
+    "tur": "Şirketlerin elinde bulunan kişisel verilerime nasıl erişebilirim?"
+  },
+  {
+    "eng": "What should I do if my personal data is breached?",
+    "fra": "Que dois-je faire si mes données personnelles sont compromises?",
+    "deu": "Was soll ich tun, wenn meine persönlichen Daten verletzt werden?",
+    "spa": "¿Qué debo hacer si se violan mis datos personales?",
+    "ita": "Cosa devo fare se i miei dati personali vengono violati?",
+    "rus": "Что делать, если мои личные данные были нарушены?",
+    "tur": "Kişisel verilerim ihlal edilirse ne yapmalıyım?"
+  },
+  {
+    "eng": "How can I learn more about my legal rights and responsibilities?",
+    "fra": "Comment puis-je en savoir plus sur mes droits et responsabilités légaux?",
+    "deu": "Wie kann ich mehr über meine gesetzlichen Rechte und Pflichten erfahren?",
+    "spa": "¿Cómo puedo aprender más sobre mis derechos y responsabilidades legales?",
+    "ita": "Come posso saperne di più sui miei diritti e responsabilità legali?",
+    "rus": "Как я могу узнать больше о своих правах и обязанностях по закону?",
+    "tur": "Yasal haklarım ve sorumluluklarım hakkında daha fazla bilgiye nasıl ulaşabilirim?"
+  }
+]

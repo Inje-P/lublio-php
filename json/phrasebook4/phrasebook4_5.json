@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "The food is delicious.",
+    "fra": "La nourriture est délicieuse.",
+    "deu": "Das Essen ist köstlich.",
+    "spa": "La comida está deliciosa.",
+    "ita": "Il cibo è delizioso.",
+    "rus": "Еда восхитительная.",
+    "tur": "Yemek çok lezzetli."
+  },
+  {
+    "eng": "This dish is amazing.",
+    "fra": "Ce plat est incroyable.",
+    "deu": "Dieses Gericht ist erstaunlich.",
+    "spa": "Este plato es increíble.",
+    "ita": "Questo piatto è incredibile.",
+    "rus": "Это блюдо потрясающее.",
+    "tur": "Bu yemek harika."
+  },
+  {
+    "eng": "I really enjoyed my meal.",
+    "fra": "J'ai vraiment apprécié mon repas.",
+    "deu": "Ich habe mein Essen wirklich genossen.",
+    "spa": "Realmente disfruté mi comida.",
+    "ita": "Ho davvero apprezzato il mio pasto.",
+    "rus": "Мне очень понравилось мое блюдо.",
+    "tur": "Yemeğimi gerçekten çok beğendim."
+  },
+  {
+    "eng": "The flavors are perfect.",
+    "fra": "Les saveurs sont parfaites.",
+    "deu": "Die Aromen sind perfekt.",
+    "spa": "Los sabores son perfectos.",
+    "ita": "I sapori sono perfetti.",
+    "rus": "Вкусы идеальны.",
+    "tur": "Tatlar mükemmel."
+  },
+  {
+    "eng": "The presentation is beautiful.",
+    "fra": "La présentation est belle.",
+    "deu": "Die Präsentation ist wunderschön.",
+    "spa": "La presentación es hermosa.",
+    "ita": "La presentazione è bellissima.",
+    "rus": "Презентация великолепная.",
+    "tur": "Sunum çok güzel."
+  },
+  {
+    "eng": "This is my favorite dish.",
+    "fra": "C'est mon plat préféré.",
+    "deu": "Das ist mein Lieblingsgericht.",
+    "spa": "Este es mi plato favorito.",
+    "ita": "Questo è il mio piatto preferito.",
+    "rus": "Это мое любимое блюдо.",
+    "tur": "Bu benim en sevdiğim yemek."
+  },
+  {
+    "eng": "The soup is too salty.",
+    "fra": "La soupe est trop salée.",
+    "deu": "Die Suppe ist zu salzig.",
+    "spa": "La sopa está demasiado salada.",
+    "ita": "La zuppa è troppo salata.",
+    "rus": "Суп слишком соленый.",
+    "tur": "Çorba çok tuzlu."
+  },
+  {
+    "eng": "The food is cold.",
+    "fra": "La nourriture est froide.",
+    "deu": "Das Essen ist kalt.",
+    "spa": "La comida está fría.",
+    "ita": "Il cibo è freddo.",
+    "rus": "Еда холодная.",
+    "tur": "Yemek soğuk."
+  },
+  {
+    "eng": "This steak is overcooked.",
+    "fra": "Ce steak est trop cuit.",
+    "deu": "Dieses Steak ist zu durch.",
+    "spa": "Este bistec está demasiado cocido.",
+    "ita": "Questa bistecca è troppo cotta.",
+    "rus": "Этот стейк пережарен.",
+    "tur": "Bu biftek fazla pişmiş."
+  },
+  {
+    "eng": "The pasta is undercooked.",
+    "fra": "Les pâtes ne sont pas assez cuites.",
+    "deu": "Die Pasta ist nicht gar.",
+    "spa": "La pasta está poco cocida.",
+    "ita": "La pasta è cruda.",
+    "rus": "Паста недоварена.",
+    "tur": "Makarna az pişmiş."
+  },
+  {
+    "eng": "There is a hair in my food.",
+    "fra": "Il y a un cheveu dans ma nourriture.",
+    "deu": "Da ist ein Haar in meinem Essen.",
+    "spa": "Hay un pelo en mi comida.",
+    "ita": "C'è un capello nel mio cibo.",
+    "rus": "В моей еде волос.",
+    "tur": "Yemeğimde bir saç var."
+  },
+  {
+    "eng": "This dish is too spicy.",
+    "fra": "Ce plat est trop épicé.",
+    "deu": "Dieses Gericht ist zu scharf.",
+    "spa": "Este plato está demasiado picante.",
+    "ita": "Questo piatto è troppo piccante.",
+    "rus": "Это блюдо слишком острое.",
+    "tur": "Bu yemek çok acı."
+  },
+  {
+    "eng": "The salad is not fresh.",
+    "fra": "La salade n'est pas fraîche.",
+    "deu": "Der Salat ist nicht frisch.",
+    "spa": "La ensalada no está fresca.",
+    "ita": "L'insalata non è fresca.",
+    "rus": "Салат не свежий.",
+    "tur": "Salata taze değil."
+  },
+  {
+    "eng": "I didn’t order this.",
+    "fra": "Je n'ai pas commandé ça.",
+    "deu": "Das habe ich nicht bestellt.",
+    "spa": "No pedí esto.",
+    "ita": "Non ho ordinato questo.",
+    "rus": "Я этого не заказывал.",
+    "tur": "Bunu sipariş etmemiştim."
+  },
+  {
+    "eng": "This drink is too sweet.",
+    "fra": "Cette boisson est trop sucrée.",
+    "deu": "Dieses Getränk ist zu süß.",
+    "spa": "Esta bebida está demasiado dulce.",
+    "ita": "Questa bevanda è troppo dolce.",
+    "rus": "Этот напиток слишком сладкий.",
+    "tur": "Bu içecek çok tatlı."
+  },
+  {
+    "eng": "The service is excellent.",
+    "fra": "Le service est excellent.",
+    "deu": "Der Service ist ausgezeichnet.",
+    "spa": "El servicio es excelente.",
+    "ita": "Il servizio è eccellente.",
+    "rus": "Обслуживание отличное.",
+    "tur": "Hizmet mükemmel."
+  },
+  {
+    "eng": "The portions are very generous.",
+    "fra": "Les portions sont très généreuses.",
+    "deu": "Die Portionen sind sehr großzügig.",
+    "spa": "Las porciones son muy generosas.",
+    "ita": "Le porzioni sono molto generose.",
+    "rus": "Порции очень большие.",
+    "tur": "Porsiyonlar çok cömert."
+  },
+  {
+    "eng": "The dessert is too rich.",
+    "fra": "Le dessert est trop riche.",
+    "deu": "Das Dessert ist zu mächtig.",
+    "spa": "El postre es demasiado pesado.",
+    "ita": "Il dessert è troppo ricco.",
+    "rus": "Десерт слишком жирный.",
+    "tur": "Tatlı çok ağır."
+  },
+  {
+    "eng": "The bread is stale.",
+    "fra": "Le pain est rassis.",
+    "deu": "Das Brot ist altbacken.",
+    "spa": "El pan está rancio.",
+    "ita": "Il pane è raffermo.",
+    "rus": "Хлеб черствый.",
+    "tur": "Ekmek bayat."
+  },
+  {
+    "eng": "I would like to speak to the manager.",
+    "fra": "Je voudrais parler au responsable.",
+    "deu": "Ich möchte mit dem Manager sprechen.",
+    "spa": "Me gustaría hablar con el gerente.",
+    "ita": "Vorrei parlare con il responsabile.",
+    "rus": "Я хотел бы поговорить с менеджером.",
+    "tur": "Müdür ile konuşmak istiyorum."
+  }
+]

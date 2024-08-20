@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "I would like to rent a car.",
+    "fra": "Je voudrais louer une voiture.",
+    "deu": "Ich möchte ein Auto mieten.",
+    "spa": "Me gustaría alquilar un coche.",
+    "ita": "Vorrei noleggiare una macchina.",
+    "rus": "Я хотел бы арендовать автомобиль.",
+    "tur": "Bir araba kiralamak istiyorum."
+  },
+  {
+    "eng": "I would like to rent a bicycle.",
+    "fra": "Je voudrais louer un vélo.",
+    "deu": "Ich möchte ein Fahrrad mieten.",
+    "spa": "Me gustaría alquilar una bicicleta.",
+    "ita": "Vorrei noleggiare una bicicletta.",
+    "rus": "Я хотел бы арендовать велосипед.",
+    "tur": "Bir bisiklet kiralamak istiyorum."
+  },
+  {
+    "eng": "How much does it cost to rent a car for a day?",
+    "fra": "Combien ça coûte de louer une voiture pour une journée?",
+    "deu": "Wie viel kostet es, ein Auto für einen Tag zu mieten?",
+    "spa": "¿Cuánto cuesta alquilar un coche por un día?",
+    "ita": "Quanto costa noleggiare una macchina per un giorno?",
+    "rus": "Сколько стоит аренда автомобиля на день?",
+    "tur": "Bir gün için araba kiralamak ne kadar?"
+  },
+  {
+    "eng": "How much does it cost to rent a bicycle for an hour?",
+    "fra": "Combien ça coûte de louer un vélo pour une heure?",
+    "deu": "Wie viel kostet es, ein Fahrrad für eine Stunde zu mieten?",
+    "spa": "¿Cuánto cuesta alquilar una bicicleta por una hora?",
+    "ita": "Quanto costa noleggiare una bicicletta per un'ora?",
+    "rus": "Сколько стоит аренда велосипеда на час?",
+    "tur": "Bir saat için bisiklet kiralamak ne kadar?"
+  },
+  {
+    "eng": "What documents do I need to rent a car?",
+    "fra": "Quels documents dois-je fournir pour louer une voiture?",
+    "deu": "Welche Dokumente brauche ich, um ein Auto zu mieten?",
+    "spa": "¿Qué documentos necesito para alquilar un coche?",
+    "ita": "Quali documenti sono necessari per noleggiare una macchina?",
+    "rus": "Какие документы нужны для аренды автомобиля?",
+    "tur": "Araba kiralamak için hangi belgeler gerekli?"
+  },
+  {
+    "eng": "Do I need insurance to rent a car?",
+    "fra": "Ai-je besoin d'une assurance pour louer une voiture?",
+    "deu": "Brauche ich eine Versicherung, um ein Auto zu mieten?",
+    "spa": "¿Necesito seguro para alquilar un coche?",
+    "ita": "Ho bisogno di un'assicurazione per noleggiare una macchina?",
+    "rus": "Нужна ли страховка для аренды автомобиля?",
+    "tur": "Araba kiralamak için sigortaya ihtiyacım var mı?"
+  },
+  {
+    "eng": "Is there a deposit required?",
+    "fra": "Y a-t-il un dépôt requis?",
+    "deu": "Ist eine Kaution erforderlich?",
+    "spa": "¿Se requiere un depósito?",
+    "ita": "È richiesto un deposito?",
+    "rus": "Требуется ли залог?",
+    "tur": "Depozito gerekli mi?"
+  },
+  {
+    "eng": "Can I return the car to a different location?",
+    "fra": "Puis-je rendre la voiture dans un autre endroit?",
+    "deu": "Kann ich das Auto an einem anderen Ort zurückgeben?",
+    "spa": "¿Puedo devolver el coche en otro lugar?",
+    "ita": "Posso restituire la macchina in un luogo diverso?",
+    "rus": "Могу ли я вернуть автомобиль в другом месте?",
+    "tur": "Arabayı farklı bir yerde teslim edebilir miyim?"
+  },
+  {
+    "eng": "Is there a mileage limit?",
+    "fra": "Y a-t-il une limite de kilométrage?",
+    "deu": "Gibt es eine Kilometerbegrenzung?",
+    "spa": "¿Hay un límite de kilometraje?",
+    "ita": "C'è un limite di chilometraggio?",
+    "rus": "Есть ли ограничение по пробегу?",
+    "tur": "Kilometre sınırı var mı?"
+  },
+  {
+    "eng": "Can I rent a GPS with the car?",
+    "fra": "Puis-je louer un GPS avec la voiture?",
+    "deu": "Kann ich ein GPS mit dem Auto mieten?",
+    "spa": "¿Puedo alquilar un GPS con el coche?",
+    "ita": "Posso noleggiare un GPS con la macchina?",
+    "rus": "Могу ли я арендовать GPS с автомобилем?",
+    "tur": "Araba ile birlikte GPS kiralayabilir miyim?"
+  },
+  {
+    "eng": "What type of fuel does the car use?",
+    "fra": "Quel type de carburant utilise la voiture?",
+    "deu": "Welchen Kraftstoff verwendet das Auto?",
+    "spa": "¿Qué tipo de combustible utiliza el coche?",
+    "ita": "Che tipo di carburante usa la macchina?",
+    "rus": "Какой вид топлива использует автомобиль?",
+    "tur": "Araba hangi tür yakıt kullanıyor?"
+  },
+  {
+    "eng": "Is there a helmet included with the bicycle?",
+    "fra": "Y a-t-il un casque inclus avec le vélo?",
+    "deu": "Ist ein Helm beim Fahrrad dabei?",
+    "spa": "¿Hay un casco incluido con la bicicleta?",
+    "ita": "C'è un casco incluso con la bicicletta?",
+    "rus": "Включен ли шлем с велосипедом?",
+    "tur": "Bisikletle birlikte kask veriliyor mu?"
+  },
+  {
+    "eng": "What is the maximum rental period?",
+    "fra": "Quelle est la durée maximale de location?",
+    "deu": "Was ist die maximale Mietdauer?",
+    "spa": "¿Cuál es el período máximo de alquiler?",
+    "ita": "Qual è il periodo massimo di noleggio?",
+    "rus": "Каков максимальный срок аренды?",
+    "tur": "Maksimum kiralama süresi nedir?"
+  },
+  {
+    "eng": "Can I extend the rental period?",
+    "fra": "Puis-je prolonger la période de location?",
+    "deu": "Kann ich die Mietdauer verlängern?",
+    "spa": "¿Puedo extender el período de alquiler?",
+    "ita": "Posso estendere il periodo di noleggio?",
+    "rus": "Могу ли я продлить срок аренды?",
+    "tur": "Kiralama süresini uzatabilir miyim?"
+  },
+  {
+    "eng": "Is there a late return fee?",
+    "fra": "Y a-t-il des frais de retour tardif?",
+    "deu": "Gibt es eine Gebühr für verspätete Rückgabe?",
+    "spa": "¿Hay una tarifa por devolución tardía?",
+    "ita": "C'è una tassa per la restituzione tardiva?",
+    "rus": "Есть ли плата за поздний возврат?",
+    "tur": "Geç teslim ücreti var mı?"
+  },
+  {
+    "eng": "Do you offer roadside assistance?",
+    "fra": "Offrez-vous une assistance routière?",
+    "deu": "Bieten Sie eine Pannenhilfe an?",
+    "spa": "¿Ofrecen asistencia en carretera?",
+    "ita": "Offrite assistenza stradale?",
+    "rus": "Предоставляете ли вы дорожную помощь?",
+    "tur": "Yol yardımı hizmeti sunuyor musunuz?"
+  },
+  {
+    "eng": "Can I rent a car seat for a child?",
+    "fra": "Puis-je louer un siège auto pour enfant?",
+    "deu": "Kann ich einen Kindersitz mieten?",
+    "spa": "¿Puedo alquilar un asiento para niños?",
+    "ita": "Posso noleggiare un seggiolino per bambini?",
+    "rus": "Могу ли я арендовать детское автокресло?",
+    "tur": "Çocuk için araba koltuğu kiralayabilir miyim?"
+  },
+  {
+    "eng": "Can I pay with a credit card?",
+    "fra": "Puis-je payer avec une carte de crédit?",
+    "deu": "Kann ich mit einer Kreditkarte bezahlen?",
+    "spa": "¿Puedo pagar con tarjeta de crédito?",
+    "ita": "Posso pagare con carta di credito?",
+    "rus": "Могу ли я оплатить кредитной картой?",
+    "tur": "Kredi kartı ile ödeyebilir miyim?"
+  },
+  {
+    "eng": "Do you have electric cars for rent?",
+    "fra": "Avez-vous des voitures électriques à louer?",
+    "deu": "Haben Sie Elektroautos zu vermieten?",
+    "spa": "¿Tienen coches eléctricos para alquilar?",
+    "ita": "Avete auto elettriche da noleggiare?",
+    "rus": "У вас есть электромобили в аренду?",
+    "tur": "Kiralamak için elektrikli aracınız var mı?"
+  },
+  {
+    "eng": "Is there a rental agreement I need to sign?",
+    "fra": "Y a-t-il un contrat de location à signer?",
+    "deu": "Gibt es einen Mietvertrag, den ich unterschreiben muss?",
+    "spa": "¿Hay un contrato de alquiler que necesito firmar?",
+    "ita": "C'è un contratto di noleggio che devo firmare?",
+    "rus": "Есть ли договор аренды, который мне нужно подписать?",
+    "tur": "İmzalamam gereken bir kiralama sözleşmesi var mı?"
+  }
+]

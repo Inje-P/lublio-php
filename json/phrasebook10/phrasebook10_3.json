@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "How can I open a bank account?",
+    "fra": "Comment puis-je ouvrir un compte bancaire?",
+    "deu": "Wie kann ich ein Bankkonto eröffnen?",
+    "spa": "¿Cómo puedo abrir una cuenta bancaria?",
+    "ita": "Come posso aprire un conto bancario?",
+    "rus": "Как я могу открыть банковский счет?",
+    "tur": "Nasıl bir banka hesabı açabilirim?"
+  },
+  {
+    "eng": "What documents do I need to open a bank account?",
+    "fra": "Quels documents dois-je fournir pour ouvrir un compte bancaire?",
+    "deu": "Welche Dokumente benötige ich, um ein Bankkonto zu eröffnen?",
+    "spa": "¿Qué documentos necesito para abrir una cuenta bancaria?",
+    "ita": "Quali documenti sono necessari per aprire un conto bancario?",
+    "rus": "Какие документы нужны для открытия банковского счета?",
+    "tur": "Banka hesabı açmak için hangi belgeler gerekli?"
+  },
+  {
+    "eng": "What types of bank accounts are available?",
+    "fra": "Quels types de comptes bancaires sont disponibles?",
+    "deu": "Welche Arten von Bankkonten sind verfügbar?",
+    "spa": "¿Qué tipos de cuentas bancarias están disponibles?",
+    "ita": "Quali tipi di conti bancari sono disponibili?",
+    "rus": "Какие виды банковских счетов существуют?",
+    "tur": "Hangi tür banka hesapları mevcut?"
+  },
+  {
+    "eng": "What is the minimum deposit to open a bank account?",
+    "fra": "Quel est le dépôt minimum pour ouvrir un compte bancaire?",
+    "deu": "Was ist die Mindesteinlage, um ein Bankkonto zu eröffnen?",
+    "spa": "¿Cuál es el depósito mínimo para abrir una cuenta bancaria?",
+    "ita": "Qual è il deposito minimo per aprire un conto bancario?",
+    "rus": "Каков минимальный депозит для открытия банковского счета?",
+    "tur": "Banka hesabı açmak için minimum para yatırma miktarı nedir?"
+  },
+  {
+    "eng": "Are there any fees for opening a bank account?",
+    "fra": "Y a-t-il des frais pour ouvrir un compte bancaire?",
+    "deu": "Gibt es Gebühren für die Eröffnung eines Bankkontos?",
+    "spa": "¿Hay tarifas por abrir una cuenta bancaria?",
+    "ita": "Ci sono commissioni per l'apertura di un conto bancario?",
+    "rus": "Есть ли комиссии за открытие банковского счета?",
+    "tur": "Banka hesabı açmak için herhangi bir ücret var mı?"
+  },
+  {
+    "eng": "Can I open a bank account online?",
+    "fra": "Puis-je ouvrir un compte bancaire en ligne?",
+    "deu": "Kann ich ein Bankkonto online eröffnen?",
+    "spa": "¿Puedo abrir una cuenta bancaria en línea?",
+    "ita": "Posso aprire un conto bancario online?",
+    "rus": "Могу ли я открыть банковский счет онлайн?",
+    "tur": "Çevrimiçi bir banka hesabı açabilir miyim?"
+  },
+  {
+    "eng": "What are the benefits of opening a bank account here?",
+    "fra": "Quels sont les avantages d'ouvrir un compte bancaire ici?",
+    "deu": "Was sind die Vorteile der Eröffnung eines Bankkontos hier?",
+    "spa": "¿Cuáles son los beneficios de abrir una cuenta bancaria aquí?",
+    "ita": "Quali sono i vantaggi di aprire un conto bancario qui?",
+    "rus": "Каковы преимущества открытия банковского счета здесь?",
+    "tur": "Burada banka hesabı açmanın faydaları nelerdir?"
+  },
+  {
+    "eng": "Do you offer student accounts?",
+    "fra": "Proposez-vous des comptes étudiants?",
+    "deu": "Bieten Sie Studentenkonten an?",
+    "spa": "¿Ofrecen cuentas para estudiantes?",
+    "ita": "Offrite conti per studenti?",
+    "rus": "Вы предлагаете студенческие счета?",
+    "tur": "Öğrenci hesapları sunuyor musunuz?"
+  },
+  {
+    "eng": "Can I open a joint account?",
+    "fra": "Puis-je ouvrir un compte joint?",
+    "deu": "Kann ich ein Gemeinschaftskonto eröffnen?",
+    "spa": "¿Puedo abrir una cuenta conjunta?",
+    "ita": "Posso aprire un conto cointestato?",
+    "rus": "Могу ли я открыть совместный счет?",
+    "tur": "Ortak hesap açabilir miyim?"
+  },
+  {
+    "eng": "What interest rates do you offer on savings accounts?",
+    "fra": "Quels taux d'intérêt proposez-vous sur les comptes d'épargne?",
+    "deu": "Welche Zinssätze bieten Sie auf Sparkonten an?",
+    "spa": "¿Qué tasas de interés ofrecen en las cuentas de ahorro?",
+    "ita": "Quali tassi di interesse offrite sui conti di risparmio?",
+    "rus": "Какие процентные ставки вы предлагаете по сберегательным счетам?",
+    "tur": "Tasarruf hesaplarında hangi faiz oranlarını sunuyorsunuz?"
+  },
+  {
+    "eng": "What types of identification do I need to open an account?",
+    "fra": "Quels types d'identification dois-je fournir pour ouvrir un compte?",
+    "deu": "Welche Arten von Ausweisen benötige ich, um ein Konto zu eröffnen?",
+    "spa": "¿Qué tipos de identificación necesito para abrir una cuenta?",
+    "ita": "Quali tipi di identificazione sono necessari per aprire un conto?",
+    "rus": "Какие виды идентификации нужны для открытия счета?",
+    "tur": "Hesap açmak için hangi kimlik belgeleri gerekli?"
+  },
+  {
+    "eng": "How long does it take to open a bank account?",
+    "fra": "Combien de temps faut-il pour ouvrir un compte bancaire?",
+    "deu": "Wie lange dauert es, ein Bankkonto zu eröffnen?",
+    "spa": "¿Cuánto tiempo toma abrir una cuenta bancaria?",
+    "ita": "Quanto tempo ci vuole per aprire un conto bancario?",
+    "rus": "Сколько времени занимает открытие банковского счета?",
+    "tur": "Banka hesabı açmak ne kadar sürer?"
+  },
+  {
+    "eng": "Can I open a bank account as a non-resident?",
+    "fra": "Puis-je ouvrir un compte bancaire en tant que non-résident?",
+    "deu": "Kann ich ein Bankkonto als Nicht-Einwohner eröffnen?",
+    "spa": "¿Puedo abrir una cuenta bancaria como no residente?",
+    "ita": "Posso aprire un conto bancario come non residente?",
+    "rus": "Могу ли я открыть банковский счет как нерезидент?",
+    "tur": "Yabancı olarak banka hesabı açabilir miyim?"
+  },
+  {
+    "eng": "Do I need to make an appointment to open a bank account?",
+    "fra": "Dois-je prendre rendez-vous pour ouvrir un compte bancaire?",
+    "deu": "Muss ich einen Termin vereinbaren, um ein Bankkonto zu eröffnen?",
+    "spa": "¿Necesito hacer una cita para abrir una cuenta bancaria?",
+    "ita": "Devo prendere un appuntamento per aprire un conto bancario?",
+    "rus": "Нужно ли записываться на прием для открытия банковского счета?",
+    "tur": "Banka hesabı açmak için randevu almam gerekiyor mu?"
+  },
+  {
+    "eng": "Can I get a debit card with my bank account?",
+    "fra": "Puis-je obtenir une carte de débit avec mon compte bancaire?",
+    "deu": "Kann ich eine Debitkarte mit meinem Bankkonto bekommen?",
+    "spa": "¿Puedo obtener una tarjeta de débito con mi cuenta bancaria?",
+    "ita": "Posso ottenere una carta di debito con il mio conto bancario?",
+    "rus": "Могу ли я получить дебетовую карту с моим банковским счетом?",
+    "tur": "Banka hesabımla birlikte bir banka kartı alabilir miyim?"
+  },
+  {
+    "eng": "Do you offer online banking services?",
+    "fra": "Proposez-vous des services bancaires en ligne?",
+    "deu": "Bieten Sie Online-Banking-Dienste an?",
+    "spa": "¿Ofrecen servicios de banca en línea?",
+    "ita": "Offrite servizi di banca online?",
+    "rus": "Вы предлагаете услуги онлайн-банкинга?",
+    "tur": "Çevrimiçi bankacılık hizmetleri sunuyor musunuz?"
+  },
+  {
+    "eng": "What is the process to open a business account?",
+    "fra": "Quelle est la procédure pour ouvrir un compte professionnel?",
+    "deu": "Was ist der Prozess zur Eröffnung eines Geschäftskontos?",
+    "spa": "¿Cuál es el proceso para abrir una cuenta comercial?",
+    "ita": "Qual è il processo per aprire un conto aziendale?",
+    "rus": "Каков процесс открытия бизнес-счета?",
+    "tur": "İş hesabı açma süreci nedir?"
+  },
+  {
+    "eng": "Do you have accounts with no monthly fees?",
+    "fra": "Avez-vous des comptes sans frais mensuels?",
+    "deu": "Haben Sie Konten ohne monatliche Gebühren?",
+    "spa": "¿Tienen cuentas sin tarifas mensuales?",
+    "ita": "Avete conti senza commissioni mensili?",
+    "rus": "У вас есть счета без ежемесячных комиссий?",
+    "tur": "Aylık ücreti olmayan hesaplarınız var mı?"
+  },
+  {
+    "eng": "Can I set up direct deposit with this account?",
+    "fra": "Puis-je configurer un dépôt direct avec ce compte?",
+    "deu": "Kann ich mit diesem Konto eine direkte Einzahlung einrichten?",
+    "spa": "¿Puedo configurar el depósito directo con esta cuenta?",
+    "ita": "Posso impostare un deposito diretto con questo conto?",
+    "rus": "Могу ли я настроить прямой депозит с этим счетом?",
+    "tur": "Bu hesapla doğrudan mevduat ayarlayabilir miyim?"
+  },
+  {
+    "eng": "What security measures are in place for this account?",
+    "fra": "Quelles mesures de sécurité sont en place pour ce compte?",
+    "deu": "Welche Sicherheitsmaßnahmen gibt es für dieses Konto?",
+    "spa": "¿Qué medidas de seguridad existen para esta cuenta?",
+    "ita": "Quali misure di sicurezza sono in atto per questo conto?",
+    "rus": "Какие меры безопасности предусмотрены для этого счета?",
+    "tur": "Bu hesap için hangi güvenlik önlemleri var?"
+  }
+]

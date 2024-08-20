@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "What type of visa do I need to enter the country?",
+    "fra": "Quel type de visa ai-je besoin pour entrer dans le pays?",
+    "deu": "Welche Art von Visum benötige ich für die Einreise ins Land?",
+    "spa": "¿Qué tipo de visa necesito para entrar al país?",
+    "ita": "Che tipo di visto mi serve per entrare nel paese?",
+    "rus": "Какой тип визы мне нужен для въезда в страну?",
+    "tur": "Ülkeye girmek için ne tür bir vizeye ihtiyacım var?"
+  },
+  {
+    "eng": "What are the requirements for a work visa?",
+    "fra": "Quels sont les exigences pour un visa de travail?",
+    "deu": "Welche Anforderungen gibt es für ein Arbeitsvisum?",
+    "spa": "¿Cuáles son los requisitos para una visa de trabajo?",
+    "ita": "Quali sono i requisiti per un visto di lavoro?",
+    "rus": "Каковы требования для получения рабочей визы?",
+    "tur": "Çalışma vizesi için gereksinimler nelerdir?"
+  },
+  {
+    "eng": "How do I apply for a student visa?",
+    "fra": "Comment puis-je postuler pour un visa étudiant?",
+    "deu": "Wie bewerbe ich mich für ein Studentenvisum?",
+    "spa": "¿Cómo solicito una visa de estudiante?",
+    "ita": "Come posso richiedere un visto per studenti?",
+    "rus": "Как подать заявление на студенческую визу?",
+    "tur": "Öğrenci vizesine nasıl başvurabilirim?"
+  },
+  {
+    "eng": "What is the duration of a tourist visa?",
+    "fra": "Quelle est la durée d'un visa touristique?",
+    "deu": "Wie lange gilt ein Touristenvisum?",
+    "spa": "¿Cuál es la duración de una visa de turista?",
+    "ita": "Qual è la durata di un visto turistico?",
+    "rus": "Каков срок действия туристической визы?",
+    "tur": "Turist vizesinin süresi ne kadar?"
+  },
+  {
+    "eng": "Are there any fees for visa applications?",
+    "fra": "Y a-t-il des frais pour les demandes de visa?",
+    "deu": "Gibt es Gebühren für Visumanträge?",
+    "spa": "¿Hay tarifas para las solicitudes de visa?",
+    "ita": "Ci sono tasse per le domande di visto?",
+    "rus": "Есть ли сборы за подачу заявления на визу?",
+    "tur": "Vize başvurusu için ücretler var mı?"
+  },
+  {
+    "eng": "What documents are required for a visa application?",
+    "fra": "Quels documents sont nécessaires pour une demande de visa?",
+    "deu": "Welche Dokumente werden für einen Visumantrag benötigt?",
+    "spa": "¿Qué documentos se requieren para una solicitud de visa?",
+    "ita": "Quali documenti sono necessari per una domanda di visto?",
+    "rus": "Какие документы необходимы для подачи заявления на визу?",
+    "tur": "Vize başvurusu için hangi belgeler gereklidir?"
+  },
+  {
+    "eng": "How long does it take to process a visa?",
+    "fra": "Combien de temps faut-il pour traiter un visa?",
+    "deu": "Wie lange dauert die Bearbeitung eines Visums?",
+    "spa": "¿Cuánto tiempo toma procesar una visa?",
+    "ita": "Quanto tempo ci vuole per elaborare un visto?",
+    "rus": "Сколько времени занимает обработка визы?",
+    "tur": "Bir vize işlemi ne kadar sürer?"
+  },
+  {
+    "eng": "Where can I submit my visa application?",
+    "fra": "Où puis-je soumettre ma demande de visa?",
+    "deu": "Wo kann ich meinen Visumantrag einreichen?",
+    "spa": "¿Dónde puedo presentar mi solicitud de visa?",
+    "ita": "Dove posso presentare la mia domanda di visto?",
+    "rus": "Где я могу подать заявление на визу?",
+    "tur": "Vize başvurumu nereye yapabilirim?"
+  },
+  {
+    "eng": "Can I apply for a visa online?",
+    "fra": "Puis-je postuler pour un visa en ligne?",
+    "deu": "Kann ich ein Visum online beantragen?",
+    "spa": "¿Puedo solicitar una visa en línea?",
+    "ita": "Posso richiedere un visto online?",
+    "rus": "Могу ли я подать заявление на визу онлайн?",
+    "tur": "Çevrimiçi vize başvurusu yapabilir miyim?"
+  },
+  {
+    "eng": "What should I do if my visa application is denied?",
+    "fra": "Que dois-je faire si ma demande de visa est refusée?",
+    "deu": "Was soll ich tun, wenn mein Visumantrag abgelehnt wird?",
+    "spa": "¿Qué debo hacer si se niega mi solicitud de visa?",
+    "ita": "Cosa devo fare se la mia domanda di visto viene respinta?",
+    "rus": "Что делать, если моя заявка на визу будет отклонена?",
+    "tur": "Vize başvurum reddedilirse ne yapmalıyım?"
+  },
+  {
+    "eng": "Can I appeal a visa rejection?",
+    "fra": "Puis-je faire appel d'un rejet de visa?",
+    "deu": "Kann ich gegen eine Visumsablehnung Berufung einlegen?",
+    "spa": "¿Puedo apelar una denegación de visa?",
+    "ita": "Posso fare ricorso contro un rifiuto del visto?",
+    "rus": "Могу ли я обжаловать отказ в визе?",
+    "tur": "Vize reddine itiraz edebilir miyim?"
+  },
+  {
+    "eng": "How do I extend my visa?",
+    "fra": "Comment puis-je prolonger mon visa?",
+    "deu": "Wie verlängere ich mein Visum?",
+    "spa": "¿Cómo extiendo mi visa?",
+    "ita": "Come posso estendere il mio visto?",
+    "rus": "Как продлить визу?",
+    "tur": "Vize nasıl uzatılır?"
+  },
+  {
+    "eng": "What are the penalties for overstaying a visa?",
+    "fra": "Quelles sont les pénalités pour avoir dépassé la durée de validité d'un visa?",
+    "deu": "Welche Strafen gibt es für den Überzug eines Visums?",
+    "spa": "¿Cuáles son las sanciones por exceder el tiempo de una visa?",
+    "ita": "Quali sono le sanzioni per aver superato la durata del visto?",
+    "rus": "Каковы штрафы за превышение срока действия визы?",
+    "tur": "Vize süresini aşmanın cezaları nelerdir?"
+  },
+  {
+    "eng": "Can I work while on a tourist visa?",
+    "fra": "Puis-je travailler avec un visa touristique?",
+    "deu": "Kann ich mit einem Touristenvisum arbeiten?",
+    "spa": "¿Puedo trabajar con una visa de turista?",
+    "ita": "Posso lavorare con un visto turistico?",
+    "rus": "Могу ли я работать по туристической визе?",
+    "tur": "Turist vizesiyle çalışabilir miyim?"
+  },
+  {
+    "eng": "Do I need a visa for transit through the country?",
+    "fra": "Ai-je besoin d'un visa pour transiter par le pays?",
+    "deu": "Benötige ich ein Visum für die Durchreise durch das Land?",
+    "spa": "¿Necesito una visa para transitar por el país?",
+    "ita": "Ho bisogno di un visto per il transito attraverso il paese?",
+    "rus": "Нужна ли мне виза для транзита через страну?",
+    "tur": "Ülke üzerinden transit geçiş için vize gerekli mi?"
+  },
+  {
+    "eng": "Are there any special requirements for a business visa?",
+    "fra": "Y a-t-il des exigences particulières pour un visa d'affaires?",
+    "deu": "Gibt es besondere Anforderungen für ein Geschäftsvisum?",
+    "spa": "¿Hay requisitos especiales para una visa de negocios?",
+    "ita": "Ci sono requisiti speciali per un visto d'affari?",
+    "rus": "Есть ли особые требования для получения деловой визы?",
+    "tur": "Ticari vize için özel gereksinimler var mı?"
+  },
+  {
+    "eng": "Can I bring my family with me on my visa?",
+    "fra": "Puis-je emmener ma famille avec moi avec mon visa?",
+    "deu": "Kann ich meine Familie mit meinem Visum mitbringen?",
+    "spa": "¿Puedo llevar a mi familia conmigo con mi visa?",
+    "ita": "Posso portare la mia famiglia con me con il mio visto?",
+    "rus": "Могу ли я привезти свою семью с собой по моей визе?",
+    "tur": "Vizemle ailemi yanımda getirebilir miyim?"
+  },
+  {
+    "eng": "What health insurance is required for a visa?",
+    "fra": "Quelle assurance santé est nécessaire pour un visa?",
+    "deu": "Welche Krankenversicherung wird für ein Visum benötigt?",
+    "spa": "¿Qué seguro de salud se requiere para una visa?",
+    "ita": "Quale assicurazione sanitaria è richiesta per un visto?",
+    "rus": "Какая медицинская страховка требуется для визы?",
+    "tur": "Vize için hangi sağlık sigortası gereklidir?"
+  },
+  {
+    "eng": "Do I need to register with local authorities after arriving?",
+    "fra": "Dois-je m'enregistrer auprès des autorités locales après mon arrivée?",
+    "deu": "Muss ich mich nach der Ankunft bei den örtlichen Behörden registrieren?",
+    "spa": "¿Debo registrarme con las autoridades locales después de llegar?",
+    "ita": "Devo registrarmi presso le autorità locali dopo l'arrivo?",
+    "rus": "Нужно ли мне регистрироваться у местных властей после прибытия?",
+    "tur": "Varıştan sonra yerel makamlara kayıt yaptırmam gerekiyor mu?"
+  },
+  {
+    "eng": "How can I check the status of my visa application?",
+    "fra": "Comment puis-je vérifier l'état de ma demande de visa?",
+    "deu": "Wie kann ich den Status meines Visumantrags überprüfen?",
+    "spa": "¿Cómo puedo verificar el estado de mi solicitud de visa?",
+    "ita": "Come posso controllare lo stato della mia domanda di visto?",
+    "rus": "Как я могу проверить статус моего заявления на визу?",
+    "tur": "Vize başvurumun durumunu nasıl kontrol edebilirim?"
+  }
+]

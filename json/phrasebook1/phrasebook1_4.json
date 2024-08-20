@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "How are you?",
+    "fra": "Comment ça va?",
+    "deu": "Wie geht's?",
+    "spa": "¿Cómo estás?",
+    "ita": "Come stai?",
+    "rus": "Как дела?",
+    "tur": "Nasılsın?"
+  },
+  {
+    "eng": "I'm fine, thank you.",
+    "fra": "Je vais bien, merci.",
+    "deu": "Mir geht es gut, danke.",
+    "spa": "Estoy bien, gracias.",
+    "ita": "Sto bene, grazie.",
+    "rus": "Я в порядке, спасибо.",
+    "tur": "İyiyim, teşekkür ederim."
+  },
+  {
+    "eng": "How about you?",
+    "fra": "Et toi?",
+    "deu": "Und du?",
+    "spa": "¿Y tú?",
+    "ita": "E tu?",
+    "rus": "А ты?",
+    "tur": "Ya sen?"
+  },
+  {
+    "eng": "Nice to meet you.",
+    "fra": "Enchanté de vous rencontrer.",
+    "deu": "Freut mich, Sie kennenzulernen.",
+    "spa": "Mucho gusto.",
+    "ita": "Piacere di conoscerti.",
+    "rus": "Приятно познакомиться.",
+    "tur": "Tanıştığımıza memnun oldum."
+  },
+  {
+    "eng": "Have a nice day.",
+    "fra": "Bonne journée.",
+    "deu": "Einen schönen Tag noch.",
+    "spa": "Que tengas un buen día.",
+    "ita": "Buona giornata.",
+    "rus": "Хорошего дня.",
+    "tur": "İyi günler."
+  },
+  {
+    "eng": "Take care.",
+    "fra": "Prends soin de toi.",
+    "deu": "Pass auf dich auf.",
+    "spa": "Cuídate.",
+    "ita": "Stammi bene.",
+    "rus": "Береги себя.",
+    "tur": "Kendine iyi bak."
+  },
+  {
+    "eng": "See you soon.",
+    "fra": "À bientôt.",
+    "deu": "Bis bald.",
+    "spa": "Hasta pronto.",
+    "ita": "A presto.",
+    "rus": "Увидимся скоро.",
+    "tur": "Yakında görüşürüz."
+  },
+  {
+    "eng": "Good luck.",
+    "fra": "Bonne chance.",
+    "deu": "Viel Glück.",
+    "spa": "Buena suerte.",
+    "ita": "Buona fortuna.",
+    "rus": "Удачи.",
+    "tur": "İyi şanslar."
+  },
+  {
+    "eng": "Congratulations.",
+    "fra": "Félicitations.",
+    "deu": "Herzlichen Glückwunsch.",
+    "spa": "Felicidades.",
+    "ita": "Congratulazioni.",
+    "rus": "Поздравляю.",
+    "tur": "Tebrikler."
+  },
+  {
+    "eng": "Happy birthday.",
+    "fra": "Joyeux anniversaire.",
+    "deu": "Alles Gute zum Geburtstag.",
+    "spa": "Feliz cumpleaños.",
+    "ita": "Buon compleanno.",
+    "rus": "С днем рождения.",
+    "tur": "Doğum günün kutlu olsun."
+  },
+  {
+    "eng": "Merry Christmas.",
+    "fra": "Joyeux Noël.",
+    "deu": "Frohe Weihnachten.",
+    "spa": "Feliz Navidad.",
+    "ita": "Buon Natale.",
+    "rus": "С Рождеством.",
+    "tur": "Mutlu Noeller."
+  },
+  {
+    "eng": "Happy New Year.",
+    "fra": "Bonne année.",
+    "deu": "Frohes neues Jahr.",
+    "spa": "Feliz Año Nuevo.",
+    "ita": "Felice Anno Nuovo.",
+    "rus": "С Новым годом.",
+    "tur": "Mutlu yıllar."
+  },
+  {
+    "eng": "Enjoy your meal.",
+    "fra": "Bon appétit.",
+    "deu": "Guten Appetit.",
+    "spa": "Buen provecho.",
+    "ita": "Buon appetito.",
+    "rus": "Приятного аппетита.",
+    "tur": "Afiyet olsun."
+  },
+  {
+    "eng": "Have a good trip.",
+    "fra": "Bon voyage.",
+    "deu": "Gute Reise.",
+    "spa": "Buen viaje.",
+    "ita": "Buon viaggio.",
+    "rus": "Счастливого пути.",
+    "tur": "İyi yolculuklar."
+  },
+  {
+    "eng": "I'm sorry.",
+    "fra": "Je suis désolé.",
+    "deu": "Es tut mir leid.",
+    "spa": "Lo siento.",
+    "ita": "Mi dispiace.",
+    "rus": "Извините.",
+    "tur": "Özür dilerim."
+  },
+  {
+    "eng": "Thank you.",
+    "fra": "Merci.",
+    "deu": "Danke.",
+    "spa": "Gracias.",
+    "ita": "Grazie.",
+    "rus": "Спасибо.",
+    "tur": "Teşekkür ederim."
+  },
+  {
+    "eng": "You're welcome.",
+    "fra": "De rien.",
+    "deu": "Gern geschehen.",
+    "spa": "De nada.",
+    "ita": "Prego.",
+    "rus": "Пожалуйста.",
+    "tur": "Bir şey değil."
+  },
+  {
+    "eng": "Please.",
+    "fra": "S'il vous plaît.",
+    "deu": "Bitte.",
+    "spa": "Por favor.",
+    "ita": "Per favore.",
+    "rus": "Пожалуйста.",
+    "tur": "Lütfen."
+  },
+  {
+    "eng": "Excuse me.",
+    "fra": "Excusez-moi.",
+    "deu": "Entschuldigen Sie.",
+    "spa": "Disculpe.",
+    "ita": "Mi scusi.",
+    "rus": "Извините.",
+    "tur": "Affedersiniz."
+  },
+  {
+    "eng": "I hope you have a great day.",
+    "fra": "J'espère que vous passez une bonne journée.",
+    "deu": "Ich hoffe, Sie haben einen schönen Tag.",
+    "spa": "Espero que tengas un gran día.",
+    "ita": "Spero che tu abbia una buona giornata.",
+    "rus": "Надеюсь, у вас будет отличный день.",
+    "tur": "Umarım harika bir gün geçirirsiniz."
+  }
+]

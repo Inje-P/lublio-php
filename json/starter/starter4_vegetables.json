@@ -1,0 +1,102 @@
+[
+  {
+    "emoji": "🥕",
+    "english": "carrot",
+    "french": "la carotte (f.)",
+    "german": "die Karotte (f.)",
+    "italian": "la carota (f.)",
+    "spanish": "la zanahoria (f.)",
+    "russian": "морковь",
+    "turkish": "havuç"
+  },
+  {
+    "emoji": "🍅",
+    "english": "tomato",
+    "french": "la tomate (f.)",
+    "german": "die Tomate (f.)",
+    "italian": "il pomodoro (m.)",
+    "spanish": "el tomate (m.)",
+    "russian": "помидор",
+    "turkish": "domates"
+  },
+  {
+    "emoji": "🥒",
+    "english": "cucumber",
+    "french": "le concombre (m.)",
+    "german": "die Gurke (f.)",
+    "italian": "il cetriolo (m.)",
+    "spanish": "el pepino (m.)",
+    "russian": "огурец",
+    "turkish": "salatalık"
+  },
+  {
+    "emoji": "🌶️",
+    "english": "hot pepper",
+    "french": "le piment (m.)",
+    "german": "die Chilischote (f.)",
+    "italian": "il peperoncino (m.)",
+    "spanish": "el pimiento (m.)",
+    "russian": "перец",
+    "turkish": "acı biber"
+  },
+  {
+    "emoji": "🥔",
+    "english": "potato",
+    "french": "la pomme de terre (f.)",
+    "german": "die Kartoffel (f.)",
+    "italian": "la patata (f.)",
+    "spanish": "la patata (f.)",
+    "russian": "картофель",
+    "turkish": "patates"
+  },
+  {
+    "emoji": "🧅",
+    "english": "onion",
+    "french": "l'oignon (m.)",
+    "german": "die Zwiebel (f.)",
+    "italian": "la cipolla (f.)",
+    "spanish": "la cebolla (f.)",
+    "russian": "лук",
+    "turkish": "soğan"
+  },
+  {
+    "emoji": "🥬",
+    "english": "cabbage",
+    "french": "le chou (m.)",
+    "german": "der Kohl (m.)",
+    "italian": "il cavolo (m.)",
+    "spanish": "la col (f.)",
+    "russian": "капуста",
+    "turkish": "lahana"
+  },
+  {
+    "emoji": "🌽",
+    "english": "corn",
+    "french": "le maïs (m.)",
+    "german": "der Mais (m.)",
+    "italian": "il mais (m.)",
+    "spanish": "el maíz (m.)",
+    "russian": "кукуруза",
+    "turkish": "mısır"
+  },
+  {
+    "emoji": "🥑",
+    "english": "avocado",
+    "french": "l'avocat (m.)",
+    "german": "die Avocado (f.)",
+    "italian": "l'avocado (m.)",
+    "spanish": "el aguacate (m.)",
+    "russian": "авокадо",
+    "turkish": "avokado"
+  },
+  {
+    "emoji": "🍆",
+    "english": "eggplant",
+    "french": "l'aubergine (f.)",
+    "german": "die Aubergine (f.)",
+    "italian": "la melanzana (f.)",
+    "spanish": "la berenjena (f.)",
+    "russian": "баклажан",
+    "turkish": "patlıcan"
+  }
+]

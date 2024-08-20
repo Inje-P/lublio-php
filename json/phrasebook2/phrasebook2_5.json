@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "Can you call a taxi for me?",
+    "fra": "Pouvez-vous appeler un taxi pour moi?",
+    "deu": "Können Sie mir ein Taxi rufen?",
+    "spa": "¿Puede llamar un taxi para mí?",
+    "ita": "Puoi chiamare un taxi per me?",
+    "rus": "Можете вызвать мне такси?",
+    "tur": "Benim için taksi çağırabilir misiniz?"
+  },
+  {
+    "eng": "Where can I find a taxi?",
+    "fra": "Où puis-je trouver un taxi?",
+    "deu": "Wo kann ich ein Taxi finden?",
+    "spa": "¿Dónde puedo encontrar un taxi?",
+    "ita": "Dove posso trovare un taxi?",
+    "rus": "Где я могу найти такси?",
+    "tur": "Nerede taksi bulabilirim?"
+  },
+  {
+    "eng": "How long will it take for the taxi to arrive?",
+    "fra": "Combien de temps faudra-t-il pour que le taxi arrive?",
+    "deu": "Wie lange wird es dauern, bis das Taxi ankommt?",
+    "spa": "¿Cuánto tiempo tardará en llegar el taxi?",
+    "ita": "Quanto tempo ci vorrà per l'arrivo del taxi?",
+    "rus": "Сколько времени потребуется, чтобы такси приехало?",
+    "tur": "Taksinin gelmesi ne kadar sürer?"
+  },
+  {
+    "eng": "How much does it cost to go to the airport?",
+    "fra": "Combien ça coûte pour aller à l'aéroport?",
+    "deu": "Wie viel kostet es, zum Flughafen zu fahren?",
+    "spa": "¿Cuánto cuesta ir al aeropuerto?",
+    "ita": "Quanto costa andare all'aeroporto?",
+    "rus": "Сколько стоит доехать до аэропорта?",
+    "tur": "Havaalanına gitmek ne kadar tutar?"
+  },
+  {
+    "eng": "Please take me to this address.",
+    "fra": "S'il vous plaît, emmenez-moi à cette adresse.",
+    "deu": "Bitte bringen Sie mich zu dieser Adresse.",
+    "spa": "Por favor, llévame a esta dirección.",
+    "ita": "Per favore, portami a questo indirizzo.",
+    "rus": "Пожалуйста, отвезите меня по этому адресу.",
+    "tur": "Lütfen beni bu adrese götürün."
+  },
+  {
+    "eng": "Can you wait for me here?",
+    "fra": "Pouvez-vous m'attendre ici?",
+    "deu": "Können Sie hier auf mich warten?",
+    "spa": "¿Puedes esperarme aquí?",
+    "ita": "Puoi aspettarmi qui?",
+    "rus": "Можете подождать меня здесь?",
+    "tur": "Burada beni bekleyebilir misiniz?"
+  },
+  {
+    "eng": "Do you accept credit cards?",
+    "fra": "Acceptez-vous les cartes de crédit?",
+    "deu": "Akzeptieren Sie Kreditkarten?",
+    "spa": "¿Aceptan tarjetas de crédito?",
+    "ita": "Accettate carte di credito?",
+    "rus": "Вы принимаете кредитные карты?",
+    "tur": "Kredi kartı kabul ediyor musunuz?"
+  },
+  {
+    "eng": "Can you take me to the train station?",
+    "fra": "Pouvez-vous m'emmener à la gare?",
+    "deu": "Können Sie mich zum Bahnhof bringen?",
+    "spa": "¿Puede llevarme a la estación de tren?",
+    "ita": "Puoi portarmi alla stazione?",
+    "rus": "Можете отвезти меня на вокзал?",
+    "tur": "Beni tren istasyonuna götürebilir misiniz?"
+  },
+  {
+    "eng": "How much is the fare to the city center?",
+    "fra": "Combien coûte la course jusqu'au centre-ville?",
+    "deu": "Wie viel kostet die Fahrt ins Stadtzentrum?",
+    "spa": "¿Cuánto cuesta la tarifa hasta el centro de la ciudad?",
+    "ita": "Quanto costa la tariffa per il centro città?",
+    "rus": "Сколько стоит проезд до центра города?",
+    "tur": "Şehir merkezine ücret ne kadar?"
+  },
+  {
+    "eng": "Please drive me to the hotel.",
+    "fra": "Veuillez me conduire à l'hôtel.",
+    "deu": "Bitte fahren Sie mich zum Hotel.",
+    "spa": "Por favor, llévame al hotel.",
+    "ita": "Per favore, portami in hotel.",
+    "rus": "Пожалуйста, отвезите меня в гостиницу.",
+    "tur": "Lütfen beni otele götürün."
+  },
+  {
+    "eng": "Is this the right way to the airport?",
+    "fra": "Est-ce le bon chemin pour aller à l'aéroport?",
+    "deu": "Ist das der richtige Weg zum Flughafen?",
+    "spa": "¿Es este el camino correcto hacia el aeropuerto?",
+    "ita": "È questa la strada giusta per l'aeroporto?",
+    "rus": "Это правильный путь до аэропорта?",
+    "tur": "Bu havaalanına giden doğru yol mu?"
+  },
+  {
+    "eng": "Can you help me with my luggage?",
+    "fra": "Pouvez-vous m'aider avec mes bagages?",
+    "deu": "Können Sie mir mit meinem Gepäck helfen?",
+    "spa": "¿Puede ayudarme con mi equipaje?",
+    "ita": "Può aiutarmi con i bagagli?",
+    "rus": "Можете помочь мне с багажом?",
+    "tur": "Bagajımla bana yardımcı olabilir misiniz?"
+  },
+  {
+    "eng": "Can I share the taxi with someone?",
+    "fra": "Puis-je partager le taxi avec quelqu'un?",
+    "deu": "Kann ich das Taxi mit jemandem teilen?",
+    "spa": "¿Puedo compartir el taxi con alguien?",
+    "ita": "Posso condividere il taxi con qualcuno?",
+    "rus": "Могу ли я разделить такси с кем-то?",
+    "tur": "Taksiyi biriyle paylaşabilir miyim?"
+  },
+  {
+    "eng": "Can you take the fastest route?",
+    "fra": "Pouvez-vous prendre le chemin le plus rapide?",
+    "deu": "Können Sie den schnellsten Weg nehmen?",
+    "spa": "¿Puedes tomar la ruta más rápida?",
+    "ita": "Puoi prendere il percorso più veloce?",
+    "rus": "Можете выбрать самый быстрый маршрут?",
+    "tur": "En hızlı güzergahı kullanabilir misiniz?"
+  },
+  {
+    "eng": "Can you take the scenic route?",
+    "fra": "Pouvez-vous prendre la route pittoresque?",
+    "deu": "Können Sie die landschaftlich schöne Route nehmen?",
+    "spa": "¿Puede tomar la ruta panorámica?",
+    "ita": "Puoi prendere il percorso panoramico?",
+    "rus": "Можете поехать по живописному маршруту?",
+    "tur": "Manzaralı yolu kullanabilir misiniz?"
+  },
+  {
+    "eng": "Is this taxi available?",
+    "fra": "Ce taxi est-il disponible?",
+    "deu": "Ist dieses Taxi verfügbar?",
+    "spa": "¿Está disponible este taxi?",
+    "ita": "Questo taxi è disponibile?",
+    "rus": "Это такси свободно?",
+    "tur": "Bu taksi müsait mi?"
+  },
+  {
+    "eng": "How long will the trip take?",
+    "fra": "Combien de temps durera le voyage?",
+    "deu": "Wie lange dauert die Fahrt?",
+    "spa": "¿Cuánto tiempo tomará el viaje?",
+    "ita": "Quanto durerà il viaggio?",
+    "rus": "Сколько времени займет поездка?",
+    "tur": "Yolculuk ne kadar sürecek?"
+  },
+  {
+    "eng": "Please drop me off here.",
+    "fra": "Déposez-moi ici, s'il vous plaît.",
+    "deu": "Bitte lassen Sie mich hier aussteigen.",
+    "spa": "Por favor, déjame aquí.",
+    "ita": "Per favore, lasciami qui.",
+    "rus": "Пожалуйста, высадите меня здесь.",
+    "tur": "Lütfen beni burada indir."
+  },
+  {
+    "eng": "Do you have a taxi number I can call?",
+    "fra": "Avez-vous un numéro de taxi que je peux appeler?",
+    "deu": "Haben Sie eine Taxinummer, die ich anrufen kann?",
+    "spa": "¿Tienes un número de taxi al que puedo llamar?",
+    "ita": "Hai un numero di taxi che posso chiamare?",
+    "rus": "У вас есть номер такси, по которому я могу позвонить?",
+    "tur": "Arayabileceğim bir taksi numaranız var mı?"
+  },
+  {
+    "eng": "Can I pay in cash?",
+    "fra": "Puis-je payer en espèces?",
+    "deu": "Kann ich bar bezahlen?",
+    "spa": "¿Puedo pagar en efectivo?",
+    "ita": "Posso pagare in contanti?",
+    "rus": "Могу ли я заплатить наличными?",
+    "tur": "Nakit ödeyebilir miyim?"
+  }
+]

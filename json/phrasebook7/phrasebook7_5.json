@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "What are your working hours?",
+    "fra": "Quelles sont vos heures de travail?",
+    "deu": "Was sind Ihre Arbeitszeiten?",
+    "spa": "¿Cuáles son sus horas de trabajo?",
+    "ita": "Quali sono le tue ore di lavoro?",
+    "rus": "Какие у вас рабочие часы?",
+    "tur": "Çalışma saatleriniz nedir?"
+  },
+  {
+    "eng": "What is your work schedule?",
+    "fra": "Quel est votre emploi du temps?",
+    "deu": "Wie sieht Ihr Arbeitsplan aus?",
+    "spa": "¿Cuál es su horario de trabajo?",
+    "ita": "Qual è il tuo programma di lavoro?",
+    "rus": "Каков ваш рабочий график?",
+    "tur": "Çalışma programınız nedir?"
+  },
+  {
+    "eng": "When do you start work?",
+    "fra": "Quand commencez-vous à travailler?",
+    "deu": "Wann fangen Sie an zu arbeiten?",
+    "spa": "¿Cuándo empieza a trabajar?",
+    "ita": "Quando inizi a lavorare?",
+    "rus": "Когда вы начинаете работать?",
+    "tur": "İşe ne zaman başlıyorsunuz?"
+  },
+  {
+    "eng": "When do you finish work?",
+    "fra": "Quand terminez-vous de travailler?",
+    "deu": "Wann hören Sie auf zu arbeiten?",
+    "spa": "¿Cuándo termina de trabajar?",
+    "ita": "Quando finisci di lavorare?",
+    "rus": "Когда вы заканчиваете работу?",
+    "tur": "İşi ne zaman bitiriyorsunuz?"
+  },
+  {
+    "eng": "Do you work on weekends?",
+    "fra": "Travaillez-vous le week-end?",
+    "deu": "Arbeiten Sie am Wochenende?",
+    "spa": "¿Trabaja los fines de semana?",
+    "ita": "Lavori nei fine settimana?",
+    "rus": "Вы работаете по выходным?",
+    "tur": "Hafta sonları çalışıyor musunuz?"
+  },
+  {
+    "eng": "Do you work on holidays?",
+    "fra": "Travaillez-vous les jours fériés?",
+    "deu": "Arbeiten Sie an Feiertagen?",
+    "spa": "¿Trabaja en días festivos?",
+    "ita": "Lavori nei giorni festivi?",
+    "rus": "Вы работаете в праздники?",
+    "tur": "Bayramlarda çalışıyor musunuz?"
+  },
+  {
+    "eng": "Can we discuss my work hours?",
+    "fra": "Pouvons-nous discuter de mes heures de travail?",
+    "deu": "Können wir meine Arbeitszeiten besprechen?",
+    "spa": "¿Podemos hablar de mis horas de trabajo?",
+    "ita": "Possiamo discutere delle mie ore di lavoro?",
+    "rus": "Можем обсудить мои рабочие часы?",
+    "tur": "Çalışma saatlerimi konuşabilir miyiz?"
+  },
+  {
+    "eng": "Can we adjust my work schedule?",
+    "fra": "Pouvons-nous ajuster mon emploi du temps?",
+    "deu": "Können wir meinen Arbeitsplan anpassen?",
+    "spa": "¿Podemos ajustar mi horario de trabajo?",
+    "ita": "Possiamo aggiustare il mio programma di lavoro?",
+    "rus": "Можем ли мы скорректировать мой рабочий график?",
+    "tur": "Çalışma programımı ayarlayabilir miyiz?"
+  },
+  {
+    "eng": "Can I work from home?",
+    "fra": "Puis-je travailler de chez moi?",
+    "deu": "Kann ich von zu Hause aus arbeiten?",
+    "spa": "¿Puedo trabajar desde casa?",
+    "ita": "Posso lavorare da casa?",
+    "rus": "Могу ли я работать из дома?",
+    "tur": "Evden çalışabilir miyim?"
+  },
+  {
+    "eng": "Can I work flexible hours?",
+    "fra": "Puis-je travailler avec des horaires flexibles?",
+    "deu": "Kann ich flexible Arbeitszeiten haben?",
+    "spa": "¿Puedo trabajar con horarios flexibles?",
+    "ita": "Posso lavorare con orari flessibili?",
+    "rus": "Могу ли я работать по гибкому графику?",
+    "tur": "Esnek saatlerde çalışabilir miyim?"
+  },
+  {
+    "eng": "Can I start earlier?",
+    "fra": "Puis-je commencer plus tôt?",
+    "deu": "Kann ich früher anfangen?",
+    "spa": "¿Puedo empezar antes?",
+    "ita": "Posso iniziare prima?",
+    "rus": "Могу ли я начать раньше?",
+    "tur": "Daha erken başlayabilir miyim?"
+  },
+  {
+    "eng": "Can I finish later?",
+    "fra": "Puis-je finir plus tard?",
+    "deu": "Kann ich später aufhören?",
+    "spa": "¿Puedo terminar más tarde?",
+    "ita": "Posso finire più tardi?",
+    "rus": "Могу ли я закончить позже?",
+    "tur": "Daha geç bitirebilir miyim?"
+  },
+  {
+    "eng": "Can I take a longer lunch break?",
+    "fra": "Puis-je prendre une pause déjeuner plus longue?",
+    "deu": "Kann ich eine längere Mittagspause machen?",
+    "spa": "¿Puedo tomarme un descanso para almorzar más largo?",
+    "ita": "Posso fare una pausa pranzo più lunga?",
+    "rus": "Могу ли я взять более длительный перерыв на обед?",
+    "tur": "Daha uzun bir öğle tatili yapabilir miyim?"
+  },
+  {
+    "eng": "Can I work on weekends if needed?",
+    "fra": "Puis-je travailler le week-end si nécessaire?",
+    "deu": "Kann ich bei Bedarf am Wochenende arbeiten?",
+    "spa": "¿Puedo trabajar los fines de semana si es necesario?",
+    "ita": "Posso lavorare nei fine settimana se necessario?",
+    "rus": "Могу ли я работать по выходным, если нужно?",
+    "tur": "Gerekirse hafta sonları çalışabilir miyim?"
+  },
+  {
+    "eng": "Can I take a day off next week?",
+    "fra": "Puis-je prendre un jour de congé la semaine prochaine?",
+    "deu": "Kann ich nächste Woche einen Tag frei nehmen?",
+    "spa": "¿Puedo tomarme un día libre la próxima semana?",
+    "ita": "Posso prendere un giorno libero la prossima settimana?",
+    "rus": "Могу ли я взять выходной на следующей неделе?",
+    "tur": "Gelecek hafta bir gün izin alabilir miyim?"
+  },
+  {
+    "eng": "Can I change my work shift?",
+    "fra": "Puis-je changer mon poste de travail?",
+    "deu": "Kann ich meine Arbeitsschicht ändern?",
+    "spa": "¿Puedo cambiar mi turno de trabajo?",
+    "ita": "Posso cambiare il mio turno di lavoro?",
+    "rus": "Могу ли я поменять свою смену?",
+    "tur": "Çalışma vardiyamı değiştirebilir miyim?"
+  },
+  {
+    "eng": "Can we set up a regular meeting time?",
+    "fra": "Pouvons-nous fixer une heure de réunion régulière?",
+    "deu": "Können wir eine regelmäßige Besprechungszeit festlegen?",
+    "spa": "¿Podemos establecer una hora de reunión regular?",
+    "ita": "Possiamo fissare un orario di riunione regolare?",
+    "rus": "Можем ли мы назначить регулярное время встречи?",
+    "tur": "Düzenli bir toplantı zamanı ayarlayabilir miyiz?"
+  },
+  {
+    "eng": "What is the deadline for this project?",
+    "fra": "Quelle est la date limite pour ce projet?",
+    "deu": "Was ist die Frist für dieses Projekt?",
+    "spa": "¿Cuál es la fecha límite para este proyecto?",
+    "ita": "Qual è la scadenza per questo progetto?",
+    "rus": "Какой срок завершения этого проекта?",
+    "tur": "Bu projenin son tarihi nedir?"
+  },
+  {
+    "eng": "Can I work overtime?",
+    "fra": "Puis-je faire des heures supplémentaires?",
+    "deu": "Kann ich Überstunden machen?",
+    "spa": "¿Puedo trabajar horas extras?",
+    "ita": "Posso fare gli straordinari?",
+    "rus": "Могу ли я работать сверхурочно?",
+    "tur": "Fazla mesai yapabilir miyim?"
+  },
+  {
+    "eng": "Can I come in early tomorrow?",
+    "fra": "Puis-je venir tôt demain?",
+    "deu": "Kann ich morgen früh kommen?",
+    "spa": "¿Puedo venir temprano mañana?",
+    "ita": "Posso venire presto domani?",
+    "rus": "Могу ли я прийти завтра пораньше?",
+    "tur": "Yarın erken gelebilir miyim?"
+  }
+]

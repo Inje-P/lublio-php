@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "What are the must-see attractions here?",
+    "fra": "Quelles sont les attractions incontournables ici?",
+    "deu": "Was sind die Sehenswürdigkeiten hier?",
+    "spa": "¿Cuáles son las atracciones imprescindibles aquí?",
+    "ita": "Quali sono le attrazioni da non perdere qui?",
+    "rus": "Какие достопримечательности здесь стоит посмотреть?",
+    "tur": "Burada mutlaka görülmesi gereken yerler nelerdir?"
+  },
+  {
+    "eng": "Are there any historical sites nearby?",
+    "fra": "Y a-t-il des sites historiques à proximité?",
+    "deu": "Gibt es historische Stätten in der Nähe?",
+    "spa": "¿Hay sitios históricos cerca?",
+    "ita": "Ci sono siti storici nelle vicinanze?",
+    "rus": "Есть ли поблизости исторические места?",
+    "tur": "Yakınlarda tarihi yerler var mı?"
+  },
+  {
+    "eng": "Where can I find the best views of the city?",
+    "fra": "Où puis-je trouver les meilleures vues de la ville?",
+    "deu": "Wo finde ich die besten Ausblicke auf die Stadt?",
+    "spa": "¿Dónde puedo encontrar las mejores vistas de la ciudad?",
+    "ita": "Dove posso trovare le migliori viste della città?",
+    "rus": "Где можно найти лучшие виды на город?",
+    "tur": "Şehrin en iyi manzaralarını nerede bulabilirim?"
+  },
+  {
+    "eng": "Are there any museums worth visiting?",
+    "fra": "Y a-t-il des musées qui valent la peine d'être visités?",
+    "deu": "Gibt es Museen, die einen Besuch wert sind?",
+    "spa": "¿Hay museos que valga la pena visitar?",
+    "ita": "Ci sono musei che vale la pena visitare?",
+    "rus": "Есть ли музеи, которые стоит посетить?",
+    "tur": "Ziyaret etmeye değer müzeler var mı?"
+  },
+  {
+    "eng": "What are some good places for shopping?",
+    "fra": "Quels sont les bons endroits pour faire du shopping?",
+    "deu": "Was sind gute Einkaufsmöglichkeiten?",
+    "spa": "¿Cuáles son algunos buenos lugares para ir de compras?",
+    "ita": "Quali sono dei buoni posti per fare shopping?",
+    "rus": "Какие есть хорошие места для шопинга?",
+    "tur": "Alışveriş için iyi yerler nelerdir?"
+  },
+  {
+    "eng": "Are there any parks or green spaces nearby?",
+    "fra": "Y a-t-il des parcs ou des espaces verts à proximité?",
+    "deu": "Gibt es Parks oder Grünflächen in der Nähe?",
+    "spa": "¿Hay parques o espacios verdes cerca?",
+    "ita": "Ci sono parchi o spazi verdi nelle vicinanze?",
+    "rus": "Есть ли поблизости парки или зеленые зоны?",
+    "tur": "Yakınlarda parklar veya yeşil alanlar var mı?"
+  },
+  {
+    "eng": "Where can I experience the local culture?",
+    "fra": "Où puis-je découvrir la culture locale?",
+    "deu": "Wo kann ich die lokale Kultur erleben?",
+    "spa": "¿Dónde puedo experimentar la cultura local?",
+    "ita": "Dove posso vivere la cultura locale?",
+    "rus": "Где можно познакомиться с местной культурой?",
+    "tur": "Yerel kültürü nerede deneyimleyebilirim?"
+  },
+  {
+    "eng": "Are there any guided tours available?",
+    "fra": "Y a-t-il des visites guidées disponibles?",
+    "deu": "Gibt es geführte Touren?",
+    "spa": "¿Hay visitas guiadas disponibles?",
+    "ita": "Ci sono visite guidate disponibili?",
+    "rus": "Есть ли доступные экскурсии с гидом?",
+    "tur": "Rehberli turlar mevcut mu?"
+  },
+  {
+    "eng": "What local events are happening this week?",
+    "fra": "Quels événements locaux se déroulent cette semaine?",
+    "deu": "Welche lokalen Veranstaltungen finden diese Woche statt?",
+    "spa": "¿Qué eventos locales están sucediendo esta semana?",
+    "ita": "Quali eventi locali si svolgono questa settimana?",
+    "rus": "Какие местные события происходят на этой неделе?",
+    "tur": "Bu hafta hangi yerel etkinlikler var?"
+  },
+  {
+    "eng": "Where is the nearest tourist information center?",
+    "fra": "Où se trouve le centre d'information touristique le plus proche?",
+    "deu": "Wo ist das nächste Touristeninformationszentrum?",
+    "spa": "¿Dónde está el centro de información turística más cercano?",
+    "ita": "Dove si trova il centro informazioni turistiche più vicino?",
+    "rus": "Где находится ближайший туристический информационный центр?",
+    "tur": "En yakın turizm bilgi merkezi nerede?"
+  },
+  {
+    "eng": "Are there any famous landmarks around here?",
+    "fra": "Y a-t-il des monuments célèbres dans le coin?",
+    "deu": "Gibt es hier berühmte Wahrzeichen?",
+    "spa": "¿Hay puntos de referencia famosos por aquí?",
+    "ita": "Ci sono punti di riferimento famosi qui intorno?",
+    "rus": "Есть ли здесь известные достопримечательности?",
+    "tur": "Burada ünlü simge yapılar var mı?"
+  },
+  {
+    "eng": "Where can I find a good restaurant?",
+    "fra": "Où puis-je trouver un bon restaurant?",
+    "deu": "Wo finde ich ein gutes Restaurant?",
+    "spa": "¿Dónde puedo encontrar un buen restaurante?",
+    "ita": "Dove posso trovare un buon ristorante?",
+    "rus": "Где я могу найти хороший ресторан?",
+    "tur": "İyi bir restoranı nerede bulabilirim?"
+  },
+  {
+    "eng": "Is there a local market worth visiting?",
+    "fra": "Y a-t-il un marché local qui vaut la peine d'être visité?",
+    "deu": "Gibt es einen lokalen Markt, der einen Besuch wert ist?",
+    "spa": "¿Hay un mercado local que valga la pena visitar?",
+    "ita": "C'è un mercato locale che vale la pena visitare?",
+    "rus": "Есть ли местный рынок, который стоит посетить?",
+    "tur": "Ziyaret etmeye değer bir yerel pazar var mı?"
+  },
+  {
+    "eng": "What activities are available for families?",
+    "fra": "Quelles activités sont disponibles pour les familles?",
+    "deu": "Welche Aktivitäten gibt es für Familien?",
+    "spa": "¿Qué actividades están disponibles para familias?",
+    "ita": "Quali attività sono disponibili per le famiglie?",
+    "rus": "Какие развлечения доступны для семей?",
+    "tur": "Aileler için hangi aktiviteler mevcut?"
+  },
+  {
+    "eng": "Are there any beaches nearby?",
+    "fra": "Y a-t-il des plages à proximité?",
+    "deu": "Gibt es Strände in der Nähe?",
+    "spa": "¿Hay playas cerca?",
+    "ita": "Ci sono spiagge nelle vicinanze?",
+    "rus": "Есть ли поблизости пляжи?",
+    "tur": "Yakınlarda plaj var mı?"
+  },
+  {
+    "eng": "What outdoor activities can I do here?",
+    "fra": "Quelles activités de plein air puis-je faire ici?",
+    "deu": "Welche Outdoor-Aktivitäten kann ich hier machen?",
+    "spa": "¿Qué actividades al aire libre puedo hacer aquí?",
+    "ita": "Quali attività all'aperto posso fare qui?",
+    "rus": "Какие виды активного отдыха я могу здесь заняться?",
+    "tur": "Burada hangi açık hava aktivitelerini yapabilirim?"
+  },
+  {
+    "eng": "Are there any local festivals or events coming up?",
+    "fra": "Y a-t-il des festivals ou des événements locaux à venir?",
+    "deu": "Gibt es demnächst lokale Festivals oder Veranstaltungen?",
+    "spa": "¿Hay festivales o eventos locales próximamente?",
+    "ita": "Ci sono festival o eventi locali in arrivo?",
+    "rus": "Есть ли предстоящие местные фестивали или мероприятия?",
+    "tur": "Yaklaşan yerel festivaller veya etkinlikler var mı?"
+  },
+  {
+    "eng": "Where can I rent a bike or scooter?",
+    "fra": "Où puis-je louer un vélo ou un scooter?",
+    "deu": "Wo kann ich ein Fahrrad oder einen Roller mieten?",
+    "spa": "¿Dónde puedo alquilar una bicicleta o un scooter?",
+    "ita": "Dove posso noleggiare una bicicletta o uno scooter?",
+    "rus": "Где можно взять напрокат велосипед или самокат?",
+    "tur": "Nereden bisiklet veya scooter kiralayabilirim?"
+  },
+  {
+    "eng": "Are there any good hiking trails around?",
+    "fra": "Y a-t-il de bons sentiers de randonnée dans les environs?",
+    "deu": "Gibt es gute Wanderwege in der Umgebung?",
+    "spa": "¿Hay buenos senderos para caminar cerca?",
+    "ita": "Ci sono buoni sentieri escursionistici nei dintorni?",
+    "rus": "Есть ли здесь хорошие маршруты для пеших прогулок?",
+    "tur": "Etrafta iyi yürüyüş parkurları var mı?"
+  },
+  {
+    "eng": "What are some popular nightlife spots?",
+    "fra": "Quels sont les endroits populaires pour la vie nocturne?",
+    "deu": "Was sind beliebte Orte für das Nachtleben?",
+    "spa": "¿Cuáles son algunos lugares populares para la vida nocturna?",
+    "ita": "Quali sono i posti popolari per la vita notturna?",
+    "rus": "Какие популярные места для ночной жизни?",
+    "tur": "Popüler gece hayatı mekanları nelerdir?"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "emoji": "🍍",
+    "english": "pineapple",
+    "french": "l'ananas (m.)",
+    "german": "die Ananas (f.)",
+    "italian": "l'ananas (m.)",
+    "spanish": "la piña (f.)",
+    "russian": "ананас",
+    "turkish": "ananas"
+  },
+  {
+    "emoji": "🍎",
+    "english": "apple",
+    "french": "la pomme (f.)",
+    "german": "der Apfel (m.)",
+    "italian": "la mela (f.)",
+    "spanish": "la manzana (f.)",
+    "russian": "яблоко",
+    "turkish": "elma"
+  },
+  {
+    "emoji": "🍌",
+    "english": "banana",
+    "french": "la banane (f.)",
+    "german": "die Banane (f.)",
+    "italian": "la banana (f.)",
+    "spanish": "el plátano (m.)",
+    "russian": "банан",
+    "turkish": "muz"
+  },
+  {
+    "emoji": "🍊",
+    "english": "orange",
+    "french": "l'orange (f.)",
+    "german": "die Orange (f.)",
+    "italian": "l'arancia (f.)",
+    "spanish": "la naranja (f.)",
+    "russian": "апельсин",
+    "turkish": "portakal"
+  },
+  {
+    "emoji": "🍓",
+    "english": "strawberry",
+    "french": "la fraise (f.)",
+    "german": "die Erdbeere (f.)",
+    "italian": "la fragola (f.)",
+    "spanish": "la fresa (f.)",
+    "russian": "клубника",
+    "turkish": "çilek"
+  },
+  {
+    "emoji": "🥝",
+    "english": "kiwi",
+    "french": "le kiwi (m.)",
+    "german": "die Kiwi (f.)",
+    "italian": "il kiwi (m.)",
+    "spanish": "el kiwi (m.)",
+    "russian": "киви",
+    "turkish": "kivi"
+  },
+  {
+    "emoji": "🍑",
+    "english": "peach",
+    "french": "la pêche (f.)",
+    "german": "der Pfirsich (m.)",
+    "italian": "la pesca (f.)",
+    "spanish": "el melocotón (m.)",
+    "russian": "персик",
+    "turkish": "şeftali"
+  },
+  {
+    "emoji": "🍒",
+    "english": "cherry",
+    "french": "la cerise (f.)",
+    "german": "die Kirsche (f.)",
+    "italian": "la ciliegia (f.)",
+    "spanish": "la cereza (f.)",
+    "russian": "вишня",
+    "turkish": "kiraz"
+  },
+  {
+    "emoji": "🍇",
+    "english": "grape",
+    "french": "le raisin (m.)",
+    "german": "die Traube (f.)",
+    "italian": "l'uva (f.)",
+    "spanish": "la uva (f.)",
+    "russian": "виноград",
+    "turkish": "üzüm"
+  },
+  {
+    "emoji": "🫐",
+    "english": "blueberry",
+    "french": "la myrtille (f.)",
+    "german": "die Blaubeere (f.)",
+    "italian": "il mirtillo (m.)",
+    "spanish": "el arándano (m.)",
+    "russian": "черника",
+    "turkish": "yaban mersini"
+  }
+]

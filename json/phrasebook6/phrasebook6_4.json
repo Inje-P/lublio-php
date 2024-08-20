@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "Stay calm.",
+    "fra": "Restez calme.",
+    "deu": "Bleib ruhig.",
+    "spa": "Mantente calmado.",
+    "ita": "Stai calmo.",
+    "rus": "Сохраняйте спокойствие.",
+    "tur": "Sakin ol."
+  },
+  {
+    "eng": "Are you okay?",
+    "fra": "Ça va?",
+    "deu": "Geht es dir gut?",
+    "spa": "¿Estás bien?",
+    "ita": "Stai bene?",
+    "rus": "Ты в порядке?",
+    "tur": "İyi misin?"
+  },
+  {
+    "eng": "Can you hear me?",
+    "fra": "Pouvez-vous m'entendre?",
+    "deu": "Kannst du mich hören?",
+    "spa": "¿Puedes oírme?",
+    "ita": "Mi senti?",
+    "rus": "Ты меня слышишь?",
+    "tur": "Beni duyabiliyor musun?"
+  },
+  {
+    "eng": "Call for help.",
+    "fra": "Appelez à l'aide.",
+    "deu": "Rufen Sie um Hilfe.",
+    "spa": "Llama por ayuda.",
+    "ita": "Chiama aiuto.",
+    "rus": "Позовите на помощь.",
+    "tur": "Yardım çağır."
+  },
+  {
+    "eng": "We need to stop the bleeding.",
+    "fra": "Nous devons arrêter le saignement.",
+    "deu": "Wir müssen die Blutung stoppen.",
+    "spa": "Necesitamos detener el sangrado.",
+    "ita": "Dobbiamo fermare l'emorragia.",
+    "rus": "Нам нужно остановить кровотечение.",
+    "tur": "Kanamayı durdurmalıyız."
+  },
+  {
+    "eng": "Apply pressure to the wound.",
+    "fra": "Appliquez une pression sur la plaie.",
+    "deu": "Druck auf die Wunde ausüben.",
+    "spa": "Aplicar presión en la herida.",
+    "ita": "Applicare pressione sulla ferita.",
+    "rus": "Надавите на рану.",
+    "tur": "Yaraya baskı uygulayın."
+  },
+  {
+    "eng": "Is anyone here trained in first aid?",
+    "fra": "Y a-t-il quelqu'un ici formé aux premiers secours?",
+    "deu": "Ist jemand hier in Erster Hilfe ausgebildet?",
+    "spa": "¿Hay alguien aquí entrenado en primeros auxilios?",
+    "ita": "C'è qualcuno qui addestrato al pronto soccorso?",
+    "rus": "Здесь есть кто-нибудь, обученный оказанию первой помощи?",
+    "tur": "Burada ilk yardım eğitimi almış biri var mı?"
+  },
+  {
+    "eng": "You will be okay.",
+    "fra": "Vous allez bien.",
+    "deu": "Du wirst in Ordnung sein.",
+    "spa": "Estarás bien.",
+    "ita": "Andrà tutto bene.",
+    "rus": "С тобой все будет хорошо.",
+    "tur": "İyi olacaksın."
+  },
+  {
+    "eng": "I am here to help you.",
+    "fra": "Je suis ici pour vous aider.",
+    "deu": "Ich bin hier, um Ihnen zu helfen.",
+    "spa": "Estoy aquí para ayudarte.",
+    "ita": "Sono qui per aiutarti.",
+    "rus": "Я здесь, чтобы помочь вам.",
+    "tur": "Sana yardım etmek için buradayım."
+  },
+  {
+    "eng": "Can you move?",
+    "fra": "Pouvez-vous bouger?",
+    "deu": "Kannst du dich bewegen?",
+    "spa": "¿Puedes moverte?",
+    "ita": "Puoi muoverti?",
+    "rus": "Ты можешь двигаться?",
+    "tur": "Hareket edebiliyor musun?"
+  },
+  {
+    "eng": "Lie down and stay still.",
+    "fra": "Allongez-vous et restez immobile.",
+    "deu": "Legen Sie sich hin und bleiben Sie still.",
+    "spa": "Acuéstate y quédate quieto.",
+    "ita": "Sdraiati e resta fermo.",
+    "rus": "Лягте и не двигайтесь.",
+    "tur": "Yat ve kıpırdama."
+  },
+  {
+    "eng": "We need to keep you warm.",
+    "fra": "Nous devons vous garder au chaud.",
+    "deu": "Wir müssen dich warm halten.",
+    "spa": "Necesitamos mantenerte caliente.",
+    "ita": "Dobbiamo tenerti al caldo.",
+    "rus": "Мы должны держать вас в тепле.",
+    "tur": "Seni sıcak tutmamız lazım."
+  },
+  {
+    "eng": "Don't move your head.",
+    "fra": "Ne bougez pas la tête.",
+    "deu": "Bewegen Sie nicht den Kopf.",
+    "spa": "No muevas la cabeza.",
+    "ita": "Non muovere la testa.",
+    "rus": "Не двигай головой.",
+    "tur": "Başını hareket ettirme."
+  },
+  {
+    "eng": "Breathe slowly and deeply.",
+    "fra": "Respirez lentement et profondément.",
+    "deu": "Atmen Sie langsam und tief.",
+    "spa": "Respira lenta y profundamente.",
+    "ita": "Respira lentamente e profondamente.",
+    "rus": "Дышите медленно и глубоко.",
+    "tur": "Yavaş ve derin nefes al."
+  },
+  {
+    "eng": "We need to check for injuries.",
+    "fra": "Nous devons vérifier les blessures.",
+    "deu": "Wir müssen nach Verletzungen suchen.",
+    "spa": "Necesitamos verificar si hay lesiones.",
+    "ita": "Dobbiamo controllare se ci sono ferite.",
+    "rus": "Нам нужно проверить, нет ли травм.",
+    "tur": "Yaralanmaları kontrol etmemiz gerekiyor."
+  },
+  {
+    "eng": "I will stay with you.",
+    "fra": "Je resterai avec vous.",
+    "deu": "Ich werde bei dir bleiben.",
+    "spa": "Me quedaré contigo.",
+    "ita": "Rimarrò con te.",
+    "rus": "Я останусь с тобой.",
+    "tur": "Seninle kalacağım."
+  },
+  {
+    "eng": "You are safe now.",
+    "fra": "Vous êtes en sécurité maintenant.",
+    "deu": "Du bist jetzt sicher.",
+    "spa": "Ahora estás a salvo.",
+    "ita": "Sei al sicuro ora.",
+    "rus": "Теперь вы в безопасности.",
+    "tur": "Artık güvendesin."
+  },
+  {
+    "eng": "Keep your eyes open.",
+    "fra": "Gardez les yeux ouverts.",
+    "deu": "Halten Sie die Augen offen.",
+    "spa": "Mantén los ojos abiertos.",
+    "ita": "Tieni gli occhi aperti.",
+    "rus": "Не закрывайте глаза.",
+    "tur": "Gözlerini açık tut."
+  },
+  {
+    "eng": "Help is on the way.",
+    "fra": "De l'aide est en route.",
+    "deu": "Hilfe ist unterwegs.",
+    "spa": "La ayuda está en camino.",
+    "ita": "L'aiuto è in arrivo.",
+    "rus": "Помощь уже в пути.",
+    "tur": "Yardım yolda."
+  },
+  {
+    "eng": "Can you tell me where it hurts?",
+    "fra": "Pouvez-vous me dire où ça fait mal?",
+    "deu": "Kannst du mir sagen, wo es weh tut?",
+    "spa": "¿Puedes decirme dónde te duele?",
+    "ita": "Puoi dirmi dove ti fa male?",
+    "rus": "Можешь сказать мне, где болит?",
+    "tur": "Bana nerede acıdığını söyleyebilir misin?"
+  }
+]

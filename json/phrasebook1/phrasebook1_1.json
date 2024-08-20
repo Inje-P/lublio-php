@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "Hello.",
+    "fra": "Bonjour.",
+    "deu": "Hallo.",
+    "spa": "Hola.",
+    "ita": "Ciao.",
+    "rus": "Здравствуйте.",
+    "tur": "Merhaba."
+  },
+  {
+    "eng": "Good morning.",
+    "fra": "Bonjour.",
+    "deu": "Guten Morgen.",
+    "spa": "Buenos días.",
+    "ita": "Buongiorno.",
+    "rus": "Доброе утро.",
+    "tur": "Günaydın."
+  },
+  {
+    "eng": "Good afternoon.",
+    "fra": "Bon après-midi.",
+    "deu": "Guten Nachmittag.",
+    "spa": "Buenas tardes.",
+    "ita": "Buon pomeriggio.",
+    "rus": "Добрый день.",
+    "tur": "İyi günler."
+  },
+  {
+    "eng": "Good evening.",
+    "fra": "Bonsoir.",
+    "deu": "Guten Abend.",
+    "spa": "Buenas noches.",
+    "ita": "Buona sera.",
+    "rus": "Добрый вечер.",
+    "tur": "İyi akşamlar."
+  },
+  {
+    "eng": "Good night.",
+    "fra": "Bonne nuit.",
+    "deu": "Gute Nacht.",
+    "spa": "Buenas noches.",
+    "ita": "Buona notte.",
+    "rus": "Спокойной ночи.",
+    "tur": "İyi geceler."
+  },
+  {
+    "eng": "How are you?",
+    "fra": "Comment ça va?",
+    "deu": "Wie geht's?",
+    "spa": "¿Cómo estás?",
+    "ita": "Come stai?",
+    "rus": "Как дела?",
+    "tur": "Nasılsın?"
+  },
+  {
+    "eng": "Nice to meet you.",
+    "fra": "Enchanté de vous rencontrer.",
+    "deu": "Freut mich, Sie kennenzulernen.",
+    "spa": "Mucho gusto.",
+    "ita": "Piacere di conoscerti.",
+    "rus": "Приятно познакомиться.",
+    "tur": "Tanıştığımıza memnun oldum."
+  },
+  {
+    "eng": "What is your name?",
+    "fra": "Comment vous appelez-vous?",
+    "deu": "Wie heißen Sie?",
+    "spa": "¿Cómo te llamas?",
+    "ita": "Come ti chiami?",
+    "rus": "Как вас зовут?",
+    "tur": "Adınız nedir?"
+  },
+  {
+    "eng": "My name is John.",
+    "fra": "Je m'appelle Jean.",
+    "deu": "Mein Name ist John.",
+    "spa": "Me llamo Juan.",
+    "ita": "Mi chiamo Giovanni.",
+    "rus": "Меня зовут Джон.",
+    "tur": "Benim adım John."
+  },
+  {
+    "eng": "Where are you from?",
+    "fra": "D'où venez-vous?",
+    "deu": "Woher kommen Sie?",
+    "spa": "¿De dónde eres?",
+    "ita": "Di dove sei?",
+    "rus": "Откуда вы?",
+    "tur": "Nerelisiniz?"
+  },
+  {
+    "eng": "I am from the United States.",
+    "fra": "Je viens des États-Unis.",
+    "deu": "Ich komme aus den Vereinigten Staaten.",
+    "spa": "Soy de los Estados Unidos.",
+    "ita": "Sono degli Stati Uniti.",
+    "rus": "Я из Соединенных Штатов.",
+    "tur": "Amerika Birleşik Devletleri'ndenim."
+  },
+  {
+    "eng": "Do you speak English?",
+    "fra": "Parlez-vous anglais?",
+    "deu": "Sprechen Sie Englisch?",
+    "spa": "¿Hablas inglés?",
+    "ita": "Parli inglese?",
+    "rus": "Вы говорите по-английски?",
+    "tur": "İngilizce konuşuyor musunuz?"
+  },
+  {
+    "eng": "I speak a little English.",
+    "fra": "Je parle un peu anglais.",
+    "deu": "Ich spreche ein wenig Englisch.",
+    "spa": "Hablo un poco de inglés.",
+    "ita": "Parlo un po' di inglese.",
+    "rus": "Я немного говорю по-английски.",
+    "tur": "Biraz İngilizce konuşuyorum."
+  },
+  {
+    "eng": "Please.",
+    "fra": "S'il vous plaît.",
+    "deu": "Bitte.",
+    "spa": "Por favor.",
+    "ita": "Per favore.",
+    "rus": "Пожалуйста.",
+    "tur": "Lütfen."
+  },
+  {
+    "eng": "Thank you.",
+    "fra": "Merci.",
+    "deu": "Danke.",
+    "spa": "Gracias.",
+    "ita": "Grazie.",
+    "rus": "Спасибо.",
+    "tur": "Teşekkür ederim."
+  },
+  {
+    "eng": "You're welcome.",
+    "fra": "De rien.",
+    "deu": "Gern geschehen.",
+    "spa": "De nada.",
+    "ita": "Prego.",
+    "rus": "Пожалуйста.",
+    "tur": "Bir şey değil."
+  },
+  {
+    "eng": "Excuse me.",
+    "fra": "Excusez-moi.",
+    "deu": "Entschuldigen Sie.",
+    "spa": "Disculpe.",
+    "ita": "Mi scusi.",
+    "rus": "Извините.",
+    "tur": "Affedersiniz."
+  },
+  {
+    "eng": "I'm sorry.",
+    "fra": "Je suis désolé.",
+    "deu": "Es tut mir leid.",
+    "spa": "Lo siento.",
+    "ita": "Mi dispiace.",
+    "rus": "Извините.",
+    "tur": "Özür dilerim."
+  },
+  {
+    "eng": "Goodbye.",
+    "fra": "Au revoir.",
+    "deu": "Auf Wiedersehen.",
+    "spa": "Adiós.",
+    "ita": "Arrivederci.",
+    "rus": "До свидания.",
+    "tur": "Hoşça kal."
+  },
+  {
+    "eng": "See you later.",
+    "fra": "À plus tard.",
+    "deu": "Bis später.",
+    "spa": "Hasta luego.",
+    "ita": "A dopo.",
+    "rus": "Увидимся позже.",
+    "tur": "Sonra görüşürüz."
+  }
+]

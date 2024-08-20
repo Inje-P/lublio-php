@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "What are your hobbies?",
+    "fra": "Quels sont vos passe-temps?",
+    "deu": "Was sind Ihre Hobbys?",
+    "spa": "¿Cuáles son tus pasatiempos?",
+    "ita": "Quali sono i tuoi hobby?",
+    "rus": "Какие у вас хобби?",
+    "tur": "Hobileriniz nelerdir?"
+  },
+  {
+    "eng": "I like to read books.",
+    "fra": "J'aime lire des livres.",
+    "deu": "Ich lese gerne Bücher.",
+    "spa": "Me gusta leer libros.",
+    "ita": "Mi piace leggere libri.",
+    "rus": "Я люблю читать книги.",
+    "tur": "Kitap okumayı severim."
+  },
+  {
+    "eng": "I enjoy hiking.",
+    "fra": "J'aime faire de la randonnée.",
+    "deu": "Ich wandere gerne.",
+    "spa": "Disfruto el senderismo.",
+    "ita": "Mi piace fare escursioni.",
+    "rus": "Я люблю ходить в походы.",
+    "tur": "Doğa yürüyüşünü severim."
+  },
+  {
+    "eng": "Do you play any instruments?",
+    "fra": "Jouez-vous d'un instrument?",
+    "deu": "Spielen Sie ein Instrument?",
+    "spa": "¿Tocas algún instrumento?",
+    "ita": "Suoni qualche strumento?",
+    "rus": "Вы играете на каком-либо инструменте?",
+    "tur": "Herhangi bir enstrüman çalıyor musunuz?"
+  },
+  {
+    "eng": "I love painting.",
+    "fra": "J'adore peindre.",
+    "deu": "Ich liebe es zu malen.",
+    "spa": "Me encanta pintar.",
+    "ita": "Adoro dipingere.",
+    "rus": "Я люблю рисовать.",
+    "tur": "Resim yapmayı severim."
+  },
+  {
+    "eng": "Do you like to cook?",
+    "fra": "Aimez-vous cuisiner?",
+    "deu": "Kochen Sie gerne?",
+    "spa": "¿Te gusta cocinar?",
+    "ita": "Ti piace cucinare?",
+    "rus": "Вы любите готовить?",
+    "tur": "Yemek yapmayı sever misiniz?"
+  },
+  {
+    "eng": "I enjoy photography.",
+    "fra": "J'aime la photographie.",
+    "deu": "Ich mag Fotografie.",
+    "spa": "Me gusta la fotografía.",
+    "ita": "Mi piace la fotografia.",
+    "rus": "Мне нравится фотография.",
+    "tur": "Fotoğrafçılığı severim."
+  },
+  {
+    "eng": "What kind of movies do you like?",
+    "fra": "Quel genre de films aimez-vous?",
+    "deu": "Welche Art von Filmen mögen Sie?",
+    "spa": "¿Qué tipo de películas te gustan?",
+    "ita": "Che tipo di film ti piacciono?",
+    "rus": "Какие фильмы вам нравятся?",
+    "tur": "Ne tür filmlerden hoşlanırsınız?"
+  },
+  {
+    "eng": "I like to play video games.",
+    "fra": "J'aime jouer à des jeux vidéo.",
+    "deu": "Ich spiele gerne Videospiele.",
+    "spa": "Me gusta jugar videojuegos.",
+    "ita": "Mi piace giocare ai videogiochi.",
+    "rus": "Я люблю играть в видеоигры.",
+    "tur": "Video oyunları oynamayı severim."
+  },
+  {
+    "eng": "Do you enjoy gardening?",
+    "fra": "Aimez-vous jardiner?",
+    "deu": "Gärtnern Sie gerne?",
+    "spa": "¿Te gusta la jardinería?",
+    "ita": "Ti piace fare giardinaggio?",
+    "rus": "Вам нравится садоводство?",
+    "tur": "Bahçıvanlıktan hoşlanır mısınız?"
+  },
+  {
+    "eng": "I love to travel.",
+    "fra": "J'adore voyager.",
+    "deu": "Ich liebe es zu reisen.",
+    "spa": "Me encanta viajar.",
+    "ita": "Adoro viaggiare.",
+    "rus": "Я люблю путешествовать.",
+    "tur": "Seyahat etmeyi severim."
+  },
+  {
+    "eng": "What sports do you play?",
+    "fra": "Quels sports pratiquez-vous?",
+    "deu": "Welche Sportarten treiben Sie?",
+    "spa": "¿Qué deportes practicas?",
+    "ita": "Quali sport pratichi?",
+    "rus": "Какими видами спорта вы занимаетесь?",
+    "tur": "Hangi sporları yapıyorsunuz?"
+  },
+  {
+    "eng": "I enjoy writing.",
+    "fra": "J'aime écrire.",
+    "deu": "Ich schreibe gerne.",
+    "spa": "Me gusta escribir.",
+    "ita": "Mi piace scrivere.",
+    "rus": "Мне нравится писать.",
+    "tur": "Yazmayı severim."
+  },
+  {
+    "eng": "Do you like to dance?",
+    "fra": "Aimez-vous danser?",
+    "deu": "Tanzen Sie gerne?",
+    "spa": "¿Te gusta bailar?",
+    "ita": "Ti piace ballare?",
+    "rus": "Вы любите танцевать?",
+    "tur": "Dans etmeyi sever misiniz?"
+  },
+  {
+    "eng": "I enjoy knitting.",
+    "fra": "J'aime tricoter.",
+    "deu": "Ich stricke gerne.",
+    "spa": "Me gusta tejer.",
+    "ita": "Mi piace lavorare a maglia.",
+    "rus": "Мне нравится вязать.",
+    "tur": "Örgü örmeyi severim."
+  },
+  {
+    "eng": "Do you like to fish?",
+    "fra": "Aimez-vous pêcher?",
+    "deu": "Angeln Sie gerne?",
+    "spa": "¿Te gusta pescar?",
+    "ita": "Ti piace pescare?",
+    "rus": "Вы любите рыбачить?",
+    "tur": "Balık tutmayı sever misiniz?"
+  },
+  {
+    "eng": "I enjoy woodworking.",
+    "fra": "J'aime le travail du bois.",
+    "deu": "Ich arbeite gerne mit Holz.",
+    "spa": "Me gusta la carpintería.",
+    "ita": "Mi piace lavorare il legno.",
+    "rus": "Мне нравится работать с деревом.",
+    "tur": "Ahşap işleri yapmayı severim."
+  },
+  {
+    "eng": "What kind of books do you like?",
+    "fra": "Quel genre de livres aimez-vous?",
+    "deu": "Welche Art von Büchern mögen Sie?",
+    "spa": "¿Qué tipo de libros te gustan?",
+    "ita": "Che tipo di libri ti piacciono?",
+    "rus": "Какие книги вам нравятся?",
+    "tur": "Ne tür kitaplardan hoşlanırsınız?"
+  },
+  {
+    "eng": "I like to play chess.",
+    "fra": "J'aime jouer aux échecs.",
+    "deu": "Ich spiele gerne Schach.",
+    "spa": "Me gusta jugar al ajedrez.",
+    "ita": "Mi piace giocare a scacchi.",
+    "rus": "Я люблю играть в шахматы.",
+    "tur": "Satranç oynamayı severim."
+  },
+  {
+    "eng": "Do you enjoy watching sports?",
+    "fra": "Aimez-vous regarder le sport?",
+    "deu": "Sehen Sie gerne Sport?",
+    "spa": "¿Te gusta ver deportes?",
+    "ita": "Ti piace guardare lo sport?",
+    "rus": "Вам нравится смотреть спорт?",
+    "tur": "Spor izlemekten hoşlanır mısınız?"
+  }
+]

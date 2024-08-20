@@ -1,0 +1,86 @@
+{
+  "I think": [
+    "I think it's going to rain today.",
+    "I think you did a great job.",
+    "I think we should leave now.",
+    "I think this book is interesting.",
+    "I think they are coming over later.",
+    "I think it’s time to make a decision.",
+    "I think the presentation went well.",
+    "I think we need to talk about it.",
+    "I think I’ll have a coffee.",
+    "I think this is the right direction."
+  ],
+  "I don’t think": [
+    "I don’t think that’s a good idea.",
+    "I don’t think I can make it to the meeting.",
+    "I don’t think it’s worth the effort.",
+    "I don’t think they will come.",
+    "I don’t think I’ve ever been there.",
+    "I don’t think it’s a big deal.",
+    "I don’t think we have enough time.",
+    "I don’t think it’s possible.",
+    "I don’t think they’re interested.",
+    "I don’t think this is the right time."
+  ],
+  "I think I’m going to": [
+    "I think I’m going to go for a run.",
+    "I think I’m going to take a nap.",
+    "I think I’m going to order pizza.",
+    "I think I’m going to call her.",
+    "I think I’m going to watch a movie.",
+    "I think I’m going to stay home tonight.",
+    "I think I’m going to start a new project.",
+    "I think I’m going to try something new.",
+    "I think I’m going to visit my parents.",
+    "I think I’m going to read a book."
+  ],
+  "I think we should": [
+    "I think we should go now.",
+    "I think we should reconsider our options.",
+    "I think we should ask for help.",
+    "I think we should take a break.",
+    "I think we should talk about it.",
+    "I think we should cancel the meeting.",
+    "I think we should invite them over.",
+    "I think we should review the plan.",
+    "I think we should start the project.",
+    "I think we should wait until tomorrow."
+  ],
+  "I think I’ve got": [
+    "I think I’ve got the answer.",
+    "I think I’ve got a solution.",
+    "I think I’ve got everything I need.",
+    "I think I’ve got the flu.",
+    "I think I’ve got the right idea.",
+    "I think I’ve got the hang of it.",
+    "I think I’ve got enough time.",
+    "I think I’ve got the wrong number.",
+    "I think I’ve got something in my eye.",
+    "I think I’ve got a good understanding of the topic."
+  ],
+  "I’m thinking about": [
+    "I’m thinking about changing jobs.",
+    "I’m thinking about going on vacation.",
+    "I’m thinking about taking a course.",
+    "I’m thinking about buying a new car.",
+    "I’m thinking about moving to a new city.",
+    "I’m thinking about what to eat for dinner.",
+    "I’m thinking about starting a business.",
+    "I’m thinking about calling her later.",
+    "I’m thinking about joining a gym.",
+    "I’m thinking about applying for a new position."
+  ],
+  "I thought you": [
+    "I thought you knew about the meeting.",
+    "I thought you were coming with us.",
+    "I thought you had already left.",
+    "I thought you liked that movie.",
+    "I thought you were joking.",
+    "I thought you wanted to go out.",
+    "I thought you finished the project.",
+    "I thought you were going to call me.",
+    "I thought you were busy today.",
+    "I thought you had the keys."
+  ]
+}

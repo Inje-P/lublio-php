@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "I have a reservation.",
+    "fra": "J'ai une réservation.",
+    "deu": "Ich habe eine Reservierung.",
+    "spa": "Tengo una reserva.",
+    "ita": "Ho una prenotazione.",
+    "rus": "У меня бронь.",
+    "tur": "Rezervasyonum var."
+  },
+  {
+    "eng": "Can I check in?",
+    "fra": "Puis-je m'enregistrer?",
+    "deu": "Kann ich einchecken?",
+    "spa": "¿Puedo registrarme?",
+    "ita": "Posso fare il check-in?",
+    "rus": "Могу я заселиться?",
+    "tur": "Giriş yapabilir miyim?"
+  },
+  {
+    "eng": "What time is check-out?",
+    "fra": "À quelle heure est le départ?",
+    "deu": "Wann ist der Check-out?",
+    "spa": "¿A qué hora es la salida?",
+    "ita": "A che ora è il check-out?",
+    "rus": "Во сколько выселение?",
+    "tur": "Çıkış saati kaçta?"
+  },
+  {
+    "eng": "I would like to check out.",
+    "fra": "Je voudrais régler mon compte.",
+    "deu": "Ich möchte auschecken.",
+    "spa": "Me gustaría hacer el check-out.",
+    "ita": "Vorrei fare il check-out.",
+    "rus": "Я хотел бы выехать.",
+    "tur": "Çıkış yapmak istiyorum."
+  },
+  {
+    "eng": "Can I have a late check-out?",
+    "fra": "Puis-je avoir un départ tardif?",
+    "deu": "Kann ich später auschecken?",
+    "spa": "¿Puedo hacer el check-out tarde?",
+    "ita": "Posso fare il check-out in ritardo?",
+    "rus": "Могу я выехать позже?",
+    "tur": "Geç çıkış yapabilir miyim?"
+  },
+  {
+    "eng": "Do you have any available rooms?",
+    "fra": "Avez-vous des chambres disponibles?",
+    "deu": "Haben Sie freie Zimmer?",
+    "spa": "¿Tiene habitaciones disponibles?",
+    "ita": "Avete camere disponibili?",
+    "rus": "У вас есть свободные номера?",
+    "tur": "Boş odanız var mı?"
+  },
+  {
+    "eng": "I have a reservation under the name John.",
+    "fra": "J'ai une réservation au nom de John.",
+    "deu": "Ich habe eine Reservierung auf den Namen John.",
+    "spa": "Tengo una reserva a nombre de John.",
+    "ita": "Ho una prenotazione a nome di John.",
+    "rus": "У меня бронь на имя Джон.",
+    "tur": "John adına bir rezervasyonum var."
+  },
+  {
+    "eng": "Can I get a wake-up call at 6 AM?",
+    "fra": "Puis-je avoir un appel de réveil à 6h?",
+    "deu": "Kann ich einen Weckruf um 6 Uhr bekommen?",
+    "spa": "¿Puedo recibir una llamada de despertador a las 6 AM?",
+    "ita": "Posso avere una sveglia alle 6 del mattino?",
+    "rus": "Могу я заказать звонок для пробуждения на 6 утра?",
+    "tur": "Sabah 6'da uyandırma çağrısı alabilir miyim?"
+  },
+  {
+    "eng": "Is breakfast included?",
+    "fra": "Le petit-déjeuner est-il inclus?",
+    "deu": "Ist das Frühstück inbegriffen?",
+    "spa": "¿Está incluido el desayuno?",
+    "ita": "La colazione è inclusa?",
+    "rus": "Завтрак включен?",
+    "tur": "Kahvaltı dahil mi?"
+  },
+  {
+    "eng": "Can I have an extra pillow?",
+    "fra": "Puis-je avoir un oreiller supplémentaire?",
+    "deu": "Kann ich ein zusätzliches Kissen bekommen?",
+    "spa": "¿Puedo tener una almohada extra?",
+    "ita": "Posso avere un cuscino extra?",
+    "rus": "Могу я получить дополнительную подушку?",
+    "tur": "Ekstra yastık alabilir miyim?"
+  },
+  {
+    "eng": "Is there free Wi-Fi?",
+    "fra": "Y a-t-il du Wi-Fi gratuit?",
+    "deu": "Gibt es kostenloses WLAN?",
+    "spa": "¿Hay Wi-Fi gratis?",
+    "ita": "C'è il Wi-Fi gratuito?",
+    "rus": "Есть ли бесплатный Wi-Fi?",
+    "tur": "Ücretsiz Wi-Fi var mı?"
+  },
+  {
+    "eng": "Where is the elevator?",
+    "fra": "Où est l'ascenseur?",
+    "deu": "Wo ist der Aufzug?",
+    "spa": "¿Dónde está el ascensor?",
+    "ita": "Dov'è l'ascensore?",
+    "rus": "Где лифт?",
+    "tur": "Asansör nerede?"
+  },
+  {
+    "eng": "Can you help me with my luggage?",
+    "fra": "Pouvez-vous m'aider avec mes bagages?",
+    "deu": "Können Sie mir mit meinem Gepäck helfen?",
+    "spa": "¿Puede ayudarme con mi equipaje?",
+    "ita": "Può aiutarmi con i bagagli?",
+    "rus": "Можете помочь мне с багажом?",
+    "tur": "Bagajımla bana yardımcı olabilir misiniz?"
+  },
+  {
+    "eng": "Is there a gym in the hotel?",
+    "fra": "Y a-t-il une salle de sport dans l'hôtel?",
+    "deu": "Gibt es ein Fitnessstudio im Hotel?",
+    "spa": "¿Hay un gimnasio en el hotel?",
+    "ita": "C'è una palestra nell'hotel?",
+    "rus": "В отеле есть тренажерный зал?",
+    "tur": "Otelde spor salonu var mı?"
+  },
+  {
+    "eng": "What time is breakfast served?",
+    "fra": "À quelle heure le petit-déjeuner est-il servi?",
+    "deu": "Wann wird das Frühstück serviert?",
+    "spa": "¿A qué hora se sirve el desayuno?",
+    "ita": "A che ora viene servita la colazione?",
+    "rus": "Во сколько подают завтрак?",
+    "tur": "Kahvaltı saat kaçta servis ediliyor?"
+  },
+  {
+    "eng": "Can I get a room with a view?",
+    "fra": "Puis-je avoir une chambre avec vue?",
+    "deu": "Kann ich ein Zimmer mit Aussicht bekommen?",
+    "spa": "¿Puedo obtener una habitación con vista?",
+    "ita": "Posso avere una stanza con vista?",
+    "rus": "Могу ли я получить номер с видом?",
+    "tur": "Manzaralı bir oda alabilir miyim?"
+  },
+  {
+    "eng": "Do you offer room service?",
+    "fra": "Offrez-vous le service en chambre?",
+    "deu": "Bieten Sie Zimmerservice an?",
+    "spa": "¿Ofrecen servicio a la habitación?",
+    "ita": "Offrite il servizio in camera?",
+    "rus": "Вы предлагаете обслуживание номеров?",
+    "tur": "Oda servisi sunuyor musunuz?"
+  },
+  {
+    "eng": "Is there a parking area?",
+    "fra": "Y a-t-il un parking?",
+    "deu": "Gibt es einen Parkplatz?",
+    "spa": "¿Hay una zona de aparcamiento?",
+    "ita": "C'è un parcheggio?",
+    "rus": "Есть ли парковка?",
+    "tur": "Otopark var mı?"
+  },
+  {
+    "eng": "I need more towels.",
+    "fra": "J'ai besoin de plus de serviettes.",
+    "deu": "Ich brauche mehr Handtücher.",
+    "spa": "Necesito más toallas.",
+    "ita": "Ho bisogno di più asciugamani.",
+    "rus": "Мне нужно больше полотенец.",
+    "tur": "Daha fazla havluya ihtiyacım var."
+  },
+  {
+    "eng": "Can I get a receipt, please?",
+    "fra": "Puis-je avoir un reçu, s'il vous plaît?",
+    "deu": "Kann ich eine Quittung bekommen, bitte?",
+    "spa": "¿Puedo obtener un recibo, por favor?",
+    "ita": "Posso avere una ricevuta, per favore?",
+    "rus": "Могу я получить квитанцию, пожалуйста?",
+    "tur": "Fiş alabilir miyim, lütfen?"
+  }
+]

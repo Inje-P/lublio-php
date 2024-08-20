@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "What is your name?",
+    "fra": "Comment vous appelez-vous?",
+    "deu": "Wie heißen Sie?",
+    "spa": "¿Cómo te llamas?",
+    "ita": "Come ti chiami?",
+    "rus": "Как вас зовут?",
+    "tur": "Adınız nedir?"
+  },
+  {
+    "eng": "Where are you from?",
+    "fra": "D'où venez-vous?",
+    "deu": "Woher kommen Sie?",
+    "spa": "¿De dónde eres?",
+    "ita": "Di dove sei?",
+    "rus": "Откуда вы?",
+    "tur": "Nerelisiniz?"
+  },
+  {
+    "eng": "How old are you?",
+    "fra": "Quel âge avez-vous?",
+    "deu": "Wie alt sind Sie?",
+    "spa": "¿Cuántos años tienes?",
+    "ita": "Quanti anni hai?",
+    "rus": "Сколько вам лет?",
+    "tur": "Kaç yaşındasınız?"
+  },
+  {
+    "eng": "What do you do?",
+    "fra": "Que faites-vous?",
+    "deu": "Was machen Sie?",
+    "spa": "¿A qué te dedicas?",
+    "ita": "Che lavoro fai?",
+    "rus": "Чем вы занимаетесь?",
+    "tur": "Ne iş yapıyorsunuz?"
+  },
+  {
+    "eng": "Do you have any siblings?",
+    "fra": "Avez-vous des frères et sœurs?",
+    "deu": "Haben Sie Geschwister?",
+    "spa": "¿Tienes hermanos?",
+    "ita": "Hai fratelli o sorelle?",
+    "rus": "У вас есть братья или сестры?",
+    "tur": "Kardeşiniz var mı?"
+  },
+  {
+    "eng": "What are your hobbies?",
+    "fra": "Quels sont vos passe-temps?",
+    "deu": "Was sind Ihre Hobbys?",
+    "spa": "¿Cuáles son tus pasatiempos?",
+    "ita": "Quali sono i tuoi hobby?",
+    "rus": "Каковы ваши хобби?",
+    "tur": "Hobileriniz nelerdir?"
+  },
+  {
+    "eng": "What is your favorite color?",
+    "fra": "Quelle est votre couleur préférée?",
+    "deu": "Was ist Ihre Lieblingsfarbe?",
+    "spa": "¿Cuál es tu color favorito?",
+    "ita": "Qual è il tuo colore preferito?",
+    "rus": "Какой ваш любимый цвет?",
+    "tur": "En sevdiğiniz renk nedir?"
+  },
+  {
+    "eng": "Do you have any pets?",
+    "fra": "Avez-vous des animaux domestiques?",
+    "deu": "Haben Sie Haustiere?",
+    "spa": "¿Tienes mascotas?",
+    "ita": "Hai animali domestici?",
+    "rus": "У вас есть домашние животные?",
+    "tur": "Evcil hayvanınız var mı?"
+  },
+  {
+    "eng": "What is your phone number?",
+    "fra": "Quel est votre numéro de téléphone?",
+    "deu": "Wie lautet Ihre Telefonnummer?",
+    "spa": "¿Cuál es tu número de teléfono?",
+    "ita": "Qual è il tuo numero di telefono?",
+    "rus": "Какой у вас номер телефона?",
+    "tur": "Telefon numaranız nedir?"
+  },
+  {
+    "eng": "What is your email address?",
+    "fra": "Quelle est votre adresse e-mail?",
+    "deu": "Wie lautet Ihre E-Mail-Adresse?",
+    "spa": "¿Cuál es tu dirección de correo electrónico?",
+    "ita": "Qual è il tuo indirizzo email?",
+    "rus": "Какой у вас адрес электронной почты?",
+    "tur": "E-posta adresiniz nedir?"
+  },
+  {
+    "eng": "Where do you live?",
+    "fra": "Où habitez-vous?",
+    "deu": "Wo wohnen Sie?",
+    "spa": "¿Dónde vives?",
+    "ita": "Dove vivi?",
+    "rus": "Где вы живете?",
+    "tur": "Nerede yaşıyorsunuz?"
+  },
+  {
+    "eng": "What is your job?",
+    "fra": "Quel est votre travail?",
+    "deu": "Was ist Ihr Beruf?",
+    "spa": "¿Cuál es tu trabajo?",
+    "ita": "Qual è il tuo lavoro?",
+    "rus": "Какая у вас работа?",
+    "tur": "İşiniz nedir?"
+  },
+  {
+    "eng": "Are you married?",
+    "fra": "Êtes-vous marié?",
+    "deu": "Sind Sie verheiratet?",
+    "spa": "¿Estás casado?",
+    "ita": "Sei sposato?",
+    "rus": "Вы женаты?",
+    "tur": "Evli misiniz?"
+  },
+  {
+    "eng": "Do you have children?",
+    "fra": "Avez-vous des enfants?",
+    "deu": "Haben Sie Kinder?",
+    "spa": "¿Tienes hijos?",
+    "ita": "Hai figli?",
+    "rus": "У вас есть дети?",
+    "tur": "Çocuklarınız var mı?"
+  },
+  {
+    "eng": "What is your favorite food?",
+    "fra": "Quel est votre plat préféré?",
+    "deu": "Was ist Ihr Lieblingsessen?",
+    "spa": "¿Cuál es tu comida favorita?",
+    "ita": "Qual è il tuo cibo preferito?",
+    "rus": "Какое ваше любимое блюдо?",
+    "tur": "En sevdiğiniz yemek nedir?"
+  },
+  {
+    "eng": "What is your favorite movie?",
+    "fra": "Quel est votre film préféré?",
+    "deu": "Was ist Ihr Lieblingsfilm?",
+    "spa": "¿Cuál es tu película favorita?",
+    "ita": "Qual è il tuo film preferito?",
+    "rus": "Какой ваш любимый фильм?",
+    "tur": "En sevdiğiniz film nedir?"
+  },
+  {
+    "eng": "What is your favorite book?",
+    "fra": "Quel est votre livre préféré?",
+    "deu": "Was ist Ihr Lieblingsbuch?",
+    "spa": "¿Cuál es tu libro favorito?",
+    "ita": "Qual è il tuo libro preferito?",
+    "rus": "Какая ваша любимая книга?",
+    "tur": "En sevdiğiniz kitap nedir?"
+  },
+  {
+    "eng": "Do you like sports?",
+    "fra": "Aimez-vous le sport?",
+    "deu": "Mögen Sie Sport?",
+    "spa": "¿Te gustan los deportes?",
+    "ita": "Ti piacciono gli sport?",
+    "rus": "Вы любите спорт?",
+    "tur": "Sporu sever misiniz?"
+  },
+  {
+    "eng": "What is your favorite season?",
+    "fra": "Quelle est votre saison préférée?",
+    "deu": "Was ist Ihre Lieblingsjahreszeit?",
+    "spa": "¿Cuál es tu estación favorita?",
+    "ita": "Qual è la tua stagione preferita?",
+    "rus": "Какое ваше любимое время года?",
+    "tur": "En sevdiğiniz mevsim nedir?"
+  },
+  {
+    "eng": "What languages do you speak?",
+    "fra": "Quelles langues parlez-vous?",
+    "deu": "Welche Sprachen sprechen Sie?",
+    "spa": "¿Qué idiomas hablas?",
+    "ita": "Che lingue parli?",
+    "rus": "На каких языках вы говорите?",
+    "tur": "Hangi dilleri konuşuyorsunuz?"
+  }
+]

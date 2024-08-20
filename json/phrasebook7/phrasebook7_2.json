@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "What is the Wi-Fi password?",
+    "fra": "Quel est le mot de passe Wi-Fi?",
+    "deu": "Wie lautet das WLAN-Passwort?",
+    "spa": "¿Cuál es la contraseña del Wi-Fi?",
+    "ita": "Qual è la password del Wi-Fi?",
+    "rus": "Какой пароль от Wi-Fi?",
+    "tur": "Wi-Fi şifresi nedir?"
+  },
+  {
+    "eng": "Is there free Wi-Fi here?",
+    "fra": "Y a-t-il du Wi-Fi gratuit ici?",
+    "deu": "Gibt es hier kostenloses WLAN?",
+    "spa": "¿Hay Wi-Fi gratis aquí?",
+    "ita": "C'è il Wi-Fi gratuito qui?",
+    "rus": "Здесь есть бесплатный Wi-Fi?",
+    "tur": "Burada ücretsiz Wi-Fi var mı?"
+  },
+  {
+    "eng": "How do I connect to the Wi-Fi?",
+    "fra": "Comment puis-je me connecter au Wi-Fi?",
+    "deu": "Wie verbinde ich mich mit dem WLAN?",
+    "spa": "¿Cómo me conecto al Wi-Fi?",
+    "ita": "Come mi collego al Wi-Fi?",
+    "rus": "Как подключиться к Wi-Fi?",
+    "tur": "Wi-Fi'ya nasıl bağlanırım?"
+  },
+  {
+    "eng": "Is the Wi-Fi connection stable?",
+    "fra": "La connexion Wi-Fi est-elle stable?",
+    "deu": "Ist die WLAN-Verbindung stabil?",
+    "spa": "¿Es estable la conexión Wi-Fi?",
+    "ita": "La connessione Wi-Fi è stabile?",
+    "rus": "Соединение Wi-Fi стабильное?",
+    "tur": "Wi-Fi bağlantısı stabil mi?"
+  },
+  {
+    "eng": "Is there a limit on Wi-Fi usage?",
+    "fra": "Y a-t-il une limite à l'utilisation du Wi-Fi?",
+    "deu": "Gibt es eine Begrenzung der WLAN-Nutzung?",
+    "spa": "¿Hay un límite en el uso del Wi-Fi?",
+    "ita": "C'è un limite all'uso del Wi-Fi?",
+    "rus": "Есть ли ограничение на использование Wi-Fi?",
+    "tur": "Wi-Fi kullanımında bir sınır var mı?"
+  },
+  {
+    "eng": "Are there any other Wi-Fi networks available?",
+    "fra": "Y a-t-il d'autres réseaux Wi-Fi disponibles?",
+    "deu": "Gibt es andere verfügbare WLAN-Netzwerke?",
+    "spa": "¿Hay otras redes Wi-Fi disponibles?",
+    "ita": "Ci sono altre reti Wi-Fi disponibili?",
+    "rus": "Есть ли другие доступные сети Wi-Fi?",
+    "tur": "Başka Wi-Fi ağları var mı?"
+  },
+  {
+    "eng": "Is there an Ethernet connection available?",
+    "fra": "Y a-t-il une connexion Ethernet disponible?",
+    "deu": "Gibt es eine verfügbare Ethernet-Verbindung?",
+    "spa": "¿Hay una conexión Ethernet disponible?",
+    "ita": "C'è una connessione Ethernet disponibile?",
+    "rus": "Есть ли доступное подключение Ethernet?",
+    "tur": "Bir Ethernet bağlantısı var mı?"
+  },
+  {
+    "eng": "Do you have power outlets for charging devices?",
+    "fra": "Avez-vous des prises de courant pour charger les appareils?",
+    "deu": "Haben Sie Steckdosen zum Aufladen von Geräten?",
+    "spa": "¿Tiene tomacorrientes para cargar dispositivos?",
+    "ita": "Avete prese di corrente per caricare i dispositivi?",
+    "rus": "У вас есть розетки для зарядки устройств?",
+    "tur": "Cihazları şarj etmek için prizleriniz var mı?"
+  },
+  {
+    "eng": "Is there a printer available?",
+    "fra": "Y a-t-il une imprimante disponible?",
+    "deu": "Gibt es einen Drucker?",
+    "spa": "¿Hay una impresora disponible?",
+    "ita": "C'è una stampante disponibile?",
+    "rus": "Есть ли доступный принтер?",
+    "tur": "Kullanılabilir bir yazıcı var mı?"
+  },
+  {
+    "eng": "Do you have a scanner?",
+    "fra": "Avez-vous un scanner?",
+    "deu": "Haben Sie einen Scanner?",
+    "spa": "¿Tienes un escáner?",
+    "ita": "Hai uno scanner?",
+    "rus": "У вас есть сканер?",
+    "tur": "Tarayıcınız var mı?"
+  },
+  {
+    "eng": "Is there a photocopier available?",
+    "fra": "Y a-t-il une photocopieuse disponible?",
+    "deu": "Gibt es einen Fotokopierer?",
+    "spa": "¿Hay una fotocopiadora disponible?",
+    "ita": "C'è una fotocopiatrice disponibile?",
+    "rus": "Есть ли доступный ксерокс?",
+    "tur": "Kullanılabilir bir fotokopi makinesi var mı?"
+  },
+  {
+    "eng": "Do you provide technical support?",
+    "fra": "Fournissez-vous un support technique?",
+    "deu": "Bieten Sie technischen Support an?",
+    "spa": "¿Proporciona soporte técnico?",
+    "ita": "Fornite supporto tecnico?",
+    "rus": "Вы предоставляете техническую поддержку?",
+    "tur": "Teknik destek sağlıyor musunuz?"
+  },
+  {
+    "eng": "Can I use the meeting rooms?",
+    "fra": "Puis-je utiliser les salles de réunion?",
+    "deu": "Kann ich die Besprechungsräume nutzen?",
+    "spa": "¿Puedo usar las salas de reuniones?",
+    "ita": "Posso usare le sale riunioni?",
+    "rus": "Могу ли я использовать конференц-залы?",
+    "tur": "Toplantı odalarını kullanabilir miyim?"
+  },
+  {
+    "eng": "Is there a projector available?",
+    "fra": "Y a-t-il un projecteur disponible?",
+    "deu": "Gibt es einen Projektor?",
+    "spa": "¿Hay un proyector disponible?",
+    "ita": "C'è un proiettore disponibile?",
+    "rus": "Есть ли доступный проектор?",
+    "tur": "Kullanılabilir bir projektör var mı?"
+  },
+  {
+    "eng": "Is there a whiteboard available?",
+    "fra": "Y a-t-il un tableau blanc disponible?",
+    "deu": "Gibt es ein Whiteboard?",
+    "spa": "¿Hay una pizarra blanca disponible?",
+    "ita": "C'è una lavagna disponibile?",
+    "rus": "Есть ли доступная доска?",
+    "tur": "Kullanılabilir bir beyaz tahta var mı?"
+  },
+  {
+    "eng": "Do you have video conferencing facilities?",
+    "fra": "Avez-vous des installations de vidéoconférence?",
+    "deu": "Haben Sie Videokonferenzeinrichtungen?",
+    "spa": "¿Tiene instalaciones para videoconferencias?",
+    "ita": "Avete strutture per videoconferenze?",
+    "rus": "У вас есть оборудование для видеоконференций?",
+    "tur": "Video konferans olanaklarınız var mı?"
+  },
+  {
+    "eng": "Is there a kitchen or café area?",
+    "fra": "Y a-t-il une cuisine ou un café?",
+    "deu": "Gibt es eine Küche oder ein Café?",
+    "spa": "¿Hay una cocina o área de café?",
+    "ita": "C'è una cucina o un'area caffè?",
+    "rus": "Есть ли кухня или кафе?",
+    "tur": "Bir mutfak veya kafe alanı var mı?"
+  },
+  {
+    "eng": "Are there any lockers available?",
+    "fra": "Y a-t-il des casiers disponibles?",
+    "deu": "Gibt es Schließfächer?",
+    "spa": "¿Hay casilleros disponibles?",
+    "ita": "Ci sono armadietti disponibili?",
+    "rus": "Есть ли доступные шкафчики?",
+    "tur": "Kullanılabilir dolaplar var mı?"
+  },
+  {
+    "eng": "Do you have ergonomic chairs?",
+    "fra": "Avez-vous des chaises ergonomiques?",
+    "deu": "Haben Sie ergonomische Stühle?",
+    "spa": "¿Tienes sillas ergonómicas?",
+    "ita": "Hai sedie ergonomiche?",
+    "rus": "У вас есть эргономичные стулья?",
+    "tur": "Ergonomik sandalyeleriniz var mı?"
+  },
+  {
+    "eng": "Is there a quiet area for work?",
+    "fra": "Y a-t-il une zone calme pour travailler?",
+    "deu": "Gibt es einen ruhigen Bereich zum Arbeiten?",
+    "spa": "¿Hay un área tranquila para trabajar?",
+    "ita": "C'è un'area tranquilla per lavorare?",
+    "rus": "Есть ли тихая зона для работы?",
+    "tur": "Çalışmak için sessiz bir alan var mı?"
+  }
+]

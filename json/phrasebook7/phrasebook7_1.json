@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "Where can I find a co-working space?",
+    "fra": "Où puis-je trouver un espace de coworking?",
+    "deu": "Wo finde ich einen Coworking-Space?",
+    "spa": "¿Dónde puedo encontrar un espacio de coworking?",
+    "ita": "Dove posso trovare uno spazio di coworking?",
+    "rus": "Где я могу найти коворкинг?",
+    "tur": "Nerede ortak çalışma alanı bulabilirim?"
+  },
+  {
+    "eng": "Are there any co-working spaces nearby?",
+    "fra": "Y a-t-il des espaces de coworking à proximité?",
+    "deu": "Gibt es Coworking-Spaces in der Nähe?",
+    "spa": "¿Hay espacios de coworking cerca?",
+    "ita": "Ci sono spazi di coworking nelle vicinanze?",
+    "rus": "Есть ли поблизости коворкинги?",
+    "tur": "Yakınlarda ortak çalışma alanı var mı?"
+  },
+  {
+    "eng": "How much does it cost to use a co-working space?",
+    "fra": "Combien coûte l'utilisation d'un espace de coworking?",
+    "deu": "Wie viel kostet die Nutzung eines Coworking-Spaces?",
+    "spa": "¿Cuánto cuesta usar un espacio de coworking?",
+    "ita": "Quanto costa usare uno spazio di coworking?",
+    "rus": "Сколько стоит использование коворкинга?",
+    "tur": "Ortak çalışma alanı kullanmanın maliyeti nedir?"
+  },
+  {
+    "eng": "Do I need to book a co-working space in advance?",
+    "fra": "Dois-je réserver un espace de coworking à l'avance?",
+    "deu": "Muss ich einen Coworking-Space im Voraus buchen?",
+    "spa": "¿Necesito reservar un espacio de coworking con anticipación?",
+    "ita": "Devo prenotare uno spazio di coworking in anticipo?",
+    "rus": "Нужно ли бронировать коворкинг заранее?",
+    "tur": "Ortak çalışma alanını önceden rezerve etmem gerekiyor mu?"
+  },
+  {
+    "eng": "What amenities are available at co-working spaces?",
+    "fra": "Quels équipements sont disponibles dans les espaces de coworking?",
+    "deu": "Welche Annehmlichkeiten gibt es in Coworking-Spaces?",
+    "spa": "¿Qué comodidades están disponibles en los espacios de coworking?",
+    "ita": "Quali servizi sono disponibili negli spazi di coworking?",
+    "rus": "Какие удобства есть в коворкингах?",
+    "tur": "Ortak çalışma alanlarında hangi olanaklar mevcut?"
+  },
+  {
+    "eng": "Are there any 24-hour co-working spaces?",
+    "fra": "Y a-t-il des espaces de coworking ouverts 24 heures sur 24?",
+    "deu": "Gibt es 24-Stunden-Coworking-Spaces?",
+    "spa": "¿Hay espacios de coworking abiertos las 24 horas?",
+    "ita": "Ci sono spazi di coworking aperti 24 ore su 24?",
+    "rus": "Есть ли коворкинги, работающие круглосуточно?",
+    "tur": "24 saat açık ortak çalışma alanı var mı?"
+  },
+  {
+    "eng": "Do co-working spaces offer high-speed internet?",
+    "fra": "Les espaces de coworking offrent-ils une connexion internet haut débit?",
+    "deu": "Bieten Coworking-Spaces High-Speed-Internet?",
+    "spa": "¿Los espacios de coworking ofrecen internet de alta velocidad?",
+    "ita": "Gli spazi di coworking offrono internet ad alta velocità?",
+    "rus": "Предлагают ли коворкинги высокоскоростной интернет?",
+    "tur": "Ortak çalışma alanları yüksek hızlı internet sunuyor mu?"
+  },
+  {
+    "eng": "Can I rent a private office in a co-working space?",
+    "fra": "Puis-je louer un bureau privé dans un espace de coworking?",
+    "deu": "Kann ich ein privates Büro in einem Coworking-Space mieten?",
+    "spa": "¿Puedo alquilar una oficina privada en un espacio de coworking?",
+    "ita": "Posso affittare un ufficio privato in uno spazio di coworking?",
+    "rus": "Могу ли я арендовать частный офис в коворкинге?",
+    "tur": "Ortak çalışma alanında özel bir ofis kiralayabilir miyim?"
+  },
+  {
+    "eng": "Do co-working spaces have meeting rooms?",
+    "fra": "Les espaces de coworking ont-ils des salles de réunion?",
+    "deu": "Haben Coworking-Spaces Besprechungsräume?",
+    "spa": "¿Los espacios de coworking tienen salas de reuniones?",
+    "ita": "Gli spazi di coworking hanno sale riunioni?",
+    "rus": "Есть ли в коворкингах конференц-залы?",
+    "tur": "Ortak çalışma alanlarında toplantı odaları var mı?"
+  },
+  {
+    "eng": "Is there a co-working space with a quiet area?",
+    "fra": "Y a-t-il un espace de coworking avec une zone calme?",
+    "deu": "Gibt es einen Coworking-Space mit einem ruhigen Bereich?",
+    "spa": "¿Hay un espacio de coworking con un área tranquila?",
+    "ita": "C'è uno spazio di coworking con un'area tranquilla?",
+    "rus": "Есть ли в коворкинге тихая зона?",
+    "tur": "Sessiz bir alanı olan ortak çalışma alanı var mı?"
+  },
+  {
+    "eng": "Do co-working spaces offer printing services?",
+    "fra": "Les espaces de coworking offrent-ils des services d'impression?",
+    "deu": "Bieten Coworking-Spaces Druckdienste an?",
+    "spa": "¿Los espacios de coworking ofrecen servicios de impresión?",
+    "ita": "Gli spazi di coworking offrono servizi di stampa?",
+    "rus": "Предлагают ли коворкинги услуги печати?",
+    "tur": "Ortak çalışma alanları baskı hizmetleri sunuyor mu?"
+  },
+  {
+    "eng": "Is there a co-working space with a café?",
+    "fra": "Y a-t-il un espace de coworking avec un café?",
+    "deu": "Gibt es einen Coworking-Space mit einem Café?",
+    "spa": "¿Hay un espacio de coworking con una cafetería?",
+    "ita": "C'è uno spazio di coworking con un caffè?",
+    "rus": "Есть ли в коворкинге кафе?",
+    "tur": "Kafesi olan ortak çalışma alanı var mı?"
+  },
+  {
+    "eng": "Are there any co-working spaces with event spaces?",
+    "fra": "Y a-t-il des espaces de coworking avec des espaces événementiels?",
+    "deu": "Gibt es Coworking-Spaces mit Veranstaltungsräumen?",
+    "spa": "¿Hay espacios de coworking con espacios para eventos?",
+    "ita": "Ci sono spazi di coworking con spazi per eventi?",
+    "rus": "Есть ли в коворкингах помещения для мероприятий?",
+    "tur": "Etkinlik alanları olan ortak çalışma alanı var mı?"
+  },
+  {
+    "eng": "Can I use a co-working space for a day?",
+    "fra": "Puis-je utiliser un espace de coworking pour une journée?",
+    "deu": "Kann ich einen Coworking-Space für einen Tag nutzen?",
+    "spa": "¿Puedo usar un espacio de coworking por un día?",
+    "ita": "Posso usare uno spazio di coworking per un giorno?",
+    "rus": "Могу ли я использовать коворкинг на один день?",
+    "tur": "Bir günlüğüne ortak çalışma alanı kullanabilir miyim?"
+  },
+  {
+    "eng": "Do co-working spaces offer monthly memberships?",
+    "fra": "Les espaces de coworking proposent-ils des abonnements mensuels?",
+    "deu": "Bieten Coworking-Spaces monatliche Mitgliedschaften an?",
+    "spa": "¿Los espacios de coworking ofrecen membresías mensuales?",
+    "ita": "Gli spazi di coworking offrono abbonamenti mensili?",
+    "rus": "Предлагают ли коворкинги месячные абонементы?",
+    "tur": "Ortak çalışma alanları aylık üyelikler sunuyor mu?"
+  },
+  {
+    "eng": "Are there any co-working spaces open on weekends?",
+    "fra": "Y a-t-il des espaces de coworking ouverts le week-end?",
+    "deu": "Gibt es Coworking-Spaces, die am Wochenende geöffnet sind?",
+    "spa": "¿Hay espacios de coworking abiertos los fines de semana?",
+    "ita": "Ci sono spazi di coworking aperti nei fine settimana?",
+    "rus": "Есть ли коворкинги, работающие по выходным?",
+    "tur": "Hafta sonları açık ortak çalışma alanı var mı?"
+  },
+  {
+    "eng": "Do co-working spaces offer lockers?",
+    "fra": "Les espaces de coworking offrent-ils des casiers?",
+    "deu": "Bieten Coworking-Spaces Schließfächer an?",
+    "spa": "¿Los espacios de coworking ofrecen casilleros?",
+    "ita": "Gli spazi di coworking offrono armadietti?",
+    "rus": "Предлагают ли коворкинги шкафчики?",
+    "tur": "Ortak çalışma alanlarında dolaplar var mı?"
+  },
+  {
+    "eng": "Is there a co-working space with parking?",
+    "fra": "Y a-t-il un espace de coworking avec parking?",
+    "deu": "Gibt es einen Coworking-Space mit Parkplatz?",
+    "spa": "¿Hay un espacio de coworking con estacionamiento?",
+    "ita": "C'è uno spazio di coworking con parcheggio?",
+    "rus": "Есть ли в коворкинге парковка?",
+    "tur": "Otoparkı olan ortak çalışma alanı var mı?"
+  },
+  {
+    "eng": "Are there any co-working spaces with private booths?",
+    "fra": "Y a-t-il des espaces de coworking avec des cabines privées?",
+    "deu": "Gibt es Coworking-Spaces mit privaten Kabinen?",
+    "spa": "¿Hay espacios de coworking con cabinas privadas?",
+    "ita": "Ci sono spazi di coworking con cabine private?",
+    "rus": "Есть ли в коворкингах частные кабинки?",
+    "tur": "Özel kabinleri olan ortak çalışma alanı var mı?"
+  },
+  {
+    "eng": "Can I bring a guest to a co-working space?",
+    "fra": "Puis-je amener un invité dans un espace de coworking?",
+    "deu": "Kann ich einen Gast in einen Coworking-Space mitbringen?",
+    "spa": "¿Puedo traer un invitado a un espacio de coworking?",
+    "ita": "Posso portare un ospite in uno spazio di coworking?",
+    "rus": "Могу ли я привести гостя в коворкинг?",
+    "tur": "Ortak çalışma alanına bir misafir getirebilir miyim?"
+  }
+]

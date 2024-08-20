@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "What cultural events are happening this week?",
+    "fra": "Quels événements culturels se déroulent cette semaine?",
+    "deu": "Welche kulturellen Veranstaltungen finden diese Woche statt?",
+    "spa": "¿Qué eventos culturales están sucediendo esta semana?",
+    "ita": "Quali eventi culturali si svolgono questa settimana?",
+    "rus": "Какие культурные мероприятия проходят на этой неделе?",
+    "tur": "Bu hafta hangi kültürel etkinlikler var?"
+  },
+  {
+    "eng": "Are there any music festivals happening soon?",
+    "fra": "Y a-t-il des festivals de musique bientôt?",
+    "deu": "Gibt es bald Musikfestivals?",
+    "spa": "¿Hay algún festival de música próximamente?",
+    "ita": "Ci sono festival di musica in arrivo?",
+    "rus": "В ближайшее время будут музыкальные фестивали?",
+    "tur": "Yakında bir müzik festivali var mı?"
+  },
+  {
+    "eng": "Where can I find information about local art exhibitions?",
+    "fra": "Où puis-je trouver des informations sur les expositions d'art locales?",
+    "deu": "Wo finde ich Informationen über lokale Kunstausstellungen?",
+    "spa": "¿Dónde puedo encontrar información sobre exposiciones de arte locales?",
+    "ita": "Dove posso trovare informazioni sulle mostre d'arte locali?",
+    "rus": "Где я могу найти информацию о местных художественных выставках?",
+    "tur": "Yerel sanat sergileri hakkında bilgileri nereden bulabilirim?"
+  },
+  {
+    "eng": "Are there any theater performances this weekend?",
+    "fra": "Y a-t-il des représentations théâtrales ce week-end?",
+    "deu": "Gibt es dieses Wochenende Theateraufführungen?",
+    "spa": "¿Hay representaciones teatrales este fin de semana?",
+    "ita": "Ci sono spettacoli teatrali questo fine settimana?",
+    "rus": "Есть ли театральные представления в эти выходные?",
+    "tur": "Bu hafta sonu tiyatro gösterileri var mı?"
+  },
+  {
+    "eng": "What time does the cultural festival start?",
+    "fra": "À quelle heure commence le festival culturel?",
+    "deu": "Wann beginnt das Kulturfestival?",
+    "spa": "¿A qué hora comienza el festival cultural?",
+    "ita": "A che ora inizia il festival culturale?",
+    "rus": "Во сколько начинается культурный фестиваль?",
+    "tur": "Kültür festivali ne zaman başlıyor?"
+  },
+  {
+    "eng": "Is there an entrance fee for the event?",
+    "fra": "Y a-t-il un droit d'entrée pour l'événement?",
+    "deu": "Gibt es eine Eintrittsgebühr für die Veranstaltung?",
+    "spa": "¿Hay tarifa de entrada para el evento?",
+    "ita": "C'è una tariffa d'ingresso per l'evento?",
+    "rus": "Есть ли входной билет на мероприятие?",
+    "tur": "Etkinlik için giriş ücreti var mı?"
+  },
+  {
+    "eng": "Where is the event taking place?",
+    "fra": "Où a lieu l'événement?",
+    "deu": "Wo findet die Veranstaltung statt?",
+    "spa": "¿Dónde se lleva a cabo el evento?",
+    "ita": "Dove si svolge l'evento?",
+    "rus": "Где проходит мероприятие?",
+    "tur": "Etkinlik nerede gerçekleşiyor?"
+  },
+  {
+    "eng": "Can I buy tickets online?",
+    "fra": "Puis-je acheter des billets en ligne?",
+    "deu": "Kann ich Tickets online kaufen?",
+    "spa": "¿Puedo comprar boletos en línea?",
+    "ita": "Posso comprare i biglietti online?",
+    "rus": "Могу ли я купить билеты онлайн?",
+    "tur": "Biletleri çevrimiçi satın alabilir miyim?"
+  },
+  {
+    "eng": "Are there any free events?",
+    "fra": "Y a-t-il des événements gratuits?",
+    "deu": "Gibt es kostenlose Veranstaltungen?",
+    "spa": "¿Hay eventos gratuitos?",
+    "ita": "Ci sono eventi gratuiti?",
+    "rus": "Есть ли бесплатные мероприятия?",
+    "tur": "Ücretsiz etkinlikler var mı?"
+  },
+  {
+    "eng": "What are the most popular cultural events here?",
+    "fra": "Quels sont les événements culturels les plus populaires ici?",
+    "deu": "Was sind die beliebtesten kulturellen Veranstaltungen hier?",
+    "spa": "¿Cuáles son los eventos culturales más populares aquí?",
+    "ita": "Quali sono gli eventi culturali più popolari qui?",
+    "rus": "Какие здесь самые популярные культурные мероприятия?",
+    "tur": "Buradaki en popüler kültürel etkinlikler nelerdir?"
+  },
+  {
+    "eng": "Can you recommend any cultural events?",
+    "fra": "Pouvez-vous recommander des événements culturels?",
+    "deu": "Können Sie kulturelle Veranstaltungen empfehlen?",
+    "spa": "¿Puedes recomendar algún evento cultural?",
+    "ita": "Puoi raccomandare eventi culturali?",
+    "rus": "Можете порекомендовать какие-нибудь культурные мероприятия?",
+    "tur": "Herhangi bir kültürel etkinlik önerebilir misiniz?"
+  },
+  {
+    "eng": "Where can I see traditional performances?",
+    "fra": "Où puis-je voir des spectacles traditionnels?",
+    "deu": "Wo kann ich traditionelle Aufführungen sehen?",
+    "spa": "¿Dónde puedo ver espectáculos tradicionales?",
+    "ita": "Dove posso vedere spettacoli tradizionali?",
+    "rus": "Где я могу увидеть традиционные представления?",
+    "tur": "Geleneksel performansları nerede görebilirim?"
+  },
+  {
+    "eng": "Are there any local festivals coming up?",
+    "fra": "Y a-t-il des festivals locaux à venir?",
+    "deu": "Gibt es demnächst lokale Festivals?",
+    "spa": "¿Hay festivales locales próximamente?",
+    "ita": "Ci sono festival locali in arrivo?",
+    "rus": "Есть ли предстоящие местные фестивали?",
+    "tur": "Yaklaşan yerel festivaller var mı?"
+  },
+  {
+    "eng": "What is the main theme of the festival?",
+    "fra": "Quel est le thème principal du festival?",
+    "deu": "Was ist das Hauptthema des Festivals?",
+    "spa": "¿Cuál es el tema principal del festival?",
+    "ita": "Qual è il tema principale del festival?",
+    "rus": "Какая основная тема фестиваля?",
+    "tur": "Festivalin ana teması nedir?"
+  },
+  {
+    "eng": "Are there any workshops or activities for children?",
+    "fra": "Y a-t-il des ateliers ou des activités pour les enfants?",
+    "deu": "Gibt es Workshops oder Aktivitäten für Kinder?",
+    "spa": "¿Hay talleres o actividades para niños?",
+    "ita": "Ci sono laboratori o attività per bambini?",
+    "rus": "Есть ли мастер-классы или мероприятия для детей?",
+    "tur": "Çocuklar için atölyeler veya aktiviteler var mı?"
+  },
+  {
+    "eng": "Can I take photos at the event?",
+    "fra": "Puis-je prendre des photos à l'événement?",
+    "deu": "Kann ich bei der Veranstaltung Fotos machen?",
+    "spa": "¿Puedo tomar fotos en el evento?",
+    "ita": "Posso fare foto all'evento?",
+    "rus": "Можно ли фотографировать на мероприятии?",
+    "tur": "Etkinlikte fotoğraf çekebilir miyim?"
+  },
+  {
+    "eng": "Are there any food stalls at the event?",
+    "fra": "Y a-t-il des stands de nourriture à l'événement?",
+    "deu": "Gibt es Essensstände auf der Veranstaltung?",
+    "spa": "¿Hay puestos de comida en el evento?",
+    "ita": "Ci sono bancarelle di cibo all'evento?",
+    "rus": "Есть ли на мероприятии продуктовые киоски?",
+    "tur": "Etkinlikte yemek tezgahları var mı?"
+  },
+  {
+    "eng": "What time does the event end?",
+    "fra": "À quelle heure se termine l'événement?",
+    "deu": "Wann endet die Veranstaltung?",
+    "spa": "¿A qué hora termina el evento?",
+    "ita": "A che ora finisce l'evento?",
+    "rus": "Во сколько заканчивается мероприятие?",
+    "tur": "Etkinlik ne zaman bitiyor?"
+  },
+  {
+    "eng": "Do I need to bring anything to the event?",
+    "fra": "Dois-je apporter quelque chose à l'événement?",
+    "deu": "Muss ich etwas zur Veranstaltung mitbringen?",
+    "spa": "¿Necesito llevar algo al evento?",
+    "ita": "Devo portare qualcosa all'evento?",
+    "rus": "Нужно ли что-то брать с собой на мероприятие?",
+    "tur": "Etkinliğe bir şey getirmem gerekiyor mu?"
+  },
+  {
+    "eng": "Is there parking available at the event?",
+    "fra": "Y a-t-il un parking disponible à l'événement?",
+    "deu": "Gibt es Parkplätze bei der Veranstaltung?",
+    "spa": "¿Hay estacionamiento disponible en el evento?",
+    "ita": "C'è un parcheggio disponibile all'evento?",
+    "rus": "Есть ли парковка на мероприятии?",
+    "tur": "Etkinlikte otopark mevcut mu?"
+  }
+]

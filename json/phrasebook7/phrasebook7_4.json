@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "My computer is not working.",
+    "fra": "Mon ordinateur ne fonctionne pas.",
+    "deu": "Mein Computer funktioniert nicht.",
+    "spa": "Mi computadora no funciona.",
+    "ita": "Il mio computer non funziona.",
+    "rus": "Мой компьютер не работает.",
+    "tur": "Bilgisayarım çalışmıyor."
+  },
+  {
+    "eng": "My internet connection is down.",
+    "fra": "Ma connexion Internet est coupée.",
+    "deu": "Meine Internetverbindung ist unterbrochen.",
+    "spa": "Mi conexión a Internet no funciona.",
+    "ita": "La mia connessione Internet non funziona.",
+    "rus": "Мое интернет-соединение не работает.",
+    "tur": "İnternet bağlantım kesildi."
+  },
+  {
+    "eng": "I need help with my printer.",
+    "fra": "J'ai besoin d'aide avec mon imprimante.",
+    "deu": "Ich brauche Hilfe mit meinem Drucker.",
+    "spa": "Necesito ayuda con mi impresora.",
+    "ita": "Ho bisogno di aiuto con la mia stampante.",
+    "rus": "Мне нужна помощь с принтером.",
+    "tur": "Yazıcımla ilgili yardıma ihtiyacım var."
+  },
+  {
+    "eng": "My screen is flickering.",
+    "fra": "Mon écran scintille.",
+    "deu": "Mein Bildschirm flackert.",
+    "spa": "Mi pantalla parpadea.",
+    "ita": "Lo schermo sfarfalla.",
+    "rus": "Мой экран мерцает.",
+    "tur": "Ekranım titriyor."
+  },
+  {
+    "eng": "My keyboard is not responding.",
+    "fra": "Mon clavier ne répond pas.",
+    "deu": "Meine Tastatur reagiert nicht.",
+    "spa": "Mi teclado no responde.",
+    "ita": "La mia tastiera non risponde.",
+    "rus": "Моя клавиатура не отвечает.",
+    "tur": "Klavye yanıt vermiyor."
+  },
+  {
+    "eng": "I need to update my software.",
+    "fra": "Je dois mettre à jour mon logiciel.",
+    "deu": "Ich muss meine Software aktualisieren.",
+    "spa": "Necesito actualizar mi software.",
+    "ita": "Devo aggiornare il mio software.",
+    "rus": "Мне нужно обновить программное обеспечение.",
+    "tur": "Yazılımımı güncellemem gerekiyor."
+  },
+  {
+    "eng": "My mouse is not working.",
+    "fra": "Ma souris ne fonctionne pas.",
+    "deu": "Meine Maus funktioniert nicht.",
+    "spa": "Mi ratón no funciona.",
+    "ita": "Il mio mouse non funziona.",
+    "rus": "Моя мышь не работает.",
+    "tur": "Farem çalışmıyor."
+  },
+  {
+    "eng": "I cannot access my email.",
+    "fra": "Je ne peux pas accéder à mon email.",
+    "deu": "Ich kann nicht auf meine E-Mail zugreifen.",
+    "spa": "No puedo acceder a mi correo electrónico.",
+    "ita": "Non riesco ad accedere alla mia email.",
+    "rus": "Я не могу получить доступ к своей электронной почте.",
+    "tur": "E-postama erişemiyorum."
+  },
+  {
+    "eng": "My device is overheating.",
+    "fra": "Mon appareil surchauffe.",
+    "deu": "Mein Gerät überhitzt.",
+    "spa": "Mi dispositivo se está sobrecalentando.",
+    "ita": "Il mio dispositivo si sta surriscaldando.",
+    "rus": "Мое устройство перегревается.",
+    "tur": "Cihazım aşırı ısınıyor."
+  },
+  {
+    "eng": "The battery is not charging.",
+    "fra": "La batterie ne se charge pas.",
+    "deu": "Der Akku wird nicht geladen.",
+    "spa": "La batería no está cargando.",
+    "ita": "La batteria non si carica.",
+    "rus": "Батарея не заряжается.",
+    "tur": "Pil şarj olmuyor."
+  },
+  {
+    "eng": "I need help with the network settings.",
+    "fra": "J'ai besoin d'aide avec les paramètres réseau.",
+    "deu": "Ich brauche Hilfe mit den Netzwerkeinstellungen.",
+    "spa": "Necesito ayuda con la configuración de la red.",
+    "ita": "Ho bisogno di aiuto con le impostazioni di rete.",
+    "rus": "Мне нужна помощь с настройками сети.",
+    "tur": "Ağ ayarlarıyla ilgili yardıma ihtiyacım var."
+  },
+  {
+    "eng": "My sound is not working.",
+    "fra": "Mon son ne fonctionne pas.",
+    "deu": "Mein Ton funktioniert nicht.",
+    "spa": "Mi sonido no funciona.",
+    "ita": "Il mio audio non funziona.",
+    "rus": "У меня не работает звук.",
+    "tur": "Sesim çalışmıyor."
+  },
+  {
+    "eng": "I cannot connect to the projector.",
+    "fra": "Je ne peux pas me connecter au projecteur.",
+    "deu": "Ich kann keine Verbindung zum Projektor herstellen.",
+    "spa": "No puedo conectarme al proyector.",
+    "ita": "Non riesco a connettermi al proiettore.",
+    "rus": "Не могу подключиться к проектору.",
+    "tur": "Projektöre bağlanamıyorum."
+  },
+  {
+    "eng": "My software keeps crashing.",
+    "fra": "Mon logiciel continue de planter.",
+    "deu": "Meine Software stürzt ständig ab.",
+    "spa": "Mi software sigue fallando.",
+    "ita": "Il mio software continua a bloccarsi.",
+    "rus": "Мое программное обеспечение продолжает сбой.",
+    "tur": "Yazılımım sürekli çöküyor."
+  },
+  {
+    "eng": "I need help with my VPN.",
+    "fra": "J'ai besoin d'aide avec mon VPN.",
+    "deu": "Ich brauche Hilfe mit meinem VPN.",
+    "spa": "Necesito ayuda con mi VPN.",
+    "ita": "Ho bisogno di aiuto con la mia VPN.",
+    "rus": "Мне нужна помощь с VPN.",
+    "tur": "VPN'imle ilgili yardıma ihtiyacım var."
+  },
+  {
+    "eng": "I cannot access the shared drive.",
+    "fra": "Je ne peux pas accéder au lecteur partagé.",
+    "deu": "Ich kann nicht auf das freigegebene Laufwerk zugreifen.",
+    "spa": "No puedo acceder a la unidad compartida.",
+    "ita": "Non riesco ad accedere all'unità condivisa.",
+    "rus": "Я не могу получить доступ к общему диску.",
+    "tur": "Paylaşılan sürücüye erişemiyorum."
+  },
+  {
+    "eng": "My webcam is not working.",
+    "fra": "Ma webcam ne fonctionne pas.",
+    "deu": "Meine Webcam funktioniert nicht.",
+    "spa": "Mi cámara web no funciona.",
+    "ita": "La mia webcam non funziona.",
+    "rus": "Моя веб-камера не работает.",
+    "tur": "Webcam çalışmıyor."
+  },
+  {
+    "eng": "I need help setting up my email.",
+    "fra": "J'ai besoin d'aide pour configurer mon email.",
+    "deu": "Ich brauche Hilfe bei der Einrichtung meiner E-Mail.",
+    "spa": "Necesito ayuda para configurar mi correo electrónico.",
+    "ita": "Ho bisogno di aiuto per configurare la mia email.",
+    "rus": "Мне нужна помощь с настройкой электронной почты.",
+    "tur": "E-postamı kurarken yardıma ihtiyacım var."
+  },
+  {
+    "eng": "My computer is very slow.",
+    "fra": "Mon ordinateur est très lent.",
+    "deu": "Mein Computer ist sehr langsam.",
+    "spa": "Mi computadora es muy lenta.",
+    "ita": "Il mio computer è molto lento.",
+    "rus": "Мой компьютер очень медленный.",
+    "tur": "Bilgisayarım çok yavaş."
+  },
+  {
+    "eng": "I cannot open my files.",
+    "fra": "Je ne peux pas ouvrir mes fichiers.",
+    "deu": "Ich kann meine Dateien nicht öffnen.",
+    "spa": "No puedo abrir mis archivos.",
+    "ita": "Non riesco ad aprire i miei file.",
+    "rus": "Не могу открыть свои файлы.",
+    "tur": "Dosyalarımı açamıyorum."
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "How much does this cost?",
+    "fra": "Combien cela coûte-t-il?",
+    "deu": "Wie viel kostet das?",
+    "spa": "¿Cuánto cuesta esto?",
+    "ita": "Quanto costa questo?",
+    "rus": "Сколько это стоит?",
+    "tur": "Bu ne kadar?"
+  },
+  {
+    "eng": "What is the price of this?",
+    "fra": "Quel est le prix de cela?",
+    "deu": "Was kostet das?",
+    "spa": "¿Cuál es el precio de esto?",
+    "ita": "Qual è il prezzo di questo?",
+    "rus": "Какова цена этого?",
+    "tur": "Bunun fiyatı nedir?"
+  },
+  {
+    "eng": "Is this on sale?",
+    "fra": "C'est en solde?",
+    "deu": "Ist das im Angebot?",
+    "spa": "¿Esto está en oferta?",
+    "ita": "Questo è in saldo?",
+    "rus": "Это на распродаже?",
+    "tur": "Bu indirimde mi?"
+  },
+  {
+    "eng": "Do you have any discounts?",
+    "fra": "Avez-vous des réductions?",
+    "deu": "Haben Sie irgendwelche Rabatte?",
+    "spa": "¿Tienen descuentos?",
+    "ita": "Avete degli sconti?",
+    "rus": "У вас есть скидки?",
+    "tur": "İndirimleriniz var mı?"
+  },
+  {
+    "eng": "Is there a cheaper option?",
+    "fra": "Y a-t-il une option moins chère?",
+    "deu": "Gibt es eine günstigere Option?",
+    "spa": "¿Hay una opción más barata?",
+    "ita": "C'è un'opzione più economica?",
+    "rus": "Есть ли более дешевый вариант?",
+    "tur": "Daha ucuz bir seçenek var mı?"
+  },
+  {
+    "eng": "Can you give me a better price?",
+    "fra": "Pouvez-vous me faire un meilleur prix?",
+    "deu": "Können Sie mir einen besseren Preis machen?",
+    "spa": "¿Puede darme un mejor precio?",
+    "ita": "Puoi farmi un prezzo migliore?",
+    "rus": "Можете сделать мне лучшее предложение?",
+    "tur": "Bana daha iyi bir fiyat verebilir misiniz?"
+  },
+  {
+    "eng": "Is there a discount for bulk purchases?",
+    "fra": "Y a-t-il une réduction pour les achats en gros?",
+    "deu": "Gibt es einen Rabatt für Großeinkäufe?",
+    "spa": "¿Hay un descuento por compras al por mayor?",
+    "ita": "C'è uno sconto per acquisti all'ingrosso?",
+    "rus": "Есть ли скидка за оптовые покупки?",
+    "tur": "Toplu alımlar için indirim var mı?"
+  },
+  {
+    "eng": "Do you offer a student discount?",
+    "fra": "Proposez-vous une réduction pour les étudiants?",
+    "deu": "Bieten Sie einen Studentenrabatt an?",
+    "spa": "¿Ofrecen un descuento para estudiantes?",
+    "ita": "Offrite uno sconto per studenti?",
+    "rus": "Вы предлагаете скидку для студентов?",
+    "tur": "Öğrenci indiriminiz var mı?"
+  },
+  {
+    "eng": "Is this the final price?",
+    "fra": "C'est le prix final?",
+    "deu": "Ist das der endgültige Preis?",
+    "spa": "¿Es este el precio final?",
+    "ita": "Questo è il prezzo finale?",
+    "rus": "Это окончательная цена?",
+    "tur": "Bu son fiyat mı?"
+  },
+  {
+    "eng": "Are there any additional fees?",
+    "fra": "Y a-t-il des frais supplémentaires?",
+    "deu": "Gibt es zusätzliche Gebühren?",
+    "spa": "¿Hay tarifas adicionales?",
+    "ita": "Ci sono tasse aggiuntive?",
+    "rus": "Есть ли дополнительные сборы?",
+    "tur": "Ekstra ücretler var mı?"
+  },
+  {
+    "eng": "Can you give me a receipt?",
+    "fra": "Pouvez-vous me donner un reçu?",
+    "deu": "Können Sie mir eine Quittung geben?",
+    "spa": "¿Puede darme un recibo?",
+    "ita": "Puoi darmi una ricevuta?",
+    "rus": "Можете дать мне квитанцию?",
+    "tur": "Bana bir fiş verebilir misiniz?"
+  },
+  {
+    "eng": "Is there a tax included?",
+    "fra": "Y a-t-il une taxe incluse?",
+    "deu": "Ist eine Steuer enthalten?",
+    "spa": "¿Hay un impuesto incluido?",
+    "ita": "C'è una tassa inclusa?",
+    "rus": "Налог включен?",
+    "tur": "Vergi dahil mi?"
+  },
+  {
+    "eng": "Do you have a price list?",
+    "fra": "Avez-vous une liste de prix?",
+    "deu": "Haben Sie eine Preisliste?",
+    "spa": "¿Tienen una lista de precios?",
+    "ita": "Avete un listino prezzi?",
+    "rus": "У вас есть прейскурант?",
+    "tur": "Bir fiyat listeniz var mı?"
+  },
+  {
+    "eng": "Can you match this price?",
+    "fra": "Pouvez-vous égaler ce prix?",
+    "deu": "Können Sie diesen Preis anpassen?",
+    "spa": "¿Puede igualar este precio?",
+    "ita": "Puoi eguagliare questo prezzo?",
+    "rus": "Вы можете сравнять эту цену?",
+    "tur": "Bu fiyatı eşleştirebilir misiniz?"
+  },
+  {
+    "eng": "Do you offer a warranty?",
+    "fra": "Proposez-vous une garantie?",
+    "deu": "Bieten Sie eine Garantie an?",
+    "spa": "¿Ofrecen una garantía?",
+    "ita": "Offrite una garanzia?",
+    "rus": "Вы предлагаете гарантию?",
+    "tur": "Garanti sunuyor musunuz?"
+  },
+  {
+    "eng": "Is this item refundable?",
+    "fra": "Cet article est-il remboursable?",
+    "deu": "Ist dieser Artikel erstattungsfähig?",
+    "spa": "¿Este artículo es reembolsable?",
+    "ita": "Questo articolo è rimborsabile?",
+    "rus": "Этот товар подлежит возврату?",
+    "tur": "Bu ürün iade edilebilir mi?"
+  },
+  {
+    "eng": "Can I get a discount if I pay in cash?",
+    "fra": "Puis-je obtenir une réduction si je paie en espèces?",
+    "deu": "Kann ich einen Rabatt bekommen, wenn ich bar bezahle?",
+    "spa": "¿Puedo obtener un descuento si pago en efectivo?",
+    "ita": "Posso ottenere uno sconto se pago in contanti?",
+    "rus": "Могу ли я получить скидку, если заплачу наличными?",
+    "tur": "Nakit ödersem indirim alabilir miyim?"
+  },
+  {
+    "eng": "Are there any special offers today?",
+    "fra": "Y a-t-il des offres spéciales aujourd'hui?",
+    "deu": "Gibt es heute Sonderangebote?",
+    "spa": "¿Hay ofertas especiales hoy?",
+    "ita": "Ci sono offerte speciali oggi?",
+    "rus": "Есть ли сегодня специальные предложения?",
+    "tur": "Bugün özel teklifler var mı?"
+  },
+  {
+    "eng": "Is this the best price you can offer?",
+    "fra": "Est-ce le meilleur prix que vous pouvez offrir?",
+    "deu": "Ist das der beste Preis, den Sie anbieten können?",
+    "spa": "¿Es este el mejor precio que puede ofrecer?",
+    "ita": "Questo è il miglior prezzo che puoi offrire?",
+    "rus": "Это лучшая цена, которую вы можете предложить?",
+    "tur": "Bu, sunabileceğiniz en iyi fiyat mı?"
+  },
+  {
+    "eng": "Do you offer layaway plans?",
+    "fra": "Proposez-vous des plans de paiement échelonné?",
+    "deu": "Bieten Sie Ratenzahlungspläne an?",
+    "spa": "¿Ofrecen planes de apartado?",
+    "ita": "Offrite piani di pagamento rateali?",
+    "rus": "Вы предлагаете рассрочку?",
+    "tur": "Taksitli ödeme planı sunuyor musunuz?"
+  }
+]

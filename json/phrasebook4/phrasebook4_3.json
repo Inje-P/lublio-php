@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "I am vegetarian.",
+    "fra": "Je suis végétarien.",
+    "deu": "Ich bin Vegetarier.",
+    "spa": "Soy vegetariano.",
+    "ita": "Sono vegetariano.",
+    "rus": "Я вегетарианец.",
+    "tur": "Ben vejetaryenim."
+  },
+  {
+    "eng": "I am vegan.",
+    "fra": "Je suis végétalien.",
+    "deu": "Ich bin Veganer.",
+    "spa": "Soy vegano.",
+    "ita": "Sono vegano.",
+    "rus": "Я веган.",
+    "tur": "Ben veganım."
+  },
+  {
+    "eng": "I need gluten-free options.",
+    "fra": "J'ai besoin d'options sans gluten.",
+    "deu": "Ich brauche glutenfreie Optionen.",
+    "spa": "Necesito opciones sin gluten.",
+    "ita": "Ho bisogno di opzioni senza glutine.",
+    "rus": "Мне нужны безглютеновые варианты.",
+    "tur": "Glutensiz seçeneklere ihtiyacım var."
+  },
+  {
+    "eng": "Do you have vegetarian dishes?",
+    "fra": "Avez-vous des plats végétariens?",
+    "deu": "Haben Sie vegetarische Gerichte?",
+    "spa": "¿Tienen platos vegetarianos?",
+    "ita": "Avete piatti vegetariani?",
+    "rus": "У вас есть вегетарианские блюда?",
+    "tur": "Vejetaryen yemekleriniz var mı?"
+  },
+  {
+    "eng": "Do you have vegan options?",
+    "fra": "Avez-vous des options véganes?",
+    "deu": "Haben Sie vegane Optionen?",
+    "spa": "¿Tienen opciones veganas?",
+    "ita": "Avete opzioni vegane?",
+    "rus": "У вас есть веганские блюда?",
+    "tur": "Vegan seçenekleriniz var mı?"
+  },
+  {
+    "eng": "I am allergic to dairy.",
+    "fra": "Je suis allergique aux produits laitiers.",
+    "deu": "Ich bin allergisch gegen Milchprodukte.",
+    "spa": "Soy alérgico a los lácteos.",
+    "ita": "Sono allergico ai latticini.",
+    "rus": "У меня аллергия на молочные продукты.",
+    "tur": "Süt ürünlerine alerjim var."
+  },
+  {
+    "eng": "I cannot eat nuts.",
+    "fra": "Je ne peux pas manger de noix.",
+    "deu": "Ich kann keine Nüsse essen.",
+    "spa": "No puedo comer nueces.",
+    "ita": "Non posso mangiare noci.",
+    "rus": "Я не могу есть орехи.",
+    "tur": "Fındık yiyemem."
+  },
+  {
+    "eng": "Do you have gluten-free bread?",
+    "fra": "Avez-vous du pain sans gluten?",
+    "deu": "Haben Sie glutenfreies Brot?",
+    "spa": "¿Tienen pan sin gluten?",
+    "ita": "Avete pane senza glutine?",
+    "rus": "У вас есть безглютеновый хлеб?",
+    "tur": "Glutensiz ekmeğiniz var mı?"
+  },
+  {
+    "eng": "I need dairy-free options.",
+    "fra": "J'ai besoin d'options sans produits laitiers.",
+    "deu": "Ich brauche milchfreie Optionen.",
+    "spa": "Necesito opciones sin lácteos.",
+    "ita": "Ho bisogno di opzioni senza latticini.",
+    "rus": "Мне нужны безмолочные блюда.",
+    "tur": "Sütsüz seçeneklere ihtiyacım var."
+  },
+  {
+    "eng": "Are there any nuts in this dish?",
+    "fra": "Y a-t-il des noix dans ce plat?",
+    "deu": "Sind Nüsse in diesem Gericht?",
+    "spa": "¿Hay nueces en este plato?",
+    "ita": "Ci sono noci in questo piatto?",
+    "rus": "Есть ли орехи в этом блюде?",
+    "tur": "Bu yemekte fındık var mı?"
+  },
+  {
+    "eng": "Do you use soy in your recipes?",
+    "fra": "Utilisez-vous du soja dans vos recettes?",
+    "deu": "Verwenden Sie Soja in Ihren Rezepten?",
+    "spa": "¿Usan soja en sus recetas?",
+    "ita": "Usate la soia nelle vostre ricette?",
+    "rus": "Вы используете сою в своих рецептах?",
+    "tur": "Tariflerinizde soya kullanıyor musunuz?"
+  },
+  {
+    "eng": "I am allergic to shellfish.",
+    "fra": "Je suis allergique aux crustacés.",
+    "deu": "Ich bin allergisch gegen Schalentiere.",
+    "spa": "Soy alérgico a los mariscos.",
+    "ita": "Sono allergico ai crostacei.",
+    "rus": "У меня аллергия на моллюски.",
+    "tur": "Kabuklu deniz ürünlerine alerjim var."
+  },
+  {
+    "eng": "I cannot eat seafood.",
+    "fra": "Je ne peux pas manger de fruits de mer.",
+    "deu": "Ich kann keine Meeresfrüchte essen.",
+    "spa": "No puedo comer mariscos.",
+    "ita": "Non posso mangiare frutti di mare.",
+    "rus": "Я не могу есть морепродукты.",
+    "tur": "Deniz ürünleri yiyemem."
+  },
+  {
+    "eng": "Do you have any dishes without garlic?",
+    "fra": "Avez-vous des plats sans ail?",
+    "deu": "Haben Sie Gerichte ohne Knoblauch?",
+    "spa": "¿Tienen platos sin ajo?",
+    "ita": "Avete piatti senza aglio?",
+    "rus": "У вас есть блюда без чеснока?",
+    "tur": "Sarımsaksız yemekleriniz var mı?"
+  },
+  {
+    "eng": "I am on a low-sodium diet.",
+    "fra": "Je suis sur un régime pauvre en sodium.",
+    "deu": "Ich bin auf einer natriumarmen Diät.",
+    "spa": "Estoy en una dieta baja en sodio.",
+    "ita": "Sono a dieta povera di sodio.",
+    "rus": "Я на низкосолевой диете.",
+    "tur": "Düşük sodyumlu bir diyetteyim."
+  },
+  {
+    "eng": "Do you have low-carb options?",
+    "fra": "Avez-vous des options faibles en glucides?",
+    "deu": "Haben Sie kohlenhydratarme Optionen?",
+    "spa": "¿Tiene opciones bajas en carbohidratos?",
+    "ita": "Avete opzioni a basso contenuto di carboidrati?",
+    "rus": "У вас есть низкоуглеводные блюда?",
+    "tur": "Düşük karbonhidratlı seçenekleriniz var mı?"
+  },
+  {
+    "eng": "I need a sugar-free dessert.",
+    "fra": "J'ai besoin d'un dessert sans sucre.",
+    "deu": "Ich brauche ein zuckerfreies Dessert.",
+    "spa": "Necesito un postre sin azúcar.",
+    "ita": "Ho bisogno di un dessert senza zucchero.",
+    "rus": "Мне нужен десерт без сахара.",
+    "tur": "Şekersiz bir tatlıya ihtiyacım var."
+  },
+  {
+    "eng": "Can you make this dish without salt?",
+    "fra": "Pouvez-vous préparer ce plat sans sel?",
+    "deu": "Können Sie dieses Gericht ohne Salz zubereiten?",
+    "spa": "¿Puede hacer este plato sin sal?",
+    "ita": "Puoi fare questo piatto senza sale?",
+    "rus": "Можете приготовить это блюдо без соли?",
+    "tur": "Bu yemeği tuzsuz yapabilir misiniz?"
+  },
+  {
+    "eng": "I am lactose intolerant.",
+    "fra": "Je suis intolérant au lactose.",
+    "deu": "Ich bin laktoseintolerant.",
+    "spa": "Soy intolerante a la lactosa.",
+    "ita": "Sono intollerante al lattosio.",
+    "rus": "У меня непереносимость лактозы.",
+    "tur": "Laktoza intoleransım var."
+  },
+  {
+    "eng": "Can you make this without butter?",
+    "fra": "Pouvez-vous faire cela sans beurre?",
+    "deu": "Können Sie das ohne Butter machen?",
+    "spa": "¿Puede hacer esto sin mantequilla?",
+    "ita": "Puoi farlo senza burro?",
+    "rus": "Можете сделать это без масла?",
+    "tur": "Bunu tereyağı olmadan yapabilir misiniz?"
+  }
+]

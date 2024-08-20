@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "How do I report a water leak?",
+    "fra": "Comment puis-je signaler une fuite d'eau?",
+    "deu": "Wie melde ich ein Wasserleck?",
+    "spa": "¿Cómo informo sobre una fuga de agua?",
+    "ita": "Come posso segnalare una perdita d'acqua?",
+    "rus": "Как я могу сообщить о протечке воды?",
+    "tur": "Su sızıntısını nasıl bildirebilirim?"
+  },
+  {
+    "eng": "There is no electricity in my house. What should I do?",
+    "fra": "Il n'y a pas d'électricité chez moi. Que dois-je faire?",
+    "deu": "Es gibt keinen Strom in meinem Haus. Was soll ich tun?",
+    "spa": "No hay electricidad en mi casa. ¿Qué debo hacer?",
+    "ita": "Non c'è elettricità in casa mia. Cosa dovrei fare?",
+    "rus": "В моем доме нет электричества. Что мне делать?",
+    "tur": "Evde elektrik yok. Ne yapmalıyım?"
+  },
+  {
+    "eng": "Who do I contact for a power outage?",
+    "fra": "Qui dois-je contacter pour une panne de courant?",
+    "deu": "Wen kontaktiere ich bei einem Stromausfall?",
+    "spa": "¿A quién contacto por un corte de energía?",
+    "ita": "Chi devo contattare per un'interruzione di corrente?",
+    "rus": "К кому мне обратиться по поводу отключения электроэнергии?",
+    "tur": "Elektrik kesintisi için kimi aramalıyım?"
+  },
+  {
+    "eng": "How can I report a gas leak?",
+    "fra": "Comment puis-je signaler une fuite de gaz?",
+    "deu": "Wie kann ich ein Gasleck melden?",
+    "spa": "¿Cómo informo sobre una fuga de gas?",
+    "ita": "Come posso segnalare una fuga di gas?",
+    "rus": "Как я могу сообщить о утечке газа?",
+    "tur": "Gaz kaçağını nasıl bildirebilirim?"
+  },
+  {
+    "eng": "What should I do if my internet is not working?",
+    "fra": "Que dois-je faire si mon internet ne fonctionne pas?",
+    "deu": "Was soll ich tun, wenn mein Internet nicht funktioniert?",
+    "spa": "¿Qué debo hacer si mi internet no funciona?",
+    "ita": "Cosa devo fare se il mio internet non funziona?",
+    "rus": "Что мне делать, если интернет не работает?",
+    "tur": "İnternetim çalışmıyorsa ne yapmalıyım?"
+  },
+  {
+    "eng": "The water pressure is low. How can I report this?",
+    "fra": "La pression de l'eau est basse. Comment puis-je signaler cela?",
+    "deu": "Der Wasserdruck ist niedrig. Wie kann ich das melden?",
+    "spa": "La presión del agua es baja. ¿Cómo puedo informar de esto?",
+    "ita": "La pressione dell'acqua è bassa. Come posso segnalarlo?",
+    "rus": "Давление воды низкое. Как я могу сообщить об этом?",
+    "tur": "Su basıncı düşük. Bunu nasıl bildirebilirim?"
+  },
+  {
+    "eng": "Who should I call for emergency plumbing issues?",
+    "fra": "Qui dois-je appeler pour des problèmes de plomberie d'urgence?",
+    "deu": "Wen soll ich bei Notfällen in der Sanitäranlage anrufen?",
+    "spa": "¿A quién debo llamar para problemas de fontanería de emergencia?",
+    "ita": "Chi devo chiamare per problemi idraulici di emergenza?",
+    "rus": "Кого мне вызвать для решения экстренных проблем с водопроводом?",
+    "tur": "Acil sıhhi tesisat sorunları için kimi aramalıyım?"
+  },
+  {
+    "eng": "What is the customer service number for my utility provider?",
+    "fra": "Quel est le numéro du service client de mon fournisseur de services publics?",
+    "deu": "Wie lautet die Kundendienstnummer meines Versorgungsunternehmens?",
+    "spa": "¿Cuál es el número de servicio al cliente de mi proveedor de servicios públicos?",
+    "ita": "Qual è il numero del servizio clienti del mio fornitore di servizi pubblici?",
+    "rus": "Какой номер службы поддержки моего поставщика коммунальных услуг?",
+    "tur": "Hizmet sağlayıcımın müşteri hizmetleri numarası nedir?"
+  },
+  {
+    "eng": "How do I report a broken water pipe?",
+    "fra": "Comment puis-je signaler un tuyau d'eau cassé?",
+    "deu": "Wie melde ich ein gebrochenes Wasserrohr?",
+    "spa": "¿Cómo informo sobre una tubería de agua rota?",
+    "ita": "Come posso segnalare una tubatura dell'acqua rotta?",
+    "rus": "Как сообщить о сломанной водопроводной трубе?",
+    "tur": "Kırık bir su borusunu nasıl bildiririm?"
+  },
+  {
+    "eng": "Who do I contact for heating issues?",
+    "fra": "Qui dois-je contacter pour des problèmes de chauffage?",
+    "deu": "Wen kontaktiere ich bei Heizungsproblemen?",
+    "spa": "¿A quién contacto por problemas de calefacción?",
+    "ita": "Chi devo contattare per problemi di riscaldamento?",
+    "rus": "К кому обратиться по поводу проблем с отоплением?",
+    "tur": "Isıtma sorunları için kimi aramalıyım?"
+  },
+  {
+    "eng": "There is a strange smell from the gas line. What should I do?",
+    "fra": "Il y a une odeur étrange provenant de la conduite de gaz. Que dois-je faire?",
+    "deu": "Es gibt einen seltsamen Geruch aus der Gasleitung. Was soll ich tun?",
+    "spa": "Hay un olor extraño de la línea de gas. ¿Qué debo hacer?",
+    "ita": "C'è un odore strano dalla linea del gas. Cosa dovrei fare?",
+    "rus": "Пахнет газом. Что мне делать?",
+    "tur": "Gaz hattından garip bir koku geliyor. Ne yapmalıyım?"
+  },
+  {
+    "eng": "My electricity bill is unusually high. How do I report this?",
+    "fra": "Ma facture d'électricité est anormalement élevée. Comment puis-je signaler cela?",
+    "deu": "Meine Stromrechnung ist ungewöhnlich hoch. Wie kann ich das melden?",
+    "spa": "Mi factura de electricidad es inusualmente alta. ¿Cómo puedo informar sobre esto?",
+    "ita": "La mia bolletta dell'elettricità è insolitamente alta. Come posso segnalarlo?",
+    "rus": "Мой счет за электричество необычно высок. Как я могу сообщить об этом?",
+    "tur": "Elektrik faturam alışılmadık derecede yüksek. Bunu nasıl bildiririm?"
+  },
+  {
+    "eng": "Who should I contact if my internet is frequently disconnecting?",
+    "fra": "Qui dois-je contacter si ma connexion internet est fréquemment interrompue?",
+    "deu": "Wen soll ich kontaktieren, wenn mein Internet häufig unterbrochen wird?",
+    "spa": "¿A quién debo contactar si mi internet se desconecta con frecuencia?",
+    "ita": "Chi devo contattare se la mia connessione internet si disconnette frequentemente?",
+    "rus": "К кому мне обратиться, если мой интернет часто отключается?",
+    "tur": "İnternetim sık sık kesiliyorsa kimi aramalıyım?"
+  },
+  {
+    "eng": "How do I report a streetlight outage?",
+    "fra": "Comment puis-je signaler une panne d'éclairage public?",
+    "deu": "Wie melde ich einen Ausfall der Straßenbeleuchtung?",
+    "spa": "¿Cómo informo sobre un corte de luz en la calle?",
+    "ita": "Come posso segnalare un'interruzione dell'illuminazione stradale?",
+    "rus": "Как сообщить об отключении уличного освещения?",
+    "tur": "Sokak lambası arızasını nasıl bildirebilirim?"
+  },
+  {
+    "eng": "Who do I call for emergency electrical repairs?",
+    "fra": "Qui dois-je appeler pour des réparations électriques d'urgence?",
+    "deu": "Wen soll ich für dringende elektrische Reparaturen anrufen?",
+    "spa": "¿A quién debo llamar para reparaciones eléctricas de emergencia?",
+    "ita": "Chi devo chiamare per le riparazioni elettriche d'emergenza?",
+    "rus": "К кому обратиться за экстренным ремонтом электропроводки?",
+    "tur": "Acil elektrik onarımları için kimi aramalıyım?"
+  },
+  {
+    "eng": "What do I do if my utility bill seems incorrect?",
+    "fra": "Que dois-je faire si ma facture de services publics semble incorrecte?",
+    "deu": "Was soll ich tun, wenn meine Versorgungsrechnung falsch erscheint?",
+    "spa": "¿Qué debo hacer si mi factura de servicios públicos parece incorrecta?",
+    "ita": "Cosa devo fare se la mia bolletta sembra sbagliata?",
+    "rus": "Что делать, если счет за коммунальные услуги кажется неправильным?",
+    "tur": "Hizmet faturam yanlış görünüyorsa ne yapmalıyım?"
+  },
+  {
+    "eng": "How do I report a downed power line?",
+    "fra": "Comment puis-je signaler une ligne électrique abattue?",
+    "deu": "Wie melde ich eine heruntergefallene Stromleitung?",
+    "spa": "¿Cómo informo sobre una línea eléctrica caída?",
+    "ita": "Come posso segnalare una linea elettrica abbattuta?",
+    "rus": "Как сообщить о оборванном электропроводе?",
+    "tur": "Düşmüş bir elektrik hattını nasıl bildirebilirim?"
+  },
+  {
+    "eng": "Who do I contact if I smell gas in my home?",
+    "fra": "Qui dois-je contacter si je sens du gaz chez moi?",
+    "deu": "Wen kontaktiere ich, wenn ich Gas in meinem Haus rieche?",
+    "spa": "¿A quién contacto si huelo gas en mi casa?",
+    "ita": "Chi devo contattare se sento odore di gas in casa?",
+    "rus": "К кому мне обратиться, если я чувствую запах газа в своем доме?",
+    "tur": "Evde gaz kokusu alırsam kimi aramalıyım?"
+  },
+  {
+    "eng": "How do I report an issue with my sewage system?",
+    "fra": "Comment puis-je signaler un problème avec mon système d'égouts?",
+    "deu": "Wie melde ich ein Problem mit meinem Abwassersystem?",
+    "spa": "¿Cómo informo sobre un problema con mi sistema de alcantarillado?",
+    "ita": "Come posso segnalare un problema con il mio sistema fognario?",
+    "rus": "Как сообщить о проблеме с канализацией?",
+    "tur": "Kanalizasyon sistemimle ilgili bir sorunu nasıl bildiririm?"
+  },
+  {
+    "eng": "Who do I contact for emergency heating repairs?",
+    "fra": "Qui dois-je appeler pour des réparations de chauffage d'urgence?",
+    "deu": "Wen kontaktiere ich bei dringenden Heizungsreparaturen?",
+    "spa": "¿A quién contacto para reparaciones de calefacción de emergencia?",
+    "ita": "Chi devo contattare per le riparazioni di riscaldamento d'emergenza?",
+    "rus": "К кому обратиться за экстренным ремонтом отопления?",
+    "tur": "Acil ısıtma onarımları için kimi aramalıyım?"
+  }
+]

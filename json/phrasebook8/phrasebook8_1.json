@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "How are you?",
+    "fra": "Comment ça va?",
+    "deu": "Wie geht es Ihnen?",
+    "spa": "¿Cómo estás?",
+    "ita": "Come stai?",
+    "rus": "Как дела?",
+    "tur": "Nasılsın?"
+  },
+  {
+    "eng": "Nice to meet you.",
+    "fra": "Enchanté de vous rencontrer.",
+    "deu": "Freut mich, Sie kennenzulernen.",
+    "spa": "Encantado de conocerte.",
+    "ita": "Piacere di conoscerti.",
+    "rus": "Приятно познакомиться.",
+    "tur": "Tanıştığımıza memnun oldum."
+  },
+  {
+    "eng": "What do you do for a living?",
+    "fra": "Que faites-vous dans la vie?",
+    "deu": "Was machen Sie beruflich?",
+    "spa": "¿A qué te dedicas?",
+    "ita": "Cosa fai per vivere?",
+    "rus": "Чем вы зарабатываете на жизнь?",
+    "tur": "Ne iş yapıyorsunuz?"
+  },
+  {
+    "eng": "Where are you from?",
+    "fra": "D'où venez-vous?",
+    "deu": "Woher kommen Sie?",
+    "spa": "¿De dónde eres?",
+    "ita": "Di dove sei?",
+    "rus": "Откуда вы?",
+    "tur": "Nerelisiniz?"
+  },
+  {
+    "eng": "Do you have any hobbies?",
+    "fra": "Avez-vous des hobbies?",
+    "deu": "Haben Sie Hobbys?",
+    "spa": "¿Tienes algún pasatiempo?",
+    "ita": "Hai qualche hobby?",
+    "rus": "У вас есть хобби?",
+    "tur": "Hobileriniz var mı?"
+  },
+  {
+    "eng": "Would you like to join us?",
+    "fra": "Voulez-vous vous joindre à nous?",
+    "deu": "Möchten Sie sich uns anschließen?",
+    "spa": "¿Te gustaría unirte a nosotros?",
+    "ita": "Vuoi unirti a noi?",
+    "rus": "Хотите к нам присоединиться?",
+    "tur": "Bize katılmak ister misiniz?"
+  },
+  {
+    "eng": "Can I get you a drink?",
+    "fra": "Puis-je vous offrir un verre?",
+    "deu": "Kann ich Ihnen ein Getränk anbieten?",
+    "spa": "¿Puedo ofrecerte una bebida?",
+    "ita": "Posso offrirti da bere?",
+    "rus": "Можно предложить вам напиток?",
+    "tur": "Size bir içki ısmarlayabilir miyim?"
+  },
+  {
+    "eng": "What are your plans for the weekend?",
+    "fra": "Quels sont vos projets pour le week-end?",
+    "deu": "Was haben Sie am Wochenende vor?",
+    "spa": "¿Cuáles son tus planes para el fin de semana?",
+    "ita": "Quali sono i tuoi piani per il fine settimana?",
+    "rus": "Какие у вас планы на выходные?",
+    "tur": "Hafta sonu için planların neler?"
+  },
+  {
+    "eng": "Do you like to travel?",
+    "fra": "Aimez-vous voyager?",
+    "deu": "Reisen Sie gerne?",
+    "spa": "¿Te gusta viajar?",
+    "ita": "Ti piace viaggiare?",
+    "rus": "Вы любите путешествовать?",
+    "tur": "Seyahat etmeyi sever misiniz?"
+  },
+  {
+    "eng": "Do you play any sports?",
+    "fra": "Pratiquez-vous des sports?",
+    "deu": "Treiben Sie Sport?",
+    "spa": "¿Practicas algún deporte?",
+    "ita": "Pratichi qualche sport?",
+    "rus": "Вы занимаетесь спортом?",
+    "tur": "Spor yapar mısınız?"
+  },
+  {
+    "eng": "Do you have any pets?",
+    "fra": "Avez-vous des animaux de compagnie?",
+    "deu": "Haben Sie Haustiere?",
+    "spa": "¿Tienes mascotas?",
+    "ita": "Hai animali domestici?",
+    "rus": "У вас есть домашние животные?",
+    "tur": "Evcil hayvanınız var mı?"
+  },
+  {
+    "eng": "What kind of music do you like?",
+    "fra": "Quel genre de musique aimez-vous?",
+    "deu": "Welche Art von Musik mögen Sie?",
+    "spa": "¿Qué tipo de música te gusta?",
+    "ita": "Che tipo di musica ti piace?",
+    "rus": "Какую музыку вы любите?",
+    "tur": "Ne tür müzikten hoşlanırsınız?"
+  },
+  {
+    "eng": "Have you read any good books lately?",
+    "fra": "Avez-vous lu de bons livres récemment?",
+    "deu": "Haben Sie in letzter Zeit gute Bücher gelesen?",
+    "spa": "¿Has leído algún buen libro últimamente?",
+    "ita": "Hai letto dei bei libri ultimamente?",
+    "rus": "Читали ли вы в последнее время хорошие книги?",
+    "tur": "Son zamanlarda iyi kitaplar okudunuz mu?"
+  },
+  {
+    "eng": "Do you enjoy cooking?",
+    "fra": "Aimez-vous cuisiner?",
+    "deu": "Kochen Sie gerne?",
+    "spa": "¿Te gusta cocinar?",
+    "ita": "Ti piace cucinare?",
+    "rus": "Вам нравится готовить?",
+    "tur": "Yemek yapmayı sever misiniz?"
+  },
+  {
+    "eng": "What do you like to do in your free time?",
+    "fra": "Que faites-vous pendant votre temps libre?",
+    "deu": "Was machen Sie in Ihrer Freizeit?",
+    "spa": "¿Qué te gusta hacer en tu tiempo libre?",
+    "ita": "Cosa ti piace fare nel tempo libero?",
+    "rus": "Что вам нравится делать в свободное время?",
+    "tur": "Boş zamanlarınızda ne yapmaktan hoşlanırsınız?"
+  },
+  {
+    "eng": "Have you seen any good movies recently?",
+    "fra": "Avez-vous vu de bons films récemment?",
+    "deu": "Haben Sie in letzter Zeit gute Filme gesehen?",
+    "spa": "¿Has visto alguna buena película últimamente?",
+    "ita": "Hai visto dei bei film recentemente?",
+    "rus": "Вы видели недавно хорошие фильмы?",
+    "tur": "Son zamanlarda iyi filmler izlediniz mi?"
+  },
+  {
+    "eng": "Do you have any plans for tonight?",
+    "fra": "Avez-vous des projets pour ce soir?",
+    "deu": "Haben Sie Pläne für heute Abend?",
+    "spa": "¿Tienes planes para esta noche?",
+    "ita": "Hai programmi per stasera?",
+    "rus": "У вас есть планы на вечер?",
+    "tur": "Bu gece için planların var mı?"
+  },
+  {
+    "eng": "Do you like going to the gym?",
+    "fra": "Aimez-vous aller à la gym?",
+    "deu": "Gehen Sie gerne ins Fitnessstudio?",
+    "spa": "¿Te gusta ir al gimnasio?",
+    "ita": "Ti piace andare in palestra?",
+    "rus": "Вы любите ходить в спортзал?",
+    "tur": "Spor salonuna gitmeyi sever misiniz?"
+  },
+  {
+    "eng": "Do you like to dance?",
+    "fra": "Aimez-vous danser?",
+    "deu": "Tanzen Sie gerne?",
+    "spa": "¿Te gusta bailar?",
+    "ita": "Ti piace ballare?",
+    "rus": "Вы любите танцевать?",
+    "tur": "Dans etmeyi sever misiniz?"
+  },
+  {
+    "eng": "What is your favorite restaurant?",
+    "fra": "Quel est votre restaurant préféré?",
+    "deu": "Was ist Ihr Lieblingsrestaurant?",
+    "spa": "¿Cuál es tu restaurante favorito?",
+    "ita": "Qual è il tuo ristorante preferito?",
+    "rus": "Какой ваш любимый ресторан?",
+    "tur": "En sevdiğiniz restoran hangisi?"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "What time does the next bus leave?",
+    "fra": "À quelle heure part le prochain bus?",
+    "deu": "Wann fährt der nächste Bus?",
+    "spa": "¿A qué hora sale el próximo autobús?",
+    "ita": "A che ora parte il prossimo autobus?",
+    "rus": "Во сколько отправляется следующий автобус?",
+    "tur": "Bir sonraki otobüs saat kaçta?"
+  },
+  {
+    "eng": "When does the train arrive?",
+    "fra": "Quand arrive le train?",
+    "deu": "Wann kommt der Zug an?",
+    "spa": "¿Cuándo llega el tren?",
+    "ita": "Quando arriva il treno?",
+    "rus": "Когда прибывает поезд?",
+    "tur": "Tren ne zaman geliyor?"
+  },
+  {
+    "eng": "How often do the buses run?",
+    "fra": "À quelle fréquence passent les bus?",
+    "deu": "Wie oft fahren die Busse?",
+    "spa": "¿Con qué frecuencia pasan los autobuses?",
+    "ita": "Ogni quanto passano gli autobus?",
+    "rus": "Как часто ходят автобусы?",
+    "tur": "Otobüsler ne sıklıkta çalışıyor?"
+  },
+  {
+    "eng": "What time is the last train?",
+    "fra": "À quelle heure est le dernier train?",
+    "deu": "Wann fährt der letzte Zug?",
+    "spa": "¿A qué hora es el último tren?",
+    "ita": "A che ora è l'ultimo treno?",
+    "rus": "Во сколько последний поезд?",
+    "tur": "Son tren saat kaçta?"
+  },
+  {
+    "eng": "What time does the first bus leave?",
+    "fra": "À quelle heure part le premier bus?",
+    "deu": "Wann fährt der erste Bus?",
+    "spa": "¿A qué hora sale el primer autobús?",
+    "ita": "A che ora parte il primo autobus?",
+    "rus": "Во сколько отправляется первый автобус?",
+    "tur": "İlk otobüs saat kaçta?"
+  },
+  {
+    "eng": "Is the train on time?",
+    "fra": "Le train est-il à l'heure?",
+    "deu": "Ist der Zug pünktlich?",
+    "spa": "¿El tren está a tiempo?",
+    "ita": "Il treno è in orario?",
+    "rus": "Поезд идет вовремя?",
+    "tur": "Tren zamanında mı?"
+  },
+  {
+    "eng": "What time does the flight depart?",
+    "fra": "À quelle heure décolle le vol?",
+    "deu": "Wann fliegt der Flug ab?",
+    "spa": "¿A qué hora sale el vuelo?",
+    "ita": "A che ora parte il volo?",
+    "rus": "Во сколько вылетает рейс?",
+    "tur": "Uçuş saat kaçta kalkıyor?"
+  },
+  {
+    "eng": "When is the next train to Berlin?",
+    "fra": "Quand est le prochain train pour Berlin?",
+    "deu": "Wann fährt der nächste Zug nach Berlin?",
+    "spa": "¿Cuándo es el próximo tren a Berlín?",
+    "ita": "Quando è il prossimo treno per Berlino?",
+    "rus": "Когда следующий поезд до Берлина?",
+    "tur": "Berlin'e bir sonraki tren ne zaman?"
+  },
+  {
+    "eng": "What time does the ferry leave?",
+    "fra": "À quelle heure part le ferry?",
+    "deu": "Wann fährt die Fähre ab?",
+    "spa": "¿A qué hora sale el ferry?",
+    "ita": "A che ora parte il traghetto?",
+    "rus": "Во сколько отправляется паром?",
+    "tur": "Feribot saat kaçta kalkıyor?"
+  },
+  {
+    "eng": "Is the flight delayed?",
+    "fra": "Le vol est-il retardé?",
+    "deu": "Ist der Flug verspätet?",
+    "spa": "¿Está retrasado el vuelo?",
+    "ita": "Il volo è in ritardo?",
+    "rus": "Рейс задерживается?",
+    "tur": "Uçuş gecikiyor mu?"
+  },
+  {
+    "eng": "How long is the flight?",
+    "fra": "Combien de temps dure le vol?",
+    "deu": "Wie lange dauert der Flug?",
+    "spa": "¿Cuánto dura el vuelo?",
+    "ita": "Quanto dura il volo?",
+    "rus": "Сколько длится полет?",
+    "tur": "Uçuş ne kadar sürüyor?"
+  },
+  {
+    "eng": "When does the next bus arrive?",
+    "fra": "Quand arrive le prochain bus?",
+    "deu": "Wann kommt der nächste Bus?",
+    "spa": "¿Cuándo llega el próximo autobús?",
+    "ita": "Quando arriva il prossimo autobus?",
+    "rus": "Когда прибывает следующий автобус?",
+    "tur": "Bir sonraki otobüs ne zaman geliyor?"
+  },
+  {
+    "eng": "What time is the next flight to London?",
+    "fra": "À quelle heure est le prochain vol pour Londres?",
+    "deu": "Wann ist der nächste Flug nach London?",
+    "spa": "¿A qué hora es el próximo vuelo a Londres?",
+    "ita": "A che ora è il prossimo volo per Londra?",
+    "rus": "Во сколько следующий рейс до Лондона?",
+    "tur": "Londra'ya bir sonraki uçuş saat kaçta?"
+  },
+  {
+    "eng": "How often do the trains run?",
+    "fra": "À quelle fréquence passent les trains?",
+    "deu": "Wie oft fahren die Züge?",
+    "spa": "¿Con qué frecuencia pasan los trenes?",
+    "ita": "Ogni quanto passano i treni?",
+    "rus": "Как часто ходят поезда?",
+    "tur": "Trenler ne sıklıkta çalışıyor?"
+  },
+  {
+    "eng": "What time does the tram start running?",
+    "fra": "À quelle heure le tramway commence-t-il à circuler?",
+    "deu": "Wann fährt die Straßenbahn los?",
+    "spa": "¿A qué hora empieza a funcionar el tranvía?",
+    "ita": "A che ora inizia a funzionare il tram?",
+    "rus": "Во сколько начинает ходить трамвай?",
+    "tur": "Tramvay ne zaman çalışmaya başlıyor?"
+  },
+  {
+    "eng": "Is there a night bus service?",
+    "fra": "Y a-t-il un service de bus de nuit?",
+    "deu": "Gibt es einen Nachtbusdienst?",
+    "spa": "¿Hay servicio de autobús nocturno?",
+    "ita": "C'è un servizio di autobus notturno?",
+    "rus": "Есть ли ночной автобус?",
+    "tur": "Gece otobüs servisi var mı?"
+  },
+  {
+    "eng": "When does the ferry arrive?",
+    "fra": "Quand arrive le ferry?",
+    "deu": "Wann kommt die Fähre an?",
+    "spa": "¿Cuándo llega el ferry?",
+    "ita": "Quando arriva il traghetto?",
+    "rus": "Когда прибывает паром?",
+    "tur": "Feribot ne zaman geliyor?"
+  },
+  {
+    "eng": "What time does the subway close?",
+    "fra": "À quelle heure ferme le métro?",
+    "deu": "Wann schließt die U-Bahn?",
+    "spa": "¿A qué hora cierra el metro?",
+    "ita": "A che ora chiude la metropolitana?",
+    "rus": "Во сколько закрывается метро?",
+    "tur": "Metro saat kaçta kapanıyor?"
+  },
+  {
+    "eng": "How long is the layover?",
+    "fra": "Combien de temps dure l'escale?",
+    "deu": "Wie lange dauert der Zwischenstopp?",
+    "spa": "¿Cuánto dura la escala?",
+    "ita": "Quanto dura lo scalo?",
+    "rus": "Сколько длится пересадка?",
+    "tur": "Aktarma süresi ne kadar?"
+  },
+  {
+    "eng": "When is the last flight to New York?",
+    "fra": "Quand est le dernier vol pour New York?",
+    "deu": "Wann ist der letzte Flug nach New York?",
+    "spa": "¿Cuándo es el último vuelo a Nueva York?",
+    "ita": "Quando è l'ultimo volo per New York?",
+    "rus": "Когда последний рейс до Нью-Йорка?",
+    "tur": "New York'a son uçuş ne zaman?"
+  }
+]

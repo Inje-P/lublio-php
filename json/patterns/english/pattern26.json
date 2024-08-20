@@ -1,0 +1,122 @@
+{
+  "Care for": [
+    "Care for a cup of coffee?",
+    "Care for a walk in the park?",
+    "Care for some dessert?",
+    "Care for a game of chess?",
+    "Care for another helping?",
+    "Care for a drink?",
+    "Care for some advice?",
+    "Care for a movie night?",
+    "Care for a ride to the station?",
+    "Care for a chat later?"
+  ],
+  "I don't care": [
+    "I don't care what people think.",
+    "I don't care about the weather.",
+    "I don't care if we're late.",
+    "I don't care what we have for dinner.",
+    "I don't care about the outcome.",
+    "I don't care if it's difficult.",
+    "I don't care what they say.",
+    "I don't care about the details.",
+    "I don't care how much it costs.",
+    "I don't care what time we leave."
+  ],
+  "He cares about": [
+    "He cares about his family.",
+    "He cares about the environment.",
+    "He cares about his reputation.",
+    "He cares about doing a good job.",
+    "He cares about what others think.",
+    "He cares about his health.",
+    "He cares about making a difference.",
+    "He cares about his friends.",
+    "He cares about the quality of his work.",
+    "He cares about the community."
+  ],
+  "Do you mind if I": [
+    "Do you mind if I open the window?",
+    "Do you mind if I join you?",
+    "Do you mind if I ask a question?",
+    "Do you mind if I take this call?",
+    "Do you mind if I sit here?",
+    "Do you mind if I borrow your pen?",
+    "Do you mind if I leave early?",
+    "Do you mind if I turn on the TV?",
+    "Do you mind if I have a look at that?",
+    "Do you mind if I make a suggestion?"
+  ],
+  "I don't mind": [
+    "I don't mind helping you with that.",
+    "I don't mind waiting for a few minutes.",
+    "I don't mind if you take a break.",
+    "I don't mind staying late to finish the project.",
+    "I don't mind if you borrow my book.",
+    "I don't mind what we do this weekend.",
+    "I don't mind sharing my notes with you.",
+    "I don't mind if we change the plan.",
+    "I don't mind watching that movie again.",
+    "I don't mind if you invite your friends over."
+  ],
+  "I didn't mean to": [
+    "I didn't mean to hurt your feelings.",
+    "I didn't mean to interrupt you.",
+    "I didn't mean to be late.",
+    "I didn't mean to offend anyone.",
+    "I didn't mean to cause any trouble.",
+    "I didn't mean to leave you out.",
+    "I didn't mean to spill the coffee.",
+    "I didn't mean to make a mess.",
+    "I didn't mean to sound rude.",
+    "I didn't mean to forget your birthday."
+  ],
+  "Do you mean": [
+    "Do you mean we should start over?",
+    "Do you mean it's canceled?",
+    "Do you mean you're not coming?",
+    "Do you mean we need to wait?",
+    "Do you mean this is the final version?",
+    "Do you mean I should call her?",
+    "Do you mean we have to leave now?",
+    "Do you mean it's going to rain?",
+    "Do you mean we're meeting at 10 AM?",
+    "Do you mean it's not working?"
+  ],
+  "That means": [
+    "That means we're ahead of schedule.",
+    "That means you'll need to work overtime.",
+    "That means we have to find a new solution.",
+    "That means the project is successful.",
+    "That means she's not coming to the party.",
+    "That means we're moving forward with the plan.",
+    "That means we'll need more resources.",
+    "That means we're almost done.",
+    "That means you'll be in charge.",
+    "That means we need to act quickly."
+  ],
+  "Thank you for": [
+    "Thank you for your help.",
+    "Thank you for the invitation.",
+    "Thank you for your understanding.",
+    "Thank you for the wonderful gift.",
+    "Thank you for your support.",
+    "Thank you for being so patient.",
+    "Thank you for the opportunity.",
+    "Thank you for your hard work.",
+    "Thank you for the kind words.",
+    "Thank you for taking the time to meet with me."
+  ],
+  "Thanks a lot for": [
+    "Thanks a lot for your assistance.",
+    "Thanks a lot for the ride.",
+    "Thanks a lot for the advice.",
+    "Thanks a lot for your generosity.",
+    "Thanks a lot for coming to the event.",
+    "Thanks a lot for the delicious meal.",
+    "Thanks a lot for the quick response.",
+    "Thanks a lot for the thoughtful gift.",
+    "Thanks a lot for covering my shift.",
+    "Thanks a lot for your continued support."
+  ]
+}

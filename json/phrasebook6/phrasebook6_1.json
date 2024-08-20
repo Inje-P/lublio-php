@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "I have a headache.",
+    "fra": "J'ai mal à la tête.",
+    "deu": "Ich habe Kopfschmerzen.",
+    "spa": "Tengo dolor de cabeza.",
+    "ita": "Ho mal di testa.",
+    "rus": "У меня болит голова.",
+    "tur": "Başım ağrıyor."
+  },
+  {
+    "eng": "I have a fever.",
+    "fra": "J'ai de la fièvre.",
+    "deu": "Ich habe Fieber.",
+    "spa": "Tengo fiebre.",
+    "ita": "Ho la febbre.",
+    "rus": "У меня температура.",
+    "tur": "Ateşim var."
+  },
+  {
+    "eng": "I have a cough.",
+    "fra": "J'ai une toux.",
+    "deu": "Ich habe Husten.",
+    "spa": "Tengo tos.",
+    "ita": "Ho la tosse.",
+    "rus": "У меня кашель.",
+    "tur": "Öksürüyorum."
+  },
+  {
+    "eng": "I have a sore throat.",
+    "fra": "J'ai mal à la gorge.",
+    "deu": "Ich habe Halsschmerzen.",
+    "spa": "Tengo dolor de garganta.",
+    "ita": "Ho mal di gola.",
+    "rus": "У меня болит горло.",
+    "tur": "Boğazım ağrıyor."
+  },
+  {
+    "eng": "I have a stomach ache.",
+    "fra": "J'ai mal au ventre.",
+    "deu": "Ich habe Bauchschmerzen.",
+    "spa": "Tengo dolor de estómago.",
+    "ita": "Ho mal di stomaco.",
+    "rus": "У меня болит живот.",
+    "tur": "Karnım ağrıyor."
+  },
+  {
+    "eng": "I feel dizzy.",
+    "fra": "Je me sens étourdi.",
+    "deu": "Mir ist schwindelig.",
+    "spa": "Me siento mareado.",
+    "ita": "Mi gira la testa.",
+    "rus": "У меня головокружение.",
+    "tur": "Başım dönüyor."
+  },
+  {
+    "eng": "I feel nauseous.",
+    "fra": "J'ai des nausées.",
+    "deu": "Mir ist übel.",
+    "spa": "Me siento nauseabundo.",
+    "ita": "Ho la nausea.",
+    "rus": "Меня тошнит.",
+    "tur": "Midem bulanıyor."
+  },
+  {
+    "eng": "I have diarrhea.",
+    "fra": "J'ai la diarrhée.",
+    "deu": "Ich habe Durchfall.",
+    "spa": "Tengo diarrea.",
+    "ita": "Ho la diarrea.",
+    "rus": "У меня диарея.",
+    "tur": "İshalim var."
+  },
+  {
+    "eng": "I have a rash.",
+    "fra": "J'ai une éruption cutanée.",
+    "deu": "Ich habe einen Ausschlag.",
+    "spa": "Tengo una erupción.",
+    "ita": "Ho un'eruzione cutanea.",
+    "rus": "У меня сыпь.",
+    "tur": "Döküntüm var."
+  },
+  {
+    "eng": "I have chest pain.",
+    "fra": "J'ai une douleur à la poitrine.",
+    "deu": "Ich habe Brustschmerzen.",
+    "spa": "Tengo dolor en el pecho.",
+    "ita": "Ho dolore al petto.",
+    "rus": "У меня боль в груди.",
+    "tur": "Göğüs ağrım var."
+  },
+  {
+    "eng": "I have difficulty breathing.",
+    "fra": "J'ai des difficultés à respirer.",
+    "deu": "Ich habe Schwierigkeiten beim Atmen.",
+    "spa": "Tengo dificultad para respirar.",
+    "ita": "Ho difficoltà a respirare.",
+    "rus": "Мне трудно дышать.",
+    "tur": "Nefes almakta zorluk çekiyorum."
+  },
+  {
+    "eng": "I feel weak.",
+    "fra": "Je me sens faible.",
+    "deu": "Ich fühle mich schwach.",
+    "spa": "Me siento débil.",
+    "ita": "Mi sento debole.",
+    "rus": "Я чувствую слабость.",
+    "tur": "Kendimi zayıf hissediyorum."
+  },
+  {
+    "eng": "I have a backache.",
+    "fra": "J'ai mal au dos.",
+    "deu": "Ich habe Rückenschmerzen.",
+    "spa": "Tengo dolor de espalda.",
+    "ita": "Ho mal di schiena.",
+    "rus": "У меня болит спина.",
+    "tur": "Sırtım ağrıyor."
+  },
+  {
+    "eng": "I have chills.",
+    "fra": "J'ai des frissons.",
+    "deu": "Ich habe Schüttelfrost.",
+    "spa": "Tengo escalofríos.",
+    "ita": "Ho i brividi.",
+    "rus": "У меня озноб.",
+    "tur": "Titriyorum."
+  },
+  {
+    "eng": "I am vomiting.",
+    "fra": "Je vomis.",
+    "deu": "Ich erbreche.",
+    "spa": "Estoy vomitando.",
+    "ita": "Sto vomitando.",
+    "rus": "Меня рвет.",
+    "tur": "Kusuyorum."
+  },
+  {
+    "eng": "I have lost my appetite.",
+    "fra": "J'ai perdu l'appétit.",
+    "deu": "Ich habe meinen Appetit verloren.",
+    "spa": "He perdido el apetito.",
+    "ita": "Ho perso l'appetito.",
+    "rus": "Я потерял аппетит.",
+    "tur": "İştahımı kaybettim."
+  },
+  {
+    "eng": "I have a runny nose.",
+    "fra": "J'ai le nez qui coule.",
+    "deu": "Ich habe eine laufende Nase.",
+    "spa": "Tengo la nariz congestionada.",
+    "ita": "Ho il naso che cola.",
+    "rus": "У меня насморк.",
+    "tur": "Burnum akıyor."
+  },
+  {
+    "eng": "I have a stuffy nose.",
+    "fra": "J'ai le nez bouché.",
+    "deu": "Ich habe eine verstopfte Nase.",
+    "spa": "Tengo la nariz tapada.",
+    "ita": "Ho il naso chiuso.",
+    "rus": "У меня заложен нос.",
+    "tur": "Burnum tıkalı."
+  },
+  {
+    "eng": "I have lost my sense of taste.",
+    "fra": "J'ai perdu le sens du goût.",
+    "deu": "Ich habe meinen Geschmackssinn verloren.",
+    "spa": "He perdido el sentido del gusto.",
+    "ita": "Ho perso il senso del gusto.",
+    "rus": "Я потерял чувство вкуса.",
+    "tur": "Tat alma duyumu kaybettim."
+  },
+  {
+    "eng": "I have lost my sense of smell.",
+    "fra": "J'ai perdu l'odorat.",
+    "deu": "Ich habe meinen Geruchssinn verloren.",
+    "spa": "He perdido el sentido del olfato.",
+    "ita": "Ho perso l'olfatto.",
+    "rus": "Я потерял обоняние.",
+    "tur": "Koku alma duyumu kaybettim."
+  }
+]

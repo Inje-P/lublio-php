@@ -1,0 +1,98 @@
+{
+  "Tell me": [
+    "Tell me what happened.",
+    "Tell me the truth.",
+    "Tell me about your day.",
+    "Tell me if you need anything.",
+    "Tell me your favorite movie.",
+    "Tell me why you’re upset.",
+    "Tell me how you did it.",
+    "Tell me where you’re going.",
+    "Tell me when you’ll arrive.",
+    "Tell me what you think about this."
+  ],
+  "Don’t tell me": [
+    "Don’t tell me you forgot.",
+    "Don’t tell me it’s canceled.",
+    "Don’t tell me you’re leaving.",
+    "Don’t tell me it’s not working.",
+    "Don’t tell me you’re serious.",
+    "Don’t tell me you lost it.",
+    "Don’t tell me you didn’t know.",
+    "Don’t tell me it’s over.",
+    "Don’t tell me you’re still mad.",
+    "Don’t tell me it’s too late."
+  ],
+  "Let me tell you about": [
+    "Let me tell you about my weekend.",
+    "Let me tell you about this new book.",
+    "Let me tell you about the project.",
+    "Let me tell you about my friend.",
+    "Let me tell you about the event I attended.",
+    "Let me tell you about what I discovered.",
+    "Let me tell you about the meeting yesterday.",
+    "Let me tell you about the problem we faced.",
+    "Let me tell you about my experience.",
+    "Let me tell you about the opportunity we have."
+  ],
+  "I told you to": [
+    "I told you to finish the report.",
+    "I told you to be careful.",
+    "I told you to call me when you arrive.",
+    "I told you to clean your room.",
+    "I told you to follow the instructions.",
+    "I told you to lock the door.",
+    "I told you to check your email.",
+    "I told you to wait here.",
+    "I told you to stay focused.",
+    "I told you to meet me at the café."
+  ],
+  "I told you not to": [
+    "I told you not to touch that.",
+    "I told you not to worry.",
+    "I told you not to be late.",
+    "I told you not to forget your keys.",
+    "I told you not to open the door.",
+    "I told you not to do that.",
+    "I told you not to take that risk.",
+    "I told you not to talk to strangers.",
+    "I told you not to tell anyone.",
+    "I told you not to make that mistake."
+  ],
+  "I was told to": [
+    "I was told to wait here.",
+    "I was told to speak with you.",
+    "I was told to deliver this message.",
+    "I was told to come early.",
+    "I was told to finish this task by Friday.",
+    "I was told to contact you directly.",
+    "I was told to report to the manager.",
+    "I was told to keep this confidential.",
+    "I was told to meet you at the entrance.",
+    "I was told to bring my ID."
+  ],
+  "I can tell by": [
+    "I can tell by your expression that something’s wrong.",
+    "I can tell by the way you talk that you’re nervous.",
+    "I can tell by your tone that you’re upset.",
+    "I can tell by the look on your face.",
+    "I can tell by your voice that you’re excited.",
+    "I can tell by the way you walk that you’re confident.",
+    "I can tell by your reaction that you’re surprised.",
+    "I can tell by your smile that you’re happy.",
+    "I can tell by the way you’re acting that you’re tired.",
+    "I can tell by your posture that you’re relaxed."
+  ],
+  "You are telling me": [
+    "You are telling me this now?",
+    "You are telling me that we lost the deal?",
+    "You are telling me that it’s too late?",
+    "You are telling me you didn’t know?",
+    "You are telling me you forgot?",
+    "You are telling me this wasn’t planned?",
+    "You are telling me to wait longer?",
+    "You are telling me that’s the best option?",
+    "You are telling me this is all we have?",
+    "You are telling me the truth?"
+  ]
+}

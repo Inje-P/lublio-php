@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "What brings you to this event?",
+    "fra": "Qu'est-ce qui vous amène à cet événement?",
+    "deu": "Was bringt Sie zu dieser Veranstaltung?",
+    "spa": "¿Qué te trae a este evento?",
+    "ita": "Cosa ti porta a questo evento?",
+    "rus": "Что привело вас на это мероприятие?",
+    "tur": "Sizi bu etkinliğe ne getirdi?"
+  },
+  {
+    "eng": "Have you attended this event before?",
+    "fra": "Avez-vous déjà assisté à cet événement?",
+    "deu": "Haben Sie diese Veranstaltung schon einmal besucht?",
+    "spa": "¿Has asistido a este evento antes?",
+    "ita": "Hai mai partecipato a questo evento?",
+    "rus": "Вы уже посещали это мероприятие?",
+    "tur": "Daha önce bu etkinliğe katıldınız mı?"
+  },
+  {
+    "eng": "What do you think of the event so far?",
+    "fra": "Que pensez-vous de l'événement jusqu'à présent?",
+    "deu": "Was halten Sie bisher von der Veranstaltung?",
+    "spa": "¿Qué opinas del evento hasta ahora?",
+    "ita": "Cosa ne pensi dell'evento finora?",
+    "rus": "Что вы думаете о мероприятии на данный момент?",
+    "tur": "Etkinlik hakkında şu ana kadar ne düşünüyorsunuz?"
+  },
+  {
+    "eng": "Which sessions are you planning to attend?",
+    "fra": "À quelles sessions prévoyez-vous d'assister?",
+    "deu": "Welche Sitzungen planen Sie zu besuchen?",
+    "spa": "¿A qué sesiones planeas asistir?",
+    "ita": "A quali sessioni pensi di partecipare?",
+    "rus": "Какие сессии вы планируете посетить?",
+    "tur": "Hangi oturumlara katılmayı planlıyorsunuz?"
+  },
+  {
+    "eng": "Have you met anyone interesting today?",
+    "fra": "Avez-vous rencontré quelqu'un d'intéressant aujourd'hui?",
+    "deu": "Haben Sie heute jemanden Interessanten getroffen?",
+    "spa": "¿Has conocido a alguien interesante hoy?",
+    "ita": "Hai incontrato qualcuno di interessante oggi?",
+    "rus": "Вы встретили сегодня кого-нибудь интересного?",
+    "tur": "Bugün ilginç biriyle tanıştınız mı?"
+  },
+  {
+    "eng": "Can I introduce you to someone?",
+    "fra": "Puis-je vous présenter à quelqu'un?",
+    "deu": "Kann ich Sie jemandem vorstellen?",
+    "spa": "¿Puedo presentarte a alguien?",
+    "ita": "Posso presentarti a qualcuno?",
+    "rus": "Можно вас кому-нибудь представить?",
+    "tur": "Sizi birine tanıtabilir miyim?"
+  },
+  {
+    "eng": "What do you hope to gain from this event?",
+    "fra": "Que souhaitez-vous retirer de cet événement?",
+    "deu": "Was erhoffen Sie sich von dieser Veranstaltung?",
+    "spa": "¿Qué esperas obtener de este evento?",
+    "ita": "Cosa speri di ottenere da questo evento?",
+    "rus": "Что вы надеетесь получить от этого мероприятия?",
+    "tur": "Bu etkinlikten ne umuyorsunuz?"
+  },
+  {
+    "eng": "Do you have a business card?",
+    "fra": "Avez-vous une carte de visite?",
+    "deu": "Haben Sie eine Visitenkarte?",
+    "spa": "¿Tienes una tarjeta de presentación?",
+    "ita": "Hai un biglietto da visita?",
+    "rus": "У вас есть визитная карточка?",
+    "tur": "Kartvizitiniz var mı?"
+  },
+  {
+    "eng": "Can we exchange contact information?",
+    "fra": "Pouvons-nous échanger nos coordonnées?",
+    "deu": "Können wir Kontaktinformationen austauschen?",
+    "spa": "¿Podemos intercambiar información de contacto?",
+    "ita": "Possiamo scambiarci i contatti?",
+    "rus": "Можем обменяться контактной информацией?",
+    "tur": "İletişim bilgilerini değiştirebilir miyiz?"
+  },
+  {
+    "eng": "What line of work are you in?",
+    "fra": "Dans quel domaine travaillez-vous?",
+    "deu": "In welcher Branche sind Sie tätig?",
+    "spa": "¿En qué línea de trabajo estás?",
+    "ita": "In quale settore lavori?",
+    "rus": "В какой области вы работаете?",
+    "tur": "Hangi iş kolundasınız?"
+  },
+  {
+    "eng": "How long have you been in this industry?",
+    "fra": "Depuis combien de temps êtes-vous dans cette industrie?",
+    "deu": "Wie lange sind Sie schon in dieser Branche tätig?",
+    "spa": "¿Cuánto tiempo llevas en esta industria?",
+    "ita": "Da quanto tempo lavori in questo settore?",
+    "rus": "Как долго вы работаете в этой отрасли?",
+    "tur": "Bu sektörde ne kadar süredir çalışıyorsunuz?"
+  },
+  {
+    "eng": "What company do you work for?",
+    "fra": "Pour quelle entreprise travaillez-vous?",
+    "deu": "Für welches Unternehmen arbeiten Sie?",
+    "spa": "¿Para qué empresa trabajas?",
+    "ita": "Per quale azienda lavori?",
+    "rus": "На какую компанию вы работаете?",
+    "tur": "Hangi şirkette çalışıyorsunuz?"
+  },
+  {
+    "eng": "What projects are you currently working on?",
+    "fra": "Sur quels projets travaillez-vous actuellement?",
+    "deu": "An welchen Projekten arbeiten Sie derzeit?",
+    "spa": "¿En qué proyectos estás trabajando actualmente?",
+    "ita": "A quali progetti stai lavorando attualmente?",
+    "rus": "Над какими проектами вы сейчас работаете?",
+    "tur": "Şu anda hangi projeler üzerinde çalışıyorsunuz?"
+  },
+  {
+    "eng": "What do you like most about your job?",
+    "fra": "Qu'aimez-vous le plus dans votre travail?",
+    "deu": "Was mögen Sie an Ihrem Job am meisten?",
+    "spa": "¿Qué es lo que más te gusta de tu trabajo?",
+    "ita": "Cosa ti piace di più del tuo lavoro?",
+    "rus": "Что вам больше всего нравится в вашей работе?",
+    "tur": "İşinizde en çok neyi seviyorsunuz?"
+  },
+  {
+    "eng": "What are the biggest challenges in your field?",
+    "fra": "Quels sont les plus grands défis dans votre domaine?",
+    "deu": "Was sind die größten Herausforderungen in Ihrem Bereich?",
+    "spa": "¿Cuáles son los mayores desafíos en tu campo?",
+    "ita": "Quali sono le sfide più grandi nel tuo settore?",
+    "rus": "Каковы самые большие проблемы в вашей области?",
+    "tur": "Sektörünüzdeki en büyük zorluklar nelerdir?"
+  },
+  {
+    "eng": "Are you speaking at this event?",
+    "fra": "Parlez-vous à cet événement?",
+    "deu": "Sprechen Sie auf dieser Veranstaltung?",
+    "spa": "¿Hablas en este evento?",
+    "ita": "Parli a questo evento?",
+    "rus": "Вы выступаете на этом мероприятии?",
+    "tur": "Bu etkinlikte konuşuyor musunuz?"
+  },
+  {
+    "eng": "Do you attend many events like this?",
+    "fra": "Assistez-vous à beaucoup d'événements comme celui-ci?",
+    "deu": "Besuchen Sie viele Veranstaltungen wie diese?",
+    "spa": "¿Asistes a muchos eventos como este?",
+    "ita": "Partecipi a molti eventi come questo?",
+    "rus": "Вы посещаете много таких мероприятий?",
+    "tur": "Bunun gibi birçok etkinliğe katılıyor musunuz?"
+  },
+  {
+    "eng": "Have you found this event useful?",
+    "fra": "Avez-vous trouvé cet événement utile?",
+    "deu": "Haben Sie diese Veranstaltung als nützlich empfunden?",
+    "spa": "¿Has encontrado útil este evento?",
+    "ita": "Hai trovato utile questo evento?",
+    "rus": "Вы нашли это мероприятие полезным?",
+    "tur": "Bu etkinliği faydalı buldunuz mu?"
+  },
+  {
+    "eng": "Can we stay in touch?",
+    "fra": "Pouvons-nous rester en contact?",
+    "deu": "Können wir in Kontakt bleiben?",
+    "spa": "¿Podemos mantenernos en contacto?",
+    "ita": "Possiamo restare in contatto?",
+    "rus": "Можем ли мы остаться на связи?",
+    "tur": "İletişimde kalabilir miyiz?"
+  },
+  {
+    "eng": "Are you on LinkedIn?",
+    "fra": "Êtes-vous sur LinkedIn?",
+    "deu": "Sind Sie auf LinkedIn?",
+    "spa": "¿Estás en LinkedIn?",
+    "ita": "Sei su LinkedIn?",
+    "rus": "Вы есть в LinkedIn?",
+    "tur": "LinkedIn'de misiniz?"
+  }
+]

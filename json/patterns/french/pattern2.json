@@ -1,0 +1,86 @@
+{
+  "Do you like": [
+    "Do you like pizza?",
+    "Do you like going to the movies?",
+    "Do you like this color?",
+    "Do you like listening to music?",
+    "Do you like spending time outdoors?",
+    "Do you like reading books?",
+    "Do you like the new restaurant?",
+    "Do you like traveling?",
+    "Do you like working from home?",
+    "Do you like the way this looks?"
+  ],
+  "Do you know": [
+    "Do you know where the store is?",
+    "Do you know how to cook pasta?",
+    "Do you know what time the meeting is?",
+    "Do you know this person?",
+    "Do you know the answer to that question?",
+    "Do you know how to play the guitar?",
+    "Do you know any good restaurants nearby?",
+    "Do you know what the weather will be like tomorrow?",
+    "Do you know the lyrics to this song?",
+    "Do you know how to fix this problem?"
+  ],
+  "Do you want to": [
+    "Do you want to go out tonight?",
+    "Do you want to try this new recipe?",
+    "Do you want to watch a movie?",
+    "Do you want to join us for dinner?",
+    "Do you want to take a walk?",
+    "Do you want to visit the museum?",
+    "Do you want to learn a new language?",
+    "Do you want to start a new project?",
+    "Do you want to go shopping this weekend?",
+    "Do you want to play a game?"
+  ],
+  "Do you feel like": [
+    "Do you feel like going out tonight?",
+    "Do you feel like having a cup of coffee?",
+    "Do you feel like watching a movie?",
+    "Do you feel like taking a nap?",
+    "Do you feel like trying something new?",
+    "Do you feel like talking about it?",
+    "Do you feel like going for a run?",
+    "Do you feel like eating out?",
+    "Do you feel like celebrating?",
+    "Do you feel like staying in tonight?"
+  ],
+  "Do you think": [
+    "Do you think it will rain today?",
+    "Do you think this is a good idea?",
+    "Do you think we should go now?",
+    "Do you think they’ll like the gift?",
+    "Do you think it’s possible?",
+    "Do you think the meeting will be long?",
+    "Do you think we have enough time?",
+    "Do you think I should call them?",
+    "Do you think it’s too late?",
+    "Do you think this looks okay?"
+  ],
+  "Do you need": [
+    "Do you need any help?",
+    "Do you need more time?",
+    "Do you need a ride?",
+    "Do you need anything from the store?",
+    "Do you need to talk to someone?",
+    "Do you need a break?",
+    "Do you need more information?",
+    "Do you need to borrow something?",
+    "Do you need assistance with that?",
+    "Do you need to make a decision soon?"
+  ],
+  "Do you remember": [
+    "Do you remember where we parked?",
+    "Do you remember her name?",
+    "Do you remember the first time we met?",
+    "Do you remember how to get there?",
+    "Do you remember what happened last time?",
+    "Do you remember that song?",
+    "Do you remember our trip to the mountains?",
+    "Do you remember the details of the plan?",
+    "Do you remember to lock the door?",
+    "Do you remember when we last spoke?"
+  ]
+}

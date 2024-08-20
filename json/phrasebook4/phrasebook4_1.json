@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "I would like to make a reservation.",
+    "fra": "Je voudrais faire une réservation.",
+    "deu": "Ich möchte eine Reservierung machen.",
+    "spa": "Me gustaría hacer una reserva.",
+    "ita": "Vorrei fare una prenotazione.",
+    "rus": "Я хотел бы сделать бронирование.",
+    "tur": "Rezervasyon yapmak istiyorum."
+  },
+  {
+    "eng": "Do you have any tables available?",
+    "fra": "Avez-vous des tables disponibles?",
+    "deu": "Haben Sie Tische frei?",
+    "spa": "¿Tiene mesas disponibles?",
+    "ita": "Avete tavoli disponibili?",
+    "rus": "У вас есть свободные столики?",
+    "tur": "Müsait masanız var mı?"
+  },
+  {
+    "eng": "I need a table for two.",
+    "fra": "J'ai besoin d'une table pour deux.",
+    "deu": "Ich brauche einen Tisch für zwei.",
+    "spa": "Necesito una mesa para dos.",
+    "ita": "Ho bisogno di un tavolo per due.",
+    "rus": "Мне нужен столик на двоих.",
+    "tur": "İki kişilik bir masa lazım."
+  },
+  {
+    "eng": "Can I reserve a table for tonight?",
+    "fra": "Puis-je réserver une table pour ce soir?",
+    "deu": "Kann ich einen Tisch für heute Abend reservieren?",
+    "spa": "¿Puedo reservar una mesa para esta noche?",
+    "ita": "Posso riservare un tavolo per stasera?",
+    "rus": "Могу ли я зарезервировать столик на сегодня вечером?",
+    "tur": "Bu akşam için bir masa ayırabilir miyim?"
+  },
+  {
+    "eng": "What time is the reservation for?",
+    "fra": "Pour quelle heure est la réservation?",
+    "deu": "Für welche Uhrzeit ist die Reservierung?",
+    "spa": "¿Para qué hora es la reserva?",
+    "ita": "A che ora è la prenotazione?",
+    "rus": "На какое время бронирование?",
+    "tur": "Rezervasyon saati kaç?"
+  },
+  {
+    "eng": "Do you have a private dining room?",
+    "fra": "Avez-vous une salle à manger privée?",
+    "deu": "Haben Sie ein privates Speisezimmer?",
+    "spa": "¿Tiene un comedor privado?",
+    "ita": "Avete una sala da pranzo privata?",
+    "rus": "У вас есть частная столовая?",
+    "tur": "Özel bir yemek odanız var mı?"
+  },
+  {
+    "eng": "Can I get a window seat?",
+    "fra": "Puis-je avoir une table près de la fenêtre?",
+    "deu": "Kann ich einen Platz am Fenster bekommen?",
+    "spa": "¿Puedo obtener una mesa junto a la ventana?",
+    "ita": "Posso avere un posto vicino alla finestra?",
+    "rus": "Могу ли я получить столик у окна?",
+    "tur": "Cam kenarı bir masa alabilir miyim?"
+  },
+  {
+    "eng": "Do you have outdoor seating?",
+    "fra": "Avez-vous des places à l'extérieur?",
+    "deu": "Haben Sie Sitzplätze im Freien?",
+    "spa": "¿Tiene asientos al aire libre?",
+    "ita": "Avete posti a sedere all'aperto?",
+    "rus": "У вас есть места на открытом воздухе?",
+    "tur": "Açık hava oturma alanınız var mı?"
+  },
+  {
+    "eng": "Can I make a reservation for this weekend?",
+    "fra": "Puis-je faire une réservation pour ce week-end?",
+    "deu": "Kann ich eine Reservierung für dieses Wochenende machen?",
+    "spa": "¿Puedo hacer una reserva para este fin de semana?",
+    "ita": "Posso fare una prenotazione per questo fine settimana?",
+    "rus": "Могу ли я сделать бронирование на эти выходные?",
+    "tur": "Bu hafta sonu için rezervasyon yapabilir miyim?"
+  },
+  {
+    "eng": "Do you have any vegan options?",
+    "fra": "Avez-vous des options véganes?",
+    "deu": "Haben Sie vegane Optionen?",
+    "spa": "¿Tiene opciones veganas?",
+    "ita": "Avete opzioni vegane?",
+    "rus": "У вас есть веганские варианты?",
+    "tur": "Vegan seçenekleriniz var mı?"
+  },
+  {
+    "eng": "Can I see the menu online?",
+    "fra": "Puis-je voir le menu en ligne?",
+    "deu": "Kann ich die Speisekarte online sehen?",
+    "spa": "¿Puedo ver el menú en línea?",
+    "ita": "Posso vedere il menu online?",
+    "rus": "Могу ли я увидеть меню онлайн?",
+    "tur": "Menüyü çevrimiçi görebilir miyim?"
+  },
+  {
+    "eng": "Do you have a dress code?",
+    "fra": "Avez-vous un code vestimentaire?",
+    "deu": "Haben Sie eine Kleiderordnung?",
+    "spa": "¿Tiene un código de vestimenta?",
+    "ita": "Avete un codice di abbigliamento?",
+    "rus": "У вас есть дресс-код?",
+    "tur": "Bir giyim kuralınız var mı?"
+  },
+  {
+    "eng": "Do you have high chairs for children?",
+    "fra": "Avez-vous des chaises hautes pour enfants?",
+    "deu": "Haben Sie Hochstühle für Kinder?",
+    "spa": "¿Tiene sillas altas para niños?",
+    "ita": "Avete seggioloni per bambini?",
+    "rus": "У вас есть детские стульчики?",
+    "tur": "Çocuklar için mama sandalyesi var mı?"
+  },
+  {
+    "eng": "Can I reserve a table for four?",
+    "fra": "Puis-je réserver une table pour quatre?",
+    "deu": "Kann ich einen Tisch für vier reservieren?",
+    "spa": "¿Puedo reservar una mesa para cuatro?",
+    "ita": "Posso riservare un tavolo per quattro?",
+    "rus": "Могу ли я зарезервировать столик на четверых?",
+    "tur": "Dört kişilik bir masa ayırabilir miyim?"
+  },
+  {
+    "eng": "Do you have gluten-free options?",
+    "fra": "Avez-vous des options sans gluten?",
+    "deu": "Haben Sie glutenfreie Optionen?",
+    "spa": "¿Tiene opciones sin gluten?",
+    "ita": "Avete opzioni senza glutine?",
+    "rus": "У вас есть безглютеновые варианты?",
+    "tur": "Glutensiz seçenekleriniz var mı?"
+  },
+  {
+    "eng": "Can I cancel my reservation?",
+    "fra": "Puis-je annuler ma réservation?",
+    "deu": "Kann ich meine Reservierung stornieren?",
+    "spa": "¿Puedo cancelar mi reserva?",
+    "ita": "Posso cancellare la mia prenotazione?",
+    "rus": "Могу ли я отменить бронирование?",
+    "tur": "Rezervasyonumu iptal edebilir miyim?"
+  },
+  {
+    "eng": "What are your opening hours?",
+    "fra": "Quelles sont vos heures d'ouverture?",
+    "deu": "Was sind Ihre Öffnungszeiten?",
+    "spa": "¿Cuáles son sus horas de apertura?",
+    "ita": "Quali sono i vostri orari di apertura?",
+    "rus": "Каковы ваши часы работы?",
+    "tur": "Açılış saatleriniz nedir?"
+  },
+  {
+    "eng": "Do you offer a tasting menu?",
+    "fra": "Proposez-vous un menu dégustation?",
+    "deu": "Bieten Sie ein Verkostungsmenü an?",
+    "spa": "¿Ofrecen un menú de degustación?",
+    "ita": "Offrite un menu degustazione?",
+    "rus": "Вы предлагаете дегустационное меню?",
+    "tur": "Tadım menünüz var mı?"
+  },
+  {
+    "eng": "Can I reserve a table for tomorrow night?",
+    "fra": "Puis-je réserver une table pour demain soir?",
+    "deu": "Kann ich einen Tisch für morgen Abend reservieren?",
+    "spa": "¿Puedo reservar una mesa para mañana por la noche?",
+    "ita": "Posso riservare un tavolo per domani sera?",
+    "rus": "Могу ли я зарезервировать столик на завтра вечером?",
+    "tur": "Yarın gece için bir masa ayırabilir miyim?"
+  },
+  {
+    "eng": "Can I get a confirmation of my reservation?",
+    "fra": "Puis-je obtenir une confirmation de ma réservation?",
+    "deu": "Kann ich eine Bestätigung meiner Reservierung bekommen?",
+    "spa": "¿Puedo obtener una confirmación de mi reserva?",
+    "ita": "Posso ottenere una conferma della mia prenotazione?",
+    "rus": "Могу ли я получить подтверждение моего бронирования?",
+    "tur": "Rezervasyonumun onayını alabilir miyim?"
+  }
+]

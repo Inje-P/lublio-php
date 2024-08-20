@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "My name is John.",
+    "fra": "Je m'appelle Jean.",
+    "deu": "Mein Name ist John.",
+    "spa": "Me llamo Juan.",
+    "ita": "Mi chiamo Giovanni.",
+    "rus": "Меня зовут Джон.",
+    "tur": "Benim adım John."
+  },
+  {
+    "eng": "I am from the United States.",
+    "fra": "Je viens des États-Unis.",
+    "deu": "Ich komme aus den Vereinigten Staaten.",
+    "spa": "Soy de los Estados Unidos.",
+    "ita": "Sono degli Stati Uniti.",
+    "rus": "Я из Соединенных Штатов.",
+    "tur": "Amerika Birleşik Devletleri'ndenim."
+  },
+  {
+    "eng": "I am a student.",
+    "fra": "Je suis étudiant.",
+    "deu": "Ich bin Student.",
+    "spa": "Soy estudiante.",
+    "ita": "Sono studente.",
+    "rus": "Я студент.",
+    "tur": "Ben öğrenciyim."
+  },
+  {
+    "eng": "I am a teacher.",
+    "fra": "Je suis enseignant.",
+    "deu": "Ich bin Lehrer.",
+    "spa": "Soy profesor.",
+    "ita": "Sono insegnante.",
+    "rus": "Я учитель.",
+    "tur": "Ben öğretmenim."
+  },
+  {
+    "eng": "I work as an engineer.",
+    "fra": "Je travaille comme ingénieur.",
+    "deu": "Ich arbeite als Ingenieur.",
+    "spa": "Trabajo como ingeniero.",
+    "ita": "Lavoro come ingegnere.",
+    "rus": "Я работаю инженером.",
+    "tur": "Mühendis olarak çalışıyorum."
+  },
+  {
+    "eng": "I live in New York.",
+    "fra": "Je vis à New York.",
+    "deu": "Ich lebe in New York.",
+    "spa": "Vivo en Nueva York.",
+    "ita": "Vivo a New York.",
+    "rus": "Я живу в Нью-Йорке.",
+    "tur": "New York'ta yaşıyorum."
+  },
+  {
+    "eng": "I like reading books.",
+    "fra": "J'aime lire des livres.",
+    "deu": "Ich lese gerne Bücher.",
+    "spa": "Me gusta leer libros.",
+    "ita": "Mi piace leggere libri.",
+    "rus": "Я люблю читать книги.",
+    "tur": "Kitap okumayı seviyorum."
+  },
+  {
+    "eng": "I enjoy traveling.",
+    "fra": "J'aime voyager.",
+    "deu": "Ich reise gerne.",
+    "spa": "Me gusta viajar.",
+    "ita": "Mi piace viaggiare.",
+    "rus": "Я люблю путешествовать.",
+    "tur": "Seyahat etmekten hoşlanırım."
+  },
+  {
+    "eng": "I am 25 years old.",
+    "fra": "J'ai 25 ans.",
+    "deu": "Ich bin 25 Jahre alt.",
+    "spa": "Tengo 25 años.",
+    "ita": "Ho 25 anni.",
+    "rus": "Мне 25 лет.",
+    "tur": "25 yaşındayım."
+  },
+  {
+    "eng": "I have two siblings.",
+    "fra": "J'ai deux frères et sœurs.",
+    "deu": "Ich habe zwei Geschwister.",
+    "spa": "Tengo dos hermanos.",
+    "ita": "Ho due fratelli.",
+    "rus": "У меня два брата или сестры.",
+    "tur": "İki kardeşim var."
+  },
+  {
+    "eng": "My favorite color is blue.",
+    "fra": "Ma couleur préférée est le bleu.",
+    "deu": "Meine Lieblingsfarbe ist Blau.",
+    "spa": "Mi color favorito es el azul.",
+    "ita": "Il mio colore preferito è il blu.",
+    "rus": "Мой любимый цвет - синий.",
+    "tur": "En sevdiğim renk mavidir."
+  },
+  {
+    "eng": "I love animals.",
+    "fra": "J'aime les animaux.",
+    "deu": "Ich liebe Tiere.",
+    "spa": "Me encantan los animales.",
+    "ita": "Amo gli animali.",
+    "rus": "Я люблю животных.",
+    "tur": "Hayvanları severim."
+  },
+  {
+    "eng": "I can speak three languages.",
+    "fra": "Je parle trois langues.",
+    "deu": "Ich spreche drei Sprachen.",
+    "spa": "Hablo tres idiomas.",
+    "ita": "Parlo tre lingue.",
+    "rus": "Я говорю на трех языках.",
+    "tur": "Üç dil konuşabiliyorum."
+  },
+  {
+    "eng": "I like cooking.",
+    "fra": "J'aime cuisiner.",
+    "deu": "Ich koche gerne.",
+    "spa": "Me gusta cocinar.",
+    "ita": "Mi piace cucinare.",
+    "rus": "Я люблю готовить.",
+    "tur": "Yemek yapmayı seviyorum."
+  },
+  {
+    "eng": "I enjoy playing sports.",
+    "fra": "J'aime faire du sport.",
+    "deu": "Ich treibe gerne Sport.",
+    "spa": "Me gusta hacer deporte.",
+    "ita": "Mi piace fare sport.",
+    "rus": "Я люблю заниматься спортом.",
+    "tur": "Spor yapmaktan hoşlanırım."
+  },
+  {
+    "eng": "I am learning French.",
+    "fra": "J'apprends le français.",
+    "deu": "Ich lerne Französisch.",
+    "spa": "Estoy aprendiendo francés.",
+    "ita": "Sto imparando il francese.",
+    "rus": "Я учу французский.",
+    "tur": "Fransızca öğreniyorum."
+  },
+  {
+    "eng": "I play the guitar.",
+    "fra": "Je joue de la guitare.",
+    "deu": "Ich spiele Gitarre.",
+    "spa": "Toco la guitarra.",
+    "ita": "Suono la chitarra.",
+    "rus": "Я играю на гитаре.",
+    "tur": "Gitar çalıyorum."
+  },
+  {
+    "eng": "I like watching movies.",
+    "fra": "J'aime regarder des films.",
+    "deu": "Ich schaue gerne Filme.",
+    "spa": "Me gusta ver películas.",
+    "ita": "Mi piace guardare film.",
+    "rus": "Я люблю смотреть фильмы.",
+    "tur": "Film izlemeyi severim."
+  },
+  {
+    "eng": "I have a pet dog.",
+    "fra": "J'ai un chien de compagnie.",
+    "deu": "Ich habe einen Hund.",
+    "spa": "Tengo un perro.",
+    "ita": "Ho un cane.",
+    "rus": "У меня есть собака.",
+    "tur": "Bir köpeğim var."
+  },
+  {
+    "eng": "I enjoy spending time with my family.",
+    "fra": "J'aime passer du temps avec ma famille.",
+    "deu": "Ich verbringe gerne Zeit mit meiner Familie.",
+    "spa": "Disfruto pasar tiempo con mi familia.",
+    "ita": "Mi piace passare il tempo con la mia famiglia.",
+    "rus": "Я люблю проводить время с семьей.",
+    "tur": "Ailemle vakit geçirmekten hoşlanırım."
+  }
+]

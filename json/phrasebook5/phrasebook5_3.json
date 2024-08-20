@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "Can I pay with cash?",
+    "fra": "Puis-je payer en espèces?",
+    "deu": "Kann ich bar bezahlen?",
+    "spa": "¿Puedo pagar en efectivo?",
+    "ita": "Posso pagare in contanti?",
+    "rus": "Можно заплатить наличными?",
+    "tur": "Nakit ödeyebilir miyim?"
+  },
+  {
+    "eng": "Do you accept credit cards?",
+    "fra": "Acceptez-vous les cartes de crédit?",
+    "deu": "Akzeptieren Sie Kreditkarten?",
+    "spa": "¿Aceptan tarjetas de crédito?",
+    "ita": "Accettate carte di credito?",
+    "rus": "Вы принимаете кредитные карты?",
+    "tur": "Kredi kartı kabul ediyor musunuz?"
+  },
+  {
+    "eng": "Is there an extra charge for using a credit card?",
+    "fra": "Y a-t-il des frais supplémentaires pour utiliser une carte de crédit?",
+    "deu": "Gibt es eine zusätzliche Gebühr für die Verwendung einer Kreditkarte?",
+    "spa": "¿Hay un cargo extra por usar una tarjeta de crédito?",
+    "ita": "C'è un costo extra per l'uso della carta di credito?",
+    "rus": "Есть ли дополнительная плата за использование кредитной карты?",
+    "tur": "Kredi kartı kullanımı için ek bir ücret var mı?"
+  },
+  {
+    "eng": "Can I pay with a debit card?",
+    "fra": "Puis-je payer par carte de débit?",
+    "deu": "Kann ich mit einer Debitkarte bezahlen?",
+    "spa": "¿Puedo pagar con tarjeta de débito?",
+    "ita": "Posso pagare con una carta di debito?",
+    "rus": "Можно заплатить дебетовой картой?",
+    "tur": "Banka kartı ile ödeyebilir miyim?"
+  },
+  {
+    "eng": "Do you accept contactless payments?",
+    "fra": "Acceptez-vous les paiements sans contact?",
+    "deu": "Akzeptieren Sie kontaktlose Zahlungen?",
+    "spa": "¿Aceptan pagos sin contacto?",
+    "ita": "Accettate pagamenti contactless?",
+    "rus": "Вы принимаете бесконтактные платежи?",
+    "tur": "Temassız ödemeleri kabul ediyor musunuz?"
+  },
+  {
+    "eng": "Can I pay with a mobile payment app?",
+    "fra": "Puis-je payer avec une application de paiement mobile?",
+    "deu": "Kann ich mit einer mobilen Zahlungs-App bezahlen?",
+    "spa": "¿Puedo pagar con una aplicación de pago móvil?",
+    "ita": "Posso pagare con un'app di pagamento mobile?",
+    "rus": "Могу ли я заплатить через мобильное приложение?",
+    "tur": "Mobil ödeme uygulaması ile ödeyebilir miyim?"
+  },
+  {
+    "eng": "Do you accept checks?",
+    "fra": "Acceptez-vous les chèques?",
+    "deu": "Akzeptieren Sie Schecks?",
+    "spa": "¿Aceptan cheques?",
+    "ita": "Accettate assegni?",
+    "rus": "Вы принимаете чеки?",
+    "tur": "Çek kabul ediyor musunuz?"
+  },
+  {
+    "eng": "Can I get a receipt, please?",
+    "fra": "Puis-je avoir un reçu, s'il vous plaît?",
+    "deu": "Kann ich bitte eine Quittung bekommen?",
+    "spa": "¿Puedo obtener un recibo, por favor?",
+    "ita": "Posso avere una ricevuta, per favore?",
+    "rus": "Могу я получить квитанцию, пожалуйста?",
+    "tur": "Fiş alabilir miyim, lütfen?"
+  },
+  {
+    "eng": "Is tax included in the price?",
+    "fra": "La taxe est-elle incluse dans le prix?",
+    "deu": "Ist die Steuer im Preis inbegriffen?",
+    "spa": "¿Está incluido el impuesto en el precio?",
+    "ita": "La tassa è inclusa nel prezzo?",
+    "rus": "Налог включен в цену?",
+    "tur": "Fiyata vergi dahil mi?"
+  },
+  {
+    "eng": "Can I pay in installments?",
+    "fra": "Puis-je payer en plusieurs fois?",
+    "deu": "Kann ich in Raten bezahlen?",
+    "spa": "¿Puedo pagar a plazos?",
+    "ita": "Posso pagare a rate?",
+    "rus": "Можно заплатить в рассрочку?",
+    "tur": "Taksitle ödeyebilir miyim?"
+  },
+  {
+    "eng": "Do you have a layaway plan?",
+    "fra": "Avez-vous un plan de paiement échelonné?",
+    "deu": "Haben Sie einen Ratenzahlungsplan?",
+    "spa": "¿Tienen un plan de apartado?",
+    "ita": "Avete un piano di pagamento rateale?",
+    "rus": "У вас есть план рассрочки?",
+    "tur": "Taksitli ödeme planınız var mı?"
+  },
+  {
+    "eng": "Is there a minimum purchase amount for card payments?",
+    "fra": "Y a-t-il un montant d'achat minimum pour les paiements par carte?",
+    "deu": "Gibt es einen Mindestkaufbetrag für Kartenzahlungen?",
+    "spa": "¿Hay un monto mínimo de compra para pagos con tarjeta?",
+    "ita": "C'è un importo minimo di acquisto per i pagamenti con carta?",
+    "rus": "Есть ли минимальная сумма покупки для оплаты картой?",
+    "tur": "Kart ödemeleri için minimum alışveriş tutarı var mı?"
+  },
+  {
+    "eng": "Can I pay with foreign currency?",
+    "fra": "Puis-je payer avec une monnaie étrangère?",
+    "deu": "Kann ich mit Fremdwährung bezahlen?",
+    "spa": "¿Puedo pagar con moneda extranjera?",
+    "ita": "Posso pagare con valuta estera?",
+    "rus": "Можно заплатить иностранной валютой?",
+    "tur": "Yabancı para ile ödeyebilir miyim?"
+  },
+  {
+    "eng": "Can I add a tip to the card payment?",
+    "fra": "Puis-je ajouter un pourboire au paiement par carte?",
+    "deu": "Kann ich ein Trinkgeld zur Kartenzahlung hinzufügen?",
+    "spa": "¿Puedo agregar una propina al pago con tarjeta?",
+    "ita": "Posso aggiungere una mancia al pagamento con carta?",
+    "rus": "Могу ли я добавить чаевые к оплате картой?",
+    "tur": "Kart ödemesine bahşiş ekleyebilir miyim?"
+  },
+  {
+    "eng": "Can I use a gift card?",
+    "fra": "Puis-je utiliser une carte cadeau?",
+    "deu": "Kann ich eine Geschenkkarte verwenden?",
+    "spa": "¿Puedo usar una tarjeta de regalo?",
+    "ita": "Posso usare una carta regalo?",
+    "rus": "Могу ли я использовать подарочную карту?",
+    "tur": "Hediye kartı kullanabilir miyim?"
+  },
+  {
+    "eng": "Do you offer cash back with debit card purchases?",
+    "fra": "Proposez-vous du cash back avec les achats par carte de débit?",
+    "deu": "Bieten Sie Cashback bei Debitkartenzahlungen an?",
+    "spa": "¿Ofrecen devolución de efectivo con compras con tarjeta de débito?",
+    "ita": "Offrite il cash back con gli acquisti con carta di debito?",
+    "rus": "Вы предлагаете кэшбэк при оплате дебетовой картой?",
+    "tur": "Banka kartı ile yapılan alışverişlerde nakit para iadesi sunuyor musunuz?"
+  },
+  {
+    "eng": "Can I pay online?",
+    "fra": "Puis-je payer en ligne?",
+    "deu": "Kann ich online bezahlen?",
+    "spa": "¿Puedo pagar en línea?",
+    "ita": "Posso pagare online?",
+    "rus": "Можно заплатить онлайн?",
+    "tur": "Çevrimiçi ödeme yapabilir miyim?"
+  },
+  {
+    "eng": "Do you have a rewards program?",
+    "fra": "Avez-vous un programme de fidélité?",
+    "deu": "Haben Sie ein Treueprogramm?",
+    "spa": "¿Tienen un programa de recompensas?",
+    "ita": "Avete un programma di ricompense?",
+    "rus": "У вас есть программа вознаграждений?",
+    "tur": "Bir ödül programınız var mı?"
+  },
+  {
+    "eng": "Can I use a coupon with this purchase?",
+    "fra": "Puis-je utiliser un coupon avec cet achat?",
+    "deu": "Kann ich einen Gutschein mit diesem Kauf verwenden?",
+    "spa": "¿Puedo usar un cupón con esta compra?",
+    "ita": "Posso usare un coupon con questo acquisto?",
+    "rus": "Можно ли использовать купон с этой покупкой?",
+    "tur": "Bu alışverişte kupon kullanabilir miyim?"
+  },
+  {
+    "eng": "Do you offer financing options?",
+    "fra": "Proposez-vous des options de financement?",
+    "deu": "Bieten Sie Finanzierungsoptionen an?",
+    "spa": "¿Ofrecen opciones de financiamiento?",
+    "ita": "Offrite opzioni di finanziamento?",
+    "rus": "Вы предлагаете варианты финансирования?",
+    "tur": "Finansman seçenekleri sunuyor musunuz?"
+  }
+]

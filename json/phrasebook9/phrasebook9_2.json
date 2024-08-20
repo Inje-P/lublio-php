@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "How can I book a tour?",
+    "fra": "Comment puis-je réserver une visite?",
+    "deu": "Wie kann ich eine Tour buchen?",
+    "spa": "¿Cómo puedo reservar un tour?",
+    "ita": "Come posso prenotare un tour?",
+    "rus": "Как я могу забронировать экскурсию?",
+    "tur": "Bir tur nasıl rezerve edebilirim?"
+  },
+  {
+    "eng": "Are there any guided tours available?",
+    "fra": "Y a-t-il des visites guidées disponibles?",
+    "deu": "Gibt es geführte Touren?",
+    "spa": "¿Hay visitas guiadas disponibles?",
+    "ita": "Ci sono visite guidate disponibili?",
+    "rus": "Есть ли доступные экскурсии с гидом?",
+    "tur": "Rehberli turlar mevcut mu?"
+  },
+  {
+    "eng": "Can I book a tour online?",
+    "fra": "Puis-je réserver une visite en ligne?",
+    "deu": "Kann ich eine Tour online buchen?",
+    "spa": "¿Puedo reservar un tour en línea?",
+    "ita": "Posso prenotare un tour online?",
+    "rus": "Могу ли я забронировать экскурсию онлайн?",
+    "tur": "Bir turu çevrimiçi olarak rezerve edebilir miyim?"
+  },
+  {
+    "eng": "What tours are available tomorrow?",
+    "fra": "Quelles visites sont disponibles demain?",
+    "deu": "Welche Touren sind morgen verfügbar?",
+    "spa": "¿Qué tours están disponibles mañana?",
+    "ita": "Quali tour sono disponibili domani?",
+    "rus": "Какие экскурсии доступны завтра?",
+    "tur": "Yarın hangi turlar mevcut?"
+  },
+  {
+    "eng": "How much does a city tour cost?",
+    "fra": "Combien coûte une visite de la ville?",
+    "deu": "Wie viel kostet eine Stadtrundfahrt?",
+    "spa": "¿Cuánto cuesta un tour por la ciudad?",
+    "ita": "Quanto costa un tour della città?",
+    "rus": "Сколько стоит экскурсия по городу?",
+    "tur": "Bir şehir turu ne kadar?"
+  },
+  {
+    "eng": "Are there any discounts for group bookings?",
+    "fra": "Y a-t-il des réductions pour les réservations de groupe?",
+    "deu": "Gibt es Rabatte für Gruppenbuchungen?",
+    "spa": "¿Hay descuentos para reservas grupales?",
+    "ita": "Ci sono sconti per le prenotazioni di gruppo?",
+    "rus": "Есть ли скидки для групповых бронирований?",
+    "tur": "Grup rezervasyonları için indirim var mı?"
+  },
+  {
+    "eng": "Do I need to book in advance?",
+    "fra": "Dois-je réserver à l'avance?",
+    "deu": "Muss ich im Voraus buchen?",
+    "spa": "¿Necesito reservar con anticipación?",
+    "ita": "Devo prenotare in anticipo?",
+    "rus": "Нужно ли бронировать заранее?",
+    "tur": "Önceden rezervasyon yapmam gerekiyor mu?"
+  },
+  {
+    "eng": "Is transportation included in the tour?",
+    "fra": "Le transport est-il inclus dans la visite?",
+    "deu": "Ist der Transport in der Tour enthalten?",
+    "spa": "¿Está incluido el transporte en el tour?",
+    "ita": "Il trasporto è incluso nel tour?",
+    "rus": "Включен ли транспорт в экскурсию?",
+    "tur": "Tura ulaşım dahil mi?"
+  },
+  {
+    "eng": "Can I cancel my booking?",
+    "fra": "Puis-je annuler ma réservation?",
+    "deu": "Kann ich meine Buchung stornieren?",
+    "spa": "¿Puedo cancelar mi reserva?",
+    "ita": "Posso cancellare la mia prenotazione?",
+    "rus": "Могу ли я отменить свою бронь?",
+    "tur": "Rezervasyonumu iptal edebilir miyim?"
+  },
+  {
+    "eng": "What is the cancellation policy?",
+    "fra": "Quelle est la politique d'annulation?",
+    "deu": "Was ist die Stornierungsrichtlinie?",
+    "spa": "¿Cuál es la política de cancelación?",
+    "ita": "Qual è la politica di cancellazione?",
+    "rus": "Какова политика отмены?",
+    "tur": "İptal politikası nedir?"
+  },
+  {
+    "eng": "Are meals included in the tour?",
+    "fra": "Les repas sont-ils inclus dans la visite?",
+    "deu": "Sind Mahlzeiten in der Tour enthalten?",
+    "spa": "¿Las comidas están incluidas en el tour?",
+    "ita": "I pasti sono inclusi nel tour?",
+    "rus": "Включены ли питание в экскурсию?",
+    "tur": "Tura yemekler dahil mi?"
+  },
+  {
+    "eng": "What time does the tour start?",
+    "fra": "À quelle heure commence la visite?",
+    "deu": "Wann beginnt die Tour?",
+    "spa": "¿A qué hora empieza el tour?",
+    "ita": "A che ora inizia il tour?",
+    "rus": "Во сколько начинается экскурсия?",
+    "tur": "Tur ne zaman başlıyor?"
+  },
+  {
+    "eng": "How long is the tour?",
+    "fra": "Combien de temps dure la visite?",
+    "deu": "Wie lange dauert die Tour?",
+    "spa": "¿Cuánto dura el tour?",
+    "ita": "Quanto dura il tour?",
+    "rus": "Сколько времени длится экскурсия?",
+    "tur": "Tur ne kadar sürüyor?"
+  },
+  {
+    "eng": "Are there any age restrictions for the tour?",
+    "fra": "Y a-t-il des restrictions d'âge pour la visite?",
+    "deu": "Gibt es Altersbeschränkungen für die Tour?",
+    "spa": "¿Hay restricciones de edad para el tour?",
+    "ita": "Ci sono restrizioni di età per il tour?",
+    "rus": "Есть ли возрастные ограничения для экскурсии?",
+    "tur": "Tur için yaş sınırı var mı?"
+  },
+  {
+    "eng": "Is the tour available in multiple languages?",
+    "fra": "La visite est-elle disponible en plusieurs langues?",
+    "deu": "Ist die Tour in mehreren Sprachen verfügbar?",
+    "spa": "¿El tour está disponible en varios idiomas?",
+    "ita": "Il tour è disponibile in più lingue?",
+    "rus": "Экскурсия доступна на нескольких языках?",
+    "tur": "Tur birden fazla dilde mevcut mu?"
+  },
+  {
+    "eng": "Do you offer private tours?",
+    "fra": "Proposez-vous des visites privées?",
+    "deu": "Bieten Sie private Touren an?",
+    "spa": "¿Ofrecen tours privados?",
+    "ita": "Offrite tour privati?",
+    "rus": "Вы предлагаете частные экскурсии?",
+    "tur": "Özel turlar sunuyor musunuz?"
+  },
+  {
+    "eng": "Can I customize the tour?",
+    "fra": "Puis-je personnaliser la visite?",
+    "deu": "Kann ich die Tour anpassen?",
+    "spa": "¿Puedo personalizar el tour?",
+    "ita": "Posso personalizzare il tour?",
+    "rus": "Могу ли я настроить экскурсию?",
+    "tur": "Turu özelleştirebilir miyim?"
+  },
+  {
+    "eng": "Do I need to bring anything for the tour?",
+    "fra": "Dois-je apporter quelque chose pour la visite?",
+    "deu": "Muss ich etwas für die Tour mitbringen?",
+    "spa": "¿Necesito traer algo para el tour?",
+    "ita": "Devo portare qualcosa per il tour?",
+    "rus": "Нужно ли мне что-нибудь взять с собой на экскурсию?",
+    "tur": "Tur için bir şey getirmem gerekiyor mu?"
+  },
+  {
+    "eng": "Is there a dress code for the tour?",
+    "fra": "Y a-t-il un code vestimentaire pour la visite?",
+    "deu": "Gibt es eine Kleiderordnung für die Tour?",
+    "spa": "¿Hay un código de vestimenta para el tour?",
+    "ita": "C'è un dress code per il tour?",
+    "rus": "Есть ли дресс-код для экскурсии?",
+    "tur": "Tur için bir kıyafet kuralı var mı?"
+  },
+  {
+    "eng": "Where is the meeting point for the tour?",
+    "fra": "Où est le point de rendez-vous pour la visite?",
+    "deu": "Wo ist der Treffpunkt für die Tour?",
+    "spa": "¿Dónde es el punto de encuentro para el tour?",
+    "ita": "Dov'è il punto d'incontro per il tour?",
+    "rus": "Где место встречи для экскурсии?",
+    "tur": "Tur için buluşma noktası nerede?"
+  }
+]

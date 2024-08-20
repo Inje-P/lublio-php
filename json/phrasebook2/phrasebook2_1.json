@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "Can you help me?",
+    "fra": "Pouvez-vous m'aider?",
+    "deu": "Können Sie mir helfen?",
+    "spa": "¿Puedes ayudarme?",
+    "ita": "Puoi aiutarmi?",
+    "rus": "Можете мне помочь?",
+    "tur": "Bana yardım eder misiniz?"
+  },
+  {
+    "eng": "Where is the nearest bus stop?",
+    "fra": "Où est l'arrêt de bus le plus proche?",
+    "deu": "Wo ist die nächste Bushaltestelle?",
+    "spa": "¿Dónde está la parada de autobús más cercana?",
+    "ita": "Dov'è la fermata dell'autobus più vicina?",
+    "rus": "Где ближайшая автобусная остановка?",
+    "tur": "En yakın otobüs durağı nerede?"
+  },
+  {
+    "eng": "How do I get to the train station?",
+    "fra": "Comment puis-je aller à la gare?",
+    "deu": "Wie komme ich zum Bahnhof?",
+    "spa": "¿Cómo llego a la estación de tren?",
+    "ita": "Come arrivo alla stazione?",
+    "rus": "Как добраться до вокзала?",
+    "tur": "Tren istasyonuna nasıl giderim?"
+  },
+  {
+    "eng": "Can you show me on the map?",
+    "fra": "Pouvez-vous me montrer sur la carte?",
+    "deu": "Können Sie es mir auf der Karte zeigen?",
+    "spa": "¿Puedes mostrarme en el mapa?",
+    "ita": "Puoi mostrarmelo sulla mappa?",
+    "rus": "Можете показать мне на карте?",
+    "tur": "Haritada bana gösterebilir misiniz?"
+  },
+  {
+    "eng": "Is it far from here?",
+    "fra": "Est-ce loin d'ici?",
+    "deu": "Ist es weit von hier?",
+    "spa": "¿Está lejos de aquí?",
+    "ita": "È lontano da qui?",
+    "rus": "Это далеко отсюда?",
+    "tur": "Buradan uzak mı?"
+  },
+  {
+    "eng": "How long does it take to get there?",
+    "fra": "Combien de temps faut-il pour y arriver?",
+    "deu": "Wie lange dauert es, um dorthin zu gelangen?",
+    "spa": "¿Cuánto tiempo se tarda en llegar?",
+    "ita": "Quanto tempo ci vuole per arrivare?",
+    "rus": "Сколько времени займет дорога?",
+    "tur": "Oraya varmak ne kadar sürer?"
+  },
+  {
+    "eng": "Is there a taxi stand nearby?",
+    "fra": "Y a-t-il une station de taxis à proximité?",
+    "deu": "Gibt es einen Taxistand in der Nähe?",
+    "spa": "¿Hay una parada de taxis cerca?",
+    "ita": "C'è una stazione di taxi qui vicino?",
+    "rus": "Есть ли поблизости стоянка такси?",
+    "tur": "Yakınlarda bir taksi durağı var mı?"
+  },
+  {
+    "eng": "Can I walk there?",
+    "fra": "Puis-je y aller à pied?",
+    "deu": "Kann ich dorthin laufen?",
+    "spa": "¿Puedo caminar hasta allí?",
+    "ita": "Posso andarci a piedi?",
+    "rus": "Могу ли я дойти туда пешком?",
+    "tur": "Oraya yürüyerek gidebilir miyim?"
+  },
+  {
+    "eng": "Which way do I go?",
+    "fra": "Par où dois-je aller?",
+    "deu": "In welche Richtung muss ich gehen?",
+    "spa": "¿Por dónde voy?",
+    "ita": "Da che parte devo andare?",
+    "rus": "Куда мне идти?",
+    "tur": "Hangi yoldan gitmeliyim?"
+  },
+  {
+    "eng": "Turn left.",
+    "fra": "Tournez à gauche.",
+    "deu": "Biegen Sie links ab.",
+    "spa": "Gira a la izquierda.",
+    "ita": "Gira a sinistra.",
+    "rus": "Поверните налево.",
+    "tur": "Sola dönün."
+  },
+  {
+    "eng": "Turn right.",
+    "fra": "Tournez à droite.",
+    "deu": "Biegen Sie rechts ab.",
+    "spa": "Gira a la derecha.",
+    "ita": "Gira a destra.",
+    "rus": "Поверните направо.",
+    "tur": "Sağa dönün."
+  },
+  {
+    "eng": "Go straight ahead.",
+    "fra": "Allez tout droit.",
+    "deu": "Gehen Sie geradeaus.",
+    "spa": "Sigue recto.",
+    "ita": "Vai dritto.",
+    "rus": "Идите прямо.",
+    "tur": "Dümdüz gidin."
+  },
+  {
+    "eng": "Take the second left.",
+    "fra": "Prenez la deuxième à gauche.",
+    "deu": "Nehmen Sie die zweite Straße links.",
+    "spa": "Toma la segunda a la izquierda.",
+    "ita": "Prendi la seconda a sinistra.",
+    "rus": "Поверните на второй поворот налево.",
+    "tur": "İkinci soldan dönün."
+  },
+  {
+    "eng": "Take the first right.",
+    "fra": "Prenez la première à droite.",
+    "deu": "Nehmen Sie die erste Straße rechts.",
+    "spa": "Toma la primera a la derecha.",
+    "ita": "Prendi la prima a destra.",
+    "rus": "Поверните на первом повороте направо.",
+    "tur": "İlk sağdan dönün."
+  },
+  {
+    "eng": "Where is the nearest subway station?",
+    "fra": "Où est la station de métro la plus proche?",
+    "deu": "Wo ist die nächste U-Bahn-Station?",
+    "spa": "¿Dónde está la estación de metro más cercana?",
+    "ita": "Dov'è la stazione della metropolitana più vicina?",
+    "rus": "Где ближайшая станция метро?",
+    "tur": "En yakın metro istasyonu nerede?"
+  },
+  {
+    "eng": "How much is the fare?",
+    "fra": "Combien coûte le tarif?",
+    "deu": "Wie viel kostet der Fahrpreis?",
+    "spa": "¿Cuánto cuesta el pasaje?",
+    "ita": "Quanto costa la tariffa?",
+    "rus": "Сколько стоит проезд?",
+    "tur": "Ücret ne kadar?"
+  },
+  {
+    "eng": "Do I need to change trains?",
+    "fra": "Dois-je changer de train?",
+    "deu": "Muss ich umsteigen?",
+    "spa": "¿Necesito cambiar de tren?",
+    "ita": "Devo cambiare treno?",
+    "rus": "Мне нужно пересаживаться на другой поезд?",
+    "tur": "Tren değiştirmem gerekiyor mu?"
+  },
+  {
+    "eng": "Where can I buy a ticket?",
+    "fra": "Où puis-je acheter un billet?",
+    "deu": "Wo kann ich ein Ticket kaufen?",
+    "spa": "¿Dónde puedo comprar un billete?",
+    "ita": "Dove posso comprare un biglietto?",
+    "rus": "Где я могу купить билет?",
+    "tur": "Bilet nereden alabilirim?"
+  },
+  {
+    "eng": "Is this the right platform?",
+    "fra": "Est-ce la bonne plateforme?",
+    "deu": "Ist dies das richtige Gleis?",
+    "spa": "¿Es esta la plataforma correcta?",
+    "ita": "È questa la piattaforma giusta?",
+    "rus": "Это правильная платформа?",
+    "tur": "Bu doğru platform mu?"
+  },
+  {
+    "eng": "How often do the buses run?",
+    "fra": "À quelle fréquence les bus circulent-ils?",
+    "deu": "Wie oft fahren die Busse?",
+    "spa": "¿Con qué frecuencia pasan los autobuses?",
+    "ita": "Ogni quanto passano gli autobus?",
+    "rus": "Как часто ходят автобусы?",
+    "tur": "Otobüsler ne sıklıkta çalışıyor?"
+  }
+]

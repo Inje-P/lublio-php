@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "Can I get something for a headache?",
+    "fra": "Puis-je avoir quelque chose pour un mal de tête?",
+    "deu": "Kann ich etwas gegen Kopfschmerzen bekommen?",
+    "spa": "¿Puedo conseguir algo para el dolor de cabeza?",
+    "ita": "Posso avere qualcosa per il mal di testa?",
+    "rus": "Можно мне что-нибудь от головной боли?",
+    "tur": "Baş ağrısı için bir şey alabilir miyim?"
+  },
+  {
+    "eng": "Do you have medicine for a fever?",
+    "fra": "Avez-vous un médicament pour la fièvre?",
+    "deu": "Haben Sie ein Mittel gegen Fieber?",
+    "spa": "¿Tiene medicina para la fiebre?",
+    "ita": "Avete una medicina per la febbre?",
+    "rus": "У вас есть лекарства от температуры?",
+    "tur": "Ateş için ilacınız var mı?"
+  },
+  {
+    "eng": "I need something for a cough.",
+    "fra": "J'ai besoin de quelque chose pour une toux.",
+    "deu": "Ich brauche etwas gegen Husten.",
+    "spa": "Necesito algo para la tos.",
+    "ita": "Ho bisogno di qualcosa per la tosse.",
+    "rus": "Мне нужно что-нибудь от кашля.",
+    "tur": "Öksürük için bir şeye ihtiyacım var."
+  },
+  {
+    "eng": "Can you give me something for a sore throat?",
+    "fra": "Pouvez-vous me donner quelque chose pour un mal de gorge?",
+    "deu": "Können Sie mir etwas gegen Halsschmerzen geben?",
+    "spa": "¿Puede darme algo para el dolor de garganta?",
+    "ita": "Puoi darmi qualcosa per il mal di gola?",
+    "rus": "Можете дать мне что-нибудь от боли в горле?",
+    "tur": "Boğaz ağrısı için bir şey verebilir misiniz?"
+  },
+  {
+    "eng": "Do you have anything for stomach ache?",
+    "fra": "Avez-vous quelque chose pour le mal de ventre?",
+    "deu": "Haben Sie etwas gegen Bauchschmerzen?",
+    "spa": "¿Tienes algo para el dolor de estómago?",
+    "ita": "Hai qualcosa per il mal di stomaco?",
+    "rus": "У вас есть что-нибудь от боли в животе?",
+    "tur": "Karın ağrısı için bir şeyiniz var mı?"
+  },
+  {
+    "eng": "Can I have something for nausea?",
+    "fra": "Puis-je avoir quelque chose pour les nausées?",
+    "deu": "Kann ich etwas gegen Übelkeit bekommen?",
+    "spa": "¿Puedo tener algo para las náuseas?",
+    "ita": "Posso avere qualcosa per la nausea?",
+    "rus": "Можно мне что-нибудь от тошноты?",
+    "tur": "Mide bulantısı için bir şey alabilir miyim?"
+  },
+  {
+    "eng": "I need medication for diarrhea.",
+    "fra": "J'ai besoin de médicaments pour la diarrhée.",
+    "deu": "Ich brauche Medikamente gegen Durchfall.",
+    "spa": "Necesito medicamentos para la diarrea.",
+    "ita": "Ho bisogno di farmaci per la diarrea.",
+    "rus": "Мне нужны лекарства от диареи.",
+    "tur": "İshal için ilaca ihtiyacım var."
+  },
+  {
+    "eng": "Do you have something for dizziness?",
+    "fra": "Avez-vous quelque chose pour les vertiges?",
+    "deu": "Haben Sie etwas gegen Schwindel?",
+    "spa": "¿Tienes algo para el mareo?",
+    "ita": "Hai qualcosa per le vertigini?",
+    "rus": "У вас есть что-нибудь от головокружения?",
+    "tur": "Baş dönmesi için bir şeyiniz var mı?"
+  },
+  {
+    "eng": "Can you give me something for allergies?",
+    "fra": "Pouvez-vous me donner quelque chose pour les allergies?",
+    "deu": "Können Sie mir etwas gegen Allergien geben?",
+    "spa": "¿Puede darme algo para las alergias?",
+    "ita": "Puoi darmi qualcosa per le allergie?",
+    "rus": "Можете дать мне что-нибудь от аллергии?",
+    "tur": "Alerjiler için bir şey verebilir misiniz?"
+  },
+  {
+    "eng": "I need something for muscle pain.",
+    "fra": "J'ai besoin de quelque chose pour les douleurs musculaires.",
+    "deu": "Ich brauche etwas gegen Muskelschmerzen.",
+    "spa": "Necesito algo para el dolor muscular.",
+    "ita": "Ho bisogno di qualcosa per il dolore muscolare.",
+    "rus": "Мне нужно что-нибудь от мышечной боли.",
+    "tur": "Kas ağrısı için bir şeye ihtiyacım var."
+  },
+  {
+    "eng": "Do you have pain relievers?",
+    "fra": "Avez-vous des analgésiques?",
+    "deu": "Haben Sie Schmerzmittel?",
+    "spa": "¿Tienes analgésicos?",
+    "ita": "Hai antidolorifici?",
+    "rus": "У вас есть обезболивающие?",
+    "tur": "Ağrı kesiciniz var mı?"
+  },
+  {
+    "eng": "Can I get a prescription filled here?",
+    "fra": "Puis-je faire remplir une ordonnance ici?",
+    "deu": "Kann ich hier ein Rezept einlösen?",
+    "spa": "¿Puedo obtener una receta aquí?",
+    "ita": "Posso ottenere una prescrizione qui?",
+    "rus": "Можно ли здесь выписать рецепт?",
+    "tur": "Burada reçete yazdırabilir miyim?"
+  },
+  {
+    "eng": "Do you have over-the-counter medication?",
+    "fra": "Avez-vous des médicaments en vente libre?",
+    "deu": "Haben Sie rezeptfreie Medikamente?",
+    "spa": "¿Tienes medicamentos de venta libre?",
+    "ita": "Hai farmaci da banco?",
+    "rus": "У вас есть лекарства без рецепта?",
+    "tur": "Reçetesiz ilaçlarınız var mı?"
+  },
+  {
+    "eng": "Can you recommend something for a cold?",
+    "fra": "Pouvez-vous recommander quelque chose pour un rhume?",
+    "deu": "Können Sie etwas gegen eine Erkältung empfehlen?",
+    "spa": "¿Puedes recomendar algo para un resfriado?",
+    "ita": "Puoi raccomandare qualcosa per un raffreddore?",
+    "rus": "Можете порекомендовать что-нибудь от простуды?",
+    "tur": "Bir soğuk algınlığı için bir şey önerebilir misiniz?"
+  },
+  {
+    "eng": "I need an inhaler.",
+    "fra": "J'ai besoin d'un inhalateur.",
+    "deu": "Ich brauche einen Inhalator.",
+    "spa": "Necesito un inhalador.",
+    "ita": "Ho bisogno di un inalatore.",
+    "rus": "Мне нужен ингалятор.",
+    "tur": "Bir inhalatöre ihtiyacım var."
+  },
+  {
+    "eng": "Do you have eye drops?",
+    "fra": "Avez-vous des gouttes pour les yeux?",
+    "deu": "Haben Sie Augentropfen?",
+    "spa": "¿Tienes gotas para los ojos?",
+    "ita": "Hai collirio?",
+    "rus": "У вас есть глазные капли?",
+    "tur": "Göz damlası var mı?"
+  },
+  {
+    "eng": "Can I get something for an upset stomach?",
+    "fra": "Puis-je obtenir quelque chose pour un mal de ventre?",
+    "deu": "Kann ich etwas gegen einen nervösen Magen bekommen?",
+    "spa": "¿Puedo conseguir algo para el malestar estomacal?",
+    "ita": "Posso avere qualcosa per il mal di stomaco?",
+    "rus": "Можно мне что-нибудь от расстройства желудка?",
+    "tur": "Mide rahatsızlığı için bir şey alabilir miyim?"
+  },
+  {
+    "eng": "Do you have any antihistamines?",
+    "fra": "Avez-vous des antihistaminiques?",
+    "deu": "Haben Sie Antihistaminika?",
+    "spa": "¿Tienes antihistamínicos?",
+    "ita": "Hai antistaminici?",
+    "rus": "У вас есть антигистаминные препараты?",
+    "tur": "Antihistaminikleriniz var mı?"
+  },
+  {
+    "eng": "I need a cream for a rash.",
+    "fra": "J'ai besoin d'une crème pour une éruption cutanée.",
+    "deu": "Ich brauche eine Creme gegen einen Ausschlag.",
+    "spa": "Necesito una crema para una erupción.",
+    "ita": "Ho bisogno di una crema per un'eruzione cutanea.",
+    "rus": "Мне нужен крем от сыпи.",
+    "tur": "Döküntü için bir kreme ihtiyacım var."
+  },
+  {
+    "eng": "Do you have bandages?",
+    "fra": "Avez-vous des pansements?",
+    "deu": "Haben Sie Verbände?",
+    "spa": "¿Tienes vendajes?",
+    "ita": "Hai delle bende?",
+    "rus": "У вас есть бинты?",
+    "tur": "Bandajınız var mı?"
+  }
+]

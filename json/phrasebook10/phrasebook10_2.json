@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "Where is the nearest ATM?",
+    "fra": "Où se trouve le distributeur automatique le plus proche?",
+    "deu": "Wo ist der nächste Geldautomat?",
+    "spa": "¿Dónde está el cajero automático más cercano?",
+    "ita": "Dov'è il bancomat più vicino?",
+    "rus": "Где находится ближайший банкомат?",
+    "tur": "En yakın ATM nerede?"
+  },
+  {
+    "eng": "Can I withdraw cash from this ATM?",
+    "fra": "Puis-je retirer de l'argent à ce distributeur automatique?",
+    "deu": "Kann ich an diesem Geldautomaten Bargeld abheben?",
+    "spa": "¿Puedo retirar dinero de este cajero automático?",
+    "ita": "Posso prelevare contanti da questo bancomat?",
+    "rus": "Могу ли я снять наличные в этом банкомате?",
+    "tur": "Bu ATM'den nakit çekebilir miyim?"
+  },
+  {
+    "eng": "What is the withdrawal limit?",
+    "fra": "Quelle est la limite de retrait?",
+    "deu": "Was ist das Auszahlungslimit?",
+    "spa": "¿Cuál es el límite de retiro?",
+    "ita": "Qual è il limite di prelievo?",
+    "rus": "Каков лимит на снятие наличных?",
+    "tur": "Çekim limiti nedir?"
+  },
+  {
+    "eng": "Are there any fees for using this ATM?",
+    "fra": "Y a-t-il des frais pour l'utilisation de ce distributeur automatique?",
+    "deu": "Gibt es Gebühren für die Nutzung dieses Geldautomaten?",
+    "spa": "¿Hay tarifas por usar este cajero automático?",
+    "ita": "Ci sono commissioni per l'utilizzo di questo bancomat?",
+    "rus": "Есть ли комиссия за использование этого банкомата?",
+    "tur": "Bu ATM'yi kullanmanın bir ücreti var mı?"
+  },
+  {
+    "eng": "Does this ATM accept international cards?",
+    "fra": "Ce distributeur automatique accepte-t-il les cartes internationales?",
+    "deu": "Akzeptiert dieser Geldautomat internationale Karten?",
+    "spa": "¿Este cajero automático acepta tarjetas internacionales?",
+    "ita": "Questo bancomat accetta carte internazionali?",
+    "rus": "Принимает ли этот банкомат международные карты?",
+    "tur": "Bu ATM uluslararası kartları kabul ediyor mu?"
+  },
+  {
+    "eng": "Can I check my account balance here?",
+    "fra": "Puis-je vérifier le solde de mon compte ici?",
+    "deu": "Kann ich hier meinen Kontostand abfragen?",
+    "spa": "¿Puedo verificar el saldo de mi cuenta aquí?",
+    "ita": "Posso controllare il saldo del mio conto qui?",
+    "rus": "Могу ли я проверить баланс моего счета здесь?",
+    "tur": "Burada hesap bakiyemi kontrol edebilir miyim?"
+  },
+  {
+    "eng": "What should I do if the ATM keeps my card?",
+    "fra": "Que dois-je faire si le distributeur automatique garde ma carte?",
+    "deu": "Was soll ich tun, wenn der Geldautomat meine Karte einbehält?",
+    "spa": "¿Qué debo hacer si el cajero automático retiene mi tarjeta?",
+    "ita": "Cosa devo fare se il bancomat trattiene la mia carta?",
+    "rus": "Что мне делать, если банкомат оставит мою карту?",
+    "tur": "ATM kartımı alırsa ne yapmalıyım?"
+  },
+  {
+    "eng": "Is this ATM available 24/7?",
+    "fra": "Ce distributeur automatique est-il disponible 24h/24 et 7j/7?",
+    "deu": "Ist dieser Geldautomat rund um die Uhr verfügbar?",
+    "spa": "¿Está disponible este cajero automático las 24 horas del día?",
+    "ita": "Questo bancomat è disponibile 24 ore su 24, 7 giorni su 7?",
+    "rus": "Этот банкомат доступен круглосуточно?",
+    "tur": "Bu ATM 7/24 açık mı?"
+  },
+  {
+    "eng": "Can I deposit money into my account from this ATM?",
+    "fra": "Puis-je déposer de l'argent sur mon compte depuis ce distributeur automatique?",
+    "deu": "Kann ich von diesem Geldautomaten Geld auf mein Konto einzahlen?",
+    "spa": "¿Puedo depositar dinero en mi cuenta desde este cajero automático?",
+    "ita": "Posso depositare denaro sul mio conto da questo bancomat?",
+    "rus": "Могу ли я положить деньги на свой счет через этот банкомат?",
+    "tur": "Bu ATM'den hesabıma para yatırabilir miyim?"
+  },
+  {
+    "eng": "Does this ATM provide a receipt?",
+    "fra": "Ce distributeur automatique fournit-il un reçu?",
+    "deu": "Bietet dieser Geldautomat eine Quittung an?",
+    "spa": "¿Este cajero automático proporciona un recibo?",
+    "ita": "Questo bancomat fornisce una ricevuta?",
+    "rus": "Этот банкомат выдает квитанцию?",
+    "tur": "Bu ATM fiş veriyor mu?"
+  },
+  {
+    "eng": "Can I change my PIN at this ATM?",
+    "fra": "Puis-je changer mon code PIN à ce distributeur automatique?",
+    "deu": "Kann ich meine PIN an diesem Geldautomaten ändern?",
+    "spa": "¿Puedo cambiar mi PIN en este cajero automático?",
+    "ita": "Posso cambiare il mio PIN a questo bancomat?",
+    "rus": "Могу ли я сменить свой PIN в этом банкомате?",
+    "tur": "Bu ATM'de PIN'imi değiştirebilir miyim?"
+  },
+  {
+    "eng": "What do I do if the ATM malfunctions?",
+    "fra": "Que dois-je faire si le distributeur automatique ne fonctionne pas?",
+    "deu": "Was soll ich tun, wenn der Geldautomat eine Fehlfunktion hat?",
+    "spa": "¿Qué hago si el cajero automático funciona mal?",
+    "ita": "Cosa devo fare se il bancomat non funziona?",
+    "rus": "Что делать, если банкомат не работает?",
+    "tur": "ATM arızalanırsa ne yapmalıyım?"
+  },
+  {
+    "eng": "Can I use this ATM with a foreign bank card?",
+    "fra": "Puis-je utiliser ce distributeur automatique avec une carte bancaire étrangère?",
+    "deu": "Kann ich diesen Geldautomaten mit einer ausländischen Bankkarte benutzen?",
+    "spa": "¿Puedo usar este cajero automático con una tarjeta bancaria extranjera?",
+    "ita": "Posso usare questo bancomat con una carta bancaria estera?",
+    "rus": "Могу ли я использовать этот банкомат с иностранной банковской картой?",
+    "tur": "Bu ATM'yi yabancı banka kartıyla kullanabilir miyim?"
+  },
+  {
+    "eng": "What denominations are available from this ATM?",
+    "fra": "Quelles sont les coupures disponibles à ce distributeur automatique?",
+    "deu": "Welche Stückelungen sind an diesem Geldautomaten verfügbar?",
+    "spa": "¿Qué denominaciones están disponibles en este cajero automático?",
+    "ita": "Quali tagli sono disponibili in questo bancomat?",
+    "rus": "Какие номиналы доступны в этом банкомате?",
+    "tur": "Bu ATM'de hangi kupürler mevcut?"
+  },
+  {
+    "eng": "Is there a language option for this ATM?",
+    "fra": "Y a-t-il une option de langue pour ce distributeur automatique?",
+    "deu": "Gibt es eine Sprachoption für diesen Geldautomaten?",
+    "spa": "¿Hay una opción de idioma para este cajero automático?",
+    "ita": "C'è un'opzione di lingua per questo bancomat?",
+    "rus": "Есть ли возможность выбора языка в этом банкомате?",
+    "tur": "Bu ATM için bir dil seçeneği var mı?"
+  },
+  {
+    "eng": "Can I transfer money between accounts at this ATM?",
+    "fra": "Puis-je transférer de l'argent entre des comptes à ce distributeur automatique?",
+    "deu": "Kann ich an diesem Geldautomaten Geld zwischen Konten überweisen?",
+    "spa": "¿Puedo transferir dinero entre cuentas en este cajero automático?",
+    "ita": "Posso trasferire denaro tra conti a questo bancomat?",
+    "rus": "Могу ли я перевести деньги между счетами в этом банкомате?",
+    "tur": "Bu ATM'de hesaplar arasında para transferi yapabilir miyim?"
+  },
+  {
+    "eng": "Can I pay bills using this ATM?",
+    "fra": "Puis-je payer des factures en utilisant ce distributeur automatique?",
+    "deu": "Kann ich mit diesem Geldautomaten Rechnungen bezahlen?",
+    "spa": "¿Puedo pagar facturas usando este cajero automático?",
+    "ita": "Posso pagare le bollette usando questo bancomat?",
+    "rus": "Могу ли я оплатить счета через этот банкомат?",
+    "tur": "Bu ATM'yi kullanarak faturaları ödeyebilir miyim?"
+  },
+  {
+    "eng": "What do I do if I lose my card at the ATM?",
+    "fra": "Que dois-je faire si je perds ma carte au distributeur automatique?",
+    "deu": "Was soll ich tun, wenn ich meine Karte am Geldautomaten verliere?",
+    "spa": "¿Qué debo hacer si pierdo mi tarjeta en el cajero automático?",
+    "ita": "Cosa devo fare se perdo la mia carta al bancomat?",
+    "rus": "Что делать, если я потерял карту в банкомате?",
+    "tur": "ATM'de kartımı kaybedersem ne yapmalıyım?"
+  },
+  {
+    "eng": "Can I withdraw foreign currency from this ATM?",
+    "fra": "Puis-je retirer de la monnaie étrangère à ce distributeur automatique?",
+    "deu": "Kann ich an diesem Geldautomaten Fremdwährung abheben?",
+    "spa": "¿Puedo retirar moneda extranjera de este cajero automático?",
+    "ita": "Posso prelevare valuta estera da questo bancomat?",
+    "rus": "Могу ли я снять иностранную валюту в этом банкомате?",
+    "tur": "Bu ATM'den yabancı para çekebilir miyim?"
+  },
+  {
+    "eng": "Does this ATM accept deposits?",
+    "fra": "Ce distributeur automatique accepte-t-il les dépôts?",
+    "deu": "Akzeptiert dieser Geldautomat Einzahlungen?",
+    "spa": "¿Este cajero automático acepta depósitos?",
+    "ita": "Questo bancomat accetta depositi?",
+    "rus": "Этот банкомат принимает депозиты?",
+    "tur": "Bu ATM para yatırma kabul ediyor mu?"
+  }
+]

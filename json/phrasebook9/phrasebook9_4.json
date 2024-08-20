@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "Where can I find a gym?",
+    "fra": "Où puis-je trouver une salle de sport?",
+    "deu": "Wo finde ich ein Fitnessstudio?",
+    "spa": "¿Dónde puedo encontrar un gimnasio?",
+    "ita": "Dove posso trovare una palestra?",
+    "rus": "Где я могу найти спортзал?",
+    "tur": "Bir spor salonunu nerede bulabilirim?"
+  },
+  {
+    "eng": "Are there any swimming pools nearby?",
+    "fra": "Y a-t-il des piscines à proximité?",
+    "deu": "Gibt es Schwimmbäder in der Nähe?",
+    "spa": "¿Hay piscinas cerca?",
+    "ita": "Ci sono piscine nelle vicinanze?",
+    "rus": "Есть ли поблизости бассейны?",
+    "tur": "Yakınlarda yüzme havuzları var mı?"
+  },
+  {
+    "eng": "Can I rent sports equipment here?",
+    "fra": "Puis-je louer du matériel de sport ici?",
+    "deu": "Kann ich hier Sportgeräte mieten?",
+    "spa": "¿Puedo alquilar equipo deportivo aquí?",
+    "ita": "Posso noleggiare attrezzature sportive qui?",
+    "rus": "Могу ли я взять напрокат спортивное оборудование здесь?",
+    "tur": "Burada spor ekipmanı kiralayabilir miyim?"
+  },
+  {
+    "eng": "Are there any tennis courts around?",
+    "fra": "Y a-t-il des courts de tennis dans les environs?",
+    "deu": "Gibt es Tennisplätze in der Nähe?",
+    "spa": "¿Hay canchas de tenis alrededor?",
+    "ita": "Ci sono campi da tennis qui intorno?",
+    "rus": "Есть ли поблизости теннисные корты?",
+    "tur": "Yakınlarda tenis kortları var mı?"
+  },
+  {
+    "eng": "Where can I go for a run?",
+    "fra": "Où puis-je aller courir?",
+    "deu": "Wo kann ich joggen gehen?",
+    "spa": "¿Dónde puedo ir a correr?",
+    "ita": "Dove posso andare a correre?",
+    "rus": "Где я могу побегать?",
+    "tur": "Koşu yapmak için nereye gidebilirim?"
+  },
+  {
+    "eng": "Are there any hiking trails nearby?",
+    "fra": "Y a-t-il des sentiers de randonnée à proximité?",
+    "deu": "Gibt es Wanderwege in der Nähe?",
+    "spa": "¿Hay senderos para caminar cerca?",
+    "ita": "Ci sono sentieri escursionistici nelle vicinanze?",
+    "rus": "Есть ли поблизости туристические тропы?",
+    "tur": "Yakınlarda yürüyüş parkurları var mı?"
+  },
+  {
+    "eng": "Can I join a local sports club?",
+    "fra": "Puis-je rejoindre un club de sport local?",
+    "deu": "Kann ich einem örtlichen Sportverein beitreten?",
+    "spa": "¿Puedo unirme a un club deportivo local?",
+    "ita": "Posso unirmi a un club sportivo locale?",
+    "rus": "Могу ли я присоединиться к местному спортивному клубу?",
+    "tur": "Yerel bir spor kulübüne katılabilir miyim?"
+  },
+  {
+    "eng": "Are there any yoga classes nearby?",
+    "fra": "Y a-t-il des cours de yoga à proximité?",
+    "deu": "Gibt es Yogakurse in der Nähe?",
+    "spa": "¿Hay clases de yoga cerca?",
+    "ita": "Ci sono corsi di yoga nelle vicinanze?",
+    "rus": "Есть ли поблизости занятия йогой?",
+    "tur": "Yakınlarda yoga dersleri var mı?"
+  },
+  {
+    "eng": "Can I book a personal trainer?",
+    "fra": "Puis-je réserver un entraîneur personnel?",
+    "deu": "Kann ich einen persönlichen Trainer buchen?",
+    "spa": "¿Puedo contratar a un entrenador personal?",
+    "ita": "Posso prenotare un personal trainer?",
+    "rus": "Могу ли я заказать персонального тренера?",
+    "tur": "Bir kişisel antrenör tutabilir miyim?"
+  },
+  {
+    "eng": "Are there any golf courses nearby?",
+    "fra": "Y a-t-il des parcours de golf à proximité?",
+    "deu": "Gibt es Golfplätze in der Nähe?",
+    "spa": "¿Hay campos de golf cerca?",
+    "ita": "Ci sono campi da golf nelle vicinanze?",
+    "rus": "Есть ли поблизости поля для гольфа?",
+    "tur": "Yakınlarda golf sahaları var mı?"
+  },
+  {
+    "eng": "Where can I go kayaking or canoeing?",
+    "fra": "Où puis-je faire du kayak ou du canoë?",
+    "deu": "Wo kann ich Kajak oder Kanu fahren?",
+    "spa": "¿Dónde puedo hacer kayak o canoa?",
+    "ita": "Dove posso fare kayak o canoa?",
+    "rus": "Где я могу покататься на каяке или каноэ?",
+    "tur": "Kayık veya kano nerede yapabilirim?"
+  },
+  {
+    "eng": "Are there any indoor sports facilities?",
+    "fra": "Y a-t-il des installations sportives intérieures?",
+    "deu": "Gibt es Indoor-Sportanlagen?",
+    "spa": "¿Hay instalaciones deportivas interiores?",
+    "ita": "Ci sono impianti sportivi al coperto?",
+    "rus": "Есть ли крытые спортивные сооружения?",
+    "tur": "Kapalı spor tesisleri var mı?"
+  },
+  {
+    "eng": "Where can I go rock climbing?",
+    "fra": "Où puis-je faire de l'escalade?",
+    "deu": "Wo kann ich klettern?",
+    "spa": "¿Dónde puedo hacer escalada?",
+    "ita": "Dove posso fare arrampicata?",
+    "rus": "Где я могу заняться скалолазанием?",
+    "tur": "Tırmanış için nereye gidebilirim?"
+  },
+  {
+    "eng": "Are there any dance classes nearby?",
+    "fra": "Y a-t-il des cours de danse à proximité?",
+    "deu": "Gibt es Tanzkurse in der Nähe?",
+    "spa": "¿Hay clases de baile cerca?",
+    "ita": "Ci sono corsi di danza nelle vicinanze?",
+    "rus": "Есть ли поблизости танцевальные классы?",
+    "tur": "Yakınlarda dans dersleri var mı?"
+  },
+  {
+    "eng": "Where can I go fishing?",
+    "fra": "Où puis-je aller pêcher?",
+    "deu": "Wo kann ich angeln gehen?",
+    "spa": "¿Dónde puedo ir a pescar?",
+    "ita": "Dove posso andare a pescare?",
+    "rus": "Где можно порыбачить?",
+    "tur": "Balık tutmaya nereye gidebilirim?"
+  },
+  {
+    "eng": "Are there any running clubs nearby?",
+    "fra": "Y a-t-il des clubs de course à proximité?",
+    "deu": "Gibt es Laufclubs in der Nähe?",
+    "spa": "¿Hay clubes de corredores cerca?",
+    "ita": "Ci sono club di corsa nelle vicinanze?",
+    "rus": "Есть ли поблизости беговые клубы?",
+    "tur": "Yakınlarda koşu kulüpleri var mı?"
+  },
+  {
+    "eng": "Can I join a local football team?",
+    "fra": "Puis-je rejoindre une équipe de football locale?",
+    "deu": "Kann ich einer lokalen Fußballmannschaft beitreten?",
+    "spa": "¿Puedo unirme a un equipo de fútbol local?",
+    "ita": "Posso unirmi a una squadra di calcio locale?",
+    "rus": "Могу ли я присоединиться к местной футбольной команде?",
+    "tur": "Yerel bir futbol takımına katılabilir miyim?"
+  },
+  {
+    "eng": "Are there any badminton courts nearby?",
+    "fra": "Y a-t-il des terrains de badminton à proximité?",
+    "deu": "Gibt es Badmintonplätze in der Nähe?",
+    "spa": "¿Hay canchas de bádminton cerca?",
+    "ita": "Ci sono campi da badminton nelle vicinanze?",
+    "rus": "Есть ли поблизости бадминтонные корты?",
+    "tur": "Yakınlarda badminton kortları var mı?"
+  },
+  {
+    "eng": "Where can I rent a bicycle?",
+    "fra": "Où puis-je louer un vélo?",
+    "deu": "Wo kann ich ein Fahrrad mieten?",
+    "spa": "¿Dónde puedo alquilar una bicicleta?",
+    "ita": "Dove posso noleggiare una bicicletta?",
+    "rus": "Где я могу арендовать велосипед?",
+    "tur": "Nereden bisiklet kiralayabilirim?"
+  },
+  {
+    "eng": "Are there any martial arts classes nearby?",
+    "fra": "Y a-t-il des cours d'arts martiaux à proximité?",
+    "deu": "Gibt es Kampfsportkurse in der Nähe?",
+    "spa": "¿Hay clases de artes marciales cerca?",
+    "ita": "Ci sono corsi di arti marziali nelle vicinanze?",
+    "rus": "Есть ли поблизости классы боевых искусств?",
+    "tur": "Yakınlarda dövüş sanatları dersleri var mı?"
+  }
+]

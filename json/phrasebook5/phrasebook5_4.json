@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "I would like to return this item.",
+    "fra": "Je voudrais retourner cet article.",
+    "deu": "Ich möchte diesen Artikel zurückgeben.",
+    "spa": "Me gustaría devolver este artículo.",
+    "ita": "Vorrei restituire questo articolo.",
+    "rus": "Я хотел бы вернуть этот товар.",
+    "tur": "Bu ürünü iade etmek istiyorum."
+  },
+  {
+    "eng": "Can I exchange this item?",
+    "fra": "Puis-je échanger cet article?",
+    "deu": "Kann ich diesen Artikel umtauschen?",
+    "spa": "¿Puedo cambiar este artículo?",
+    "ita": "Posso cambiare questo articolo?",
+    "rus": "Можно обменять этот товар?",
+    "tur": "Bu ürünü değiştirebilir miyim?"
+  },
+  {
+    "eng": "Do I need a receipt to return this?",
+    "fra": "Ai-je besoin d'un reçu pour retourner ceci?",
+    "deu": "Brauche ich eine Quittung, um dies zurückzugeben?",
+    "spa": "¿Necesito un recibo para devolver esto?",
+    "ita": "Ho bisogno di una ricevuta per restituire questo?",
+    "rus": "Нужен ли чек для возврата?",
+    "tur": "Bunu iade etmek için fiş gerekli mi?"
+  },
+  {
+    "eng": "What is your return policy?",
+    "fra": "Quelle est votre politique de retour?",
+    "deu": "Wie ist Ihre Rückgaberegelung?",
+    "spa": "¿Cuál es su política de devoluciones?",
+    "ita": "Qual è la vostra politica di reso?",
+    "rus": "Какова ваша политика возврата?",
+    "tur": "İade politikası nedir?"
+  },
+  {
+    "eng": "Can I get a refund?",
+    "fra": "Puis-je obtenir un remboursement?",
+    "deu": "Kann ich eine Rückerstattung bekommen?",
+    "spa": "¿Puedo obtener un reembolso?",
+    "ita": "Posso ottenere un rimborso?",
+    "rus": "Можно ли получить возврат денег?",
+    "tur": "Geri ödeme alabilir miyim?"
+  },
+  {
+    "eng": "Is there a restocking fee?",
+    "fra": "Y a-t-il des frais de réapprovisionnement?",
+    "deu": "Gibt es eine Wiederauffüllungsgebühr?",
+    "spa": "¿Hay una tarifa de reposición?",
+    "ita": "C'è una tassa di rifornimento?",
+    "rus": "Есть ли плата за пополнение запасов?",
+    "tur": "Yeniden stoklama ücreti var mı?"
+  },
+  {
+    "eng": "How long do I have to return this?",
+    "fra": "Combien de temps ai-je pour retourner ceci?",
+    "deu": "Wie lange habe ich Zeit, dies zurückzugeben?",
+    "spa": "¿Cuánto tiempo tengo para devolver esto?",
+    "ita": "Quanto tempo ho per restituire questo?",
+    "rus": "Сколько времени у меня есть на возврат?",
+    "tur": "Bunu iade etmek için ne kadar sürem var?"
+  },
+  {
+    "eng": "Can I return this if it’s been used?",
+    "fra": "Puis-je retourner ceci s'il a été utilisé?",
+    "deu": "Kann ich dies zurückgeben, wenn es benutzt wurde?",
+    "spa": "¿Puedo devolver esto si ha sido usado?",
+    "ita": "Posso restituire questo se è stato usato?",
+    "rus": "Можно ли вернуть это, если оно было использовано?",
+    "tur": "Kullanılmışsa bunu iade edebilir miyim?"
+  },
+  {
+    "eng": "Can I return this if it’s damaged?",
+    "fra": "Puis-je retourner ceci s'il est endommagé?",
+    "deu": "Kann ich dies zurückgeben, wenn es beschädigt ist?",
+    "spa": "¿Puedo devolver esto si está dañado?",
+    "ita": "Posso restituire questo se è danneggiato?",
+    "rus": "Можно ли вернуть это, если оно повреждено?",
+    "tur": "Hasar görmüşse bunu iade edebilir miyim?"
+  },
+  {
+    "eng": "Do I need the original packaging?",
+    "fra": "Ai-je besoin de l'emballage d'origine?",
+    "deu": "Brauche ich die Originalverpackung?",
+    "spa": "¿Necesito el embalaje original?",
+    "ita": "Ho bisogno dell'imballaggio originale?",
+    "rus": "Нужна ли оригинальная упаковка?",
+    "tur": "Orijinal ambalaj gerekli mi?"
+  },
+  {
+    "eng": "Can I get store credit instead of a refund?",
+    "fra": "Puis-je obtenir un crédit en magasin au lieu d'un remboursement?",
+    "deu": "Kann ich einen Ladenkredit anstelle einer Rückerstattung bekommen?",
+    "spa": "¿Puedo obtener un crédito en la tienda en lugar de un reembolso?",
+    "ita": "Posso ottenere un credito in negozio invece di un rimborso?",
+    "rus": "Можно ли получить кредит в магазине вместо возврата?",
+    "tur": "Geri ödeme yerine mağaza kredisi alabilir miyim?"
+  },
+  {
+    "eng": "Can I return an online purchase in-store?",
+    "fra": "Puis-je retourner un achat en ligne en magasin?",
+    "deu": "Kann ich einen Online-Kauf im Laden zurückgeben?",
+    "spa": "¿Puedo devolver una compra en línea en la tienda?",
+    "ita": "Posso restituire un acquisto online in negozio?",
+    "rus": "Можно ли вернуть покупку онлайн в магазине?",
+    "tur": "Online satın alımı mağazada iade edebilir miyim?"
+  },
+  {
+    "eng": "Can I exchange this for a different size?",
+    "fra": "Puis-je échanger ceci contre une taille différente?",
+    "deu": "Kann ich dies gegen eine andere Größe umtauschen?",
+    "spa": "¿Puedo cambiar esto por un tamaño diferente?",
+    "ita": "Posso scambiare questo per una taglia diversa?",
+    "rus": "Можно ли обменять это на другой размер?",
+    "tur": "Bunu farklı bir bedenle değiştirebilir miyim?"
+  },
+  {
+    "eng": "Can I exchange this for a different color?",
+    "fra": "Puis-je échanger ceci contre une couleur différente?",
+    "deu": "Kann ich dies gegen eine andere Farbe umtauschen?",
+    "spa": "¿Puedo cambiar esto por un color diferente?",
+    "ita": "Posso scambiare questo per un colore diverso?",
+    "rus": "Можно ли обменять это на другой цвет?",
+    "tur": "Bunu farklı bir renkle değiştirebilir miyim?"
+  },
+  {
+    "eng": "This item is defective.",
+    "fra": "Cet article est défectueux.",
+    "deu": "Dieser Artikel ist defekt.",
+    "spa": "Este artículo está defectuoso.",
+    "ita": "Questo articolo è difettoso.",
+    "rus": "Этот товар неисправен.",
+    "tur": "Bu ürün kusurlu."
+  },
+  {
+    "eng": "Can I speak to the manager about a return?",
+    "fra": "Puis-je parler au responsable d'un retour?",
+    "deu": "Kann ich mit dem Manager über eine Rückgabe sprechen?",
+    "spa": "¿Puedo hablar con el gerente sobre una devolución?",
+    "ita": "Posso parlare con il responsabile di un reso?",
+    "rus": "Можно поговорить с менеджером о возврате?",
+    "tur": "İade hakkında müdürle konuşabilir miyim?"
+  },
+  {
+    "eng": "Do I need to fill out any forms for the return?",
+    "fra": "Dois-je remplir des formulaires pour le retour?",
+    "deu": "Muss ich Formulare für die Rückgabe ausfüllen?",
+    "spa": "¿Necesito llenar algún formulario para la devolución?",
+    "ita": "Devo compilare dei moduli per il reso?",
+    "rus": "Нужно ли заполнять какие-либо формы для возврата?",
+    "tur": "İade için herhangi bir form doldurmam gerekiyor mu?"
+  },
+  {
+    "eng": "Will I get my money back immediately?",
+    "fra": "Est-ce que je vais récupérer mon argent immédiatement?",
+    "deu": "Bekomme ich mein Geld sofort zurück?",
+    "spa": "¿Recibiré mi dinero de inmediato?",
+    "ita": "Riavrò subito i miei soldi?",
+    "rus": "Вернут ли мне деньги сразу?",
+    "tur": "Paramı hemen geri alacak mıyım?"
+  },
+  {
+    "eng": "Can I return this if I lost the receipt?",
+    "fra": "Puis-je retourner ceci si j'ai perdu le reçu?",
+    "deu": "Kann ich dies zurückgeben, wenn ich die Quittung verloren habe?",
+    "spa": "¿Puedo devolver esto si perdí el recibo?",
+    "ita": "Posso restituire questo se ho perso la ricevuta?",
+    "rus": "Можно ли вернуть это, если я потерял квитанцию?",
+    "tur": "Fişi kaybedersem bunu iade edebilir miyim?"
+  },
+  {
+    "eng": "How will I receive my refund?",
+    "fra": "Comment vais-je recevoir mon remboursement?",
+    "deu": "Wie werde ich meine Rückerstattung erhalten?",
+    "spa": "¿Cómo recibiré mi reembolso?",
+    "ita": "Come riceverò il mio rimborso?",
+    "rus": "Как я получу возврат денег?",
+    "tur": "Geri ödememi nasıl alacağım?"
+  }
+]

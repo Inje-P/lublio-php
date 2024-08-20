@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "How can I contact the landlord?",
+    "fra": "Comment puis-je contacter le propriétaire?",
+    "deu": "Wie kann ich den Vermieter kontaktieren?",
+    "spa": "¿Cómo puedo contactar al propietario?",
+    "ita": "Come posso contattare il proprietario?",
+    "rus": "Как я могу связаться с арендодателем?",
+    "tur": "Ev sahibiyle nasıl iletişime geçebilirim?"
+  },
+  {
+    "eng": "When can I schedule a meeting with the landlord?",
+    "fra": "Quand puis-je planifier une réunion avec le propriétaire?",
+    "deu": "Wann kann ich einen Termin mit dem Vermieter vereinbaren?",
+    "spa": "¿Cuándo puedo programar una reunión con el propietario?",
+    "ita": "Quando posso fissare un appuntamento con il proprietario?",
+    "rus": "Когда я могу назначить встречу с арендодателем?",
+    "tur": "Ev sahibiyle ne zaman görüşme ayarlayabilirim?"
+  },
+  {
+    "eng": "What is the best way to reach the landlord in case of an emergency?",
+    "fra": "Quelle est la meilleure façon de joindre le propriétaire en cas d'urgence?",
+    "deu": "Wie erreiche ich den Vermieter im Notfall am besten?",
+    "spa": "¿Cuál es la mejor manera de contactar al propietario en caso de emergencia?",
+    "ita": "Qual è il modo migliore per raggiungere il proprietario in caso di emergenza?",
+    "rus": "Как лучше всего связаться с арендодателем в случае чрезвычайной ситуации?",
+    "tur": "Acil bir durumda ev sahibiyle iletişime geçmenin en iyi yolu nedir?"
+  },
+  {
+    "eng": "How do I report a maintenance issue to the landlord?",
+    "fra": "Comment puis-je signaler un problème de maintenance au propriétaire?",
+    "deu": "Wie melde ich ein Wartungsproblem dem Vermieter?",
+    "spa": "¿Cómo informo de un problema de mantenimiento al propietario?",
+    "ita": "Come posso segnalare un problema di manutenzione al proprietario?",
+    "rus": "Как сообщить арендодателю о проблеме с обслуживанием?",
+    "tur": "Bakım sorununu ev sahibine nasıl bildiririm?"
+  },
+  {
+    "eng": "Can I request repairs from the landlord?",
+    "fra": "Puis-je demander des réparations au propriétaire?",
+    "deu": "Kann ich Reparaturen vom Vermieter anfordern?",
+    "spa": "¿Puedo solicitar reparaciones al propietario?",
+    "ita": "Posso richiedere riparazioni al proprietario?",
+    "rus": "Могу ли я попросить арендодателя о ремонте?",
+    "tur": "Ev sahibinden onarım talep edebilir miyim?"
+  },
+  {
+    "eng": "What is the procedure for renewing the lease with the landlord?",
+    "fra": "Quelle est la procédure de renouvellement du bail avec le propriétaire?",
+    "deu": "Wie ist das Verfahren zur Verlängerung des Mietvertrags mit dem Vermieter?",
+    "spa": "¿Cuál es el procedimiento para renovar el contrato de arrendamiento con el propietario?",
+    "ita": "Qual è la procedura per rinnovare il contratto di locazione con il proprietario?",
+    "rus": "Какова процедура продления договора аренды с арендодателем?",
+    "tur": "Ev sahibiyle kira sözleşmesini yenileme prosedürü nedir?"
+  },
+  {
+    "eng": "How do I notify the landlord if I need to move out?",
+    "fra": "Comment notifier le propriétaire si je dois déménager?",
+    "deu": "Wie benachrichtige ich den Vermieter, wenn ich ausziehen muss?",
+    "spa": "¿Cómo notifico al propietario si necesito mudarme?",
+    "ita": "Come notifico al proprietario se devo trasferirmi?",
+    "rus": "Как я могу уведомить арендодателя, если мне нужно съехать?",
+    "tur": "Taşınmam gerektiğinde ev sahibini nasıl bilgilendiririm?"
+  },
+  {
+    "eng": "Can I discuss rent adjustments with the landlord?",
+    "fra": "Puis-je discuter des ajustements de loyer avec le propriétaire?",
+    "deu": "Kann ich Mietanpassungen mit dem Vermieter besprechen?",
+    "spa": "¿Puedo discutir ajustes de alquiler con el propietario?",
+    "ita": "Posso discutere di eventuali adeguamenti dell'affitto con il proprietario?",
+    "rus": "Могу ли я обсудить с арендодателем корректировку арендной платы?",
+    "tur": "Ev sahibiyle kira düzenlemelerini tartışabilir miyim?"
+  },
+  {
+    "eng": "How can I get a copy of the lease agreement from the landlord?",
+    "fra": "Comment puis-je obtenir une copie du contrat de location auprès du propriétaire?",
+    "deu": "Wie bekomme ich eine Kopie des Mietvertrags vom Vermieter?",
+    "spa": "¿Cómo puedo obtener una copia del contrato de arrendamiento del propietario?",
+    "ita": "Come posso ottenere una copia del contratto di locazione dal proprietario?",
+    "rus": "Как я могу получить копию договора аренды от арендодателя?",
+    "tur": "Ev sahibinden kira sözleşmesinin bir kopyasını nasıl alabilirim?"
+  },
+  {
+    "eng": "What is the policy on property inspections with the landlord?",
+    "fra": "Quelle est la politique en matière d'inspections de la propriété avec le propriétaire?",
+    "deu": "Wie ist die Regelung für Immobilieninspektionen mit dem Vermieter?",
+    "spa": "¿Cuál es la política sobre las inspecciones de la propiedad con el propietario?",
+    "ita": "Qual è la politica sulle ispezioni della proprietà con il proprietario?",
+    "rus": "Какова политика в отношении осмотра имущества с арендодателем?",
+    "tur": "Ev sahibiyle mülk denetimleri politikası nedir?"
+  },
+  {
+    "eng": "How do I request additional keys from the landlord?",
+    "fra": "Comment puis-je demander des clés supplémentaires au propriétaire?",
+    "deu": "Wie fordere ich zusätzliche Schlüssel vom Vermieter an?",
+    "spa": "¿Cómo solicito llaves adicionales al propietario?",
+    "ita": "Come posso richiedere chiavi aggiuntive al proprietario?",
+    "rus": "Как запросить дополнительные ключи у арендодателя?",
+    "tur": "Ev sahibinden ek anahtarları nasıl talep edebilirim?"
+  },
+  {
+    "eng": "What should I do if the landlord is unresponsive?",
+    "fra": "Que dois-je faire si le propriétaire ne répond pas?",
+    "deu": "Was soll ich tun, wenn der Vermieter nicht antwortet?",
+    "spa": "¿Qué debo hacer si el propietario no responde?",
+    "ita": "Cosa dovrei fare se il proprietario non risponde?",
+    "rus": "Что делать, если арендодатель не отвечает?",
+    "tur": "Ev sahibi yanıt vermiyorsa ne yapmalıyım?"
+  },
+  {
+    "eng": "Can I negotiate the terms of the lease with the landlord?",
+    "fra": "Puis-je négocier les termes du bail avec le propriétaire?",
+    "deu": "Kann ich die Bedingungen des Mietvertrags mit dem Vermieter verhandeln?",
+    "spa": "¿Puedo negociar los términos del contrato de arrendamiento con el propietario?",
+    "ita": "Posso negoziare i termini del contratto di locazione con il proprietario?",
+    "rus": "Могу ли я обсудить условия договора аренды с арендодателем?",
+    "tur": "Ev sahibiyle kira sözleşmesi şartlarını müzakere edebilir miyim?"
+  },
+  {
+    "eng": "How do I arrange for a property walkthrough with the landlord?",
+    "fra": "Comment puis-je organiser une visite de la propriété avec le propriétaire?",
+    "deu": "Wie arrangiere ich einen Rundgang durch die Immobilie mit dem Vermieter?",
+    "spa": "¿Cómo organizo un recorrido por la propiedad con el propietario?",
+    "ita": "Come posso organizzare una visita della proprietà con il proprietario?",
+    "rus": "Как организовать осмотр недвижимости с арендодателем?",
+    "tur": "Ev sahibiyle mülk gezintisini nasıl ayarlayabilirim?"
+  },
+  {
+    "eng": "What is the process for submitting a maintenance request to the landlord?",
+    "fra": "Quelle est la procédure pour soumettre une demande de maintenance au propriétaire?",
+    "deu": "Wie ist das Verfahren zur Einreichung eines Wartungsantrags beim Vermieter?",
+    "spa": "¿Cuál es el proceso para enviar una solicitud de mantenimiento al propietario?",
+    "ita": "Qual è il processo per inviare una richiesta di manutenzione al proprietario?",
+    "rus": "Каков процесс подачи заявки на техническое обслуживание арендодателю?",
+    "tur": "Ev sahibine bakım talebi gönderme süreci nedir?"
+  },
+  {
+    "eng": "How do I get permission from the landlord to make alterations to the property?",
+    "fra": "Comment puis-je obtenir la permission du propriétaire pour apporter des modifications à la propriété?",
+    "deu": "Wie bekomme ich die Erlaubnis vom Vermieter, Änderungen an der Immobilie vorzunehmen?",
+    "spa": "¿Cómo obtengo permiso del propietario para hacer alteraciones en la propiedad?",
+    "ita": "Come posso ottenere il permesso dal proprietario per apportare modifiche alla proprietà?",
+    "rus": "Как получить разрешение от арендодателя на внесение изменений в недвижимость?",
+    "tur": "Mülkte değişiklik yapmak için ev sahibinden nasıl izin alabilirim?"
+  },
+  {
+    "eng": "Can I discuss extending the lease term with the landlord?",
+    "fra": "Puis-je discuter de la prolongation de la durée du bail avec le propriétaire?",
+    "deu": "Kann ich die Verlängerung der Mietdauer mit dem Vermieter besprechen?",
+    "spa": "¿Puedo discutir la extensión del plazo del contrato de arrendamiento con el propietario?",
+    "ita": "Posso discutere con il proprietario l'estensione della durata del contratto di locazione?",
+    "rus": "Могу ли я обсудить с арендодателем продление срока аренды?",
+    "tur": "Ev sahibiyle kira süresinin uzatılmasını konuşabilir miyim?"
+  },
+  {
+    "eng": "How do I handle disputes with the landlord?",
+    "fra": "Comment gérer les litiges avec le propriétaire?",
+    "deu": "Wie gehe ich mit Streitigkeiten mit dem Vermieter um?",
+    "spa": "¿Cómo manejo las disputas con el propietario?",
+    "ita": "Come gestisco le controversie con il proprietario?",
+    "rus": "Как разрешить споры с арендодателем?",
+    "tur": "Ev sahibiyle anlaşmazlıkları nasıl halledebilirim?"
+  },
+  {
+    "eng": "Can I request an inspection of the property before moving out?",
+    "fra": "Puis-je demander une inspection de la propriété avant de déménager?",
+    "deu": "Kann ich eine Inspektion der Immobilie vor dem Auszug anfordern?",
+    "spa": "¿Puedo solicitar una inspección de la propiedad antes de mudarme?",
+    "ita": "Posso richiedere un'ispezione della proprietà prima di trasferirmi?",
+    "rus": "Могу ли я запросить осмотр имущества перед выездом?",
+    "tur": "Taşınmadan önce mülkün incelenmesini talep edebilir miyim?"
+  },
+  {
+    "eng": "How do I ask the landlord for a reference?",
+    "fra": "Comment demander une référence au propriétaire?",
+    "deu": "Wie frage ich den Vermieter nach einer Referenz?",
+    "spa": "¿Cómo le pido una referencia al propietario?",
+    "ita": "Come posso chiedere una referenza al proprietario?",
+    "rus": "Как попросить арендодателя предоставить рекомендацию?",
+    "tur": "Ev sahibinden nasıl referans isterim?"
+  }
+]

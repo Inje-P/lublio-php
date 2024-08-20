@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "How can I set up electricity service?",
+    "fra": "Comment puis-je installer le service d'électricité?",
+    "deu": "Wie kann ich den Stromanschluss einrichten?",
+    "spa": "¿Cómo puedo configurar el servicio de electricidad?",
+    "ita": "Come posso attivare il servizio elettrico?",
+    "rus": "Как я могу подключить электричество?",
+    "tur": "Elektrik hizmetini nasıl kurabilirim?"
+  },
+  {
+    "eng": "How do I set up water service?",
+    "fra": "Comment puis-je installer le service d'eau?",
+    "deu": "Wie richte ich den Wasserdienst ein?",
+    "spa": "¿Cómo configuro el servicio de agua?",
+    "ita": "Come posso attivare il servizio idrico?",
+    "rus": "Как я могу подключить воду?",
+    "tur": "Su hizmetini nasıl kurarım?"
+  },
+  {
+    "eng": "How can I set up internet service?",
+    "fra": "Comment puis-je installer le service internet?",
+    "deu": "Wie kann ich den Internetdienst einrichten?",
+    "spa": "¿Cómo configuro el servicio de internet?",
+    "ita": "Come posso attivare il servizio internet?",
+    "rus": "Как я могу подключить интернет?",
+    "tur": "İnternet hizmetini nasıl kurabilirim?"
+  },
+  {
+    "eng": "What documents are needed to set up utilities?",
+    "fra": "Quels documents sont nécessaires pour installer les services publics?",
+    "deu": "Welche Dokumente werden benötigt, um Versorgungsleistungen einzurichten?",
+    "spa": "¿Qué documentos se necesitan para configurar los servicios públicos?",
+    "ita": "Quali documenti sono necessari per attivare le utenze?",
+    "rus": "Какие документы нужны для подключения коммунальных услуг?",
+    "tur": "Hizmetleri kurmak için hangi belgelere ihtiyaç var?"
+  },
+  {
+    "eng": "How long does it take to set up electricity?",
+    "fra": "Combien de temps faut-il pour installer l'électricité?",
+    "deu": "Wie lange dauert es, Strom einzurichten?",
+    "spa": "¿Cuánto tiempo se tarda en configurar la electricidad?",
+    "ita": "Quanto tempo ci vuole per attivare l'elettricità?",
+    "rus": "Сколько времени занимает подключение электричества?",
+    "tur": "Elektrik kurmak ne kadar sürer?"
+  },
+  {
+    "eng": "Is there a fee for setting up water service?",
+    "fra": "Y a-t-il des frais pour l'installation du service d'eau?",
+    "deu": "Gibt es eine Gebühr für die Einrichtung des Wasserdienstes?",
+    "spa": "¿Hay una tarifa por configurar el servicio de agua?",
+    "ita": "C'è una tassa per l'attivazione del servizio idrico?",
+    "rus": "Есть ли плата за подключение воды?",
+    "tur": "Su hizmetini kurmak için bir ücret var mı?"
+  },
+  {
+    "eng": "What is the process for setting up internet service?",
+    "fra": "Quel est le processus pour installer le service internet?",
+    "deu": "Wie ist der Prozess zur Einrichtung des Internetdienstes?",
+    "spa": "¿Cuál es el proceso para configurar el servicio de internet?",
+    "ita": "Qual è il processo per attivare il servizio internet?",
+    "rus": "Каков процесс подключения интернета?",
+    "tur": "İnternet hizmeti kurma süreci nedir?"
+  },
+  {
+    "eng": "Can I choose my internet provider?",
+    "fra": "Puis-je choisir mon fournisseur d'accès internet?",
+    "deu": "Kann ich meinen Internetanbieter auswählen?",
+    "spa": "¿Puedo elegir mi proveedor de internet?",
+    "ita": "Posso scegliere il mio provider internet?",
+    "rus": "Могу ли я выбрать своего интернет-провайдера?",
+    "tur": "İnternet sağlayıcımı seçebilir miyim?"
+  },
+  {
+    "eng": "Are there any installation fees for utilities?",
+    "fra": "Y a-t-il des frais d'installation pour les services publics?",
+    "deu": "Gibt es Installationsgebühren für Versorgungsleistungen?",
+    "spa": "¿Hay tarifas de instalación para los servicios públicos?",
+    "ita": "Ci sono tasse di installazione per le utenze?",
+    "rus": "Есть ли плата за установку коммунальных услуг?",
+    "tur": "Hizmetler için kurulum ücreti var mı?"
+  },
+  {
+    "eng": "Do I need to be home for the installation?",
+    "fra": "Dois-je être à la maison pour l'installation?",
+    "deu": "Muss ich zu Hause sein für die Installation?",
+    "spa": "¿Necesito estar en casa para la instalación?",
+    "ita": "Devo essere a casa per l'installazione?",
+    "rus": "Мне нужно быть дома для установки?",
+    "tur": "Kurulum için evde olmam gerekiyor mu?"
+  },
+  {
+    "eng": "Can I schedule the installation for a specific date?",
+    "fra": "Puis-je planifier l'installation pour une date spécifique?",
+    "deu": "Kann ich die Installation für ein bestimmtes Datum planen?",
+    "spa": "¿Puedo programar la instalación para una fecha específica?",
+    "ita": "Posso programmare l'installazione per una data specifica?",
+    "rus": "Могу ли я назначить установку на конкретную дату?",
+    "tur": "Kurulumu belirli bir tarihe planlayabilir miyim?"
+  },
+  {
+    "eng": "How do I transfer utilities to my name?",
+    "fra": "Comment puis-je transférer les services publics à mon nom?",
+    "deu": "Wie übertrage ich die Versorgungsleistungen auf meinen Namen?",
+    "spa": "¿Cómo transfiero los servicios públicos a mi nombre?",
+    "ita": "Come posso trasferire le utenze a mio nome?",
+    "rus": "Как мне перевести коммунальные услуги на свое имя?",
+    "tur": "Hizmetleri kendi adıma nasıl aktarırım?"
+  },
+  {
+    "eng": "What should I do if I have issues with my internet connection?",
+    "fra": "Que dois-je faire si j'ai des problèmes avec ma connexion internet?",
+    "deu": "Was soll ich tun, wenn ich Probleme mit meiner Internetverbindung habe?",
+    "spa": "¿Qué debo hacer si tengo problemas con mi conexión a internet?",
+    "ita": "Cosa devo fare se ho problemi con la connessione internet?",
+    "rus": "Что мне делать, если у меня проблемы с интернет-соединением?",
+    "tur": "İnternet bağlantımla ilgili sorunlarım varsa ne yapmalıyım?"
+  },
+  {
+    "eng": "Can I set up utilities before moving in?",
+    "fra": "Puis-je installer les services publics avant d'emménager?",
+    "deu": "Kann ich die Versorgungsleistungen einrichten, bevor ich einziehe?",
+    "spa": "¿Puedo configurar los servicios públicos antes de mudarme?",
+    "ita": "Posso attivare le utenze prima di trasferirmi?",
+    "rus": "Могу ли я подключить коммунальные услуги до переезда?",
+    "tur": "Taşınmadan önce hizmetleri kurabilir miyim?"
+  },
+  {
+    "eng": "Who should I contact for utility installation?",
+    "fra": "Qui dois-je contacter pour l'installation des services publics?",
+    "deu": "Wen soll ich für die Installation der Versorgungsleistungen kontaktieren?",
+    "spa": "¿A quién debo contactar para la instalación de servicios públicos?",
+    "ita": "Chi devo contattare per l'installazione delle utenze?",
+    "rus": "С кем мне связаться для установки коммунальных услуг?",
+    "tur": "Hizmetlerin kurulumu için kimi aramalıyım?"
+  },
+  {
+    "eng": "Is a deposit required to set up utilities?",
+    "fra": "Un dépôt est-il requis pour installer les services publics?",
+    "deu": "Ist eine Kaution für die Einrichtung der Versorgungsleistungen erforderlich?",
+    "spa": "¿Se requiere un depósito para configurar los servicios públicos?",
+    "ita": "È richiesto un deposito per attivare le utenze?",
+    "rus": "Требуется ли залог для подключения коммунальных услуг?",
+    "tur": "Hizmetleri kurmak için depozito gerekiyor mu?"
+  },
+  {
+    "eng": "How do I cancel my utility services?",
+    "fra": "Comment puis-je annuler mes services publics?",
+    "deu": "Wie kann ich meine Versorgungsleistungen kündigen?",
+    "spa": "¿Cómo cancelo mis servicios públicos?",
+    "ita": "Come posso cancellare i miei servizi pubblici?",
+    "rus": "Как мне отменить коммунальные услуги?",
+    "tur": "Hizmetlerimi nasıl iptal edebilirim?"
+  },
+  {
+    "eng": "How can I change my internet plan?",
+    "fra": "Comment puis-je changer mon forfait internet?",
+    "deu": "Wie kann ich meinen Internetplan ändern?",
+    "spa": "¿Cómo puedo cambiar mi plan de internet?",
+    "ita": "Come posso cambiare il mio piano internet?",
+    "rus": "Как я могу изменить свой интернет-тариф?",
+    "tur": "İnternet planımı nasıl değiştirebilirim?"
+  },
+  {
+    "eng": "Are there any discounts for setting up multiple utilities at once?",
+    "fra": "Y a-t-il des réductions pour l'installation de plusieurs services publics à la fois?",
+    "deu": "Gibt es Rabatte für die gleichzeitige Einrichtung mehrerer Versorgungsleistungen?",
+    "spa": "¿Hay descuentos por configurar múltiples servicios públicos a la vez?",
+    "ita": "Ci sono sconti per attivare più utenze contemporaneamente?",
+    "rus": "Есть ли скидки на подключение нескольких коммунальных услуг одновременно?",
+    "tur": "Birden fazla hizmeti aynı anda kurmak için indirim var mı?"
+  },
+  {
+    "eng": "What is the customer service number for utility issues?",
+    "fra": "Quel est le numéro du service client pour les problèmes de services publics?",
+    "deu": "Wie lautet die Kundendienstnummer für Versorgungsprobleme?",
+    "spa": "¿Cuál es el número de servicio al cliente para problemas de servicios públicos?",
+    "ita": "Qual è il numero del servizio clienti per problemi con le utenze?",
+    "rus": "Какой номер службы поддержки для решения проблем с коммунальными услугами?",
+    "tur": "Hizmet sorunları için müşteri hizmetleri numarası nedir?"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "Can I have the bill, please?",
+    "fra": "Puis-je avoir l'addition, s'il vous plaît?",
+    "deu": "Kann ich bitte die Rechnung haben?",
+    "spa": "¿Puedo tener la cuenta, por favor?",
+    "ita": "Posso avere il conto, per favore?",
+    "rus": "Можно мне счет, пожалуйста?",
+    "tur": "Hesabı alabilir miyim, lütfen?"
+  },
+  {
+    "eng": "Do you accept credit cards?",
+    "fra": "Acceptez-vous les cartes de crédit?",
+    "deu": "Akzeptieren Sie Kreditkarten?",
+    "spa": "¿Aceptan tarjetas de crédito?",
+    "ita": "Accettate carte di credito?",
+    "rus": "Вы принимаете кредитные карты?",
+    "tur": "Kredi kartı kabul ediyor musunuz?"
+  },
+  {
+    "eng": "Can I pay in cash?",
+    "fra": "Puis-je payer en espèces?",
+    "deu": "Kann ich bar bezahlen?",
+    "spa": "¿Puedo pagar en efectivo?",
+    "ita": "Posso pagare in contanti?",
+    "rus": "Могу ли я заплатить наличными?",
+    "tur": "Nakit ödeyebilir miyim?"
+  },
+  {
+    "eng": "Can I split the bill?",
+    "fra": "Puis-je partager l'addition?",
+    "deu": "Kann ich die Rechnung teilen?",
+    "spa": "¿Puedo dividir la cuenta?",
+    "ita": "Posso dividere il conto?",
+    "rus": "Можно мне разделить счет?",
+    "tur": "Hesabı paylaşabilir miyim?"
+  },
+  {
+    "eng": "Is service included?",
+    "fra": "Le service est-il inclus?",
+    "deu": "Ist der Service inbegriffen?",
+    "spa": "¿Está incluido el servicio?",
+    "ita": "Il servizio è incluso?",
+    "rus": "Обслуживание включено?",
+    "tur": "Hizmet dahil mi?"
+  },
+  {
+    "eng": "Do you have change for this bill?",
+    "fra": "Avez-vous de la monnaie pour ce billet?",
+    "deu": "Haben Sie Wechselgeld für diesen Schein?",
+    "spa": "¿Tiene cambio para este billete?",
+    "ita": "Hai il resto per questo conto?",
+    "rus": "У вас есть сдача с этой купюры?",
+    "tur": "Bu banknot için bozuk paranız var mı?"
+  },
+  {
+    "eng": "Can I add a tip?",
+    "fra": "Puis-je ajouter un pourboire?",
+    "deu": "Kann ich ein Trinkgeld hinzufügen?",
+    "spa": "¿Puedo agregar una propina?",
+    "ita": "Posso aggiungere una mancia?",
+    "rus": "Могу я добавить чаевые?",
+    "tur": "Bahşiş ekleyebilir miyim?"
+  },
+  {
+    "eng": "Can I get a receipt, please?",
+    "fra": "Puis-je avoir un reçu, s'il vous plaît?",
+    "deu": "Kann ich bitte eine Quittung bekommen?",
+    "spa": "¿Puedo obtener un recibo, por favor?",
+    "ita": "Posso avere una ricevuta, per favore?",
+    "rus": "Могу я получить квитанцию, пожалуйста?",
+    "tur": "Fiş alabilir miyim, lütfen?"
+  },
+  {
+    "eng": "I think there is a mistake in the bill.",
+    "fra": "Je pense qu'il y a une erreur dans l'addition.",
+    "deu": "Ich glaube, es gibt einen Fehler in der Rechnung.",
+    "spa": "Creo que hay un error en la cuenta.",
+    "ita": "Penso che ci sia un errore nel conto.",
+    "rus": "Я думаю, в счете ошибка.",
+    "tur": "Hesapta bir hata olduğunu düşünüyorum."
+  },
+  {
+    "eng": "Do you accept contactless payments?",
+    "fra": "Acceptez-vous les paiements sans contact?",
+    "deu": "Akzeptieren Sie kontaktlose Zahlungen?",
+    "spa": "¿Aceptan pagos sin contacto?",
+    "ita": "Accettate pagamenti contactless?",
+    "rus": "Вы принимаете бесконтактные платежи?",
+    "tur": "Temassız ödemeleri kabul ediyor musunuz?"
+  },
+  {
+    "eng": "Can I pay with a mobile payment app?",
+    "fra": "Puis-je payer avec une application de paiement mobile?",
+    "deu": "Kann ich mit einer mobilen Zahlungs-App bezahlen?",
+    "spa": "¿Puedo pagar con una aplicación de pago móvil?",
+    "ita": "Posso pagare con un'app di pagamento mobile?",
+    "rus": "Могу я заплатить через мобильное приложение?",
+    "tur": "Mobil ödeme uygulaması ile ödeyebilir miyim?"
+  },
+  {
+    "eng": "Do you have a minimum charge for card payments?",
+    "fra": "Avez-vous un montant minimum pour les paiements par carte?",
+    "deu": "Haben Sie einen Mindestbetrag für Kartenzahlungen?",
+    "spa": "¿Tiene un cargo mínimo para pagos con tarjeta?",
+    "ita": "Avete un addebito minimo per i pagamenti con carta?",
+    "rus": "Есть ли у вас минимальная сумма для оплаты картой?",
+    "tur": "Kart ödemeleri için asgari bir ücretiniz var mı?"
+  },
+  {
+    "eng": "Can you charge this to my room?",
+    "fra": "Pouvez-vous facturer cela à ma chambre?",
+    "deu": "Können Sie das auf mein Zimmer schreiben?",
+    "spa": "¿Puede cargar esto a mi habitación?",
+    "ita": "Puoi addebitarlo sulla mia stanza?",
+    "rus": "Можете включить это в мой счет?",
+    "tur": "Bunu odama yansıtabilir misiniz?"
+  },
+  {
+    "eng": "Can I pay the bill later?",
+    "fra": "Puis-je payer l'addition plus tard?",
+    "deu": "Kann ich die Rechnung später bezahlen?",
+    "spa": "¿Puedo pagar la cuenta más tarde?",
+    "ita": "Posso pagare il conto più tardi?",
+    "rus": "Можно заплатить позже?",
+    "tur": "Hesabı daha sonra ödeyebilir miyim?"
+  },
+  {
+    "eng": "Can I use a gift card?",
+    "fra": "Puis-je utiliser une carte cadeau?",
+    "deu": "Kann ich eine Geschenkkarte verwenden?",
+    "spa": "¿Puedo usar una tarjeta de regalo?",
+    "ita": "Posso usare una carta regalo?",
+    "rus": "Могу ли я использовать подарочную карту?",
+    "tur": "Hediye kartı kullanabilir miyim?"
+  },
+  {
+    "eng": "Is there an extra charge for using a credit card?",
+    "fra": "Y a-t-il des frais supplémentaires pour utiliser une carte de crédit?",
+    "deu": "Gibt es eine zusätzliche Gebühr für die Verwendung einer Kreditkarte?",
+    "spa": "¿Hay un cargo extra por usar una tarjeta de crédito?",
+    "ita": "C'è un costo extra per l'uso della carta di credito?",
+    "rus": "Есть ли дополнительная плата за использование кредитной карты?",
+    "tur": "Kredi kartı kullanımı için ek bir ücret var mı?"
+  },
+  {
+    "eng": "Can I pay with foreign currency?",
+    "fra": "Puis-je payer avec une monnaie étrangère?",
+    "deu": "Kann ich mit Fremdwährung bezahlen?",
+    "spa": "¿Puedo pagar con moneda extranjera?",
+    "ita": "Posso pagare con valuta estera?",
+    "rus": "Можно заплатить иностранной валютой?",
+    "tur": "Yabancı para ile ödeyebilir miyim?"
+  },
+  {
+    "eng": "Can I add this to my tab?",
+    "fra": "Puis-je ajouter cela à ma note?",
+    "deu": "Kann ich das zu meiner Rechnung hinzufügen?",
+    "spa": "¿Puedo agregar esto a mi cuenta?",
+    "ita": "Posso aggiungere questo al mio conto?",
+    "rus": "Можно добавить это к моему счету?",
+    "tur": "Bunu hesabıma ekleyebilir miyim?"
+  },
+  {
+    "eng": "Do you have a payment plan?",
+    "fra": "Avez-vous un plan de paiement?",
+    "deu": "Haben Sie einen Zahlungsplan?",
+    "spa": "¿Tiene un plan de pago?",
+    "ita": "Avete un piano di pagamento?",
+    "rus": "У вас есть план оплаты?",
+    "tur": "Bir ödeme planınız var mı?"
+  },
+  {
+    "eng": "Can I get a copy of the receipt?",
+    "fra": "Puis-je obtenir une copie du reçu?",
+    "deu": "Kann ich eine Kopie der Quittung bekommen?",
+    "spa": "¿Puedo obtener una copia del recibo?",
+    "ita": "Posso ottenere una copia della ricevuta?",
+    "rus": "Могу я получить копию квитанции?",
+    "tur": "Makbuzun bir kopyasını alabilir miyim?"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "Can I have extra towels, please?",
+    "fra": "Puis-je avoir des serviettes supplémentaires, s'il vous plaît?",
+    "deu": "Kann ich bitte extra Handtücher haben?",
+    "spa": "¿Puedo tener toallas adicionales, por favor?",
+    "ita": "Posso avere degli asciugamani extra, per favore?",
+    "rus": "Могу ли я получить дополнительные полотенца, пожалуйста?",
+    "tur": "Ekstra havlu alabilir miyim, lütfen?"
+  },
+  {
+    "eng": "Can you send housekeeping to my room?",
+    "fra": "Pouvez-vous envoyer le service de nettoyage dans ma chambre?",
+    "deu": "Können Sie den Zimmerservice in mein Zimmer schicken?",
+    "spa": "¿Puede enviar al servicio de limpieza a mi habitación?",
+    "ita": "Puoi mandare le pulizie nella mia stanza?",
+    "rus": "Можете отправить уборку в мой номер?",
+    "tur": "Temizlik hizmetini odama gönderebilir misiniz?"
+  },
+  {
+    "eng": "I need more shampoo.",
+    "fra": "J'ai besoin de plus de shampoing.",
+    "deu": "Ich brauche mehr Shampoo.",
+    "spa": "Necesito más champú.",
+    "ita": "Ho bisogno di più shampoo.",
+    "rus": "Мне нужно больше шампуня.",
+    "tur": "Daha fazla şampuana ihtiyacım var."
+  },
+  {
+    "eng": "Can I get extra blankets?",
+    "fra": "Puis-je avoir des couvertures supplémentaires?",
+    "deu": "Kann ich zusätzliche Decken bekommen?",
+    "spa": "¿Puedo obtener mantas adicionales?",
+    "ita": "Posso avere delle coperte extra?",
+    "rus": "Могу ли я получить дополнительные одеяла?",
+    "tur": "Ekstra battaniye alabilir miyim?"
+  },
+  {
+    "eng": "Can you change the bed sheets?",
+    "fra": "Pouvez-vous changer les draps?",
+    "deu": "Können Sie die Bettwäsche wechseln?",
+    "spa": "¿Puede cambiar las sábanas?",
+    "ita": "Puoi cambiare le lenzuola?",
+    "rus": "Можете поменять постельное белье?",
+    "tur": "Çarşafları değiştirebilir misiniz?"
+  },
+  {
+    "eng": "Can I get some extra pillows?",
+    "fra": "Puis-je avoir des oreillers supplémentaires?",
+    "deu": "Kann ich zusätzliche Kissen bekommen?",
+    "spa": "¿Puedo tener almohadas adicionales?",
+    "ita": "Posso avere dei cuscini extra?",
+    "rus": "Могу ли я получить дополнительные подушки?",
+    "tur": "Ekstra yastık alabilir miyim?"
+  },
+  {
+    "eng": "Can you fix the air conditioning?",
+    "fra": "Pouvez-vous réparer la climatisation?",
+    "deu": "Können Sie die Klimaanlage reparieren?",
+    "spa": "¿Puede arreglar el aire acondicionado?",
+    "ita": "Puoi riparare l'aria condizionata?",
+    "rus": "Можете починить кондиционер?",
+    "tur": "Klimalı tamir edebilir misiniz?"
+  },
+  {
+    "eng": "Can I have more soap?",
+    "fra": "Puis-je avoir plus de savon?",
+    "deu": "Kann ich mehr Seife haben?",
+    "spa": "¿Puedo tener más jabón?",
+    "ita": "Posso avere più sapone?",
+    "rus": "Могу ли я получить больше мыла?",
+    "tur": "Daha fazla sabun alabilir miyim?"
+  },
+  {
+    "eng": "Can I have a wake-up call at 7 AM?",
+    "fra": "Puis-je avoir un appel de réveil à 7h?",
+    "deu": "Kann ich einen Weckruf um 7 Uhr bekommen?",
+    "spa": "¿Puedo recibir una llamada de despertador a las 7 AM?",
+    "ita": "Posso avere una sveglia alle 7 del mattino?",
+    "rus": "Могу я заказать звонок для пробуждения на 7 утра?",
+    "tur": "Sabah 7'de uyandırma çağrısı alabilir miyim?"
+  },
+  {
+    "eng": "Can I get some more hangers?",
+    "fra": "Puis-je avoir plus de cintres?",
+    "deu": "Kann ich mehr Kleiderbügel bekommen?",
+    "spa": "¿Puedo tener más perchas?",
+    "ita": "Posso avere più appendini?",
+    "rus": "Могу ли я получить больше вешалок?",
+    "tur": "Biraz daha askı alabilir miyim?"
+  },
+  {
+    "eng": "Can I get a room service menu?",
+    "fra": "Puis-je avoir un menu de service en chambre?",
+    "deu": "Kann ich eine Zimmerservice-Speisekarte bekommen?",
+    "spa": "¿Puedo obtener un menú de servicio a la habitación?",
+    "ita": "Posso avere un menu del servizio in camera?",
+    "rus": "Могу ли я получить меню обслуживания номеров?",
+    "tur": "Oda servisi menüsü alabilir miyim?"
+  },
+  {
+    "eng": "Can I have my room cleaned?",
+    "fra": "Puis-je faire nettoyer ma chambre?",
+    "deu": "Kann mein Zimmer gereinigt werden?",
+    "spa": "¿Pueden limpiar mi habitación?",
+    "ita": "Posso fare pulire la mia stanza?",
+    "rus": "Могут ли мне убрать комнату?",
+    "tur": "Odamı temizletebilir miyim?"
+  },
+  {
+    "eng": "Can I get a bathrobe?",
+    "fra": "Puis-je avoir un peignoir?",
+    "deu": "Kann ich einen Bademantel bekommen?",
+    "spa": "¿Puedo tener un albornoz?",
+    "ita": "Posso avere un accappatoio?",
+    "rus": "Могу ли я получить халат?",
+    "tur": "Bornoz alabilir miyim?"
+  },
+  {
+    "eng": "Can you bring me some ice?",
+    "fra": "Pouvez-vous m'apporter de la glace?",
+    "deu": "Können Sie mir etwas Eis bringen?",
+    "spa": "¿Puede traerme un poco de hielo?",
+    "ita": "Puoi portarmi del ghiaccio?",
+    "rus": "Можете принести мне льда?",
+    "tur": "Bana biraz buz getirebilir misin?"
+  },
+  {
+    "eng": "Can you replace the towels?",
+    "fra": "Pouvez-vous remplacer les serviettes?",
+    "deu": "Können Sie die Handtücher ersetzen?",
+    "spa": "¿Puede reemplazar las toallas?",
+    "ita": "Puoi sostituire gli asciugamani?",
+    "rus": "Можете заменить полотенца?",
+    "tur": "Havluları değiştirebilir misiniz?"
+  },
+  {
+    "eng": "Can you turn down the bed?",
+    "fra": "Pouvez-vous préparer le lit?",
+    "deu": "Können Sie das Bett abdecken?",
+    "spa": "¿Puede bajar la cama?",
+    "ita": "Puoi abbassare il letto?",
+    "rus": "Можете ли вы расстелить постель?",
+    "tur": "Yatağı kapatabilir misin?"
+  },
+  {
+    "eng": "Can I get a bottle of water?",
+    "fra": "Puis-je avoir une bouteille d'eau?",
+    "deu": "Kann ich eine Flasche Wasser bekommen?",
+    "spa": "¿Puedo tener una botella de agua?",
+    "ita": "Posso avere una bottiglia d'acqua?",
+    "rus": "Могу ли я получить бутылку воды?",
+    "tur": "Bir şişe su alabilir miyim?"
+  },
+  {
+    "eng": "Can you provide an extra key card?",
+    "fra": "Pouvez-vous fournir une carte-clé supplémentaire?",
+    "deu": "Können Sie eine zusätzliche Schlüsselkarte bereitstellen?",
+    "spa": "¿Puede proporcionar una tarjeta llave adicional?",
+    "ita": "Puoi fornire una carta chiave extra?",
+    "rus": "Можете предоставить дополнительную ключ-карту?",
+    "tur": "Ekstra bir anahtar kartı sağlayabilir misiniz?"
+  },
+  {
+    "eng": "Can I have my clothes pressed?",
+    "fra": "Puis-je faire repasser mes vêtements?",
+    "deu": "Kann ich meine Kleidung bügeln lassen?",
+    "spa": "¿Puedo planchar mi ropa?",
+    "ita": "Posso far stirare i miei vestiti?",
+    "rus": "Могу ли я погладить свою одежду?",
+    "tur": "Kıyafetlerimi ütületebilir miyim?"
+  },
+  {
+    "eng": "Can you arrange transportation?",
+    "fra": "Pouvez-vous organiser le transport?",
+    "deu": "Können Sie den Transport arrangieren?",
+    "spa": "¿Puede organizar el transporte?",
+    "ita": "Puoi organizzare il trasporto?",
+    "rus": "Можете организовать транспорт?",
+    "tur": "Ulaşımı ayarlayabilir misiniz?"
+  }
+]

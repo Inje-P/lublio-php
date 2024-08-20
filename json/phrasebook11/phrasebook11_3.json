@@ -1,0 +1,182 @@
+[
+  {
+    "eng": "What is included in the rental agreement?",
+    "fra": "Qu'est-ce qui est inclus dans le contrat de location?",
+    "deu": "Was ist im Mietvertrag enthalten?",
+    "spa": "¿Qué está incluido en el contrato de alquiler?",
+    "ita": "Cosa è incluso nel contratto di locazione?",
+    "rus": "Что включено в договор аренды?",
+    "tur": "Kira sözleşmesine neler dahildir?"
+  },
+  {
+    "eng": "How long is the lease term?",
+    "fra": "Quelle est la durée du bail?",
+    "deu": "Wie lange ist die Laufzeit des Mietvertrags?",
+    "spa": "¿Cuál es el plazo del contrato de arrendamiento?",
+    "ita": "Qual è la durata del contratto di locazione?",
+    "rus": "Каков срок аренды?",
+    "tur": "Kira süresi ne kadar?"
+  },
+  {
+    "eng": "What is the monthly rent?",
+    "fra": "Quel est le loyer mensuel?",
+    "deu": "Wie hoch ist die monatliche Miete?",
+    "spa": "¿Cuál es el alquiler mensual?",
+    "ita": "Qual è l'affitto mensile?",
+    "rus": "Какова ежемесячная арендная плата?",
+    "tur": "Aylık kira ne kadar?"
+  },
+  {
+    "eng": "When is the rent due each month?",
+    "fra": "Quand le loyer est-il dû chaque mois?",
+    "deu": "Wann ist die Miete jeden Monat fällig?",
+    "spa": "¿Cuándo se debe pagar el alquiler cada mes?",
+    "ita": "Quando è dovuto l'affitto ogni mese?",
+    "rus": "Когда арендная плата должна быть внесена каждый месяц?",
+    "tur": "Her ay kira ne zaman ödenir?"
+  },
+  {
+    "eng": "Is a security deposit required?",
+    "fra": "Un dépôt de garantie est-il requis?",
+    "deu": "Ist eine Kaution erforderlich?",
+    "spa": "¿Se requiere un depósito de seguridad?",
+    "ita": "È richiesto un deposito cauzionale?",
+    "rus": "Требуется ли залог?",
+    "tur": "Güvenlik depozitosu gerekli mi?"
+  },
+  {
+    "eng": "How much is the security deposit?",
+    "fra": "Quel est le montant du dépôt de garantie?",
+    "deu": "Wie hoch ist die Kaution?",
+    "spa": "¿Cuánto es el depósito de seguridad?",
+    "ita": "Quanto è il deposito cauzionale?",
+    "rus": "Какова сумма залога?",
+    "tur": "Güvenlik depozitosu ne kadar?"
+  },
+  {
+    "eng": "What is the process for getting my security deposit back?",
+    "fra": "Quelle est la procédure pour récupérer mon dépôt de garantie?",
+    "deu": "Wie ist das Verfahren, um meine Kaution zurückzubekommen?",
+    "spa": "¿Cuál es el proceso para recuperar mi depósito de seguridad?",
+    "ita": "Qual è il processo per riavere indietro il deposito cauzionale?",
+    "rus": "Каков процесс возврата моего залога?",
+    "tur": "Güvenlik depozitomu geri almak için süreç nedir?"
+  },
+  {
+    "eng": "Are utilities included in the rent?",
+    "fra": "Les services publics sont-ils inclus dans le loyer?",
+    "deu": "Sind die Nebenkosten in der Miete enthalten?",
+    "spa": "¿Los servicios públicos están incluidos en el alquiler?",
+    "ita": "Le utenze sono incluse nell'affitto?",
+    "rus": "Коммунальные услуги включены в арендную плату?",
+    "tur": "Kira bedeline hizmetler dahil mi?"
+  },
+  {
+    "eng": "Is renter's insurance required?",
+    "fra": "Une assurance locataire est-elle requise?",
+    "deu": "Ist eine Mieterversicherung erforderlich?",
+    "spa": "¿Se requiere un seguro de inquilino?",
+    "ita": "È richiesta l'assicurazione dell'inquilino?",
+    "rus": "Требуется ли страховка арендатора?",
+    "tur": "Kiracı sigortası gerekli mi?"
+  },
+  {
+    "eng": "Can I make changes to the rental property?",
+    "fra": "Puis-je apporter des modifications à la propriété louée?",
+    "deu": "Kann ich Änderungen an der Mietimmobilie vornehmen?",
+    "spa": "¿Puedo hacer cambios en la propiedad de alquiler?",
+    "ita": "Posso apportare modifiche alla proprietà in affitto?",
+    "rus": "Могу ли я вносить изменения в арендованное имущество?",
+    "tur": "Kiralık mülkte değişiklik yapabilir miyim?"
+  },
+  {
+    "eng": "What is the policy on pets?",
+    "fra": "Quelle est la politique concernant les animaux de compagnie?",
+    "deu": "Wie ist die Regelung für Haustiere?",
+    "spa": "¿Cuál es la política sobre mascotas?",
+    "ita": "Qual è la politica sugli animali domestici?",
+    "rus": "Какова политика в отношении домашних животных?",
+    "tur": "Evcil hayvanlar politikası nedir?"
+  },
+  {
+    "eng": "Are there any penalties for breaking the lease early?",
+    "fra": "Y a-t-il des pénalités pour rupture anticipée du bail?",
+    "deu": "Gibt es Strafen für die vorzeitige Kündigung des Mietvertrags?",
+    "spa": "¿Hay penalizaciones por romper el contrato de arrendamiento antes de tiempo?",
+    "ita": "Ci sono penali per la risoluzione anticipata del contratto di locazione?",
+    "rus": "Есть ли штрафы за досрочное расторжение договора аренды?",
+    "tur": "Kira sözleşmesini erken feshetmenin cezası var mı?"
+  },
+  {
+    "eng": "What is the notice period for ending the lease?",
+    "fra": "Quel est le délai de préavis pour mettre fin au bail?",
+    "deu": "Wie lang ist die Kündigungsfrist für den Mietvertrag?",
+    "spa": "¿Cuál es el período de preaviso para finalizar el contrato de arrendamiento?",
+    "ita": "Qual è il periodo di preavviso per terminare il contratto di locazione?",
+    "rus": "Каков срок уведомления для расторжения договора аренды?",
+    "tur": "Kira sözleşmesini sona erdirmek için bildirim süresi nedir?"
+  },
+  {
+    "eng": "Can I sublet the rental property?",
+    "fra": "Puis-je sous-louer la propriété louée?",
+    "deu": "Kann ich die Mietimmobilie untervermieten?",
+    "spa": "¿Puedo subarrendar la propiedad de alquiler?",
+    "ita": "Posso subaffittare la proprietà in affitto?",
+    "rus": "Могу ли я сдать арендованное имущество в субаренду?",
+    "tur": "Kiralık mülkü alt kiraya verebilir miyim?"
+  },
+  {
+    "eng": "What happens if the rent is paid late?",
+    "fra": "Que se passe-t-il si le loyer est payé en retard?",
+    "deu": "Was passiert, wenn die Miete verspätet gezahlt wird?",
+    "spa": "¿Qué pasa si el alquiler se paga tarde?",
+    "ita": "Cosa succede se l'affitto viene pagato in ritardo?",
+    "rus": "Что произойдет, если арендная плата будет внесена с опозданием?",
+    "tur": "Kira geç ödenirse ne olur?"
+  },
+  {
+    "eng": "Who is responsible for repairs and maintenance?",
+    "fra": "Qui est responsable des réparations et de l'entretien?",
+    "deu": "Wer ist für Reparaturen und Wartung verantwortlich?",
+    "spa": "¿Quién es responsable de las reparaciones y el mantenimiento?",
+    "ita": "Chi è responsabile delle riparazioni e della manutenzione?",
+    "rus": "Кто несет ответственность за ремонт и техническое обслуживание?",
+    "tur": "Onarım ve bakım sorumluluğu kimde?"
+  },
+  {
+    "eng": "Are there any additional fees?",
+    "fra": "Y a-t-il des frais supplémentaires?",
+    "deu": "Gibt es zusätzliche Gebühren?",
+    "spa": "¿Hay tarifas adicionales?",
+    "ita": "Ci sono costi aggiuntivi?",
+    "rus": "Есть ли дополнительные сборы?",
+    "tur": "Ek ücretler var mı?"
+  },
+  {
+    "eng": "Can I renew the lease after it expires?",
+    "fra": "Puis-je renouveler le bail après son expiration?",
+    "deu": "Kann ich den Mietvertrag nach Ablauf verlängern?",
+    "spa": "¿Puedo renovar el contrato de arrendamiento después de que expire?",
+    "ita": "Posso rinnovare il contratto di locazione dopo la scadenza?",
+    "rus": "Могу ли я продлить договор аренды после его истечения?",
+    "tur": "Kira süresi bittikten sonra kira sözleşmesini yenileyebilir miyim?"
+  },
+  {
+    "eng": "What is the process for lease renewal?",
+    "fra": "Quel est le processus de renouvellement de bail?",
+    "deu": "Wie ist das Verfahren zur Verlängerung des Mietvertrags?",
+    "spa": "¿Cuál es el proceso para la renovación del contrato de arrendamiento?",
+    "ita": "Qual è il processo per il rinnovo del contratto di locazione?",
+    "rus": "Каков процесс продления договора аренды?",
+    "tur": "Kira sözleşmesinin yenileme süreci nedir?"
+  },
+  {
+    "eng": "Can I terminate the lease early?",
+    "fra": "Puis-je résilier le bail de manière anticipée?",
+    "deu": "Kann ich den Mietvertrag vorzeitig kündigen?",
+    "spa": "¿Puedo terminar el contrato de arrendamiento antes de tiempo?",
+    "ita": "Posso risolvere il contratto di locazione anticipatamente?",
+    "rus": "Могу ли я расторгнуть договор аренды досрочно?",
+    "tur": "Kira sözleşmesini erken feshedebilir miyim?"
+  }
+]
