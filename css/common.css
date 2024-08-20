@@ -361,11 +361,15 @@ a:active {
     width: 100%;
     height: 100%;
     z-index: 0;
-    margin-top: 40px;
+    margin-top: 60px;
     margin-bottom: 20px;
-    border-bottom: 2px solid var(--text);
+    border-bottom: 3px solid var(--text);
     background-color: transparent;
     transition: all 0.8s;
+  }
+
+  .callout-container:first-child {
+    margin-top: 20px;
   }
 
   .callout-pink,
@@ -374,7 +378,10 @@ a:active {
   .callout-orange,
   .callout-green,
   .callout-purple,
-  .callout-red {
+  .callout-red,
+  .callout-brown,
+  .callout-lime,
+  .callout-azure {
     width: 100%;
     height: 100%;
     padding: 20px;
@@ -388,8 +395,11 @@ a:active {
   .callout-orange:hover,
   .callout-green:hover,
   .callout-purple:hover,
-  .callout-red:hover {
-    border-radius: 0px;
+  .callout-red:hover,
+  .callout-brown:hover,
+  .callout-lime:hover,
+  .callout-azure:hover {
+    border-radius: 20px;
     transition: all 0.8s cubic-bezier(0.33, 1, 0.68, 1);
   }
 
@@ -399,10 +409,13 @@ a:active {
   .callout-orange > h2,
   .callout-green > h2,
   .callout-purple > h2,
-  .callout-red > h2 {
+  .callout-red > h2,
+  .callout-brown > h2,
+  .callout-lime > h2,
+  .callout-azure > h2 {
     font-family: "Inter", sans-serif;
     font-weight: 600;
-    font-size: 22px;
+    font-size: 30px;
     letter-spacing: -0.5px;
     margin-bottom: 0px;
     background-color: transparent;
@@ -451,13 +464,34 @@ a:active {
     pointer-events: none;
   }
 
+  .callout-brown:hover > h2 {
+    color: var(--styledSectionBrownText);
+    cursor: default;
+    pointer-events: none;
+  }
+
+  .callout-lime:hover > h2 {
+    color: var(--styledSectionLimeText);
+    cursor: default;
+    pointer-events: none;
+  }
+
+  .callout-azure:hover > h2 {
+    color: var(--styledSectionAzureText);
+    cursor: default;
+    pointer-events: none;
+  }
+
   .callout-pink::before,
   .callout-blue::before,
   .callout-yellow::before,
   .callout-orange::before,
   .callout-green::before,
   .callout-purple::before,
-  .callout-red::before {
+  .callout-red::before,
+  .callout-brown::before,
+  .callout-lime::before,
+  .callout-azure::before {
     content: "";
     position: absolute;
     z-index: 0;
@@ -527,13 +561,40 @@ a:active {
     );
   }
 
+  .callout-brown::before {
+    background: radial-gradient(
+      at left top,
+      var(--styledSectionBrownColor1) 0%,
+      var(--styledSectionBrownColor2) 100%
+    );
+  }
+
+  .callout-lime::before {
+    background: radial-gradient(
+      at left top,
+      var(--styledSectionLimeColor1) 0%,
+      var(--styledSectionLimeColor2) 100%
+    );
+  }
+
+  .callout-azure::before {
+    background: radial-gradient(
+      at left top,
+      var(--styledSectionAzureColor1) 0%,
+      var(--styledSectionAzureColor2) 100%
+    );
+  }
+
   .callout-pink:hover::before,
   .callout-blue:hover::before,
   .callout-yellow:hover::before,
   .callout-orange:hover::before,
   .callout-green:hover::before,
   .callout-purple:hover::before,
-  .callout-red:hover::before {
+  .callout-red:hover::before,
+  .callout-brown:hover::before,
+  .callout-lime:hover::before,
+  .callout-azure:hover::before {
     clip-path: circle(100% at 50% 50%);
     transform: scaleY(5);
     animation-name: fadeOut;
@@ -577,7 +638,7 @@ a:active {
   .styled-box-brown {
     position: relative;
     width: 100%;
-    height: 300px;
+    height: 200px;
     padding: 20px;
     margin: 0px;
     outline: none;
@@ -714,7 +775,7 @@ a:active {
   .styled-box-brown > h3 {
     font-family: "Inter", sans-serif;
     font-size: 16px;
-    font-weight: 500;
+    font-weight: 600;
     letter-spacing: 0px;
     line-height: 1.4;
     margin-bottom: 0px;
@@ -819,10 +880,10 @@ a:active {
     left: 20px;
     bottom: 20px;
     font-family: "Inter", sans-serif;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 500;
     letter-spacing: 0px;
-    line-height: 1.4;
+    line-height: 1.3;
     margin-top: 20px;
     color: var(--text);
   }

@@ -98,10 +98,10 @@ $descriptions = [
             ?>
                 <a href="/lublio/learn/english/starter/starter<?= $i + 1; ?>/">
                     <div class="styled-box-pink">
-                        <h2 style="font-size: 32px">
+                        <h2>
                             <?= $titles[$i] ?>
                         </h2>
-                        <h3 style="font-size: 18px; font-weight: 600">
+                        <h3>
                             <?= $sub_titles[$i] ?>
                         </h3>
                         <h4>

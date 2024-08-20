@@ -25,7 +25,6 @@ $list = json_file_decode($json);
 // Only English
 $list_eng = array_column($list, 'english');
 
-// Conversations
 $conversations = [
     [
         "question" => "What's your name?",
@@ -127,27 +126,22 @@ $conversations = [
             </div>
 
             <p>
-                Everyday expressions are the phrases you'll use most often in daily English conversations. From greetings to asking for help, these common phrases make your speech sound natural and fluent. This section introduces essential expressions for various situations, helping you navigate social interactions with ease.
+                This section introduces essential expressions for various situations, helping you navigate social interactions with ease.
             </p>
 
-            <?php
-            foreach ($list as $value) {
-                echo '<div class="text-box">'
-                    . '<ul class="styled-list-with-flags">'
-                    . '<li>'
-                    . '<span class="fi fi-gb"></span>'
-                    . '<p>'
-                    . $value["english"]
-                    . '</p>'
-                    . '</li>'
-                    . '</ul>'
-                    . '</div>';
-            }
-            ?>
-
-            <p>
-                By practicing these phrases, you'll feel more confident and comfortable speaking English in real-life scenarios, whether you're traveling, working, or making new friends.
-            </p>
+            <div class="text-box">
+                <ul class="styled-list-with-flags">
+                    <?php
+                    foreach ($list as $value) {
+                        echo '<li>'
+                            . '<p>'
+                            . $value["english"]
+                            . '</p>'
+                            . '</li>';
+                    }
+                    ?>
+                </ul>
+            </div>
 
             <div class="callout-container">
                 <div class="callout-pink">
@@ -158,6 +152,12 @@ $conversations = [
             </div>
 
             <div class="styled-quote-pink-left">
+                <p class="text-original">
+                    What's your name?
+                </p>
+            </div>
+
+            <div class="styled-quote-pink-right">
                 <p class="text-original">
                     My name is ...
                 </p>
@@ -176,6 +176,7 @@ $conversations = [
                     . '</p>'
                     . '<br/>'
                     . '<p>'
+                    . '&#8594; '
                     . $conversations[$i]["answers"][1]
                     . '</p>'
                     . '</li>'

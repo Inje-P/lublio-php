@@ -1,8 +1,7 @@
 <?php
 
-$json = '../../../../json/starter/starter4.json';
-$json_fruits = '../../../../json/starter/starter4_fruits.json';
-$json_vegetables = '../../../../json/starter/starter4_vegetables.json';
+$json = '../../../../json/starter/starter5.json';
+$json_zodiac = '../../../../json/starter/starter5_zodiac.json';
 
 function json_file_decode(string $path)
 {
@@ -23,37 +22,58 @@ function json_file_decode(string $path)
 
 // Raw JSON Files
 $list = json_file_decode($json);
-$fruits = json_file_decode($json_fruits);
-$vegetables = json_file_decode($json_vegetables);
+$zodiac = json_file_decode($json_zodiac);
 
 // Only English
 $list_eng = array_column($list, 'english');
 
-$sentences_fruits = [
-    "I'd like one pineapple.",
-    "I'd like two apples.",
-    "I'd like three bananas.",
-    "I'd like four oranges.",
-    "I'd like five strawberries.",
-    "I'd like six kiwis.",
-    "I'd like seven peaches.",
-    "I'd like eight cherries.",
-    "I'd like nine grapes.",
-    "I'd like ten blueberries."
+$sentences_days = [
+    [
+        "question" => "What day is it today?",
+        "answer" => "It is Monday."
+    ],
+    [
+        "question" => "What day was it yesterday?",
+        "answer" => "It was Tuesday."
+    ],
+    [
+        "question" => "What day is it tomorrow?",
+        "answer" => "It is Wednesday."
+    ],
+    [
+        "question" => "What day was it today?",
+        "answer" => "It was Thursday."
+    ],
+    [
+        "question" => "What day is it today?",
+        "answer" => "It is Friday."
+    ],
+    [
+        "question" => "What day was it yesterday?",
+        "answer" => "It was Saturday."
+    ],
+    [
+        "question" => "What day is it tomorrow?",
+        "answer" => "It is Sunday."
+    ]
 ];
 
-$sentences_vegetables = [
-    "I'd like one carrot.",
-    "I'd like two tomatoes.",
-    "I'd like three cucumbers.",
-    "I'd like four hot peppers.",
-    "I'd like five potatoes.",
-    "I'd like six onions.",
-    "I'd like seven cabbages.",
-    "I'd like eight corns.",
-    "I'd like nine avocados.",
-    "I'd like ten eggplants."
+
+$sentences_zodiac = [
+    "I'm a Aries.",
+    "I'm a Taurus.",
+    "I'm a Gemini.",
+    "I'm a Cancer.",
+    "I'm a Leo.",
+    "I'm a Virgo.",
+    "I'm a Libra.",
+    "I'm a Scorpio.",
+    "I'm a Sagittarius.",
+    "I'm a Capricorn.",
+    "I'm a Aquarius.",
+    "I'm a Pisces."
 ];
+
 ?>
 
 <!DOCTYPE html>
@@ -81,7 +101,7 @@ $sentences_vegetables = [
     ?>
 
     <div class="hero-pink animated fade_1">
-        <h1 class="animated riseUp_2">Count in English: Master Numbers 1 to 10 with Confidence</h1>
+        <h1 class="animated riseUp_2">Talk About Your Week: Learn the Days in English</h1>
     </div>
 
     <div class="wrapper animated fade_1">
@@ -95,7 +115,7 @@ $sentences_vegetables = [
             <div class="callout-container">
                 <div class="callout-pink">
                     <h2>
-                        Numbers 1 to 10
+                        Days of the week
                     </h2>
                 </div>
             </div>
@@ -105,7 +125,7 @@ $sentences_vegetables = [
                     <button id="button-prev"><i class="fa-solid fa-chevron-left"></i></button>
 
                     <div class="control-panel-title">
-                        <p>1 to 10</p>
+                        <p>Days of the week</p>
                     </div>
                     <button id="button-next"><i class="fa-solid fa-chevron-right"></i></button>
                 </div>
@@ -119,20 +139,15 @@ $sentences_vegetables = [
 
             <table class="styled-table">
                 <colgroup>
-                    <col style="width:50%">
-                    <col style="width:50%">
+                    <col style="width:100%">
                 </colgroup>
                 <tr>
-                    <th>Numbers</th>
                     <th><span class="fi fi-gb"></span></th>
                 </tr>
                 <?php
                 foreach ($list as $value) {
                     echo '<tr>'
                         . '<td>'
-                        . $value["number"]
-                        . '</td>'
-                        . '<td>'
                         . $value["english"]
                         . '</td>'
                         . '</tr>';
@@ -141,26 +156,59 @@ $sentences_vegetables = [
             </table>
 
             <p>
-                Learning the numbers 1 to 10 is a fundamental part of any language. In English, these numbers are used in a wide range of everyday contexts, from counting objects to telling time. This section will teach you how to pronounce, recognize, and use these basic numbers confidently.
+                Knowing the days of the week is essential for managing your daily life in English. Whether scheduling appointments or discussing plans, these seven words are used frequently in conversation.
             </p>
+
+            <div class="styled-quote-pink-left">
+                <p class="text-original">
+                    What day is it today?
+                </p>
+            </div>
+
+            <div class="styled-quote-pink-right">
+                <p class="text-original">
+                    It is Sunday.
+                </p>
+            </div>
+
+            <?php
+            for ($i = 0; $i < count($sentences_days); $i++) {
+                echo '<div class="text-box">'
+                    . '<ul class="styled-list-with-flags">'
+                    . '<li>'
+                    . '<p style="font-size=18px; font-weight:700px">'
+                    . $sentences_days[$i]["question"]
+                    . '</p>'
+                    . '<br/>'
+                    . '<p style="font-size=18px; font-weight:700px">'
+                    . '&#8594; '
+                    . $sentences_days[$i]["answer"]
+                    . '</p>'
+                    . '</li>'
+                    . '</ul>'
+                    . '</div>';
+            }
+            ?>
 
             <div class="callout-container">
                 <div class="callout-pink">
                     <h2>
-                        I would like ...
+                        Zodiac Signs
                     </h2>
                 </div>
             </div>
 
             <div class="styled-quote-pink-left">
                 <p class="text-original">
-                    I'd like ...
+                    What's your zodiac sign?
                 </p>
             </div>
 
-            <h3 style="margin-top: 20px;">
-                Fruits
-            </h3>
+            <div class="styled-quote-pink-right">
+                <p class="text-original">
+                    I'm a Gemini.
+                </p>
+            </div>
 
             <table class="styled-table">
                 <colgroup>
@@ -172,10 +220,10 @@ $sentences_vegetables = [
                     <th><span class="fi fi-gb"></span></th>
                 </tr>
                 <?php
-                foreach ($fruits as $value) {
+                foreach ($zodiac as $value) {
                     echo '<tr>'
                         . '<td>'
-                        . $value["emoji"]
+                        . $value["symbol"]
                         . '</td>'
                         . '<td>'
                         . $value["english"]
@@ -186,93 +234,21 @@ $sentences_vegetables = [
             </table>
 
             <?php
-            for ($i = 0; $i < count($sentences_fruits); $i++) {
-                if ($i == 0) {
-                    $emojis = $fruits[$i]["emoji"];
-                } else {
-                    $emojis = $fruits[$i]["emoji"];
-                    for ($j = 1; $j <= $i; $j++) {
-                        $emojis = $emojis . $fruits[$i]["emoji"];
-                        if ($j == 4) {
-                            $emojis = $emojis . "<br/>";
-                        }
-                    }
-                }
-
+            for ($i = 0; $i < count($sentences_zodiac); $i++) {
                 echo '<div class="text-box">'
                     . '<ul class="styled-list-with-flags">'
                     . '<li>'
                     . '<h2>'
-                    . $emojis
+                    . $zodiac[$i]["symbol"]
                     . '</h2>'
                     . '<p style="font-size=18px; font-weight:700px">'
-                    . $sentences_fruits[$i]
+                    . $sentences_zodiac[$i]
                     . '</p>'
                     . '</li>'
                     . '</ul>'
                     . '</div>';
             }
             ?>
-
-            <h3 style="margin-top: 20px;">
-                Vegetables
-            </h3>
-
-            <table class="styled-table">
-                <colgroup>
-                    <col style="width:50%">
-                    <col style="width:50%">
-                </colgroup>
-                <tr>
-                    <th></th>
-                    <th><span class="fi fi-gb"></span></th>
-                </tr>
-                <?php
-                foreach ($vegetables as $value) {
-                    echo '<tr>'
-                        . '<td>'
-                        . $value["emoji"]
-                        . '</td>'
-                        . '<td>'
-                        . $value["english"]
-                        . '</td>'
-                        . '</tr>';
-                }
-                ?>
-            </table>
-
-            <?php
-            for ($i = 0; $i < count($sentences_vegetables); $i++) {
-                if ($i == 0) {
-                    $emojis = $vegetables[$i]["emoji"];
-                } else {
-                    $emojis = $vegetables[$i]["emoji"];
-                    for ($j = 1; $j <= $i; $j++) {
-                        $emojis = $emojis . $vegetables[$i]["emoji"];
-                        if ($j == 4) {
-                            $emojis = $emojis . "<br/>";
-                        }
-                    }
-                }
-
-                echo '<div class="text-box">'
-                    . '<ul class="styled-list-with-flags">'
-                    . '<li>'
-                    . '<h2>'
-                    . $emojis
-                    . '</h2>'
-                    . '<p style="font-size=18px; font-weight:700px">'
-                    . $sentences_vegetables[$i]
-                    . '</p>'
-                    . '</li>'
-                    . '</ul>'
-                    . '</div>';
-            }
-            ?>
-
-            <p>
-                Through practical examples and exercises, you'll become comfortable using these numbers in conversation, setting the stage for learning larger numbers and more complex numerical concepts.
-            </p>
 
         </div>
 
