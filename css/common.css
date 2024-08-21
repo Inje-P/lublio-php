@@ -184,7 +184,7 @@ a:active {
     width: calc(100% - 40px);
     height: auto;
     margin: 0 auto;
-    margin-top: 50px;
+    margin-top: 100px;
   }
 
   /*
@@ -213,7 +213,7 @@ a:active {
     display: inline-block;
     width: 100%;
     height: auto;
-    font-size: 26px;
+    font-size: 24px;
     font-family: "Inter", sans-serif;
     font-weight: 700;
     letter-spacing: -1px;
@@ -222,7 +222,11 @@ a:active {
   }
 
   h2 {
-    font-size: 22px;
+    font-size: 20px;
+  }
+
+  h3 {
+    font-size: 18px;
   }
 
   p {
@@ -363,9 +367,9 @@ a:active {
     z-index: 0;
     margin-top: 60px;
     margin-bottom: 20px;
-    border-bottom: 3px solid var(--text);
+    border-left: 5px solid var(--text);
     background-color: transparent;
-    transition: all 0.8s;
+    transition: all 0.6s;
   }
 
   .callout-container:first-child {
@@ -384,8 +388,8 @@ a:active {
   .callout-azure {
     width: 100%;
     height: 100%;
-    padding: 20px;
-    text-align: center;
+    padding: 0px 20px;
+    text-align: left;
     transition: all 0.8s cubic-bezier(0.32, 0, 0.67, 0);
   }
 
@@ -399,7 +403,6 @@ a:active {
   .callout-brown:hover,
   .callout-lime:hover,
   .callout-azure:hover {
-    border-radius: 20px;
     transition: all 0.8s cubic-bezier(0.33, 1, 0.68, 1);
   }
 
@@ -415,11 +418,11 @@ a:active {
   .callout-azure > h2 {
     font-family: "Inter", sans-serif;
     font-weight: 600;
-    font-size: 30px;
+    font-size: 24px;
     letter-spacing: -0.5px;
     margin-bottom: 0px;
     background-color: transparent;
-    transition: all 0.8s;
+    transition: all 0.6s;
   }
 
   .callout-pink:hover > h2 {
@@ -638,7 +641,7 @@ a:active {
   .styled-box-brown {
     position: relative;
     width: 100%;
-    height: 200px;
+    height: 300px;
     padding: 20px;
     margin: 0px;
     outline: none;
@@ -1183,52 +1186,52 @@ a:active {
 
   .styled-quote-pink-left,
   .styled-quote-pink-right {
-    border: 3px solid var(--styledBoxPink);
+    border: 2px solid var(--styledBoxPink);
   }
 
   .styled-quote-blue-left,
   .styled-quote-blue-right {
-    border: 3px solid var(--styledBoxBlue);
+    border: 2px solid var(--styledBoxBlue);
   }
 
   .styled-quote-yellow-left,
   .styled-quote-yellow-right {
-    border: 3px solid var(--styledBoxYellow);
+    border: 2px solid var(--styledBoxYellow);
   }
 
   .styled-quote-orange-left,
   .styled-quote-orange-right {
-    border: 3px solid var(--styledBoxOrange);
+    border: 2px solid var(--styledBoxOrange);
   }
 
   .styled-quote-green-left,
   .styled-quote-green-right {
-    border: 3px solid var(--styledBoxGreen);
+    border: 2px solid var(--styledBoxGreen);
   }
 
   .styled-quote-purple-left,
   .styled-quote-purple-right {
-    border: 3px solid var(--styledBoxPurple);
+    border: 2px solid var(--styledBoxPurple);
   }
 
   .styled-quote-red-left,
   .styled-quote-red-right {
-    border: 3px solid var(--styledBoxRed);
+    border: 2px solid var(--styledBoxRed);
   }
 
   .styled-quote-lime-left,
   .styled-quote-lime-right {
-    border: 3px solid var(--styledBoxLime);
+    border: 2px solid var(--styledBoxLime);
   }
 
   .styled-quote-azure-left,
   .styled-quote-azure-right {
-    border: 3px solid var(--styledBoxAzure);
+    border: 2px solid var(--styledBoxAzure);
   }
 
   .styled-quote-brown-left,
   .styled-quote-brown-right {
-    border: 3px solid var(--styledBoxBrown);
+    border: 2px solid var(--styledBoxBrown);
   }
 
   .styled-quote-pink-left::after,
@@ -1360,62 +1363,62 @@ a:active {
 
   .styled-quote-pink-left:hover,
   .styled-quote-pink-right:hover {
-    box-shadow: 0 6px 0 var(--styledSectionPinkColor1),
-      0 12px 0 var(--styledSectionPinkColor2);
+    box-shadow: 0 8px 0 var(--styledSectionPinkColor1),
+      0 16px 0 var(--styledSectionPinkColor2);
   }
 
   .styled-quote-blue-left:hover,
   .styled-quote-blue-right:hover {
-    box-shadow: 0 6px 0 var(--styledSectionBlueColor1),
-      0 12px 0 var(--styledSectionBlueColor2);
+    box-shadow: 0 8px 0 var(--styledSectionBlueColor1),
+      0 16px 0 var(--styledSectionBlueColor2);
   }
 
   .styled-quote-yellow-left:hover,
   .styled-quote-yellow-right:hover {
-    box-shadow: 0 6px 0 var(--styledSectionYellowColor1),
-      0 12px 0 var(--styledSectionYellowColor2);
+    box-shadow: 0 8px 0 var(--styledSectionYellowColor1),
+      0 16px 0 var(--styledSectionYellowColor2);
   }
 
   .styled-quote-orange-left:hover,
   .styled-quote-orange-right:hover {
-    box-shadow: 0 6px 0 var(--styledSectionOrangeColor1),
-      0 12px 0 var(--styledSectionOrangeColor2);
+    box-shadow: 0 8px 0 var(--styledSectionOrangeColor1),
+      0 16px 0 var(--styledSectionOrangeColor2);
   }
 
   .styled-quote-green-left:hover,
   .styled-quote-green-right:hover {
-    box-shadow: 0 6px 0 var(--styledSectionGreenColor1),
-      0 12px 0 var(--styledSectionGreenColor2);
+    box-shadow: 0 8px 0 var(--styledSectionGreenColor1),
+      0 16px 0 var(--styledSectionGreenColor2);
   }
 
   .styled-quote-purple-left:hover,
   .styled-quote-purple-right:hover {
-    box-shadow: 0 6px 0 var(--styledSectionPurpleColor1),
-      0 12px 0 var(--styledSectionPurpleColor2);
+    box-shadow: 0 8px 0 var(--styledSectionPurpleColor1),
+      0 16px 0 var(--styledSectionPurpleColor2);
   }
 
   .styled-quote-red-left:hover,
   .styled-quote-red-right:hover {
-    box-shadow: 0 6px 0 var(--styledSectionRedColor1),
-      0 12px 0 var(--styledSectionRedColor2);
+    box-shadow: 0 8px 0 var(--styledSectionRedColor1),
+      0 16px 0 var(--styledSectionRedColor2);
   }
 
   .styled-quote-lime-left:hover,
   .styled-quote-lime-right:hover {
-    box-shadow: 0 6px 0 var(--styledSectionLimeColor1),
-      0 12px 0 var(--styledSectionLimeColor2);
+    box-shadow: 0 8px 0 var(--styledSectionLimeColor1),
+      0 16px 0 var(--styledSectionLimeColor2);
   }
 
   .styled-quote-azure-left:hover,
   .styled-quote-azure-right:hover {
-    box-shadow: 0 6px 0 var(--styledSectionAzureColor1),
-      0 12px 0 var(--styledSectionAzureColor2);
+    box-shadow: 0 8px 0 var(--styledSectionAzureColor1),
+      0 16px 0 var(--styledSectionAzureColor2);
   }
 
   .styled-quote-brown-left:hover,
   .styled-quote-brown-right:hover {
-    box-shadow: 0 6px 0 var(--styledSectionBrownColor1),
-      0 12px 0 var(--styledSectionBrownColor2);
+    box-shadow: 0 8px 0 var(--styledSectionBrownColor1),
+      0 16px 0 var(--styledSectionBrownColor2);
   }
 
   .styled-quote-pink-left .text-original,

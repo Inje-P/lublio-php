@@ -22,10 +22,6 @@
     require("../../../../components/header.php");
     ?>
 
-    <div class="hero-pink animated fade_1">
-        <h1 class="animated riseUp_2">Learn the English Alphabet: Foundation for Reading, Writing, and Speaking</h1>
-    </div>
-
     <div class="wrapper animated fade_1">
 
         <?php

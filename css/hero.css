@@ -11,7 +11,7 @@
   .hero-brown {
     position: relative;
     width: 100%;
-    height: 300px;
+    height: 160px;
     padding: 20px;
     margin: 0px;
     outline: none;
@@ -80,6 +80,7 @@
   .hero-brown>h1 {
     position: absolute;
     display: inline-block;
+    text-align: center;
     bottom: 20px;
     width: calc(100% - 40px);
     font-family: "Inter", sans-serif;
@@ -88,7 +89,6 @@
     letter-spacing: -1px;
     line-height: 1.2;
     margin-bottom: 0px;
-    text-align: left;
     transition: all 0.2s;
   }
 

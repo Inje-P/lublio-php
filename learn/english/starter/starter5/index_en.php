@@ -100,10 +100,6 @@ $sentences_zodiac = [
     require("../../../../components/header.php");
     ?>
 
-    <div class="hero-pink animated fade_1">
-        <h1 class="animated riseUp_2">Talk About Your Week: Learn the Days in English</h1>
-    </div>
-
     <div class="wrapper animated fade_1">
 
         <?php

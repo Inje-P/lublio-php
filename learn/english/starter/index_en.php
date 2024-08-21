@@ -17,7 +17,7 @@ $titles = [
 $sub_titles = [
     "Alphabet",
     "Pronunciation",
-    "Everyday Expressions",
+    "Basic Expressions",
     "Numbers 1 to 10",
     "Days of the Week",
     "Numbers 1 to 100",

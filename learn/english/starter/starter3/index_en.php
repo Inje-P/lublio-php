@@ -88,10 +88,6 @@ $conversations = [
     require("../../../../components/header.php");
     ?>
 
-    <div class="hero-pink animated fade_1">
-        <h1 class="animated riseUp_2">Essential English Phrases: Communicate Effectively in Daily Conversations</h1>
-    </div>
-
     <div class="wrapper animated fade_1">
 
         <?php
@@ -113,7 +109,7 @@ $conversations = [
                     <button id="button-prev"><i class="fa-solid fa-chevron-left"></i></button>
 
                     <div class="control-panel-title">
-                        <p>This is a title</p>
+                        <p>Basic Expressions</p>
                     </div>
                     <button id="button-next"><i class="fa-solid fa-chevron-right"></i></button>
                 </div>

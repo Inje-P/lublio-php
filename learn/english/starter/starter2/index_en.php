@@ -22,10 +22,6 @@
     require("../../../../components/header.php");
     ?>
 
-    <div class="hero-pink animated fade_1">
-        <h1 class="animated riseUp_2">Master English Pronunciation: Speak Clearly and Understand Native Speakers Better</h1>
-    </div>
-
     <div class="wrapper animated fade_1">
 
         <?php
@@ -33,6 +29,14 @@
         ?>
 
         <div style="margin-bottom: 20px;">
+
+            <div class="callout-container">
+                <div class="callout-pink">
+                    <h2>
+                        Pronunciation
+                    </h2>
+                </div>
+            </div>
 
             <p>
                 Pronunciation is key to being understood in English. This section focuses on the essential sounds of the English language, including vowels, consonants, and common combinations. You’ll learn how to pronounce tricky sounds and understand the rhythm and intonation patterns of natural speech. Clear pronunciation will not only boost your speaking confidence but also improve your listening skills. By mastering these basics, you’ll be able to communicate more effectively and understand native speakers with greater ease.

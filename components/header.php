@@ -1,5 +1,7 @@
 <header class="animated fade_1">
-    <a href="/lublio/learn/" class="logo">Lublio</a>
+    <a href="/lublio/learn/" class="logo">
+        <p>LVBLIO</p>
+    </a>
     <i id="menu" class="fa-solid fa-bars"></i>
 </header>
 <div class="overlay">
@@ -13,16 +15,28 @@
     <div class="overlay_content">
         <ul class="menu_list">
             <li>
-                <a href="/lublio/learn/" class="menu_link"><i class="fa-solid fa-house"></i>Home</a>
+                <a href="/lublio/learn/" class="menu_link" style="border: 2px solid #222">
+                    <i class="fa-solid fa-house" style="color: #222"></i>
+                    <p style="color: #222">Home</p>
+                </a>
             </li>
             <li>
-                <a href="/lublio/learn/" class="menu_link"><i class="fa-solid fa-earth-americas"></i>Learn</a>
+                <a href="/lublio/learn/" class="menu_link" style="background-color: #222">
+                    <i class="fa-solid fa-pen-nib" style="color: #fafafa"></i>
+                    <p style="color: #fafafa">Blog</p>
+                </a>
             </li>
             <li>
-                <a href="/lublio/learn/" class="menu_link"><i class="fa-solid fa-pen-nib"></i>Blog</a>
+                <a href="/lublio/learn/" class="menu_link" style="background-color: #ddd">
+                    <i class="fa-solid fa-earth-americas" style="color: #222"></i>
+                    <p style="color: #222">Learn</p>
+                </a>
             </li>
             <li>
-                <a href="/lublio/learn/" class="menu_link"><i class="fa-solid fa-circle-question"></i>About Us</a>
+                <a href="/lublio/learn/" class="menu_link" style="border: 2px solid #222">
+                    <i class="fa-solid fa-circle-question" style="color: #222"></i>
+                    <p style="color: #222">About Us</p>
+                </a>
             </li>
         </ul>
     </div>
@@ -35,7 +49,7 @@
 
     window.addEventListener(
         "scroll",
-        function () {
+        function() {
             var header = doc.querySelector("header");
             header.classList.toggle("sticky", window.scrollY > 0);
         }

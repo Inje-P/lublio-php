@@ -80,10 +80,6 @@ $sentences_vegetables = [
     require("../../../../components/header.php");
     ?>
 
-    <div class="hero-pink animated fade_1">
-        <h1 class="animated riseUp_2">Count in English: Master Numbers 1 to 10 with Confidence</h1>
-    </div>
-
     <div class="wrapper animated fade_1">
 
         <?php
@@ -105,7 +101,7 @@ $sentences_vegetables = [
                     <button id="button-prev"><i class="fa-solid fa-chevron-left"></i></button>
 
                     <div class="control-panel-title">
-                        <p>1 to 10</p>
+                        <p>Numbers 1 to 10</p>
                     </div>
                     <button id="button-next"><i class="fa-solid fa-chevron-right"></i></button>
                 </div>
