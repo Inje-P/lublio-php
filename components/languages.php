@@ -15,6 +15,7 @@ $languages = array(
     'en', // english.
     'es', // spanish.
     'et', // estonian.
+    'fa', // persian.
     'fi', // finnish.
     'fr', // french.
     'gl', // galician.
@@ -49,11 +50,7 @@ $languages = array(
 
 // Lnaguages we support
 $available_languages = [
-    "en",
-    "ko"
+    "en"
 ];
 
 $lang = in_array($lang, $available_languages) ? $lang : 'en';
-
-$lang = 'en';
-?>

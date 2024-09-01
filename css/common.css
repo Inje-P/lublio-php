@@ -187,6 +187,20 @@ a:active {
     margin-top: 100px;
   }
 
+  .wrapper-fixed {
+    width: calc(100% - 40px);
+    height: 100vh;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .vertically-center {
+    position: absolute;
+    width: calc(100% - 40px);
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
   /*
  * ──────────────────────────────
  * HORIZONTAL LINE
@@ -213,16 +227,16 @@ a:active {
     display: inline-block;
     width: 100%;
     height: auto;
-    font-size: 24px;
-    font-family: "Inter", sans-serif;
-    font-weight: 700;
+    font-size: 30px;
+    font-family: "IBM Plex Serif", serif;
+    font-weight: 600;
     letter-spacing: -1px;
     color: var(--text);
     margin-bottom: 20px;
   }
 
   h2 {
-    font-size: 20px;
+    font-size: 24px;
   }
 
   h3 {
@@ -232,6 +246,7 @@ a:active {
   p {
     font-size: 15px;
     font-weight: 500;
+    font-family: "Inter", sans-serif;
     letter-spacing: 0px;
     line-height: 1.6;
   }
@@ -248,7 +263,7 @@ a:active {
     flex-direction: row;
   }
 
-  .breadcrumbs > li {
+  .breadcrumbs>li {
     margin-right: 10px;
     font-size: 14px;
     font-family: "Inter", sans-serif;
@@ -256,11 +271,11 @@ a:active {
     color: var(--text);
   }
 
-  .breadcrumbs > li:last-child {
+  .breadcrumbs>li:last-child {
     margin-right: 0px;
   }
 
-  .breadcrumbs > li > a {
+  .breadcrumbs>li>a {
     text-decoration: none;
     font-size: 14px;
     font-family: "Inter", sans-serif;
@@ -269,7 +284,7 @@ a:active {
     transition: all 0.2s;
   }
 
-  .breadcrumbs > li > a:hover {
+  .breadcrumbs>li>a:hover {
     color: var(--textHover);
   }
 
@@ -287,12 +302,12 @@ a:active {
     margin-bottom: 20px;
   }
 
-  .text-box > p {
+  .text-box>p {
     padding: 10px 0px;
     margin-bottom: 0px;
   }
 
-  .text-box > p:last-child {
+  .text-box>p:last-child {
     margin-bottom: 0px;
   }
 
@@ -312,14 +327,14 @@ a:active {
     margin-bottom: 10px;
   }
 
-  .styled-list > li,
-  .styled-list-arb > li {
+  .styled-list>li,
+  .styled-list-arb>li {
     margin-left: 20px;
     margin-bottom: 10px;
   }
 
-  .styled-list > li:last-child,
-  .styled-list-arb > li:last-child {
+  .styled-list>li:last-child,
+  .styled-list-arb>li:last-child {
     margin-bottom: 0px;
   }
 
@@ -335,7 +350,7 @@ a:active {
     margin-bottom: 0px;
   }
 
-  .styled-list-with-flags li > span {
+  .styled-list-with-flags li>span {
     margin-right: 10px;
     font-size: 15px;
   }
@@ -406,16 +421,16 @@ a:active {
     transition: all 0.8s cubic-bezier(0.33, 1, 0.68, 1);
   }
 
-  .callout-pink > h2,
-  .callout-blue > h2,
-  .callout-yellow > h2,
-  .callout-orange > h2,
-  .callout-green > h2,
-  .callout-purple > h2,
-  .callout-red > h2,
-  .callout-brown > h2,
-  .callout-lime > h2,
-  .callout-azure > h2 {
+  .callout-pink>h2,
+  .callout-blue>h2,
+  .callout-yellow>h2,
+  .callout-orange>h2,
+  .callout-green>h2,
+  .callout-purple>h2,
+  .callout-red>h2,
+  .callout-brown>h2,
+  .callout-lime>h2,
+  .callout-azure>h2 {
     font-family: "Inter", sans-serif;
     font-weight: 600;
     font-size: 24px;
@@ -425,61 +440,61 @@ a:active {
     transition: all 0.6s;
   }
 
-  .callout-pink:hover > h2 {
+  .callout-pink:hover>h2 {
     color: var(--styledSectionPinkText);
     cursor: default;
     pointer-events: none;
   }
 
-  .callout-blue:hover > h2 {
+  .callout-blue:hover>h2 {
     color: var(--styledSectionBlueText);
     cursor: default;
     pointer-events: none;
   }
 
-  .callout-yellow:hover > h2 {
+  .callout-yellow:hover>h2 {
     color: var(--styledSectionYellowText);
     cursor: default;
     pointer-events: none;
   }
 
-  .callout-orange:hover > h2 {
+  .callout-orange:hover>h2 {
     color: var(--styledSectionOrangeText);
     cursor: default;
     pointer-events: none;
   }
 
-  .callout-green:hover > h2 {
+  .callout-green:hover>h2 {
     color: var(--styledSectionGreenText);
     cursor: default;
     pointer-events: none;
   }
 
-  .callout-purple:hover > h2 {
+  .callout-purple:hover>h2 {
     color: var(--styledSectionPurpleText);
     cursor: default;
     pointer-events: none;
   }
 
-  .callout-red:hover > h2 {
+  .callout-red:hover>h2 {
     color: var(--styledSectionRedText);
     cursor: default;
     pointer-events: none;
   }
 
-  .callout-brown:hover > h2 {
+  .callout-brown:hover>h2 {
     color: var(--styledSectionBrownText);
     cursor: default;
     pointer-events: none;
   }
 
-  .callout-lime:hover > h2 {
+  .callout-lime:hover>h2 {
     color: var(--styledSectionLimeText);
     cursor: default;
     pointer-events: none;
   }
 
-  .callout-azure:hover > h2 {
+  .callout-azure:hover>h2 {
     color: var(--styledSectionAzureText);
     cursor: default;
     pointer-events: none;
@@ -509,83 +524,63 @@ a:active {
   }
 
   .callout-pink::before {
-    background: radial-gradient(
-      at left top,
-      var(--styledSectionPinkColor1) 0%,
-      var(--styledSectionPinkColor2) 100%
-    );
+    background: radial-gradient(at left top,
+        var(--styledSectionPinkColor1) 0%,
+        var(--styledSectionPinkColor2) 100%);
   }
 
   .callout-blue::before {
-    background: radial-gradient(
-      at left top,
-      var(--styledSectionBlueColor1) 0%,
-      var(--styledSectionBlueColor2) 100%
-    );
+    background: radial-gradient(at left top,
+        var(--styledSectionBlueColor1) 0%,
+        var(--styledSectionBlueColor2) 100%);
   }
 
   .callout-yellow::before {
-    background: radial-gradient(
-      at left top,
-      var(--styledSectionYellowColor1) 0%,
-      var(--styledSectionYellowColor2) 100%
-    );
+    background: radial-gradient(at left top,
+        var(--styledSectionYellowColor1) 0%,
+        var(--styledSectionYellowColor2) 100%);
   }
 
   .callout-orange::before {
-    background: radial-gradient(
-      at left top,
-      var(--styledSectionOrangeColor1) 0%,
-      var(--styledSectionOrangeColor2) 100%
-    );
+    background: radial-gradient(at left top,
+        var(--styledSectionOrangeColor1) 0%,
+        var(--styledSectionOrangeColor2) 100%);
   }
 
   .callout-green::before {
-    background: radial-gradient(
-      at left top,
-      var(--styledSectionGreenColor1) 0%,
-      var(--styledSectionGreenColor2) 100%
-    );
+    background: radial-gradient(at left top,
+        var(--styledSectionGreenColor1) 0%,
+        var(--styledSectionGreenColor2) 100%);
   }
 
   .callout-purple::before {
-    background: radial-gradient(
-      at left top,
-      var(--styledSectionPurpleColor1) 0%,
-      var(--styledSectionPurpleColor2) 100%
-    );
+    background: radial-gradient(at left top,
+        var(--styledSectionPurpleColor1) 0%,
+        var(--styledSectionPurpleColor2) 100%);
   }
 
   .callout-red::before {
-    background: radial-gradient(
-      at left top,
-      var(--styledSectionRedColor1) 0%,
-      var(--styledSectionRedColor2) 100%
-    );
+    background: radial-gradient(at left top,
+        var(--styledSectionRedColor1) 0%,
+        var(--styledSectionRedColor2) 100%);
   }
 
   .callout-brown::before {
-    background: radial-gradient(
-      at left top,
-      var(--styledSectionBrownColor1) 0%,
-      var(--styledSectionBrownColor2) 100%
-    );
+    background: radial-gradient(at left top,
+        var(--styledSectionBrownColor1) 0%,
+        var(--styledSectionBrownColor2) 100%);
   }
 
   .callout-lime::before {
-    background: radial-gradient(
-      at left top,
-      var(--styledSectionLimeColor1) 0%,
-      var(--styledSectionLimeColor2) 100%
-    );
+    background: radial-gradient(at left top,
+        var(--styledSectionLimeColor1) 0%,
+        var(--styledSectionLimeColor2) 100%);
   }
 
   .callout-azure::before {
-    background: radial-gradient(
-      at left top,
-      var(--styledSectionAzureColor1) 0%,
-      var(--styledSectionAzureColor2) 100%
-    );
+    background: radial-gradient(at left top,
+        var(--styledSectionAzureColor1) 0%,
+        var(--styledSectionAzureColor2) 100%);
   }
 
   .callout-pink:hover::before,
@@ -646,51 +641,13 @@ a:active {
     margin: 0px;
     outline: none;
     z-index: 0;
-    border-radius: 20px;
+    border-radius: 0px;
     box-shadow: 0 0 5px transparent;
     margin-bottom: 20px;
-    background: var(--background);
+    background: transparent;
+    text-decoration: none;
+    border: 2px solid var(--text);
     transition: all 0.4s;
-  }
-
-  .styled-box-pink {
-    border: 2px solid var(--styledBoxPink);
-  }
-
-  .styled-box-blue {
-    border: 2px solid var(--styledBoxBlue);
-  }
-
-  .styled-box-yellow {
-    border: 2px solid var(--styledBoxYellow);
-  }
-
-  .styled-box-orange {
-    border: 2px solid var(--styledBoxOrange);
-  }
-
-  .styled-box-green {
-    border: 2px solid var(--styledBoxGreen);
-  }
-
-  .styled-box-purple {
-    border: 2px solid var(--styledBoxPurple);
-  }
-
-  .styled-box-red {
-    border: 2px solid var(--styledBoxRed);
-  }
-
-  .styled-box-lime {
-    border: 2px solid var(--styledBoxLime);
-  }
-
-  .styled-box-azure {
-    border: 2px solid var(--styledBoxAzure);
-  }
-
-  .styled-box-brown {
-    border: 2px solid var(--styledBoxBrown);
   }
 
   .styled-box-pink:hover,
@@ -704,103 +661,118 @@ a:active {
   .styled-box-azure:hover,
   .styled-box-brown:hover {
     cursor: pointer;
-    border-radius: 0px;
   }
 
   .styled-box-pink:hover {
-    box-shadow: 2px 4px 1px var(--styledBoxPink);
+    border-radius: 10px;
+    box-shadow: 3px 6px 1px var(--styledBoxPink);
   }
 
   .styled-box-blue:hover {
-    box-shadow: 2px 4px 1px var(--styledBoxBlue);
+    border-radius: 10px;
+    box-shadow: 3px 6px 1px var(--styledBoxBlue);
   }
 
   .styled-box-yellow:hover {
-    box-shadow: 2px 4px 1px var(--styledBoxYellow);
+    border-radius: 10px;
+    box-shadow: 3px 6px 1px var(--styledBoxYellow);
   }
 
   .styled-box-orange:hover {
-    box-shadow: 2px 4px 1px var(--styledBoxOrange);
+    border-radius: 10px;
+    box-shadow: 3px 6px 1px var(--styledBoxOrange);
   }
 
   .styled-box-green:hover {
-    box-shadow: 2px 4px 1px var(--styledBoxGreen);
+    border-radius: 10px;
+    box-shadow: 3px 6px 1px var(--styledBoxGreen);
   }
 
   .styled-box-purple:hover {
-    box-shadow: 2px 4px 1px var(--styledBoxPurple);
+    border-radius: 10px;
+    box-shadow: 3px 6px 1px var(--styledBoxPurple);
   }
 
   .styled-box-red:hover {
-    box-shadow: 2px 4px 1px var(--styledBoxRed);
+    border-radius: 10px;
+    box-shadow: 3px 6px 1px var(--styledBoxRed);
   }
 
   .styled-box-lime:hover {
-    box-shadow: 2px 4px 1px var(--styledBoxLime);
+    border-radius: 10px;
+    box-shadow: 3px 6px 1px var(--styledBoxLime);
   }
 
   .styled-box-azure:hover {
-    box-shadow: 2px 4px 1px var(--styledBoxAzure);
+    border-radius: 10px;
+    box-shadow: 3px 6px 1px var(--styledBoxAzure);
   }
 
   .styled-box-brown:hover {
-    box-shadow: 2px 4px 1px var(--styledBoxBrown);
+    border-radius: 10px;
+    box-shadow: 3px 6px 1px var(--styledBoxBrown);
   }
 
-  .styled-box-pink > h2,
-  .styled-box-blue > h2,
-  .styled-box-yellow > h2,
-  .styled-box-orange > h2,
-  .styled-box-green > h2,
-  .styled-box-purple > h2,
-  .styled-box-red > h2,
-  .styled-box-lime > h2,
-  .styled-box-azure > h2,
-  .styled-box-brown > h2 {
+  .styled-box-pink>h2,
+  .styled-box-blue>h2,
+  .styled-box-yellow>h2,
+  .styled-box-orange>h2,
+  .styled-box-green>h2,
+  .styled-box-purple>h2,
+  .styled-box-red>h2,
+  .styled-box-lime>h2,
+  .styled-box-azure>h2,
+  .styled-box-brown>h2 {
+    position: relative;
+    display: block;
     width: 90%;
-    font-family: "Inter", sans-serif;
-    font-size: 24px;
-    font-weight: 700;
-    letter-spacing: -0.5px;
-    line-height: 1.2;
-    margin-bottom: 0px;
+    font-family: "IBM Plex Serif", serif;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 1;
+    margin-bottom: 5px;
+    /* transform: translateY(-5px); */
+    color: var(--text);
+    transition: all 0.4s;
   }
 
-  .styled-box-pink > h3,
-  .styled-box-blue > h3,
-  .styled-box-yellow > h3,
-  .styled-box-orange > h3,
-  .styled-box-green > h3,
-  .styled-box-purple > h3,
-  .styled-box-red > h3,
-  .styled-box-lime > h3,
-  .styled-box-azure > h3,
-  .styled-box-brown > h3 {
-    font-family: "Inter", sans-serif;
+  .styled-box-pink>h3,
+  .styled-box-blue>h3,
+  .styled-box-yellow>h3,
+  .styled-box-orange>h3,
+  .styled-box-green>h3,
+  .styled-box-purple>h3,
+  .styled-box-red>h3,
+  .styled-box-lime>h3,
+  .styled-box-azure>h3,
+  .styled-box-brown>h3 {
+    position: relative;
+    display: block;
+    font-family: "Roboto Slab", serif;
     font-size: 16px;
-    font-weight: 600;
+    font-weight: 500;
     letter-spacing: 0px;
     line-height: 1.4;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
     color: var(--textHover);
   }
 
-  .styled-box-pink > h4,
-  .styled-box-blue > h4,
-  .styled-box-yellow > h4,
-  .styled-box-orange > h4,
-  .styled-box-green > h4,
-  .styled-box-purple > h4,
-  .styled-box-red > h4,
-  .styled-box-lime > h4,
-  .styled-box-azure > h4,
-  .styled-box-brown > h4 {
+  .styled-box-pink>h4,
+  .styled-box-blue>h4,
+  .styled-box-yellow>h4,
+  .styled-box-orange>h4,
+  .styled-box-green>h4,
+  .styled-box-purple>h4,
+  .styled-box-red>h4,
+  .styled-box-lime>h4,
+  .styled-box-azure>h4,
+  .styled-box-brown>h4 {
     position: absolute;
     display: block;
     top: 20px;
     right: 20px;
     font-family: "Inter", sans-serif;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 500;
     letter-spacing: 0px;
     line-height: 1.4;
@@ -808,56 +780,33 @@ a:active {
     color: var(--text);
   }
 
-  .styled-box-pink > h2 {
-    color: var(--styledBoxPink);
+  .styled-box-pink>hr,
+  .styled-box-blue>hr,
+  .styled-box-yellow>hr,
+  .styled-box-orange>hr,
+  .styled-box-green>hr,
+  .styled-box-purple>hr,
+  .styled-box-red>hr,
+  .styled-box-lime>hr,
+  .styled-box-azure>hr,
+  .styled-box-brown>hr {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 2px;
+    color: var(--text);
   }
 
-  .styled-box-blue > h2 {
-    color: var(--styledBoxBlue);
-  }
-
-  .styled-box-yellow > h2 {
-    color: var(--styledBoxYellow);
-  }
-
-  .styled-box-orange > h2 {
-    color: var(--styledBoxOrange);
-  }
-
-  .styled-box-green > h2 {
-    color: var(--styledBoxGreen);
-  }
-
-  .styled-box-purple > h2 {
-    color: var(--styledBoxPurple);
-  }
-
-  .styled-box-red > h2 {
-    color: var(--styledBoxRed);
-  }
-
-  .styled-box-lime > h2 {
-    color: var(--styledBoxLime);
-  }
-
-  .styled-box-azure > h2 {
-    color: var(--styledBoxAzure);
-  }
-
-  .styled-box-brown > h2 {
-    color: var(--styledBoxBrown);
-  }
-
-  .styled-box-pink > span,
-  .styled-box-blue > span,
-  .styled-box-yellow > span,
-  .styled-box-orange > span,
-  .styled-box-green > span,
-  .styled-box-purple > span,
-  .styled-box-red > span,
-  .styled-box-lime > span,
-  .styled-box-azure > span,
-  .styled-box-brown > span {
+  .styled-box-pink>span,
+  .styled-box-blue>span,
+  .styled-box-yellow>span,
+  .styled-box-orange>span,
+  .styled-box-green>span,
+  .styled-box-purple>span,
+  .styled-box-red>span,
+  .styled-box-lime>span,
+  .styled-box-azure>span,
+  .styled-box-brown>span {
     position: absolute;
     display: block;
     top: 20px;
@@ -865,43 +814,241 @@ a:active {
     font-size: 24px;
     font-weight: 500;
     margin-bottom: 0px;
-    border-radius: 5px;
+    border-radius: 0px;
   }
 
-  .styled-box-pink > p,
-  .styled-box-blue > p,
-  .styled-box-yellow > p,
-  .styled-box-orange > p,
-  .styled-box-green > p,
-  .styled-box-purple > p,
-  .styled-box-red > p,
-  .styled-box-lime > p,
-  .styled-box-azure > p,
-  .styled-box-brown > p {
+  .styled-box-pink>p,
+  .styled-box-blue>p,
+  .styled-box-yellow>p,
+  .styled-box-orange>p,
+  .styled-box-green>p,
+  .styled-box-purple>p,
+  .styled-box-red>p,
+  .styled-box-lime>p,
+  .styled-box-azure>p,
+  .styled-box-brown>p {
     position: absolute;
     width: calc(100% - 40px);
     left: 20px;
     bottom: 20px;
     font-family: "Inter", sans-serif;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 500;
     letter-spacing: 0px;
-    line-height: 1.3;
+    line-height: 1.4;
     margin-top: 20px;
     color: var(--text);
   }
 
-  .styled-box-pink > p:last-child,
-  .styled-box-blue > p:last-child,
-  .styled-box-yellow > p:last-child,
-  .styled-box-orange > p:last-child,
-  .styled-box-green > p:last-child,
-  .styled-box-purple > p:last-child,
-  .styled-box-red > p:last-child,
-  .styled-box-lime > p:last-child,
-  .styled-box-azure > p:last-child,
-  .styled-box-brown > p:last-child {
+  .styled-box-pink>p:last-child,
+  .styled-box-blue>p:last-child,
+  .styled-box-yellow>p:last-child,
+  .styled-box-orange>p:last-child,
+  .styled-box-green>p:last-child,
+  .styled-box-purple>p:last-child,
+  .styled-box-red>p:last-child,
+  .styled-box-lime>p:last-child,
+  .styled-box-azure>p:last-child,
+  .styled-box-brown>p:last-child {
     margin-bottom: 0px;
+  }
+
+  /* Moving Item */
+
+  .styled-box-pink .item,
+  .styled-box-blue .item,
+  .styled-box-yellow .item,
+  .styled-box-orange .item,
+  .styled-box-green .item,
+  .styled-box-purple .item,
+  .styled-box-red .item,
+  .styled-box-lime .item,
+  .styled-box-azure .item,
+  .styled-box-brown .item {
+    position: absolute;
+    display: grid;
+    top: 30px;
+    right: 30px;
+    place-items: center;
+    opacity: 0;
+    transition: all 0.4s ease;
+  }
+
+  .styled-box-pink:hover .item,
+  .styled-box-blue:hover .item,
+  .styled-box-yellow:hover .item,
+  .styled-box-orange:hover .item,
+  .styled-box-green:hover .item,
+  .styled-box-purple:hover .item,
+  .styled-box-red:hover .item,
+  .styled-box-lime:hover .item,
+  .styled-box-azure:hover .item,
+  .styled-box-brown:hover .item {
+    opacity: 1;
+  }
+
+  .styled-box-pink .loader,
+  .styled-box-blue .loader,
+  .styled-box-yellow .loader,
+  .styled-box-orange .loader,
+  .styled-box-green .loader,
+  .styled-box-purple .loader,
+  .styled-box-red .loader,
+  .styled-box-lime .loader,
+  .styled-box-azure .loader,
+  .styled-box-brown .loader {
+    display: block;
+    position: relative;
+    width: 50%;
+    display: grid;
+    place-items: center;
+  }
+
+  .styled-box-pink .loader::before,
+  .styled-box-blue .loader::before,
+  .styled-box-yellow .loader::before,
+  .styled-box-orange .loader::before,
+  .styled-box-green .loader::before,
+  .styled-box-purple .loader::before,
+  .styled-box-red .loader::before,
+  .styled-box-lime .loader::before,
+  .styled-box-azure .loader::before,
+  .styled-box-brown .loader::before,
+  .styled-box-pink .loader::after,
+  .styled-box-blue .loader::after,
+  .styled-box-yellow .loader::after,
+  .styled-box-orange .loader::after,
+  .styled-box-green .loader::after,
+  .styled-box-purple .loader::after,
+  .styled-box-red .loader::after,
+  .styled-box-lime .loader::after,
+  .styled-box-azure .loader::after,
+  .styled-box-brown .loader::after {
+    content: '';
+    box-sizing: border-box;
+    position: absolute;
+    width: 3vmin;
+    height: 3vmin;
+  }
+
+  .styled-box-pink .loader::before,
+  .styled-box-blue .loader::before,
+  .styled-box-yellow .loader::before,
+  .styled-box-orange .loader::before,
+  .styled-box-green .loader::before,
+  .styled-box-purple .loader::before,
+  .styled-box-red .loader::before,
+  .styled-box-lime .loader::before,
+  .styled-box-azure .loader::before,
+  .styled-box-brown .loader::before {
+    top: calc(50% - 3vmin);
+    left: calc(50% - 3vmin);
+    animation: loader1 2.4s cubic-bezier(0, 0, 0.24, 1.21) infinite;
+  }
+
+  .styled-box-pink .loader::after,
+  .styled-box-blue .loader::after,
+  .styled-box-yellow .loader::after,
+  .styled-box-orange .loader::after,
+  .styled-box-green .loader::after,
+  .styled-box-purple .loader::after,
+  .styled-box-red .loader::after,
+  .styled-box-lime .loader::after,
+  .styled-box-azure .loader::after,
+  .styled-box-brown .loader::after {
+    top: 50%;
+    left: 50%;
+    animation: loader2 2.4s cubic-bezier(0, 0, 0.24, 1.21) infinite;
+  }
+
+  .styled-box-pink .loader::before,
+  .styled-box-pink .loader::after {
+    background-color: var(--styledBoxPink);
+  }
+
+  .styled-box-blue .loader::before,
+  .styled-box-blue .loader::after {
+    background-color: var(--styledBoxBlue);
+  }
+
+  .styled-box-yellow .loader::before,
+  .styled-box-yellow .loader::after {
+    background-color: var(--styledBoxYellow);
+  }
+
+  .styled-box-orange .loader::before,
+  .styled-box-orange .loader::after {
+    background-color: var(--styledBoxOrange);
+  }
+
+  .styled-box-green .loader::before,
+  .styled-box-green .loader::after {
+    background-color: var(--styledBoxGreen);
+  }
+
+  .styled-box-purple .loader::before,
+  .styled-box-purple .loader::after {
+    background-color: var(--styledBoxPurple);
+  }
+
+  .styled-box-red .loader::before,
+  .styled-box-red .loader::after {
+    background-color: var(--styledBoxRed);
+  }
+
+  .styled-box-lime .loader::before,
+  .styled-box-lime .loader::after {
+    background-color: var(--styledBoxLime);
+  }
+
+  .styled-box-azure .loader::before,
+  .styled-box-azure .loader::after {
+    background-color: var(--styledBoxAzure);
+  }
+
+  .styled-box-brown .loader::before,
+  .styled-box-brown .loader::after {
+    background-color: var(--styledBoxBrown);
+  }
+
+  @keyframes loader1 {
+
+    0%,
+    100% {
+      transform: none;
+    }
+
+    25% {
+      transform: translateX(100%);
+    }
+
+    50% {
+      transform: translateX(100%) translateY(100%);
+    }
+
+    75% {
+      transform: translateY(100%);
+    }
+  }
+
+  @keyframes loader2 {
+
+    0%,
+    100% {
+      transform: none;
+    }
+
+    25% {
+      transform: translateX(-100%);
+    }
+
+    50% {
+      transform: translateX(-100%) translateY(-100%);
+    }
+
+    75% {
+      transform: translateY(-100%);
+    }
   }
 
   /*
@@ -927,89 +1074,69 @@ a:active {
     margin: 0px;
     outline: none;
     z-index: 0;
-    border-radius: 15px;
+    border-radius: 10px;
     margin-bottom: 20px;
     transition: all 0.3s;
   }
 
   .styled-section-pink {
-    background: radial-gradient(
-      at left top,
-      var(--styledSectionPinkColor1) 0%,
-      var(--styledSectionPinkColor2) 100%
-    );
+    background: radial-gradient(at left top,
+        var(--styledSectionPinkColor1) 0%,
+        var(--styledSectionPinkColor2) 100%);
   }
 
   .styled-section-blue {
-    background: radial-gradient(
-      at left top,
-      var(--styledSectionBlueColor1) 0%,
-      var(--styledSectionBlueColor2) 100%
-    );
+    background: radial-gradient(at left top,
+        var(--styledSectionBlueColor1) 0%,
+        var(--styledSectionBlueColor2) 100%);
   }
 
   .styled-section-yellow {
-    background: radial-gradient(
-      at left top,
-      var(--styledSectionYellowColor1) 0%,
-      var(--styledSectionYellowColor2) 100%
-    );
+    background: radial-gradient(at left top,
+        var(--styledSectionYellowColor1) 0%,
+        var(--styledSectionYellowColor2) 100%);
   }
 
   .styled-section-orange {
-    background: radial-gradient(
-      at left top,
-      var(--styledSectionOrangeColor1) 0%,
-      var(--styledSectionOrangeColor2) 100%
-    );
+    background: radial-gradient(at left top,
+        var(--styledSectionOrangeColor1) 0%,
+        var(--styledSectionOrangeColor2) 100%);
   }
 
   .styled-section-green {
-    background: radial-gradient(
-      at left top,
-      var(--styledSectionGreenColor1) 0%,
-      var(--styledSectionGreenColor2) 100%
-    );
+    background: radial-gradient(at left top,
+        var(--styledSectionGreenColor1) 0%,
+        var(--styledSectionGreenColor2) 100%);
   }
 
   .styled-section-purple {
-    background: radial-gradient(
-      at left top,
-      var(--styledSectionPurpleColor1) 0%,
-      var(--styledSectionPurpleColor2) 100%
-    );
+    background: radial-gradient(at left top,
+        var(--styledSectionPurpleColor1) 0%,
+        var(--styledSectionPurpleColor2) 100%);
   }
 
   .styled-section-red {
-    background: radial-gradient(
-      at left top,
-      var(--styledSectionRedColor1) 0%,
-      var(--styledSectionRedColor2) 100%
-    );
+    background: radial-gradient(at left top,
+        var(--styledSectionRedColor1) 0%,
+        var(--styledSectionRedColor2) 100%);
   }
 
   .styled-section-brown {
-    background: radial-gradient(
-      at left top,
-      var(--styledSectionBrownColor1) 0%,
-      var(--styledSectionBrownColor2) 100%
-    );
+    background: radial-gradient(at left top,
+        var(--styledSectionBrownColor1) 0%,
+        var(--styledSectionBrownColor2) 100%);
   }
 
   .styled-section-lime {
-    background: radial-gradient(
-      at left top,
-      var(--styledSectionLimeColor1) 0%,
-      var(--styledSectionLimeColor2) 100%
-    );
+    background: radial-gradient(at left top,
+        var(--styledSectionLimeColor1) 0%,
+        var(--styledSectionLimeColor2) 100%);
   }
 
   .styled-section-azure {
-    background: radial-gradient(
-      at left top,
-      var(--styledSectionAzureColor1) 0%,
-      var(--styledSectionAzureColor2) 100%
-    );
+    background: radial-gradient(at left top,
+        var(--styledSectionAzureColor1) 0%,
+        var(--styledSectionAzureColor2) 100%);
   }
 
   .styled-section-pink .styled-section-pink-icon,
@@ -1030,30 +1157,30 @@ a:active {
     text-align: left;
   }
 
-  .styled-section-pink .styled-section-pink-icon > i,
-  .styled-section-blue .styled-section-blue-icon > i,
-  .styled-section-yellow .styled-section-yellow-icon > i,
-  .styled-section-orange .styled-section-orange-icon > i,
-  .styled-section-green .styled-section-green-icon > i,
-  .styled-section-purple .styled-section-purple-icon > i,
-  .styled-section-red .styled-section-red-icon > i,
-  .styled-section-brown .styled-section-brown-icon > i,
-  .styled-section-lime .styled-section-lime-icon > i,
-  .styled-section-azure .styled-section-azure-icon > i {
+  .styled-section-pink .styled-section-pink-icon>i,
+  .styled-section-blue .styled-section-blue-icon>i,
+  .styled-section-yellow .styled-section-yellow-icon>i,
+  .styled-section-orange .styled-section-orange-icon>i,
+  .styled-section-green .styled-section-green-icon>i,
+  .styled-section-purple .styled-section-purple-icon>i,
+  .styled-section-red .styled-section-red-icon>i,
+  .styled-section-brown .styled-section-brown-icon>i,
+  .styled-section-lime .styled-section-lime-icon>i,
+  .styled-section-azure .styled-section-azure-icon>i {
     font-size: 30px;
     margin-bottom: 0px;
   }
 
-  .styled-section-pink > p,
-  .styled-section-blue > p,
-  .styled-section-yellow > p,
-  .styled-section-orange > p,
-  .styled-section-green > p,
-  .styled-section-purple > p,
-  .styled-section-red > p,
-  .styled-section-brown > p,
-  .styled-section-lime > p,
-  .styled-section-azure > p {
+  .styled-section-pink>p,
+  .styled-section-blue>p,
+  .styled-section-yellow>p,
+  .styled-section-orange>p,
+  .styled-section-green>p,
+  .styled-section-purple>p,
+  .styled-section-red>p,
+  .styled-section-brown>p,
+  .styled-section-lime>p,
+  .styled-section-azure>p {
     position: absolute;
     display: block;
     left: 20px;
@@ -1064,57 +1191,57 @@ a:active {
     font-family: "Inter", sans-serif;
     font-size: 18px;
     font-weight: 500;
-    letter-spacing: -0.5px;
+    letter-spacing: 0px;
     line-height: 1.3;
   }
 
-  .styled-section-pink > p,
-  .styled-section-pink .styled-section-pink-icon > i {
+  .styled-section-pink>p,
+  .styled-section-pink .styled-section-pink-icon>i {
     color: var(--styledSectionPinkText);
   }
 
-  .styled-section-blue > p,
-  .styled-section-blue .styled-section-blue-icon > i {
+  .styled-section-blue>p,
+  .styled-section-blue .styled-section-blue-icon>i {
     color: var(--styledSectionBlueText);
   }
 
-  .styled-section-yellow > p,
-  .styled-section-yellow .styled-section-yellow-icon > i {
+  .styled-section-yellow>p,
+  .styled-section-yellow .styled-section-yellow-icon>i {
     color: var(--styledSectionYellowText);
   }
 
-  .styled-section-orange > p,
-  .styled-section-orange .styled-section-orange-icon > i {
+  .styled-section-orange>p,
+  .styled-section-orange .styled-section-orange-icon>i {
     color: var(--styledSectionOrangeText);
   }
 
-  .styled-section-green > p,
-  .styled-section-green .styled-section-green-icon > i {
+  .styled-section-green>p,
+  .styled-section-green .styled-section-green-icon>i {
     color: var(--styledSectionGreenText);
   }
 
-  .styled-section-purple > p,
-  .styled-section-purple .styled-section-purple-icon > i {
+  .styled-section-purple>p,
+  .styled-section-purple .styled-section-purple-icon>i {
     color: var(--styledSectionPurpleText);
   }
 
-  .styled-section-red > p,
-  .styled-section-red .styled-section-red-icon > i {
+  .styled-section-red>p,
+  .styled-section-red .styled-section-red-icon>i {
     color: var(--styledSectionRedText);
   }
 
-  .styled-section-brown > p,
-  .styled-section-brown .styled-section-brown-icon > i {
+  .styled-section-brown>p,
+  .styled-section-brown .styled-section-brown-icon>i {
     color: var(--styledSectionBrownText);
   }
 
-  .styled-section-lime > p,
-  .styled-section-lime .styled-section-lime-icon > i {
+  .styled-section-lime>p,
+  .styled-section-lime .styled-section-lime-icon>i {
     color: var(--styledSectionLimeText);
   }
 
-  .styled-section-azure > p,
-  .styled-section-azure .styled-section-azure-icon > i {
+  .styled-section-azure>p,
+  .styled-section-azure .styled-section-azure-icon>i {
     color: var(--styledSectionAzureText);
   }
 
@@ -1588,13 +1715,13 @@ a:active {
     visibility: hidden;
   }
 
-  .checkbox-wrapper .inp-cbx:checked + .cbx span:first-child {
+  .checkbox-wrapper .inp-cbx:checked+.cbx span:first-child {
     background: var(--text);
     border-color: var(--textHover);
     animation: wave 0.4s ease;
   }
 
-  .checkbox-wrapper .inp-cbx:checked + .cbx span:first-child svg {
+  .checkbox-wrapper .inp-cbx:checked+.cbx span:first-child svg {
     stroke-dashoffset: 0;
   }
 
@@ -1680,7 +1807,7 @@ a:active {
     outline: 0;
   }
 
-  select > option {
+  select>option {
     color: var(--text);
     font-size: 14px;
     font-family: "Inter", sans-serif;
@@ -1688,8 +1815,95 @@ a:active {
   }
 
   select:hover,
-  select > option:hover {
+  select>option:hover {
     cursor: pointer;
+  }
+
+  /*
+ * ──────────────────────────────
+ * Form
+ * ──────────────────────────────
+ */
+
+  .styled-form {
+    position: relative;
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    outline: none;
+    z-index: 0;
+    margin-bottom: 20px;
+    background-color: transparent;
+  }
+
+  form>ul {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    width: 100%;
+    background-color: transparent;
+  }
+
+  form>ul>li {
+    width: 100%;
+    background-color: transparent;
+  }
+
+  form>ul>li>input {
+    width: 100%;
+    padding: 20px 15px;
+    margin-bottom: 20px;
+    border: none;
+    border-bottom: 2px solid var(--boxBorder);
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: var(--text);
+    outline: none;
+    background-color: transparent;
+    transition: all 0.3s;
+  }
+
+  form>ul>li>input::placeholder {
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+  }
+
+  form>ul>li>input:focus {
+    border-bottom: 2px solid var(--text);
+  }
+
+  form>ul>li>button {
+    position: relative;
+    display: block;
+    font-family: "Inter", sans-serif;
+    width: 50%;
+    letter-spacing: 0px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: var(--background);
+    background-color: var(--text);
+    border: 2px solid var(--text);
+    border-radius: 50px;
+    transition: all 0.4s;
+  }
+
+  form>ul>li>button:hover {
+    letter-spacing: 3px;
+    color: var(--text);
+    background-color: transparent;
+    cursor: pointer;
+  }
+
+  form>ul>li>button:after {
+    letter-spacing: 0px;
+    color: var(--background);
+    background-color: var(--text);
+    cursor: default;
   }
 
   /*

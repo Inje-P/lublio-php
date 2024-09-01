@@ -1,41 +1,31 @@
 <header class="animated fade_1">
     <a href="/lublio/learn/" class="logo">
-        <p>LVBLIO</p>
+        <p>LUBLIO</p>
     </a>
     <i id="menu" class="fa-solid fa-bars"></i>
 </header>
 <div class="overlay">
     <a class="close">&times;</a>
-    <!-- <div class="overlay_theme">
-        <ul class="menu_list">
-            <button id="btn_dark">Dark</button>
-            <button id="btn_light">Light</button>
-        </ul>
-    </div> -->
     <div class="overlay_content">
         <ul class="menu_list">
             <li>
-                <a href="/lublio/learn/" class="menu_link" style="border: 2px solid #222">
-                    <i class="fa-solid fa-house" style="color: #222"></i>
-                    <p style="color: #222">Home</p>
+                <a href="/lublio/learn/" class="menu_link">
+                    <p>Home</p>
                 </a>
             </li>
             <li>
-                <a href="/lublio/learn/" class="menu_link" style="background-color: #222">
-                    <i class="fa-solid fa-pen-nib" style="color: #fafafa"></i>
-                    <p style="color: #fafafa">Blog</p>
+                <a href="/lublio/learn/" class="menu_link">
+                    <p>Blog</p>
                 </a>
             </li>
             <li>
-                <a href="/lublio/learn/" class="menu_link" style="background-color: #ddd">
-                    <i class="fa-solid fa-earth-americas" style="color: #222"></i>
-                    <p style="color: #222">Learn</p>
+                <a href="/lublio/learn/" class="menu_link">
+                    <p>Learn</p>
                 </a>
             </li>
             <li>
-                <a href="/lublio/learn/" class="menu_link" style="border: 2px solid #222">
-                    <i class="fa-solid fa-circle-question" style="color: #222"></i>
-                    <p style="color: #222">About Us</p>
+                <a href="/lublio/learn/" class="menu_link">
+                    <p>About Us</p>
                 </a>
             </li>
         </ul>
@@ -49,7 +39,7 @@
 
     window.addEventListener(
         "scroll",
-        function() {
+        function () {
             var header = doc.querySelector("header");
             header.classList.toggle("sticky", window.scrollY > 0);
         }

@@ -114,7 +114,7 @@ $descriptions = [
             for ($i = 0; $i < count($titles); $i++) {
             ?>
                 <a href="./pattern.php?chapter=<?= $i + 1; ?>">
-                    <div class="styled-box-pink">
+                    <div class="styled-box-pink" style="height: 150px;">
                         <h2>
                             <?= $titles[$i] ?>
                         </h2>

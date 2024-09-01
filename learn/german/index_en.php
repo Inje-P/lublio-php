@@ -31,18 +31,20 @@
         </div>
 
         <h1>
-            German
+            Deutsch
         </h1>
-        <hr />
+
+        <hr>
 
         <div style="margin-bottom: 20px;">
             <a href="/lublio/learn/german/starter/">
                 <div class="styled-box-yellow animated riseUp_1">
-                    <h2>
-                        Starter
-                        <i class="fa-regular fa-compass" style="margin-left: 5px"></i>
-                    </h2>
-                    <h4>A0-A1</h4>
+                    <h2>Starter</h2>
+                    <h3>A0-A1</h3>
+                    <hr>
+                    <div class="item">
+                        <i class="loader"></i>
+                    </div>
                     <p>
                         Kickstart your language journey with essential basics! The Starter section introduces you to fundamental vocabulary,
                         pronunciation, and simple phrases.
@@ -51,11 +53,12 @@
             </a>
             <a href="/lublio/learn/german/pattern/">
                 <div class="styled-box-yellow animated riseUp_2">
-                    <h2>
-                        Pattern
-                        <i class="fa-solid fa-circle-nodes" style="margin-left: 5px"></i>
-                    </h2>
-                    <h4>A2-B1</h4>
+                    <h2>Pattern</h2>
+                    <h3>A2-B1</h3>
+                    <hr>
+                    <div class="item">
+                        <i class="loader"></i>
+                    </div>
                     <p>
                         Master the building blocks of language with key patterns. The Pattern section focuses on understanding and
                         practicing grammatical structures and sentence patterns.
@@ -64,11 +67,12 @@
             </a>
             <a href="/lublio/learn/german/phrasebook/">
                 <div class="styled-box-yellow animated riseUp_3">
-                    <h2>
-                        Phrasebook
-                        <i class="fa-regular fa-comment-dots" style="margin-left: 5px"></i>
-                    </h2>
-                    <h4>B1+</h4>
+                    <h2>Phrasebook</h2>
+                    <h3>B1+</h3>
+                    <hr>
+                    <div class="item">
+                        <i class="loader"></i>
+                    </div>
                     <p>
                         Access a handy collection of essential phrases for any situation. The Phrasebook section is your go-to resource for
                         quick, practical phrases used in common scenarios.
@@ -77,12 +81,12 @@
             </a>
             <a href="/lublio/learn/german/germany/">
                 <div class="styled-box-yellow animated riseUp_4">
-                    <h2>
-                        Germany
-                    </h2>
-                    <h4>
-                        <span class="fi fi-de" style="margin-left: 5px; font-size: 18px"></span>
-                    </h4>
+                    <h2>Deutschland</h2>
+                    <h3>Leben in Deutschland</h3>
+                    <hr>
+                    <div class="item">
+                        <i class="loader"></i>
+                    </div>
                     <p>
                         Germany is a country with a sophisticated language and a deep history. Learn German to understand the country's
                         culture and pick up a variety of expressions.

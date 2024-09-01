@@ -71,7 +71,8 @@ $descriptions = [
         <div style="margin-bottom: 20px;">
             <div class="styled-section-pink animated riseUp_1">
                 <p>
-                    Access essential phrases for various scenarios. From everyday interactions to travel emergencies, this section equips you with practical expressions for effective communication.
+                    Access essential phrases for various scenarios. From everyday interactions to travel emergencies, this section equips
+                    you with practical expressions for effective communication.
                 </p>
                 <div class="styled-section-pink-icon">
                     <i class="fa-regular fa-comment-dots"></i>
@@ -80,21 +81,21 @@ $descriptions = [
 
             <?php
             for ($i = 0; $i < count($titles); $i++) {
-            ?>
+                ?>
                 <a href="./phrasebook.php?chapter=<?= $i + 1; ?>">
                     <div class="styled-box-pink">
                         <h2>
                             <?= $titles[$i] ?>
                         </h2>
-                        <h4>
-                            <?= $i + 1 ?>
-                        </h4>
+                        <div class="item">
+                            <i class="loader"></i>
+                        </div>
                         <p>
                             <?= $descriptions[$i] ?>
                         </p>
                     </div>
                 </a>
-            <?php
+                <?php
             }
             ?>
 

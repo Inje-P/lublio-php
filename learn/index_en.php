@@ -30,14 +30,16 @@
             ?>
         </div>
 
-        <h1>Learn</h1>
-        <hr />
-
         <div style="margin-bottom: 20px;">
+
             <a href="/lublio/learn/english/">
                 <div class="styled-box-pink animated riseUp_1">
                     <h2>ENGLISH</h2>
                     <h3>English</h3>
+                    <hr>
+                    <div class="item">
+                        <i class="loader"></i>
+                    </div>
                     <p>
                         Lublio isn't just about learning a language; it's about embracing the freedom to explore the world with confidence.
                     </p>
@@ -47,6 +49,10 @@
                 <div class="styled-box-blue animated riseUp_2">
                     <h2>FRANÇAIS</h2>
                     <h3>French</h3>
+                    <hr>
+                    <div class="item">
+                        <i class="loader"></i>
+                    </div>
                     <p>
                         Lublio, ce n'est pas seulement l'apprentissage d'une langue, c'est aussi la liberté d'explorer le monde en toute
                         confiance.
@@ -57,6 +63,10 @@
                 <div class="styled-box-yellow animated riseUp_3">
                     <h2>DEUTSCH</h2>
                     <h3>German</h3>
+                    <hr>
+                    <div class="item">
+                        <i class="loader"></i>
+                    </div>
                     <p>
                         Bei Lublio geht es nicht nur darum, eine Sprache zu lernen, sondern auch darum, sich die Freiheit zu nehmen, die
                         Welt mit Selbstvertrauen zu erkunden.
@@ -67,16 +77,24 @@
                 <div class="styled-box-green animated riseUp_4">
                     <h2>ITALIANO</h2>
                     <h3>Italian</h3>
+                    <hr>
+                    <div class="item">
+                        <i class="loader"></i>
+                    </div>
                     <p>
                         Lublio non si limita a imparare una lingua, ma si tratta di abbracciare la libertà di esplorare il mondo con
                         fiducia.
                     </p>
                 </div>
             </a>
-            <!-- <a href="/lublio/learn/spanish/">
+            <a href="/lublio/learn/spanish/">
                 <div class="styled-box-orange animated riseUp_5">
                     <h2>ESPAÑOL</h2>
                     <h3>Spanish</h3>
+                    <hr>
+                    <div class="item">
+                        <i class="loader"></i>
+                    </div>
                     <p>
                         Lublio no es sólo aprender un idioma; es abrazar la libertad de explorar el mundo con confianza.
                     </p>
@@ -86,6 +104,10 @@
                 <div class="styled-box-purple animated riseUp_6">
                     <h2>РУССКИЙ</h2>
                     <h3>Russian</h3>
+                    <hr>
+                    <div class="item">
+                        <i class="loader"></i>
+                    </div>
                     <p>
                         Lublio - это не просто изучение языка, это обретение свободы, позволяющей уверенно исследовать мир.
                     </p>
@@ -95,11 +117,15 @@
                 <div class="styled-box-red animated riseUp_7">
                     <h2>TÜRKÇE</h2>
                     <h3>Turkish</h3>
+                    <hr>
+                    <div class="item">
+                        <i class="loader"></i>
+                    </div>
                     <p>
                         Lublio sadece bir dil öğrenmekle ilgili değildir; dünyayı güvenle keşfetme özgürlüğünü kucaklamakla ilgilidir.
                     </p>
                 </div>
-            </a> -->
+            </a>
         </div>
 
     </div>
